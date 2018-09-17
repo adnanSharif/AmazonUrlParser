@@ -1,0 +1,88 @@
+{
+    "asin": "B00ECW9DB4",
+    "title": "BaoFeng BF-888S Walkie Talkie 2pcs in One Box with Rechargeable Battery Headphone Wall Charger Long Range 16 Channels Two Way Radio (2pcs radios)",
+    "brand": "BaoFeng",
+    "feature": [
+        "2 Watt Programmable Handheld Amateur Radio",
+        "Frequency Range: UHF: 400-520 MHz(Rx/Tx).The BF-888S include a built-in high illumination flashlight and an emergency alarm",
+        "Customize Programming by Using the PC03 FTDI Programming Cable",
+        "Broadband (Wide) 25khz / Narrowband (Narrow) 12.5khz Selectable",
+        "Frequency Mode 400-470 MHz",
+        "16 Memory Channels, 50 CTCSS /105 CDCSS",
+        "Battery Saving Features, Low Voltage Alert"
+    ],
+    "description": "1. Frequency: 400-470MHz 2. 16 channels 3. 1500mAh Li-ion battery 4. 50 CTCSS/105 CDCSS 6. VOX Function(Need to use VOX earpieces,our product have not include the VOX earpieces.Please kindly note.) 7. Voice Prompt 8. PC Programming 9. Emergency Alarm (You can turn it on using Channel 11) 10. Intelligent Charging 11. Battery Save 12. Low Voltage Alert 13. Time-out Timer 14. Flash Light Frequency Range : UHF 400-470MHz RF Rated Power : \u2264 5W Channel Capacity : 16 Channel Spacing : 25KHz Operated Voltage : 3.7 V Battery : 1500MAh Li-ion Frequency Stability :\u00b12.5ppm Operated Temperature : -30\u00b0c-+60\u00b0c Antenna Impedance : 50\u03a9 Dimensions (L\u00d7W\u00d7H) (with battery, without antenna) : 60x33x115mm Communication Range : 1-3 km Be sure the Power setting is on HIGH if you're having problems with distance. You do this with the cable, computer & software. RF Power Output : 3W Modulation : F3E Spurious Emission : \u226465dB Audio Distortion : \u22645% Transmitting Current : \u22641.3A Sensitivity (12dB SINAD) : \u22640.20 uV Selectivity :55dB/50dB Intermediation :\u226565dB Adjacent Channel Selectivity : \u226560dB Spurious Response : \u226560dB Audio Power Output : 1000mW 2 X Baofeng BF-888S Portable radios 2 X Antenna 2 X Li-ion battery pack 2 x Charger 2 X Belt clip 2 X User's manual 2 x Headphone",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 149.0,
+        "length": 1000.0,
+        "width": 710.0,
+        "height": 450.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41BIS0sVxmL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/418aVAAQF4L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41HarudIoyL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ql8jTmg2L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51H9roG76nL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51xmzTG8GhL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41K47I9CfYL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "172623",
+            "title": "Portable Audio & Video"
+        },
+        {
+            "node": "172654",
+            "title": "CB & Two-Way Radios"
+        },
+        {
+            "node": "912322",
+            "title": "Two-Way Radios"
+        }
+    ],
+    "similar": [
+        "B07CG7M17B",
+        "B01CI355WO",
+        "B07FK95FKP",
+        "B008RZ0EQ0",
+        "B007B5ZR4G",
+        "B00CIOA89E",
+        "B01M0MPZPQ",
+        "B019RIOZRY",
+        "B007B5ZPGG",
+        "B01D4CKP0K",
+        "B079HGRTL9",
+        "B07FX6PDCC",
+        "B00ECWHI8E",
+        "B01GN57Q3O",
+        "B0783858L1",
+        "B011ZW0A6A",
+        "B01DM7AESK",
+        "B071SGRVQV",
+        "B00L7DM930",
+        "B00813HBKK",
+        "B07FLTX3Q3",
+        "B073QLPDWV",
+        "B018EUOYX6",
+        "B007B5ZNV8",
+        "B00G9T1W7Q",
+        "B07CWRB9MJ",
+        "B0757LNZXP",
+        "B07BNGC6HH",
+        "B007F7MZ04",
+        "B075TZ3SPS",
+        "B01D2UNZCY",
+        "B06Y5S5VZY",
+        "B01FNACBYY"
+    ],
+    "rating": "4.1"
+}

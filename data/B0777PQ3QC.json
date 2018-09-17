@@ -1,0 +1,102 @@
+{
+    "asin": "B0777PQ3QC",
+    "title": "IZOD Men's Dockside Chambray Print Short Sleeve Shirt (Regular and Slim Fit)",
+    "brand": null,
+    "feature": [
+        "100% Cotton",
+        "Imported",
+        "Button closure",
+        "Machine Wash",
+        "Saltwater wash - saltwater wash for relaxed, worn-in comfort",
+        "Short sleeve button down"
+    ],
+    "description": "Chambray is one of the most iconic American essentials due in part to its durable, yet lightweight material. Woven from breezy cotton in an array of seasonal colors and patterns, this button-down shirt will be your go-to for backyard bbq or hitting the boardwalk.",
+    "price": 2999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/519K-9nCpVL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5184WpShLIL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "Large"
+        },
+        {
+            "name": "Color:",
+            "value": "Dusty Jade Green"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "1040658",
+            "title": "Clothing"
+        },
+        {
+            "node": "2476517011",
+            "title": "Shirts"
+        },
+        {
+            "node": "1045630",
+            "title": "Casual Button-Down Shirts"
+        }
+    ],
+    "similar": [
+        "B075FLWVFY",
+        "B01KGE5HO8",
+        "B0777KJZZL",
+        "B076KBCRTB",
+        "B071JDSV85",
+        "B077442Y81",
+        "B0777FH8YW",
+        "B0797NJTTD",
+        "B07741N7KD",
+        "B0777FH9QB",
+        "B0773F7K8H",
+        "B0777FGDBL",
+        "B0777FGMCJ",
+        "B076K8BQ7H",
+        "B0776ZYP1Q",
+        "B0777BN3NK",
+        "B076KFZ9NN",
+        "B0777FGVLQ",
+        "B00YQLGQVQ",
+        "B076J8TQVP",
+        "B0773DLTPT",
+        "B0775MH75B",
+        "B07778C8CW",
+        "B0722LP2LR",
+        "B0777FGD9P",
+        "B0716XVJQC",
+        "B06XWMVNQT",
+        "B076J8TQVC",
+        "B0777FGDYN",
+        "B077597WRC",
+        "B01AT4HUM2",
+        "B07778MF4Y",
+        "B0773QSLMT",
+        "B076JBBBJF",
+        "B07DMNZTZT",
+        "B073NYNXC7",
+        "B07GJ9K6J5",
+        "B07FX42R9Q",
+        "B0777FMJMT",
+        "B076K9MP9T"
+    ],
+    "rating": "4.2"
+}

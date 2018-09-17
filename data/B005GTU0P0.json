@@ -1,0 +1,68 @@
+{
+    "asin": "B005GTU0P0",
+    "title": "Aztec Secret Indian Healing Clay Deep Pore Cleansing, 1 Pound (Pack of 2)",
+    "brand": "Aztec Secret",
+    "feature": null,
+    "description": "Aztec Secret Indian Healing Clay Deep Pore Cleansing, 1 Pound (Pack of 2)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 180.0,
+        "length": 350.0,
+        "width": 350.0,
+        "height": 350.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51WA4qfpMfL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/518i%2BpPw3JL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51xd2savzzL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11056421",
+            "title": "Scrubs & Body Treatments"
+        },
+        {
+            "node": "11056441",
+            "title": "Body Mud"
+        }
+    ],
+    "similar": [
+        "B01N4O0PJ3",
+        "B00D6GOBE6",
+        "B00TI6TSF0",
+        "B007ML9RNQ",
+        "B007ML9TC0",
+        "B01N8XF244",
+        "B079FH6RCK",
+        "B076Z6PVVQ",
+        "B003JN4K1U",
+        "B00HE06A62",
+        "B073TWVYNX",
+        "B07C1KSBDF",
+        "B07BH47DCF",
+        "B00016XJ4M",
+        "B00FNOGQ4C",
+        "B00Q96XGUU",
+        "B01MDTTHW5",
+        "B071X64HM9",
+        "B0714CKV16",
+        "B075K72NRW",
+        "B00PBX3TN6"
+    ],
+    "rating": "4.6"
+}

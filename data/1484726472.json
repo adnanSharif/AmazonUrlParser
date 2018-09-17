@@ -1,0 +1,51 @@
+{
+    "asin": "1484726472",
+    "title": "Elephant & Piggie Like Reading! It's Shoe Time! Hardcover \u2013 November 7, 2017",
+    "brand": "by Mo Willems (Author, Illustrator), Bryan Collier (Author, Illustrator)",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 75.0,
+        "length": 680.0,
+        "width": 40.0,
+        "height": 930.0000000000001
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [
+        {
+            "node": "283155",
+            "title": "Books"
+        },
+        {
+            "node": "4",
+            "title": "Children's Books"
+        },
+        {
+            "node": "1084192",
+            "title": "Growing Up & Facts of Life"
+        }
+    ],
+    "similar": [
+        "B075TGLGFQ",
+        "0983866414",
+        "1484726359",
+        "1484726367",
+        "1368003540",
+        "1368024572",
+        "0991248244",
+        "0991248252",
+        "B075RRW9JL",
+        "1492656224",
+        "1484730887",
+        "069284838X",
+        "1338180614",
+        "1368005640",
+        "1484726464",
+        "B079K7C2N2"
+    ],
+    "rating": "4.7"
+}

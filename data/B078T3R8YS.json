@@ -1,0 +1,92 @@
+{
+    "asin": "B078T3R8YS",
+    "title": "Microsoft Xbox Wireless Controller + Wireless Adapter for Windows 10",
+    "brand": "Microsoft",
+    "feature": [
+        "Experience the enhanced comfort and feel of the Xbox Wireless Controller",
+        "Stay on target with textured grip",
+        "Includes Bluetooth technology for gaming on Windows 10 PCs and tablets",
+        "Wireless adapter features a 66% smaller design, wireless stereo sound support, and the ability to connect up to eight controllers at once",
+        "For use with controller compatible games on Xbox One or PCs and Tablets running Windows 7, 8.1., and 10 with USB 2.0 or USB 3.0"
+    ],
+    "description": "Microsoft Xbox Wireless Controller + Wireless Adapter for Windows 10",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 105.0,
+        "length": 280.0,
+        "width": 700.0,
+        "height": 690.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41RYx-4dTaL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Tobo1yW1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31gytr8SgLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41tSr3PXs5L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Edition:",
+            "value": "Black + Adapter"
+        }
+    ],
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "14220161",
+            "title": "Xbox 360"
+        },
+        {
+            "node": "14112941",
+            "title": "Accessories"
+        },
+        {
+            "node": "14112951",
+            "title": "Cables & Adapters"
+        },
+        {
+            "node": "724134011",
+            "title": "Cables"
+        }
+    ],
+    "similar": [
+        "B01M5GG9I7",
+        "B07B5DN22F",
+        "B00YXO5U40",
+        "B0176192V8",
+        "B00FAS1WDG",
+        "B01H6P8SIW",
+        "B07F7SZF6W",
+        "B01CDCG4KM",
+        "B07DQ99FLC",
+        "B07DPNYGST",
+        "B071ZRTMXF",
+        "B01EO5QPN2",
+        "B01F3Y7MNA",
+        "B0765BLP9L",
+        "B004QRKWKQ",
+        "B07D12RPHX",
+        "B015IX3X3E",
+        "B07G826MGJ",
+        "B072Q4Y5FV",
+        "B07DT3HPFH",
+        "B073ZNZ2JD",
+        "B01H1QQWFM",
+        "B07GQPWR34",
+        "B01N1P0KFI",
+        "B01LPNKGGI",
+        "B00O65I2VY",
+        "B013JLB1IQ",
+        "B01LPZM7VI",
+        "B00DBDPOZ4",
+        "B004JU0JSA",
+        "B0182KOSVQ",
+        "B074N9QSPF",
+        "B0784KPX9M"
+    ],
+    "rating": "3.9"
+}

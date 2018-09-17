@@ -1,0 +1,70 @@
+{
+    "asin": "B01HMS82PC",
+    "title": "Alpecin C1 Caffeine Shampoo for Men, 8.45 Fluid Ounce (250ml) (Pack of 2)",
+    "brand": "Alpecin",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 140.0,
+        "length": 280.0,
+        "width": 170.0,
+        "height": 720.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51YHrnuEktL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51hRXZAJ2UL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51bfdLLCr2L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Ch3qKwOdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41OKkhUvhOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21v9zujYWZL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "17911764011",
+            "title": "Shampoo & Conditioner"
+        },
+        {
+            "node": "11057651",
+            "title": "Shampoos"
+        }
+    ],
+    "similar": [
+        "B00KU8FYN0",
+        "B003M4IDGO",
+        "B011KCSC4W",
+        "B00FOVLXYW",
+        "B01619SJ74",
+        "B01H2BIVDC",
+        "B0796M28ST",
+        "B01N0B51ON",
+        "B01FQ4BAY4",
+        "B01E85Z3YK",
+        "B0027SU58A",
+        "B017DTBQLM",
+        "B001Q1E2RY",
+        "B01M056B1M",
+        "B00GMNZ1Z8",
+        "B0756PBZ5V",
+        "B01INE0VXU",
+        "B003M4TCXM",
+        "B00O4XZYLO",
+        "B01903OZIK",
+        "B00FH692PQ",
+        "B01MXEG3PY",
+        "B0012BNVE8",
+        "B000ORQXSC"
+    ],
+    "rating": "3.9"
+}

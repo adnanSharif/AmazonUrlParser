@@ -1,0 +1,64 @@
+{
+    "asin": "B01M01B92P",
+    "title": "HTC Vive Base Station",
+    "brand": "by HTC",
+    "feature": [
+        "Powers the presence and immersion of room-scale virtual reality by helping the Vive headset and controllers track their exact locations.",
+        "Features wireless syncing.",
+        "Includes one base station and one power adapter per order",
+        "Fits standard threaded mounting points.",
+        "Cord: 8' 2'' L;Material:Plastic"
+    ],
+    "description": "Base Station for HTC Vive Virtual reality System.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": 100.0,
+        "width": 100.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/21uL6dvmLUL._AC_SX150_SY75_CR,0,0,150,75_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41H6MZTLrNL._AC_SX150_SY75_CR,0,0,150,75_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "229575",
+            "title": "PC"
+        },
+        {
+            "node": "14670123011",
+            "title": "Virtual Reality"
+        }
+    ],
+    "similar": [
+        "B0748ZY323",
+        "B07B5DN22F",
+        "B01D1GMT5I",
+        "B0163MY3LA",
+        "B07C6RLN1Z",
+        "B07B4NLKKF",
+        "B07F6WN2LJ",
+        "B078K6BX91",
+        "B0721WS5L1",
+        "B07DFBR6Y3",
+        "B01N4L4WPK",
+        "B01LYELB1S",
+        "B01MFG14ZT",
+        "B071SHMVGF",
+        "B07114L4CH",
+        "B07BKQMVQ9",
+        "B0744B6PSQ",
+        "B00VF5NT4I",
+        "B07B9WPR7G",
+        "B00BD5TC5U"
+    ],
+    "rating": "3.8"
+}

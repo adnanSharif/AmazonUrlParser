@@ -1,0 +1,83 @@
+{
+    "asin": "B00IRKJPZG",
+    "title": "SHIMANO Deore SL-M590 9-Speed Shift Lever",
+    "brand": "SHIMANO",
+    "feature": [
+        "Front/Rear: Left"
+    ],
+    "description": "The Shimano Deore SL-M590 has 9-speed indexed shifting for crisp, precise gear changes and a responsive feel, a wide optical gear display for easier and more accurate shifting and an ergonomic thumb lever shape for comfortability.Features: 9-Speed indexed shifting for crisp, precise gear changes Wide optical gear display Ergonomic thumb lever Compatible with Shimano Deore rear derailleur",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": 720.0,
+        "width": 400.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41NwWAgqqvL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "3 Speed"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "706814011",
+            "title": "Outdoor Recreation"
+        },
+        {
+            "node": "3403201",
+            "title": "Cycling"
+        },
+        {
+            "node": "3404731",
+            "title": "Parts & Components"
+        },
+        {
+            "node": "6389284011",
+            "title": "Bike Brakes & Parts"
+        },
+        {
+            "node": "3494181",
+            "title": "Brake Parts"
+        }
+    ],
+    "similar": [
+        "B01DF4G20Y",
+        "B074Z1FYY8",
+        "B00LAPEX9I",
+        "B0793Q7HS7",
+        "B072F48HRZ",
+        "B00288JJQS",
+        "B07GCG56WK",
+        "B07BPQWPLQ",
+        "B002PTQFXA",
+        "B06XX6DQSM",
+        "B00L6JG9WM",
+        "B002UZKUAI",
+        "B0050O89NQ",
+        "B003OWPRLI",
+        "B001AYJF2E",
+        "B00PJLVMBG",
+        "B07D9N9VRS",
+        "B0777LFHX3",
+        "B00JFS3V9K",
+        "B07BY6GJ5K",
+        "B01FJ9ZZ4W",
+        "B000AO7N56",
+        "B00TZ4XYH8",
+        "B00WJGWJUC",
+        "B07FDBDD3W",
+        "B07D24HBWF",
+        "B0064QND30"
+    ],
+    "rating": "4.7"
+}

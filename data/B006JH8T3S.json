@@ -1,0 +1,96 @@
+{
+    "asin": "B006JH8T3S",
+    "title": "Logitech HD Pro Webcam C920, Widescreen Video Calling and Recording, 1080p Camera, Desktop or Laptop Webcam",
+    "brand": "Logitech",
+    "feature": [
+        "Full HD 1080p video calling (up to 1920 x 1080 pixels) with the latest version of Skype for Windows",
+        "720p HD video calling (up to 1280 x 720 pixels) with supported clients. Full HD video recording (up to 1920 x 1080 pixels).Max Resolution: 1080p/30fps - 720p/30fps",
+        "H.264 video compression, Built-in dual stereo mics with automatic noise reduction. Automatic low-light correction, Tripod-ready universal clip fits laptops, LCD or monitors",
+        "Compatible with: Windows 7, Windows 8, Windows 10 or later. Works in USB Video Device Class (UVC) mode: Mac OS 10.6 or later (HD 720p on FaceTime for Mac or other supported video-calling clients; Full HD 1080p video recording with QuickTime Player) Chrome OS,Android v 5.0 or above (with supported video-calling clients),USB port,Internet connection"
+    ],
+    "description": "With the Logitech HD Pro Webcam C920, you\u2019ll be seen in more clarity and detail than ever before with Full HD 1080p video calling\u2014the highest quality available. Enjoy vibrant, true to life video clips that capture the smallest details. No time to talk? Send the people you care about a Full HD video clip. Faster, smoother, and compatible with more computers, H.264 encoding takes the pressure of compressing off your computer so you can enjoy quick uploads. The C920 goes above and beyond the typical webcam, offering amazing clarity and detail thanks to the five-element, Full HD glass lens and precisely tuned autofocus. Dual mics capture natural stereo sound for superior audio. Whatever your network, connect with everyone you care about through Full HD 1080p on Skype, and fluid HD 720p on FaceTime for Mac. You can also make high-quality video calls with Google Hangouts and nearly all other video-calling clients. Two mics with automatic noise reduction allow friends, family, and clients to hear the real you.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": 280.0,
+        "width": 750.0,
+        "height": 890.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/416PkUOhGcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41OO1x3nllL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51EObkLkaPL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/315RZBB54SL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412c-faJC9L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "C920 Webcam"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "11548951011",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "172511",
+            "title": "Webcams"
+        }
+    ],
+    "similar": [
+        "B07C6FZJ7G",
+        "B016L555ES",
+        "B014PYGTUQ",
+        "B07BBCVK3L",
+        "B01M11FLUJ",
+        "B01M3OCMSJ",
+        "B07GVF4M25",
+        "B07BSNH8GH",
+        "B01DLTJ7EQ",
+        "B071VR8PWF",
+        "B019U00D7K",
+        "B00CRJWW2G",
+        "B008AOH1O6",
+        "B07FLKHD4Y",
+        "B01DLRY07M",
+        "B01M60WBUV",
+        "B01M622B8Y",
+        "B01M97YTW3",
+        "B00M78G2VO",
+        "B078V7Y5Z3",
+        "B01N77YBLU",
+        "B07925CYP5",
+        "B0776SV679",
+        "B004FHO5Y6",
+        "B078VG4YH6",
+        "B01CZUDAO0",
+        "B07BVNCZ3D",
+        "B01DRWCOGA",
+        "B008ZVRAQS",
+        "B01N5UOYC4",
+        "B01N7L1UKF",
+        "B07CK3HXXC",
+        "B01LXCDPPK",
+        "B01M62I7WI",
+        "B004YW7WCY",
+        "B077GD7RN1",
+        "B077YG22Y9"
+    ],
+    "rating": "4.4"
+}

@@ -1,0 +1,71 @@
+{
+    "asin": "B013W6CJM0",
+    "title": "Dr. Brown's Daily Diaper Cream, 4 Ounce",
+    "brand": "Dr. Brown's",
+    "feature": null,
+    "description": "Daily Diaper Cream is a non-greasy formula that calms and cools sensitive diaper area. Made with natural essential oils and contains coconut oil, organic blue violet, calendula and chamomile for gentle and relaxing relief on baby's delicate skin. Hypoallergenic, gluten, phthalate, sulfate, petroleum and paraben free and also cloth-diaper friendly. Made in the USA. Instructions for use. Apply with each diaper change as needed. Before use, remove and discard safety seal under cap. Do not use if seal is broken. Store product at room temperature. Variance in product color and consistency is normal due to natural ingredients. Caution: for external use only. Avoid contact with eyes. Stop use and consult doctor if adverse reaction occurs. Keep out of reach of children.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": 480.0,
+        "width": 210.0,
+        "height": 210.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/418AEoJ2pEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41f1dWBuqpL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31JYdDbKQcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41EFT%2BS%2B2iL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "165796011",
+            "title": "Baby Products"
+        },
+        {
+            "node": "166764011",
+            "title": "Diapering"
+        },
+        {
+            "node": "546128011",
+            "title": "Diaper Changing Kits"
+        }
+    ],
+    "similar": [
+        "B01M66H7MG",
+        "B014UQBA3A",
+        "B00MPQJ5HQ",
+        "B00Q2MYU9W",
+        "B00QW1Z44I",
+        "B000V3MFUY",
+        "B00C3Q0FFE",
+        "B01942P6MG",
+        "B00JRYTEBQ",
+        "B004DGL7OA",
+        "B00YRKV1U2",
+        "B074WDC4F4",
+        "B00IK6BJ2E",
+        "B007GUGUE2",
+        "B0773N55KT",
+        "B013W6CKF6",
+        "B004DGL7NG",
+        "B015XBYDLM",
+        "B00OKJGR18",
+        "B002UD6C16",
+        "B00DZ0MAD2",
+        "B004EDYQT0",
+        "B00PAY54FW",
+        "B07DK17PFH",
+        "B00UVZXUIS",
+        "B0021HR94K",
+        "B0794DSMQ9",
+        "B00IUGT6II",
+        "B01M0SJZ54",
+        "B005RRT1A6",
+        "B0794BSDQQ"
+    ],
+    "rating": "4.1"
+}

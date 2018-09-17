@@ -1,0 +1,85 @@
+{
+    "asin": "B002LBSEQS",
+    "title": "Samson SR850 Semi-Open-Back Studio Reference Headphones",
+    "brand": "Samson Technologies",
+    "feature": [
+        "Professional studio reference headphones",
+        "Over-ear design for maximum isolation",
+        "50mm drivers for exceptional reproduction and wide dynamic range",
+        "10Hz-30kHz frequency response, Self-adjusting headband for a secure, comfortable fit",
+        "32 Ohm impedance, 1/8-inch to 1/4-inch gold plated adapter included"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 135.0,
+        "length": 800.0,
+        "width": 800.0,
+        "height": 480.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/411ar09fsWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41dHJNq5gSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41gid37TNqL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51%2BFRfxN2wL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "style:",
+            "value": "Studio Reference"
+        },
+        {
+            "name": "Size:",
+            "value": "Over Ear"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "172541",
+            "title": "Headphones"
+        },
+        {
+            "node": "12097479011",
+            "title": "Over-Ear Headphones"
+        }
+    ],
+    "similar": [
+        "B00KLPRQMO",
+        "B00HVLUR18",
+        "B07BK3D6TC",
+        "B01IEHIMLY",
+        "B019U00D7K",
+        "B00CBPJLFW",
+        "B00004SY4H",
+        "B01L160DLW",
+        "B01N6ZJH96",
+        "B07DBXDWWQ",
+        "B00TKNVPLG",
+        "B000KIPT30",
+        "B07G98GG51",
+        "B01M6WJZZ2",
+        "B01ISLZUMU",
+        "B017VYMQ4K",
+        "B00TKNVW14",
+        "B00R0DCSSM",
+        "B01JNLTTKS",
+        "B01MYAC300",
+        "B00HVLUR86",
+        "B0007NQH98",
+        "B00018MSNI",
+        "B01E6T56CM",
+        "B000AJIF4E",
+        "B00J0BXPD4",
+        "B013J7WUGC",
+        "B00S2P0M1C",
+        "B00B1N06PO",
+        "B01N21H9WY"
+    ],
+    "rating": "4.3"
+}

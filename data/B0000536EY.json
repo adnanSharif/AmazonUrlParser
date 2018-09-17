@@ -1,0 +1,94 @@
+{
+    "asin": "B0000536EY",
+    "title": "Aveeno Therapeutic Moisturizing Shave Gel",
+    "brand": "Aveeno",
+    "feature": [
+        "7-ounce canister of shave gel",
+        "Helps soothe and protect dry, sensitive skin while shaving",
+        "Helps prevent razor bumps",
+        "Soothing natural oatmeal",
+        "Moisturizing lubricants reduce dryness"
+    ],
+    "description": "Aveeno Therapeutic Shave Gel helps hydrate and protect skin against razor bumps during shaving.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 55.00000000000001,
+        "length": 290.0,
+        "width": 180.0,
+        "height": 540.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31y4lFj2b3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31QAYDIm5KL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ksqN86E8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ZMI6cMP3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41C4XlL1CeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41YIZK8tF6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31wxXVYfzGL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "7 Ounce"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "3778591",
+            "title": "Shave & Hair Removal"
+        },
+        {
+            "node": "13269990011",
+            "title": "Women's"
+        },
+        {
+            "node": "13270001011",
+            "title": "Shaving Creams, Lotions & Gels"
+        },
+        {
+            "node": "13270007011",
+            "title": "Shaving Gels"
+        }
+    ],
+    "similar": [
+        "B00LHZC00K",
+        "B009WQH8SA",
+        "B0773M5FZR",
+        "B000WN417I",
+        "B004HPQP1C",
+        "B014UUZ1FE",
+        "B001459IEE",
+        "B01LYMZK4V",
+        "B0009EILAS",
+        "B07117LR3T",
+        "B00DKET54U",
+        "B07C8XGF63",
+        "B07C8X7MD9",
+        "B07GTHMNTY",
+        "B001RPL902",
+        "B00O4QAF9C",
+        "B07BN1H7GW",
+        "B00B6A8JQA",
+        "B004B8F8MM",
+        "B06XCYSTPY",
+        "B004JOL908",
+        "B004CCJH10",
+        "B000AAAVZO",
+        "B00M49SG0Q",
+        "B001H54TF4",
+        "B00E4MSQ4C",
+        "B01G2W5IZG",
+        "B00NFR14XM",
+        "B00G2TQNZ4",
+        "B00837ZOI0",
+        "B002RDBL7Y",
+        "B078C5XVJZ"
+    ],
+    "rating": "4.5"
+}

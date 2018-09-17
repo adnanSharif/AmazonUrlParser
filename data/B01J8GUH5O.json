@@ -1,0 +1,85 @@
+{
+    "asin": "B01J8GUH5O",
+    "title": "Rankie Mini DisplayPort to DisplayPort Cable, Mini DP to DP, 4K Ready, Gold Plated, 3 Feet",
+    "brand": "Rankie",
+    "feature": [
+        "The 3 feet cable connects a Mini DisplayPort with Thunderbolt TM port enabled computer to a monitor or projector with DisplayPort input for audio and video streaming. (Note: NOT compatible with 144Hz video display)",
+        "The gold-plated conductors resist corrosion and increase connectivity. The inner braided foil shielding reduces interference and improves signal quality",
+        "Supports video resolutions up to 4K (3840x2160 @30Hz, Ultra HD) and 1080P (Full HD), and flawless audio pass-thru for uncompressed digital 7.1, 5.1 or 2 channels",
+        "The DP connector has a latch to provide secure connection with the port. Press the latch down before unplugging the connector",
+        "Suitable for Extended Desktop or Mirrored Displays. Lifetime warranty from Rankie"
+    ],
+    "description": null,
+    "price": 649.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 9.0,
+        "length": 3820.0000000000005,
+        "width": 90.0,
+        "height": 50.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41fhDITtBhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41DbIC69nHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51TF4Kbc9zL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/415N8GQb99L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51YNVbZvzKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51673XEHVdL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Length:",
+            "value": "1"
+        },
+        {
+            "name": "Color:",
+            "value": "3 Feet"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "172463",
+            "title": "Cables & Interconnects"
+        }
+    ],
+    "similar": [
+        "B01J8GYA4I",
+        "B0134V3VZM",
+        "B01J8S7PG6",
+        "B00YOQYQWY",
+        "B0757JWW81",
+        "B01GPMRYNM",
+        "B00C7RP2QQ",
+        "B01J8GWX4W",
+        "B013PWQN1Y",
+        "B0163HP38W",
+        "B00C7RJQPY",
+        "B01GPMRXL0",
+        "B00V053D4O",
+        "B0731GNYCN",
+        "B078HVDMW2",
+        "B072FQLCT9",
+        "B06XRTB2YW",
+        "B01HXN839Q",
+        "B01FX50ZW4",
+        "B013PWQT68",
+        "B0786FNLDT",
+        "B077BPW8XJ",
+        "B0134V29UA",
+        "B01N5RY8D7"
+    ],
+    "rating": "4.3"
+}

@@ -1,0 +1,94 @@
+{
+    "asin": "B01M127X8F",
+    "title": "SanDisk Ultra 64GB Dual Drive m3.0 for Android Devices and Computers (SDDD3-064G-G46)",
+    "brand": "SanDisk",
+    "feature": [
+        "Free up space on your OTG-enabled Android phone(The SanDisk Ultra Dual Drive m3.0 is compatible with Android smartphones and tablets featuring OTG (On-The-Go) USB support)",
+        "Back up your mobile photos, videos and contacts",
+        "Retractable design with dual micro-USB and USB 3.0 connectors",
+        "High-speed USB 3.0 performance with up to 150MB/s file transfer from drive to computer",
+        "SanDisk Memory Zone application (available on Google Play) lets you easily manage your photos and videos"
+    ],
+    "description": "SanDisk Ultra 64GB Dual Drive m3.0 for Android Devices and Computers (SDDD3-064G-G46)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 6.0,
+        "length": 120.0,
+        "width": 100.0,
+        "height": 50.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51oRF3Wj8cL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51O76Mf44dL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41IpYnXMUTL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/514eCPeM%2BJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41X903q3Y8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31-whY2TEvL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "64GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "3151491",
+            "title": "USB Flash Drives"
+        }
+    ],
+    "similar": [
+        "B07GN6CGDF",
+        "B01LXHKR4T",
+        "B07855LJ99",
+        "B07CSRQCT1",
+        "B07DJ651YC",
+        "B07FH7XJCD",
+        "B07DGTKXP5",
+        "B01EZ0X3L8",
+        "B06XPX5QDK",
+        "B01M1272LZ",
+        "B019FN63OO",
+        "B01CVOLBQO",
+        "B01CMD4VKC",
+        "B07G6PR9ZZ",
+        "B00RBGYGMO",
+        "B01LWE0KHK",
+        "B07C7P19S8",
+        "B01EZ0X55C",
+        "B01MUG1HTO",
+        "B07BFV841Y",
+        "B07C5P6K6V",
+        "B07CZKCNDV",
+        "B00RBGYGPG",
+        "B010HWCFDA",
+        "B01M0QR22B",
+        "B00N9S9Z0G",
+        "B074P5S1S4",
+        "B01CVOLBPK",
+        "B079FPNRSF",
+        "B01ECPVAIO",
+        "B07FFP3437",
+        "B077XZ2W6F",
+        "B01MUH9BET",
+        "B06VSS2NRP",
+        "B07C3W5388",
+        "B01DDACL0K",
+        "B073JYVKNX"
+    ],
+    "rating": "3.9"
+}

@@ -1,0 +1,72 @@
+{
+    "asin": "B000002KOL",
+    "title": "Greatest Hits!",
+    "brand": "Don Ho Format: Audio CD",
+    "feature": null,
+    "description": "Hawaii's most famous pop singer! Includes Tiny Bubbles , along with E Lei Ka Lei Lei; Pearly Shells; Down by the Shack, Down by the Sea; The Windward Side (of the Island); Beautiful Kauai; I'll Remember You , and more.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/4161PBCRYCL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "5174",
+            "title": "CDs & Vinyl"
+        },
+        {
+            "node": "33",
+            "title": "World Music"
+        },
+        {
+            "node": "63877",
+            "title": "Pacific Islands"
+        },
+        {
+            "node": "63879",
+            "title": "Hawaii"
+        }
+    ],
+    "similar": [
+        "B00DQD9B1W",
+        "B000008NV8",
+        "B002XMH4O8",
+        "B002XMF6MU",
+        "B002XMF6WK",
+        "B002XMF6JS",
+        "B0060QFZ9O",
+        "B000KPQ5YA",
+        "B000002PCC",
+        "B002XMJ1YO",
+        "B004N6W2XA",
+        "B000000DL2",
+        "B002XML6Y2",
+        "B00FAC2GQ4",
+        "B002XMF6ZW",
+        "B002XMJ220",
+        "B002XMBPWA",
+        "B002XMF6Y8",
+        "B004KBSQOW",
+        "B0002VEUMG",
+        "B0041MUJRM",
+        "B002XMJ24I",
+        "B002XMBQ10",
+        "B000002X08",
+        "B000008NU3",
+        "B01MAU7M1P",
+        "B074ZN11LB",
+        "B00LNFJ0ZW",
+        "B01FSZ2JCS",
+        "B000002KOM",
+        "B002XMF6IO"
+    ],
+    "rating": "4.4"
+}

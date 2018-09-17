@@ -1,0 +1,83 @@
+{
+    "asin": "B00AINMFAC",
+    "title": "Nizoral A-D Anti-Dandruff Shampoo, 7 Fl. Oz",
+    "brand": "Nizoral",
+    "feature": null,
+    "description": "Fight dandruff outbreaks with Nizoral A-D Anti-Dandruff Shampoo. This powerful shampoo controls flaking, scaling, and itching caused by dandruff. It combines the effectiveness of ketoconazole 1%, a proven dandruff-fighting ingredient, with salon-tested gentleness. Use it just twice a week in between your regular shampoos to control dandruff. It\u2019s gentle enough to use on color-treated, chemically processed, and gray hair, and has a thick, rich lather that rinses clean and leaves your hair smelling fresh.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 55.00000000000001,
+        "length": 400.0,
+        "width": 600.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41EpKJtM-QL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41fWTRekGzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41QX-tBNNeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/419OTIeB7ML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Lvu2DS%2BJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31uPe1-385L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51WP5hh3VRL._SS40_PKmb-play-button-overlay-thumb_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "17911764011",
+            "title": "Shampoo & Conditioner"
+        },
+        {
+            "node": "11057651",
+            "title": "Shampoos"
+        }
+    ],
+    "similar": [
+        "B01B29PCUU",
+        "B0099EHM86",
+        "B01F5COC9M",
+        "B01F5CMUIC",
+        "B00YNKIZKK",
+        "B0000Y8H3S",
+        "B013CV31VS",
+        "B01ENCBOA0",
+        "B001E6SDFI",
+        "B0009KN8UA",
+        "B006R5GZV0",
+        "B01F5CGWNG",
+        "B01MFGTAO5",
+        "B00U1J83SQ",
+        "B073W57PB6",
+        "B00G4EGAW8",
+        "B077Y15GZZ",
+        "B01DPZP4ES",
+        "B01FO1IT02",
+        "B07CRZ6R28",
+        "B001E96OWY",
+        "B003M02F8K",
+        "B00CNTJHQO",
+        "B001QT3GVO",
+        "B077MQ5RDV",
+        "B01F5CFR8C",
+        "B07F3GQ4LG",
+        "B00FH692PQ",
+        "B001E6TZTG",
+        "B00KY1XFHK",
+        "B07CPQSSZK",
+        "B00YNKIZKU",
+        "B009ZBMVHU",
+        "B01H5GS8T6",
+        "B01F5CIKYA",
+        "B01DQ061JY"
+    ],
+    "rating": "4.5"
+}

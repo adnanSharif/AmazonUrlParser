@@ -1,0 +1,61 @@
+{
+    "asin": "B00GL2PCG8",
+    "title": "Clover Shiro Tape Measure - Pack of 2 (806)",
+    "brand": "Clover",
+    "feature": [
+        "Quality Clover sewing notion",
+        "Excellent sewing measuring device",
+        "Inches and metric measurement. Push button."
+    ],
+    "description": "# 806 Spring tape measure \"Shiro\" is a tape measure that automatically retracts with a push of a button. It is made of fiberglass that prevents it from stretching. Measurements are in both metric and inches.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 600.0,
+        "width": 140.0,
+        "height": 250.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Q%2BIoLy-BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41qk8Kyg1zL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31xNgTC2o8L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "1064954",
+            "title": "Office Products"
+        },
+        {
+            "node": "1069242",
+            "title": "Office & School Supplies"
+        },
+        {
+            "node": "490579011",
+            "title": "Cutting & Measuring Devices"
+        },
+        {
+            "node": "1069364",
+            "title": "Rulers & Tape Measures"
+        }
+    ],
+    "similar": [
+        "B00UFG1HXS",
+        "B078NRMNQD",
+        "B00V5YFTH4",
+        "B000YZAO2K",
+        "B01IGP65DG",
+        "B01GJ3NLW0",
+        "B000B7Q9FM",
+        "B078SWY97X",
+        "B072DXSF6S",
+        "B07DJ9SPYQ",
+        "B072HTM76N",
+        "B01H7N95GW",
+        "B00VU4SOQ2",
+        "B071XGLB1S"
+    ],
+    "rating": "4.4"
+}

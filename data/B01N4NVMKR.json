@@ -1,0 +1,71 @@
+{
+    "asin": "B01N4NVMKR",
+    "title": "Pioneer Hi-Res Digital Audio Player, Silver XDP-300R(S)",
+    "brand": "Pioneer",
+    "feature": [
+        "11.2 DSD, 384Khz / 24-bit, MQA playback",
+        "Dual ESS Sabre ES9018K2M DACs and 9601K amps for balanced output",
+        "32GB internal memory with 2 microSD slots (up to 200GB each)",
+        "Android operating system with Play Store accessibility",
+        "Built-in Wi-Fi, Bluetooth, and aptX"
+    ],
+    "description": "The XDP-300R supports all your current audio from MP3\u2019s to streaming music from your favorite internet apps. With playback support for up to 11.2MHz DSD, 384kHz/24 bit PCM, FLAC, ALAC, WAV, AIFF, and MQA it is possible to enjoy many existing Hi-Res audio formats. Equipped with both 2.5 mm balanced output and 3.5 mm headphone output; audio can also be output via Micro USB-B/OTG digital output, and wireless output to connect the XDP-300R offers a wide selection of headphones and peripherals. Compatible Formats: DSD(DSF/DSDIFF)/FLAC/ALAC/WAV/AIFF/MQA/OggVorbis/MP3/AAC.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 140.0,
+        "length": 290.0,
+        "width": 50.0,
+        "height": 509.99999999999994
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41rQjroIIUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31Ip-opYO%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21rwFfUXd3L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Silver"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "172623",
+            "title": "Portable Audio & Video"
+        },
+        {
+            "node": "1264866011",
+            "title": "MP3 & MP4 Players"
+        }
+    ],
+    "similar": [
+        "B073JY5T7T",
+        "B07BW245J3",
+        "B071V2QJ6M",
+        "B0764J68CM",
+        "B0197WVF82",
+        "B07D56PRWJ",
+        "B07FFXWB1S",
+        "B017EIHDPU",
+        "B01LYZ7YEH",
+        "B07F8YPWDF",
+        "B07CQLQ7JZ",
+        "B07G9BHN5W",
+        "B07C7XG8MX",
+        "B01N2R3XCO",
+        "B017HEJSYK",
+        "B01LXOEZZS",
+        "B017EIHCF6",
+        "B01M0XN4KI",
+        "B07G585SVY",
+        "B07F59W9RR",
+        "B075724BVF"
+    ],
+    "rating": "3.8"
+}

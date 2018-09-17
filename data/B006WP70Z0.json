@@ -1,0 +1,75 @@
+{
+    "asin": "B006WP70Z0",
+    "title": "Music Nomad MN108 Premium Guitar Care 5-Piece Kit",
+    "brand": "Music Nomad",
+    "feature": [
+        "The ultimate professional-grade five-piece care pack for stringed instruments",
+        "Guitar ONE is an all-in-1 cleaner, polish, and wax for everyday cleaning of gloss finishes",
+        "Guitar Polish provides deeper cleaning and polishing to restore and revive dull, hazy, scratched, and scuffed finishes",
+        "Fretboard F-ONE Oil uses 100 percent natural oils and is safe on all unfinished rosewood, ebony and maple fretboards",
+        "Includes two 16-inch x 12-inch lint-free, washable microfiber towels with stitch-free edging"
+    ],
+    "description": "Music Nomad's Premium Guitar Care Kit contains each of our most popular items to care for stringed instruments. The Guitar ONE is an all-in-1 cleaner, polish, and wax for everyday cleaning (4 oz. bottle). The Guitar Polish is for deeper cleaning and polishing to restore and revive dull, hazy, scratched, and scuffed finishes (4 oz. bottle). It also removes oxidation from guitar hardware. Polishes are safe on all guitar finishes including Nitrocellulose. Our Fretboard F-ONE Oil helps clean and condition the fretboard (2 oz. bottle). Also included are two premium quality microfiber towels.",
+    "price": 2999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 123.0,
+        "length": 450.0,
+        "width": 200.0,
+        "height": 650.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41e2l5YZ7dL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41b%2BYa78LUL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11965871",
+            "title": "Instrument Accessories"
+        },
+        {
+            "node": "11967641",
+            "title": "Guitar & Bass Accessories"
+        },
+        {
+            "node": "11968251",
+            "title": "Cleaning & Care"
+        }
+    ],
+    "similar": [
+        "B01MZ01UYR",
+        "B0002E1H9W",
+        "B0040YZEJ4",
+        "B01FL9B55S",
+        "B008NRF8R2",
+        "B01HUCEVGO",
+        "B07CK7ZZC3",
+        "B01HY531S6",
+        "B07F8SZMSB",
+        "B0188WO5SO",
+        "B000RW0GT6",
+        "B008FDSWJ0",
+        "B0002E1HZQ",
+        "B006WPGZAG",
+        "B003TLIJEG",
+        "B073F7RT4F",
+        "B00KWGWNMA",
+        "B003TLSN74",
+        "B001I1PWTY",
+        "B0002E1G5C",
+        "B00TV90MT0",
+        "B000OMG0KI"
+    ],
+    "rating": "4.5"
+}

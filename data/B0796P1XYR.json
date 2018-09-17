@@ -1,0 +1,82 @@
+{
+    "asin": "B0796P1XYR",
+    "title": "TrackAid Medical Forehead and Ear Thermometer, Infrared Digital Thermometer Suitable for Baby, Infant, Toddler and Adults with FDA and CE Approved",
+    "brand": "TrackAid",
+    "feature": null,
+    "description": null,
+    "price": 2199.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41P2%2BVJ8F0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41PvyBveE5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/511AIqsR28L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41QKzAa0VeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41lA6C1-wZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51lFVXQtRtL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3775161",
+            "title": "Medical Supplies & Equipment"
+        },
+        {
+            "node": "3777131",
+            "title": "Health Monitors"
+        },
+        {
+            "node": "3764261",
+            "title": "Thermometers"
+        },
+        {
+            "node": "16023361",
+            "title": "Ear"
+        }
+    ],
+    "similar": [
+        "B078TMX6QL",
+        "B074J3QJRM",
+        "B079TXMRW7",
+        "B07F9VP53P",
+        "B01NATPX6I",
+        "B07DJ8PTV5",
+        "B00PCQXBY4",
+        "B000XEAJ4U",
+        "B06Y2FFQB9",
+        "B01JPRM9LG",
+        "B078W4R763",
+        "B01M74F3NH",
+        "B07DPFXX1K",
+        "B07BDMGMLY",
+        "B0034XS7DC",
+        "B077D17C7V",
+        "B079JJ961Y",
+        "B07812D3DM",
+        "B00MK2D954",
+        "B017C0AB2C",
+        "B07H25C6PX",
+        "B07C45LCN7",
+        "B06W5561XZ",
+        "B077N7DFR5",
+        "B075SKF389",
+        "B00SCPB9KU",
+        "B07C49D5LH",
+        "B019WFL674",
+        "B072KHQ8LX",
+        "B0785JHK28",
+        "B07FCQJG99",
+        "B01N0R8HN1"
+    ],
+    "rating": "4.5"
+}

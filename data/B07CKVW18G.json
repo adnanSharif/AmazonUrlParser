@@ -1,0 +1,88 @@
+{
+    "asin": "B07CKVW18G",
+    "title": "Innovation Cooling Graphite Thermal Pad \u2013 Alternative To Thermal Paste/Grease (30 X 30mm)",
+    "brand": "Innovation Cooling",
+    "feature": [
+        "TOP TIER THERMAL PERFORMANCE \u2013 The IC graphite pad features a thermal conductivity of 35W/m-k.",
+        "EXTRAORDINARY DURABILITY \u2013 This thermal pad features a dry solution that contains no liquids. It will not pump or bake out like regular thermal compounds.",
+        "UNMATCHED TEMPERATURE RANGE \u2013 Keeps your CPU safe with a temperature operating range of -200C to 400C. RoHS compliant.",
+        "TAKE THE GUESSWORK OUT \u2013 The modular solution means never again having to wonder if you\u2019ve applied too much or too little thermal paste.",
+        "REUSABLE \u2013 You\u2019ll never have to worry about buying thermal paste ever again. The graphite thermal pad can be reused on multiple builds with no loss in performance."
+    ],
+    "description": "IC Graphite Thermal Pad is a thermal interface alternative to thermal paste for CPU\u2019s, GPU\u2019s and Game stations. This product features top tier thermal performance that is uniquely stable across a wide temperature range -200C to +400C and when used long term should last the life of most electronic components. IC Graphite is 100% pure graphite, non toxic this pad is a solid state modular solution no messy applications to clean, no guessing if you have used the proper amount, just place pad and mount sink. Caution: IC Graphite is electrically conductive! Any contact with electrical components when the computer is turned on can permanently damage the components.",
+    "price": 999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 4.0,
+        "length": 500.0,
+        "width": 290.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/417eWA82WvL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31S0Ne5iZHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41C2qHKeQCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61kAFgvHKsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61z59sFnyqL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Capacity:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012290011",
+            "title": "Fans & Cooling"
+        },
+        {
+            "node": "2998409011",
+            "title": "Heatsinks"
+        }
+    ],
+    "similar": [
+        "B07598VZR8",
+        "B075FR45DV",
+        "B07CKHRKHQ",
+        "B07FXP35FW",
+        "B0009B0K2I",
+        "B011F7W3LU",
+        "B07BKX5X6J",
+        "B076KNKR73",
+        "B075JDF6JV",
+        "B001CXO4TC",
+        "B07CYKDC2X",
+        "B0795DP124",
+        "B078RPY9VK",
+        "B01MT0V39S",
+        "B0045JCFLY",
+        "B004N8ZQKY",
+        "B07CK7Y4HC",
+        "B07DLQJKKC",
+        "B07CK9SHZG",
+        "B079HDBYY3",
+        "B07D8GV7QR",
+        "B00M5G6AHY",
+        "B0087X728K",
+        "B0007TOR08"
+    ],
+    "rating": "4.4"
+}

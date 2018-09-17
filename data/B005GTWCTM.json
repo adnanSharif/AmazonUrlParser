@@ -1,0 +1,75 @@
+{
+    "asin": "B005GTWCTM",
+    "title": "Lavazza 2 Pack Crema E Gusto Ground Coffee 8.8oz/250g Each",
+    "brand": "Lavazza",
+    "feature": null,
+    "description": "Lavazza Crema E Gusto Ground coffee Net 8.8oz/250g For those looking for an intensely pleasurable and strongly flavored break at any time of the day (the right time), Lavazza Crema Gusto is a blend with a distinctive character made of fine Arabica and Robusta coffees. A chocolaty blend with a distinct full bodied taste. The quality of Lavazza blends, which has made Lavazza synonymous with espresso all over the world, comes from over a century of exclusive passion for coffee, experience, research and innovation. 70% Robusta 30% Arabica Full-bodied Ground to Medium Coarse to be used in Drip Grind and French Press coffee makers",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 120.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51MZ2ENyqxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/513oz00umlL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "16310231",
+            "title": "Beverages"
+        },
+        {
+            "node": "16521305011",
+            "title": "Coffee, Tea & Cocoa"
+        },
+        {
+            "node": "16318031",
+            "title": "Coffee"
+        },
+        {
+            "node": "2251593011",
+            "title": "Ground Coffee"
+        }
+    ],
+    "similar": [
+        "B07B446P9F",
+        "B00IIFU5ZE",
+        "B07B5B9S99",
+        "B0000CF3Q6",
+        "B01LTI964W",
+        "B0015PKXSI",
+        "B00MHTBHW2",
+        "B0015MGC1I",
+        "B01BI787OO",
+        "B01BI7QHSW",
+        "B001E5E0D8",
+        "B01HMXEBDO",
+        "B006CQ1ZHI",
+        "B00I7LT3GQ",
+        "B01EVLKAUI",
+        "B07BL6RVWX",
+        "B00U9WVQS4",
+        "B00HJNTII6",
+        "B005N7OH9U",
+        "B079Y99PGJ",
+        "B07B43RJQB",
+        "B000SDKDM4",
+        "B000CNY6UK",
+        "B01MS7B5KM",
+        "B076ZQC3VW",
+        "B004E4BUZW",
+        "B00RVMDC82",
+        "B07BL69CDX",
+        "B01HRB7ISQ"
+    ],
+    "rating": "4.5"
+}

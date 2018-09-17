@@ -1,0 +1,78 @@
+{
+    "asin": "B000M4CD2C",
+    "title": "NOW Betaine HCl 648 mg,120 Capsules",
+    "brand": "NOW Foods",
+    "feature": null,
+    "description": "NOW Betaine HCl 648 mg,120 Capsules By",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": 250.0,
+        "width": 250.0,
+        "height": 440.00000000000006
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41OernmqVCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51akBphF3VL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31qZ9cEQIKL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6939426011",
+            "title": "Supplements"
+        },
+        {
+            "node": "3773511",
+            "title": "Enzymes"
+        },
+        {
+            "node": "3773921",
+            "title": "Multi-Enzymes"
+        }
+    ],
+    "similar": [
+        "B07CMKTKMC",
+        "B01N5HKZ1X",
+        "B00024CRC8",
+        "B008EKUVHA",
+        "B000Y8AT0O",
+        "B0018NYRTS",
+        "B000H6VYE8",
+        "B071F436PV",
+        "B00022B6Y0",
+        "B01JKY4GQ0",
+        "B01HGQZXIY",
+        "B00024D59W",
+        "B0013OXKHC",
+        "B000QVCAKQ",
+        "B01MCQDTOW",
+        "B0013OVX58",
+        "B001TLH5IO",
+        "B000Z9361G",
+        "B0799RLR1X",
+        "B00G3CZ0XG",
+        "B00P1H86O4",
+        "B00HLXPYAA",
+        "B004QD4PHQ",
+        "B00SJKPBNY",
+        "B01152Y426",
+        "B00L1R30I0",
+        "B003QW3GCI",
+        "B0032BH76O",
+        "B07D7JWXFM",
+        "B001F0R65Q",
+        "B001WU3VV2"
+    ],
+    "rating": "4.2"
+}

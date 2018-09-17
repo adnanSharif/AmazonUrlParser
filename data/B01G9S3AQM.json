@@ -1,0 +1,83 @@
+{
+    "asin": "B01G9S3AQM",
+    "title": "Visual Fault Locator, RISEPRO Red Light Pen 10mV Fiber Optic Cable Tester Test Equipment VFL-10mW",
+    "brand": "RISEPRO",
+    "feature": [
+        "EASY IDENTIFICATION OF FIBER BREAKPOINTS, POOR CONNECTIONS, BENDING OR CRACKING \u2013 The RISEPRO\u00ae 10mW Visual Fault Locator Emit a 650nm Bright Red Light For Fiber Tracing, Fiber Routing And Continuity Checking Efficiently, Breaks Or Faults In The Fiber Will Refract The Light, Creating A Bright Glow Around The Faulty Area",
+        "WIDELY USED ON FC, SC, ST GENERAL FIBER INTERFACE \u2013 This Visual Fault Locator Built With 2.5mm Universal Connector For Testing Different ST, SC, FC Interferes Fiber Optic Cables",
+        "CRASH-PROOF AND DUST-PROOF DESIGN FOR PEN HEAD \u2013 It Is Designed With Stainless Steel Head To Prevent Crash And Dust, And The Case Ground Design Prevents ESD Damage Efficiently.",
+        "OPERATES EITHER IN CW OR PULSED \u2013 This Visual Fault Locator Can Operates Either In CW Or Pulsed Mode",
+        "RED LIGHT OUTPUT DISTANCE 8-10KM \u2013 This 1mW Visual Fault Locator With Battery Output Strong Red Light Goes 8-12 Kilomters Far, High Effective Power Circuits Allows For Stable Power, Pen-type Design With Pouch Make It Portable."
+    ],
+    "description": "RISEPRO\u00ae 10mW (8-12KM)visual fault locator is used for the measurement in single-mode or multi-mode fibers. 650nm Pen-type Visual Fault Finder for fiber tracing, fiber routing and continuity checking It features a red design, a universal connector and an accurate measurement. It locates fibers, finds faults, verifies continuity and polarity. It is wide used in telecommunications engineering and maintenance, CATV engineering and maintenance, cabling System and other fiber-optic project.",
+    "price": 2490.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 30.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41aDk8iaihL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/410HSWbY8zL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51A-c31mLYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Sz-iHLJKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41%2BMaCiR5zL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/314yxMFVCwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/418idURUi-L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "495266",
+            "title": "Electrical"
+        },
+        {
+            "node": "495336",
+            "title": "Testers"
+        },
+        {
+            "node": "14244461",
+            "title": "Circuit Testers"
+        }
+    ],
+    "similar": [
+        "B00XVYYKKI",
+        "B00FQDNABW",
+        "B00T9RANUC",
+        "B000EDTSYW",
+        "B01MTP74SZ",
+        "B0000DD5XS",
+        "B006962CUK",
+        "B01M0LC8ZE",
+        "B0047O3TZS",
+        "B00UD6G2OY",
+        "B00Z9V7GIO",
+        "B007B60FGU",
+        "B07FRJX6JC",
+        "B01G9S61MW",
+        "B008D8JZ4S",
+        "B019OECFY6",
+        "B007B60F6A",
+        "B01GKKE2W0",
+        "B00CTGNETW",
+        "B00080DPNQ",
+        "B01N76XZRA",
+        "B01F57U4N0",
+        "B00FEAM3PG",
+        "B00XKTR8L2",
+        "B00XKTR8LM",
+        "B00QUX3G2K",
+        "B00XW0AFXC",
+        "B00XXPB3VO",
+        "B07196CVDQ",
+        "B01MPZFKAV"
+    ],
+    "rating": "3.8"
+}

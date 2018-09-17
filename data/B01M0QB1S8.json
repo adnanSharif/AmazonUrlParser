@@ -1,0 +1,93 @@
+{
+    "asin": "B01M0QB1S8",
+    "title": "Fossil Men's Defender",
+    "brand": null,
+    "feature": [
+        "Leather",
+        "Imported",
+        "Textile lining",
+        "Push lock closure",
+        "25.25\" shoulder drop",
+        "12\" high",
+        "15\" wide"
+    ],
+    "description": "Show the world you're a dapper, business professional with this smooth style Fossil\u00ae Defender Messenger bag. Bags made of leather, canvas, or wool. Flap with push lock closure and decorative buckle detail. Detachable, adjustable crossbody strap. Three exterior slip pockets. Signature logo embossed detail at side. Flat bottom. Lined interior. Interior zip pocket. Interior slip pockets. Imported. Measurements: Bottom Width: 14 in Middle Width: 15 in Top Width: 15 in Depth: 3 in Height: 12 in Strap Length: 54 in Strap Drop: 26 in Weight: 2 lbs 15 oz",
+    "price": 29800.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 310.0,
+        "length": 350.0,
+        "width": 1500.0,
+        "height": 1200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ViJnGRVfL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JmuEWXlZL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/515rJTjqdvL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41FBwVsLsnL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412-wtyxWLL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "9479199011",
+            "title": "Luggage & Travel Gear"
+        },
+        {
+            "node": "15743231",
+            "title": "Messenger Bags"
+        }
+    ],
+    "similar": [
+        "B075Q5X6PJ",
+        "B0753YPQM5",
+        "B0788C6X9C",
+        "B078B25N9S",
+        "B07F3L55LG",
+        "B01KS9OYTK",
+        "B007ZYJRXA",
+        "B078FBC6TB",
+        "B071F9YHW7",
+        "B07892Z3TV",
+        "B01N644XBU",
+        "B01DWNSYHC",
+        "B00T3IPW0I",
+        "B0788BNJQ5",
+        "B0719WY84G",
+        "B0799LMFN4",
+        "B00B6DTF8S",
+        "B07CWKQ498",
+        "B07CKQSQMD",
+        "B0799MBFKH",
+        "B00T3IPUKA",
+        "B073PQ39RQ",
+        "B07G7P7J3G",
+        "B077Y1YX81",
+        "B06XR3X38L",
+        "B07F3TYNKW",
+        "B00JR4A83O",
+        "B01KWHVGJ4",
+        "B079RMNQG9",
+        "B00XOYB8ZU",
+        "B01MEG1JU9",
+        "B00GF4UFFK",
+        "B018FMME9E",
+        "B0049N1EPO",
+        "B075QSQ3WK",
+        "B075CXZM7Q",
+        "B00HVVR0B8",
+        "B07BSFFJPW",
+        "B018G39AGM"
+    ],
+    "rating": "5.0"
+}

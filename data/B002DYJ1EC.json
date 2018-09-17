@@ -1,0 +1,102 @@
+{
+    "asin": "B002DYJ1EC",
+    "title": "BSN SYNTHA-6 Whey Protein Powder, Micellar Casein, Milk Protein Isolate, Chocolate Milkshake, 48 Servings (Packaging May Vary)",
+    "brand": "BSN",
+    "feature": null,
+    "description": "SYNTHA-6 is an ultra-premium protein powder with 22g protein per serving and is BSN's best-tasting protein on the market. SYNTHA-6 not only includes essential amino acids and essential fatty acids, but is also an excellent source of fiber, which makes it a nutritious and multi-functional protein supplement. SYNTHA-6 is the go-to protein for any nutrition or exercise regimen because it is designed to suit a variety of active lifestyles and diet plans. And with SYNTHA-6, the high standard of quality protein comes with taste to match, thanks to BSN's exclusive flavor technology.",
+    "price": 3999.0,
+    "listPrice": 5369.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 580.0,
+        "length": 800.0,
+        "width": 800.0,
+        "height": 1100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51EYOH6sM8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51kdMwadhEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41%2B7v-2uSKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51s7eiHvCML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61hYnxFVUYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61rYHaYNbrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61Nplm96hUL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "6973663011",
+            "title": "Sports Nutrition"
+        },
+        {
+            "node": "6973704011",
+            "title": "Protein"
+        },
+        {
+            "node": "6973706011",
+            "title": "Powders"
+        },
+        {
+            "node": "6973718011",
+            "title": "Whey Protein Isolate"
+        }
+    ],
+    "similar": [
+        "B00KZNOYDG",
+        "B0737NNG6X",
+        "B00AZMDWH6",
+        "B01D2ZNLK0",
+        "B000GP0NYM",
+        "B000GP0NSI",
+        "B01M3RLRVN",
+        "B079Z6D4RB",
+        "B00MVMCUK8",
+        "B002DYJ1D8",
+        "B01FNFLRQW",
+        "B000QSNYGI",
+        "B00SGBEMJU",
+        "B0758331VQ",
+        "B00J074W94",
+        "B01DY8NO9I",
+        "B00B0LUND2",
+        "B00HJR6SNK",
+        "info.html",
+        "B07CJCBYSD",
+        "B00QEMY4T6",
+        "B074WRBJJ2",
+        "B002DYJ1C4",
+        "B0737MHSGT",
+        "B01MSHGS7D",
+        "B000E95HP0",
+        "B002ZBR6FO",
+        "B002DYIZH6",
+        "B01BKT7T9Y",
+        "B074ST94V2",
+        "B0055BYD66",
+        "B07FTLN87P",
+        "B002DYIZEO",
+        "B076C211LV",
+        "B00XFA544E",
+        "B01MXBZ3NV",
+        "B07CJDJ1H5",
+        "B01DOHWFGM",
+        "B008JGI6TE",
+        "B0794K2RT6",
+        "B003BVI5FW",
+        "B00H4HLO3O",
+        "B07CGS9JDT",
+        "B07CPFTC3L",
+        "B003YDWVNO",
+        "B01BKUD3ZM",
+        "B00926EVVW",
+        "B002T1FKMG",
+        "B01MXC2I1M",
+        "B01MTIO0JG",
+        "B00THEPSPW"
+    ],
+    "rating": "4.6"
+}

@@ -1,0 +1,69 @@
+{
+    "asin": "B007Z75H0Y",
+    "title": "Kirkland Signature Minoxidil Foam for Men, 12.66oz (6x2.11oz=12.66oz)",
+    "brand": "Kirkland Signature",
+    "feature": null,
+    "description": "Kirkland Signature minoxidil topical solution USP 5% is for men who have a general thinning of hair on the top of the scalp (vertex only). Minoxidil has been show to regrow hair in men with low to moderate hair loss. Please see images for a diagram to determine if this product will treat the degree of your hair loss.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 150.0,
+        "length": 700.0,
+        "width": 300.0,
+        "height": 700.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/614Ak3VhS9L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51OGtUOAV2L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41-yXTVTdKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21FjBeRiZmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21Ha2FdfYBL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "10898755011",
+            "title": "Hair Loss Products"
+        },
+        {
+            "node": "11057581",
+            "title": "Hair Regrowth Treatments"
+        }
+    ],
+    "similar": [
+        "B00P4489I2",
+        "B0012BNVE8",
+        "B00HG1JFXY",
+        "B002VLZHLI",
+        "B00KEG85DE",
+        "B00JQIAXZO",
+        "B01H5GS8T6",
+        "B079VW9VBM",
+        "B01DQ09EYS",
+        "B079RDR8ZD",
+        "B0083V39Y2",
+        "B01B29PCUU",
+        "B01N4LCH6M",
+        "B00M6I5SNI",
+        "B01904PI6W",
+        "B07H1YYV9H",
+        "B00JOPYQUM",
+        "B00AINMFAC",
+        "B008NE0E9W",
+        "B074H5SHBH",
+        "B074M6JNML",
+        "B01ENCBOA0",
+        "B0000Y8H3S",
+        "B008BMOEGA"
+    ],
+    "rating": "4.1"
+}

@@ -1,0 +1,113 @@
+{
+    "asin": "B014I8T4MO",
+    "title": "AmazonBasics High-Speed HDMI Cable, 10 Feet, 2-Pack",
+    "brand": "AmazonBasics",
+    "feature": [
+        "HDMI A Male to A Male Cable: Supports Ethernet, 3D, 4K video and Audio Return Channel (ARC)",
+        "Connects Blu-ray players, Fire TV, Apple TV, PS4, PS3, XBox one, Xbox 360, computers and other HDMI-enabled devices to TVs, displays, A/V receivers and more",
+        "Cable allows you to share an Internet connection among multiple devices without the need for a separate Ethernet cable",
+        "Meets the latest HDMI standards (4K Video at 60 Hz, 2160p, 48 bit/px color depth) that supports bandwidth up to 18Gbps and backwards compatible with earlier versions",
+        "Cable Length: 10 feet (3 meters) - 2 units; Backed by AmazonBasics Lifetime warranty"
+    ],
+    "description": "An Amazon Brand.",
+    "price": 1099.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 88.125,
+        "length": 12000.0,
+        "width": 80.0,
+        "height": 40.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41pfNwgZE8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Nqd4mzlxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Z18o%2ByHZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31IVzCEsI9L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31hdF36lYsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vPwkx9moL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41erLDL5EVL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Length:",
+            "value": "1"
+        },
+        {
+            "name": "Style:",
+            "value": "10 Feet"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "281407",
+            "title": "Accessories & Supplies"
+        },
+        {
+            "node": "172532",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "172540",
+            "title": "Cables & Interconnects"
+        },
+        {
+            "node": "464418",
+            "title": "Video Cables"
+        },
+        {
+            "node": "202505011",
+            "title": "HDMI Cables"
+        }
+    ],
+    "similar": [
+        "B01N343SBS",
+        "B06XD9K2NS",
+        "B07H6CJV59",
+        "B06ZZ68SBZ",
+        "B072J1BSV6",
+        "B07F6RQQQ9",
+        "B00YNI7G8O",
+        "B07587MGZH",
+        "B07GKJY5P8",
+        "B014I8SP4W",
+        "B072MCQL8K",
+        "B014I8TFR8",
+        "B06XRVSYNH",
+        "B07FCKB1DD",
+        "B0002J2MSW",
+        "B00UXLIX1Y",
+        "B01MZ81RQ0",
+        "B0748LX1B1",
+        "B07G32LCWG",
+        "B01JH70UQ0",
+        "B075ZWY1SK",
+        "B014I8TC4E",
+        "B00NH13K8S",
+        "B004C9QST2",
+        "B01CRA11IU",
+        "B07C26XGQF",
+        "B075ZX24H4",
+        "B075Q441FH",
+        "B01CRA9GU0",
+        "B01JH70GBY",
+        "B01N22LFPL",
+        "B00NH12R1O",
+        "B00PML3AN6",
+        "B014I8SX4Y",
+        "B00L3KO3YU",
+        "B014I8TLS6",
+        "B0758532ZD",
+        "B0758JMN38",
+        "B00SVE6YF2",
+        "B00O5UFMX6",
+        "B06XR9PR5X",
+        "B014I8T0YQ",
+        "B01H7M782G"
+    ],
+    "rating": "4.6"
+}

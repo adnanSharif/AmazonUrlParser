@@ -1,0 +1,78 @@
+{
+    "asin": "B0016NYHSG",
+    "title": "Garmin GPS 16x, HVS",
+    "brand": "Garmin",
+    "feature": [
+        "High-sensitivity receiver",
+        "Integrated antenna",
+        "Waterproof"
+    ],
+    "description": "GPS 16x HVS, MFG# 010-00258-63, High sensitivity 12 channel WAAS GPS sensor. NMEA 0183 output with RJ-45 connector. 12VDC input. The GPS 16x sensor features a high-sensitivity receiver, integrated antenna and rugged, waterproof design that makes it useful for a variety of OEM applications. The GPS 16x is a high-sensitivity GPS sensor that replaces the GPS 16. This high-sensitivity, 12-channel receiver continuously tracks satellites and reports your precise position. It also is WAAS-enabled, so it can determine your precise location to within 3 m (9.84 ft) without using an external DGPS beacon receiver. The GPS 16x offers excellent EMI/RFI performance, so you can use it near mobile computing devices and wireless communications equipment without worrying about interference. GPS 16x",
+    "price": 10599.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 70.0,
+        "length": 550.0,
+        "width": 500.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41ePVzdZEuL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Package Type:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "172526",
+            "title": "GPS & Navigation"
+        },
+        {
+            "node": "559942",
+            "title": "GPS System Accessories"
+        }
+    ],
+    "similar": [
+        "B07BCJ8G5Q",
+        "B07C69G4CV",
+        "B003YCLB0E",
+        "B0177XDNC4",
+        "B0016O0G62",
+        "B00006B6MD",
+        "B075H6MFCZ",
+        "B075RQPB2Q",
+        "B00SNIO4I0",
+        "B005P99KRU",
+        "B072Q4C5LM",
+        "B00N41US72",
+        "B071JRQZGF",
+        "B01J4QIGI8",
+        "B00TX532O4",
+        "B0016NYHOA",
+        "B0018G7QGQ",
+        "B004LF76MA",
+        "B00FSVHXQU",
+        "B00NBRCKXO",
+        "B0016O0G26",
+        "B01LY38BAE",
+        "B0773HR8YM",
+        "B0045AAVLO",
+        "B07BTGYCL6",
+        "B077KTXB7K",
+        "B0725YMWR4",
+        "B0089YMO76",
+        "B01M4IY2HG",
+        "B01GOOVTOG",
+        "B01HN0HBFG",
+        "B01N6KWHSC"
+    ],
+    "rating": "4.2"
+}

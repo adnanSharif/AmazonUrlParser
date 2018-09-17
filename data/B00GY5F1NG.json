@@ -1,0 +1,92 @@
+{
+    "asin": "B00GY5F1NG",
+    "title": "Philips Norelco Multigroom 5100 Grooming Kit - 18 Length Settings QG3364/49",
+    "brand": "Philips Norelco",
+    "feature": null,
+    "description": "Philips Norelco Multigroom 5100 Grooming Kit - 18 Length Settings QG3364/49",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 80.0,
+        "length": 150.0,
+        "width": 150.0,
+        "height": 550.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Y3T0V0aTL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Egwcr4q4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41UVN-QJ-nL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41c79B3iKGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41EVpC527OL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31WPqXs1akL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31vyYGV919L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "3778591",
+            "title": "Shave & Hair Removal"
+        },
+        {
+            "node": "13269990011",
+            "title": "Women's"
+        },
+        {
+            "node": "13269998011",
+            "title": "Epilators, Groomers & Trimmers"
+        },
+        {
+            "node": "3779171",
+            "title": "Personal Groomers"
+        }
+    ],
+    "similar": [
+        "B01MRRGJUT",
+        "B01LPT25Q6",
+        "B01DPZPRW2",
+        "B00XHZ34JY",
+        "B00UL7ELF2",
+        "B01LPT25A2",
+        "B0002KHTG6",
+        "B0058SY1XQ",
+        "B00009RF1E",
+        "B00TN49XT8",
+        "B07756X2RM",
+        "B0746P7C7P",
+        "B01DQ08K8O",
+        "B00BCGAOVQ",
+        "B0009DT39C",
+        "B00TL0T678",
+        "B01MA0URJ0",
+        "B01K1HPA60",
+        "B01LPT25MA",
+        "B00TN7UCM2",
+        "B071L3S2V3",
+        "B009NNFB0O",
+        "B00TYSRAJS",
+        "B06XGM2G1P",
+        "B01LCFNBLG",
+        "B07145GM4B",
+        "B00F9X34XS",
+        "B078GVH2VH",
+        "B07B2NMYFS",
+        "B078BXRKW3",
+        "B07569ZS5S",
+        "B071RZXXZ9",
+        "B0727QYBWT",
+        "B00H2B4H2M",
+        "B0084AWBRS",
+        "B017YNUH9E",
+        "B0199RDFA6",
+        "B00ARF42H0",
+        "B01MS6X065",
+        "B018EDETKQ",
+        "B01DPY4RU6"
+    ],
+    "rating": "3.9"
+}

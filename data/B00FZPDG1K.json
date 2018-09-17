@@ -1,0 +1,83 @@
+{
+    "asin": "B00FZPDG1K",
+    "title": "CHP-170 Micro Cutter",
+    "brand": "Hakko",
+    "feature": [
+        "Flush-cut micro soft-wire cutter has 8mm long jaw with angled head for flush-cutting applications on up to 16 gauge (1.3mm) copper and soft wire",
+        "21-degree",
+        "2.5mm heat-treated carbon steel construction provides durability and long life",
+        "Precision-ground holes and surfaces provide smooth movement, and spring returns tool to open position to reduce operator fatigue",
+        "Dolphin-style nonslip hand grips with curved fore-edge provide comfort and control, and Parkerized surfaces prevent glare and increase corrosion resistance"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 18.125,
+        "length": 590.0,
+        "width": 360.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/414t7uLh8KL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "Pack 1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "328182011",
+            "title": "Power & Hand Tools"
+        },
+        {
+            "node": "551238",
+            "title": "Hand Tools"
+        },
+        {
+            "node": "553174",
+            "title": "Cutters"
+        },
+        {
+            "node": "553186",
+            "title": "Wire Cutters"
+        }
+    ],
+    "similar": [
+        "B07CMXH3N9",
+        "B0001IW50Y",
+        "B06ZY7HQHY",
+        "B00FZPHMUG",
+        "B00I15CUI6",
+        "B01NBAPE49",
+        "B0765NMV68",
+        "B07DNRDYXS",
+        "B07BLWP3WH",
+        "B00NS4J6BY",
+        "B0188DHO40",
+        "B06WP9NX98",
+        "B01N2JVKE2",
+        "B07FPBMQRZ",
+        "B07GR7QF63",
+        "B01B6SM2L4",
+        "B00FZPGDLA",
+        "B07D9ZVRK3",
+        "B0063GL7UM",
+        "B0765LT5JG",
+        "B00FZPFQHM",
+        "B078B9892T",
+        "B06W9NMMNK",
+        "B00FZPHEW2",
+        "B00N4TW2BE",
+        "B01NBODKDJ",
+        "B07FQDRSKP"
+    ],
+    "rating": "4.7"
+}

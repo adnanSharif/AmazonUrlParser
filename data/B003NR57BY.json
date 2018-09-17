@@ -1,0 +1,100 @@
+{
+    "asin": "B003NR57BY",
+    "title": "Logitech M510 Wireless Computer Mouse",
+    "brand": "Logitech",
+    "feature": [
+        "2-year battery life practically eliminates the need to replace batteries, best with Polaroid AA Batteries. Battery life may vary based on user and computing conditions",
+        "Contoured shape with soft rubber grips provide all-day comfort.Mouse Dimensions height x width x depth : 4.72 inches x 2.56 inches x 1.61 inches",
+        "Back/forward buttons and side-to-side scrolling plus zoom let you do more, faster Requires Logitech Options software",
+        "Comes with a tiny Logitech Unifying receiver that stays in your computer - plug it in, forget it",
+        "Wireless operating distance: Approx 10m; Sensor Resolution: 1000. USB is stored in the battery compartment of the mouse"
+    ],
+    "description": "*BLACK* With its contoured shape, soft rubber grips and handy controls, the Logitech Wireless Mouse M510 gives you more control, so you can do more with your mouse.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 440.00000000000006,
+        "width": 250.0,
+        "height": 180.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41GjoODyC0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Pfq7PpQkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41lXH3dcZaL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        },
+        {
+            "name": "Configuration:",
+            "value": "Logitech M510 Wireless Mouse"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "11548956011",
+            "title": "Keyboards, Mice & Accessories"
+        },
+        {
+            "node": "11036491",
+            "title": "Mice"
+        }
+    ],
+    "similar": [
+        "B07B8F4QT4",
+        "B01694XMF0",
+        "B0787D6SGQ",
+        "B004N627KS",
+        "B078BXJ21C",
+        "B013WC0P2A",
+        "B01M6XU1M5",
+        "B009SPWCFY",
+        "B075DWX4FX",
+        "B011DG5B4E",
+        "B0787PGF9N",
+        "B00IIDD0ZS",
+        "B06XCXPHH1",
+        "B003I4FHNA",
+        "B004MF11MU",
+        "B07DHMKD53",
+        "B072V5J67J",
+        "B06X9NHV5K",
+        "B06X6H2WF7",
+        "B07DLWJV4F",
+        "B005EJH6RW",
+        "B01B4SNL52",
+        "B003TG75EG",
+        "B00TZR3WRM",
+        "B073W6ZC7B",
+        "B07CCH22MT",
+        "B004YAVF8I",
+        "B002DPUUL4",
+        "B078F698CQ",
+        "B01M4I89UP",
+        "B015H31W60",
+        "B003VAGXWK",
+        "B01MCSPJY6",
+        "B075Y8ZVBB",
+        "B002MMY4WY",
+        "B006JRIDHK",
+        "B005EJH6Z4",
+        "B005L38VRU"
+    ],
+    "rating": "4.3"
+}

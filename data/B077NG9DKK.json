@@ -1,0 +1,107 @@
+{
+    "asin": "B077NG9DKK",
+    "title": "Polo Ralph Lauren Men's Custom Fit Multistripe Polo",
+    "brand": "Polo Ralph Lauren",
+    "feature": [
+        "Custom Fit",
+        "Embroidered Polo Player at Left Chest.",
+        "Two button placket.",
+        "Ribbed Armbends, Vented Hem, Short Sleeve.",
+        "Machine washable, Imported."
+    ],
+    "description": "Brand:Polo Ralph Lauren.Custom fit.Composition:100% cotton,exclusive of decoration.This short-sleeved polo shirt is made from soft cotton mesh and tailored for a modern custom fit.Made in Vietnam.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 75.0,
+        "length": 900.0,
+        "width": 100.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51vfdIkdztL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Pz%2Bav16DL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/517td3kC5UL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "Medium"
+        },
+        {
+            "name": "Color:",
+            "value": "Navy/White"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "1040658",
+            "title": "Clothing"
+        },
+        {
+            "node": "2476517011",
+            "title": "Shirts"
+        },
+        {
+            "node": "1045640",
+            "title": "Polos"
+        }
+    ],
+    "similar": [
+        "B06XFZ8LMX",
+        "B07FLN3VMR",
+        "B07BKMWP6J",
+        "B016ALYNNM",
+        "B07B8P1K2Q",
+        "B01M6X0A4U",
+        "B01MSKODOZ",
+        "B01N33VANT",
+        "B00JI8PTKG",
+        "B0767RRCBF",
+        "B06X3Q9151",
+        "B077FJFWZB",
+        "B076KL9HW3",
+        "B01EJVRGC0",
+        "B071ZPF55M",
+        "B07696ZWJS",
+        "B07C27X5M1",
+        "B0782VS4G6",
+        "B07C2H4WQW",
+        "B00B4ITIGO",
+        "B07B8RLPLP",
+        "B077ZJC1Q1",
+        "B01LBK59G2",
+        "B077BYD1XY",
+        "B01MT914VG",
+        "B07863M374",
+        "B01IXFP9T0",
+        "B076FLWJ5Y",
+        "B06Y3LNNMQ",
+        "B07FL32TBQ",
+        "B0738MQ73V",
+        "B07BKMW3DQ",
+        "B01LBK5ANY",
+        "B074JC182Z",
+        "B076PVYTWD",
+        "B076KM9H39",
+        "B073V7XLX2",
+        "B01N7S3NUH",
+        "B07CKG1BJF",
+        "B07638LM62",
+        "B00N1U7RIY",
+        "B01IXFQKVG",
+        "B01LVZURIS",
+        "B076KRC58S",
+        "B01NAEDFJD"
+    ],
+    "rating": "3.7"
+}

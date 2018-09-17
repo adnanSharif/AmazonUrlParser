@@ -1,0 +1,75 @@
+{
+    "asin": "B01MRNIFR6",
+    "title": "iFixit Essential Electronics Toolkit",
+    "brand": "iFixit",
+    "feature": [
+        "Get started in electronics repair with all the bits and precision tools to handle your most urgent screen breaks and battery swaps",
+        "Upgrade your home DIY toolkit with what you need to service door knobs, home appliances, eyeglasses, and more!",
+        "iFixit Lifetime Warranty"
+    ],
+    "description": null,
+    "price": 2399.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 78.75,
+        "length": 620.0,
+        "width": 600.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41qh%2B%2B4FD9L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ozJ-HH1mL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/415KmLaRn5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41MjHXt-M2L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/513ycy0E3mL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "328182011",
+            "title": "Power & Hand Tools"
+        },
+        {
+            "node": "551238",
+            "title": "Hand Tools"
+        },
+        {
+            "node": "553402",
+            "title": "Tool Sets"
+        }
+    ],
+    "similar": [
+        "B0088PUEPK",
+        "B075GN9YC4",
+        "B01NCVI872",
+        "B0000WTBO4",
+        "B01IA9FEOO",
+        "B00H33SFJU",
+        "B0718ZM6R1",
+        "B0189YWOIO",
+        "B01DYN9XT8",
+        "B07DWYQG2M",
+        "B07GBK13Q8",
+        "B07BMM74FD",
+        "B01IT0TDY6",
+        "B06XX25HFX",
+        "B01KQ2JNLI",
+        "B06W2K78BC",
+        "B001KUSTB6",
+        "B01GF0KV6G",
+        "B01DM0E7BM",
+        "B07BMMBKJR",
+        "B07GGH48H1",
+        "B0015015H6",
+        "B00NCFIVH4",
+        "B01F52ZPBQ",
+        "B00KRPFX00",
+        "B015X2NH8G"
+    ],
+    "rating": "4.5"
+}

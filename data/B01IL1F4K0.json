@@ -1,0 +1,103 @@
+{
+    "asin": "B01IL1F4K0",
+    "title": "NIKE Men's Epic Knit Pants",
+    "brand": "NIKE",
+    "feature": [
+        "100% Polyester",
+        "Imported",
+        "Dri-FIT Technology helps keep you dry and comfortable",
+        "Elastic waistband with internal drawcord for a personalized fit",
+        "Tapered through the ankle for an athletic fit",
+        "Side pockets are stabilized to stay in place during multidirectional movement"
+    ],
+    "description": "NIKE Men's Epic Knit Pants are designed with Dri-FIT Technology, helping you stay dry during practice sessions and workout routines. Knit fabric and tapered ankles provide a lightweight and athletic fit.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 55.00000000000001,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31AB8mmIODL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31RZNFgcz%2BL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "Large"
+        },
+        {
+            "name": "Color:",
+            "value": "Black/Dark Grey/Black/Dark Grey"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "10971181011",
+            "title": "Sports & Fitness"
+        },
+        {
+            "node": "3407731",
+            "title": "Exercise & Fitness"
+        },
+        {
+            "node": "3407841",
+            "title": "Clothing"
+        },
+        {
+            "node": "3380151",
+            "title": "Men"
+        },
+        {
+            "node": "11292637011",
+            "title": "Pants"
+        }
+    ],
+    "similar": [
+        "B00LPAAGOY",
+        "B079SR7LYY",
+        "B07BJ8ZVBQ",
+        "B06XYW4ZKY",
+        "B06XYHHR32",
+        "B075LFCSRX",
+        "B007WMBFU8",
+        "B07C4TP8Y9",
+        "B01IL1FI6U",
+        "B07D9XQN84",
+        "B07BJ35LMK",
+        "B00FS31MTW",
+        "B076BTCQ74",
+        "B075FN4KKH",
+        "B07F7K19DW",
+        "B01M362PZ5",
+        "B00KH8I9D0",
+        "B07BJZVP8G",
+        "B075H9LC3F",
+        "B079NKH3M7",
+        "B01GP2Z8TE",
+        "B01C5CF302",
+        "B078XY4PPV",
+        "B07BZ8VQVQ",
+        "B07CPQSTX7",
+        "B01HD8WQDK",
+        "B071DXTVZS",
+        "B0199R6DKU",
+        "B00GW12MQG",
+        "B07GXB6CRN",
+        "B0776T7372",
+        "B0773RX1D3",
+        "B07BB7PGNL",
+        "B01JLRRL9A",
+        "B07C7ZH3HQ",
+        "B075QXCHC5",
+        "B07B6PWGM6"
+    ],
+    "rating": "4.3"
+}

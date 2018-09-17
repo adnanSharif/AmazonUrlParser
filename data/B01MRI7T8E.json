@@ -1,0 +1,66 @@
+{
+    "asin": "B01MRI7T8E",
+    "title": "Estimote Location Beacons Developer Kit",
+    "brand": "estimote",
+    "feature": [
+        "Accompanied with temperature, motion, light sensors magnetometer, RTC, GPIO slot and 1Mb prom",
+        "Simultaneous advertising of multiple packets beacon or eddy stone",
+        "5 year default battery life, (3 years as beacon), replaceable battery",
+        "Fully customizable settings (broadcasting power, advertising interval, UUID, etc.) and range up to 2",
+        "Water resistant and reusable enclosures, ROHs compliant"
+    ],
+    "description": "estimote location beacons are the most robust beacons on the market. They are specifically tailored for estimote indoor location SDK, iota prototyping and enterprise-grade deployments. estimote location beacon can broadcast multiple packets simultaneously and support beacon and eddy stone protocols. They are equipped with several sensors: A high-end accelerometer with motion detection features, ambient temperature and light sensor and magnetometer. Additionally location beacons feature a real-time clock, GPIO output and NFC tag. The cell battery power enables over 5 years battery life on default, 3 years as beacon and have a range of up to 200 meters.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 43.75,
+        "length": 250.0,
+        "width": 160.0,
+        "height": 90.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41H5dfGoNuL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "490499011",
+            "title": "Network Adapters"
+        }
+    ],
+    "similar": [
+        "B01LX3S1DQ",
+        "B0711VJKQX",
+        "B00JI69JZY",
+        "B07BK15YPM",
+        "B06Y6JZK12",
+        "B01MU7YC87",
+        "B01CD5VC92",
+        "B01FCQZ8VW",
+        "1484218884",
+        "B06WGZB2N4",
+        "B077FQ6HLV",
+        "B01I57KL7G",
+        "B010Q2PUGA",
+        "B07529RCJG",
+        "B014KQHEH6",
+        "B078N2B7RD",
+        "B00TNOO438",
+        "B073RFLJWS",
+        "B00JJ4P864"
+    ],
+    "rating": "3.4"
+}

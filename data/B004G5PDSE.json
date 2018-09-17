@@ -1,0 +1,88 @@
+{
+    "asin": "B004G5PDSE",
+    "title": "Kuretake Fude Brush Pen, Clean Color Real, 12 Colors Set (RB-6000AT/12VA)",
+    "brand": "Kuretake",
+    "feature": [
+        "Fude Brush Pen",
+        "ZIG Clean Color Real Brush",
+        "RB-6000AT/12VA"
+    ],
+    "description": "Fine Calligraphy writing pen from Japanese stationary Brand, Kuretake (Zig). Kuretake Fude Brush Pen, Clean Color Real Brush, 12 colors set",
+    "price": 2139.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 18.0,
+        "length": 380.0,
+        "width": 800.0,
+        "height": 130.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/5179RiemiaL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41vLqhiuB0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51krOeWnpyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51H2Ybzpy4L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Package Quantity:",
+            "value": "1"
+        },
+        {
+            "name": "Size:",
+            "value": "DESIGN 1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "2617941011",
+            "title": "Arts, Crafts & Sewing"
+        },
+        {
+            "node": "2747968011",
+            "title": "Painting, Drawing & Art Supplies"
+        },
+        {
+            "node": "12896641",
+            "title": "Drawing"
+        },
+        {
+            "node": "12896681",
+            "title": "Drawing Media"
+        },
+        {
+            "node": "12896761",
+            "title": "Pens"
+        }
+    ],
+    "similar": [
+        "B0143L8B0M",
+        "B01M71S9DU",
+        "B07FKPT257",
+        "B004WBY2J8",
+        "B07CTDJH45",
+        "B007PMODQI",
+        "B0008G8G8Y",
+        "B00HE0ZZ22",
+        "B004WBXGL8",
+        "B0143L8B02",
+        "B07C4V2DC8",
+        "B004WBY1AS",
+        "B07CL7428N",
+        "B074CL66VH",
+        "B078969JZS",
+        "B078586KXP",
+        "B078P9LCLC",
+        "B07G12D21Q",
+        "B07F5V86HT",
+        "B000VZB51C",
+        "B01N9IY5QF",
+        "B01EN0HCH6",
+        "B007PMOEEE",
+        "B004WBY3TW",
+        "B078MLF649",
+        "B003AM7BES",
+        "B01NASJCVK"
+    ],
+    "rating": "4.4"
+}

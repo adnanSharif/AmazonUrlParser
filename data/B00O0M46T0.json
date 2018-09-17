@@ -1,0 +1,89 @@
+{
+    "asin": "B00O0M46T0",
+    "title": "Dell Universal Adapter (DA100)",
+    "brand": "Dell",
+    "feature": [
+        "USB 3.0 VGA, HDMI, USB 2.0, Ethernet",
+        "Dell Universal Adapter - DA100",
+        "Dell Universal Adapter - DA100"
+    ],
+    "description": "Docks to any laptop with USB 3.0, USB 3.0 VGA, HDMI, USB 2.0, Ethernet, One year Limited Hardware Warranty",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 71.25,
+        "length": 1120.0,
+        "width": 470.0,
+        "height": 160.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31M09omRiHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31b08q-6cJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31YY5kjVV%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41RLwvoz8sL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "USB 2.0"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "172472",
+            "title": "Computer Cable Adapters"
+        },
+        {
+            "node": "3015403011",
+            "title": "USB-to-VGA Adapters"
+        }
+    ],
+    "similar": [
+        "B01C8PHWQY",
+        "B012DT6KW2",
+        "B07GY48WFL",
+        "B00O0M46KO",
+        "B00UCIZWTO",
+        "B071YTQBXM",
+        "B071DH5R8F",
+        "B012DT6LIA",
+        "B07GNW2DLX",
+        "B01I2TTCTK",
+        "B00G5OAT88",
+        "B0779ZJZX3",
+        "B07G763VH3",
+        "B06XN6XWD7",
+        "B07GRW1YJV",
+        "B073VHJH63",
+        "B01LYS3Q5A",
+        "B014I8UQJY",
+        "B07C1R8KFC",
+        "B01LSZPYBK",
+        "B01M3N7DIA",
+        "B015RIVYJK",
+        "B01FKTZLBS",
+        "B01BQ8RSVS",
+        "B00NH11R3I",
+        "B079MDQDP4",
+        "B074QJ4318",
+        "B074QN2876",
+        "B01M0NORKS",
+        "B07CZCBZTV",
+        "B079GXGQPY",
+        "B0768RFQ83"
+    ],
+    "rating": "3.1"
+}

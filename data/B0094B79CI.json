@@ -1,0 +1,75 @@
+{
+    "asin": "B0094B79CI",
+    "title": "Casio Men's Digital Watch",
+    "brand": "Casio",
+    "feature": [
+        "Imported",
+        "Stainless steel watch featuring multi-function dial with world time indicator, 12/24-hour formats, countdown timer, LCD display, world map, LED light with after-glow, alarm, and mute function",
+        "39.5-mm stainless steel case with mineral dial window",
+        "Japanese quartz movement with digital display, Case is plastic with stainless steel caseback",
+        "Stainless steel bracelet with fold-over clasp with double push-button safety",
+        "Water resistant to 100 m (330 ft): In general, suitable for swimming and snorkeling, but not scuba diving"
+    ],
+    "description": "Casio Men's AE1200WHD-1A Stainless Steel Analog Digital Watch",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 36.25,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Qvmbg4RfL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31JwT36d9jL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41vO%2BHqf1cL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Silvertone"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "6358539011",
+            "title": "Watches"
+        },
+        {
+            "node": "6358540011",
+            "title": "Wrist Watches"
+        }
+    ],
+    "similar": [
+        "B06XS9NQPF",
+        "B075HC13RK",
+        "B078V3LDLJ",
+        "B0094B79PA",
+        "B000LAKYW8",
+        "B000GAWSDG",
+        "B0179HF3OY",
+        "B06Y3L2SYX",
+        "B003DZ7VZG",
+        "B00BS8UCJM",
+        "B06Y394PX5",
+        "B00WY1JS1A",
+        "B00BS8UCAG",
+        "B004FG8BY2",
+        "B077ZVJLR7",
+        "B071HHGRGN",
+        "B000GAYQJ0",
+        "B00IYUYAFY",
+        "B000GX3IL4",
+        "B000GX8WAG"
+    ],
+    "rating": "4.5"
+}

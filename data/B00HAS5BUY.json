@@ -1,0 +1,77 @@
+{
+    "asin": "B00HAS5BUY",
+    "title": "BulkSupplements CLA Softgels (1000mg) (Conjugated Linoleic Acid) (300 Softgels)",
+    "brand": "BulkSupplements",
+    "feature": null,
+    "description": null,
+    "price": 1996.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 95.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41DXUThA78L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51uIhAVC2oL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774931",
+            "title": "Weight Loss"
+        },
+        {
+            "node": "3775151",
+            "title": "Supplements"
+        },
+        {
+            "node": "3774981",
+            "title": "CLA"
+        }
+    ],
+    "similar": [
+        "B00O1AQQGC",
+        "B00L2JSOYM",
+        "B00E9M4XEE",
+        "B01ATMVN0E",
+        "B01MTJZNQF",
+        "B01LXUPFDE",
+        "B00EYDJTRE",
+        "B01M66RGCJ",
+        "B01LXGBK0K",
+        "B07C9HJK39",
+        "B06Y3NRXZP",
+        "B01H5TJSF6",
+        "B01M9D1J2C",
+        "B073LM7YR1",
+        "B0728GCLYM",
+        "B00NF1MYQY",
+        "B0134TBGRE",
+        "B00GB85MZI",
+        "B07455ZFXZ",
+        "B00E7TMONG",
+        "B07782GPNY",
+        "B00JUAGBOK",
+        "B0016KE766",
+        "B075LMHQH3",
+        "B01J659QW2",
+        "B01F2OG8B8",
+        "B01M6B4666",
+        "B0029WNER8",
+        "B076F7NHPV",
+        "B00EIO4I7A",
+        "B00K7G08O0"
+    ],
+    "rating": "4.7"
+}

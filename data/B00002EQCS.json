@@ -1,0 +1,93 @@
+{
+    "asin": "B00002EQCS",
+    "title": "NETGEAR 8-Port Fast Ethernet Unmanaged Switch, Desktop, ProSAFE Lifetime Protection (FS108NA)",
+    "brand": "NETGEAR",
+    "feature": [
+        "8 10/100 Fast Ethernet ports",
+        "Small and silent desktop form factor",
+        "Plug n Play connectivity easily installs into any network",
+        "Energy efficient helps lower power cost",
+        "Rigorously tested for reliability, built to last",
+        "LIFETIME WARRANTY",
+        "LIFETIME Advanced Tech Support via chat"
+    ],
+    "description": "NETGEAR's popular FS100 series desktop switches, known for their reliability and performance, provide your LAN with high-speed, 10/100 Mbps auto-sensing connectivity for as many as 5, 8, or 16 users. Just plug in your Ethernet cables, connect a power cord, and you're ready to go-there's no software to configure. They negotiate to the fastest possible connection and with Auto Uplink technology, these switches automatically figure out if the link needs a straight-through or cross-over connection, and makes the right choice. Existing 10BASE-T devices are easily integrated within higher bandwidth environments, with full wire speeds on all ports of either 10 Mbps or 100 Mbps. Engineered without the need for internal fans, they operate silently. And each of these very compact switches is housed in a sturdy metal case for years of dependable use.When you want solid network performance for your growing business, plus the added benefit of quiet operation, NETGEAR's ProSafe FS105, FS108, and FS116 are your best choices for quality, convenience, and smooth - running usability - all at very affordable prices.Five, eight, or sixteen ports provide LAN access for many users. Every port supports up to 200 Mbps in dedicated bandwidth and traffic is forwarded flawlessly with automatic flow control.Solidly built in small sizes that are easy to position when space is at a premium. Ideal for conference rooms, class rooms, study groups or small offices. Place it on any flat surface or use the included wall mount kit to tuck it out of the way.Once you connect the hardware, your switch is operating! Auto negotiation takes care of the speed and duplex, while Auto Uplink takes care of the MDI/MDI-X connection. Eliminate the need for toggle switches or special crossover cables.No fan means no noise, which helps maintain a peaceful atmosphere in your busy office.Amazon.com Product Description Plug in your Ethernet cables and connect a power cord, and you're ready to go. There is no software to install or settings to configure. The switch features auto negotiation, which automatically obtains the fastest possible connection, and Auto Uplink takes care of the MDI/MDI-X connection. There are no toggle switches or special crossover cables. If your network has existing 10BASE-T devices, they will work seamlessly within a higher bandwidth environment with each port achieving its full speed. Every port supports up to 200 Mbps in dedicated bandwidth. Automatic flow control ensures smooth traffic. The FS108 has 96 KB of buffer memory and an address database size of 1,000. The switch has status LEDs for power, and link, speed, and activity for each port. The NETGEAR FS108 ProSafe 5-Port 10/100 Desktop Switch has a Mean Time Between Failure of 168,300 hours and is backed by a lifetime warranty. The power adapter is backed by a 2-year warranty. FS108 Desktop Switch, wall-mount kit, power adapter, quick installation guide, warranty/support information card.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 215.0,
+        "length": 720.0,
+        "width": 500.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41qKEc0bzPL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31dfRNuMDFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31BM%2BoUUc-L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41-1SCXd6OL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412xgakbU0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41nYLBVT0OL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51NVJ5g8IZL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Model:",
+            "value": "Metal"
+        },
+        {
+            "name": "Capacity:",
+            "value": "08 Port"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "281414",
+            "title": "Switches"
+        }
+    ],
+    "similar": [
+        "B01K4CZOBS",
+        "B00KFD0SNG",
+        "B000063UZW",
+        "B00KFD0SEA",
+        "B01DXB7TSS",
+        "B00M8IA7AU",
+        "B075NDTVJV",
+        "B014I8UQJY",
+        "B01FWAZEIU",
+        "B00FV12VSW",
+        "B00002EQCW",
+        "B00SHZYCG8",
+        "B00E5I7VJG",
+        "B01K1JUE1E",
+        "B00A121WN6",
+        "B000092RRM",
+        "B000ANF8FE",
+        "B00DCUKCVW",
+        "B00MPVR50A",
+        "B00006RVPW",
+        "B0006NMRVQ",
+        "B077JFK5YH",
+        "B01IQWGKQ6",
+        "B00N2VIWPY",
+        "B00E5I7WBS",
+        "B000BCC0LO",
+        "B01HUOE12G",
+        "B07C58VKPN",
+        "B0000BVYT3"
+    ],
+    "rating": "4.6"
+}

@@ -1,0 +1,87 @@
+{
+    "asin": "B00CSV25L6",
+    "title": "Aitoh US-PA-3 Origami Paper, 3-Inch by 3-Inch, Black/White, 300-Pack",
+    "brand": "Aitoh",
+    "feature": [
+        "Black and White",
+        "Create exquisite paper decorations",
+        "Premium Origami Paper"
+    ],
+    "description": "AITOH-Origami Paper. Amazingly simple and incredibly beautiful. Create exquisite paper decorations! Comes in a variety of designs. Each sold separately. Non-toxic. Imported.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 30.0,
+        "length": 300.0,
+        "width": 300.0,
+        "height": 20.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61CCog14EFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61JoKZhRTtL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/3191kfGmyeL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "2617941011",
+            "title": "Arts, Crafts & Sewing"
+        },
+        {
+            "node": "378733011",
+            "title": "Crafting"
+        },
+        {
+            "node": "12897981",
+            "title": "Paper & Paper Crafts"
+        },
+        {
+            "node": "12898111",
+            "title": "Paper"
+        },
+        {
+            "node": "12898211",
+            "title": "Origami Paper"
+        }
+    ],
+    "similar": [
+        "B00HE10S50",
+        "B01N6HN5ZF",
+        "B00HE08VM8",
+        "B00HE234WS",
+        "B07842BNNQ",
+        "B079KHKQ8D",
+        "B00HE11ING",
+        "B00HE10DIW",
+        "0804846316",
+        "B00Q3TCW08",
+        "B00CSV29XA",
+        "B007NJVXHK",
+        "B009Q9X8M8",
+        "B00HE230EU",
+        "B00AR0UMEC",
+        "B06WVPMBR5",
+        "B00HE06SBE",
+        "B00HE2B8GM",
+        "B06WGTVZCG",
+        "B00HE0W52U",
+        "B005DH8X8G",
+        "B07GGXFS46",
+        "B071NRGFF9",
+        "B007MHXO34",
+        "B071GSTGF1",
+        "B007MHTGEU",
+        "B001J2YJBE",
+        "B01CRFU26W",
+        "B0774HD15D",
+        "B00HE23BIK",
+        "B00AR0RTX4",
+        "B00BDOI95K",
+        "B0799GP7GW",
+        "B00CSV294O",
+        "B00DUSKPUE",
+        "B001EJO21E"
+    ],
+    "rating": "4.0"
+}

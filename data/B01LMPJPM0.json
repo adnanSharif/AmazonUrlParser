@@ -1,0 +1,54 @@
+{
+    "asin": "B01LMPJPM0",
+    "title": "DMG (Dimethylglycine) 125 mg Capsules - Hypo by Kirkman Labs",
+    "brand": "Kirkman",
+    "feature": null,
+    "description": "Supports methylation and other body processes and is an immune system modulator.;STORE IN A COOL DRY PLACE AND TIGHTLY CAPPED. KEEP OUT OF THE REACH OF CHILDREN.;DMG & TMG;Capsules;100 ct",
+    "price": 6094.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 51.24999999999999,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/418wR-AfscL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "10787321",
+            "title": "Baby & Child Care"
+        },
+        {
+            "node": "16025511",
+            "title": "Personal Care"
+        }
+    ],
+    "similar": [
+        "B00P8DVV2A",
+        "B06XXQNYXG",
+        "B01INRFW0E",
+        "B01AJ2BICM",
+        "B0016CXZJO",
+        "B01B3KUB3G",
+        "B0058PUJ80",
+        "B01M4QVBKW",
+        "B07B1JJD5Z",
+        "B01KAPXPXI",
+        "B01MU8BBHK",
+        "B00PYX2SVM",
+        "B076M84NHY",
+        "B004DSBQZS",
+        "B00B7ZNR52",
+        "B0046HCX0I",
+        "B0038NZ3KS"
+    ],
+    "rating": null
+}

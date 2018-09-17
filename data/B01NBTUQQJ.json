@@ -1,0 +1,81 @@
+{
+    "asin": "B01NBTUQQJ",
+    "title": "ASUS Mechanical Gaming Keyboard ROG Claymore Cherry MX Brown",
+    "brand": "Asus",
+    "feature": [
+        "ASUS Aura ROG Sync for a customizable light-show with the growing ASUS Aura ecosystem including mouse, motherboard and graphics card via ROG Armoury\u2019s 14 lighting effects",
+        "Cherry MX RGB switches for faster response times and extended keyboard life cycle",
+        "Detachable numeric keypad attaches to left for macros or right for 10-key usage",
+        "One-click overclocking, profile-switching, boot-up and fan control through programmed hot keys",
+        "Aluminum-alloy frame for enhanced durability and keypad stability"
+    ],
+    "description": "A powerful combination of work hard, play harder, the ROG Claymore combines responsive Cherry MX Brown switches with ASUS Aura Sync that enables unified lighting across all Aura Sync-capable devices. Choose from three different placements with the detachable numeric keypad, featuring a metal cover and spring connection for seamless movement.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 875.0,
+        "length": 570.0,
+        "width": 170.0,
+        "height": 1770.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41xPtJsXqLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Biaw6EwWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41uMqDH%2B3sL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41HkOoMjE1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/416ZCIQajtL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/414vmfgqQiL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "229575",
+            "title": "PC"
+        },
+        {
+            "node": "318813011",
+            "title": "Accessories"
+        },
+        {
+            "node": "402051011",
+            "title": "Gaming Keyboards"
+        }
+    ],
+    "similar": [
+        "B06XT4B2B9",
+        "B01LXC1QL0",
+        "B016MAK38U",
+        "B01NGTJBUA",
+        "B01NH58I8J",
+        "B06ZZFVHF1",
+        "B077DXV361",
+        "B078P38PFR",
+        "B073JDLCKT",
+        "B072FLD6YG",
+        "B07C83QWG3",
+        "B07B2WLS17",
+        "B079K49XTH",
+        "B01MZ2DT9A",
+        "B07CQG7DLR",
+        "B015MQH59A",
+        "B07GBTD3XX",
+        "B076BGMZFM",
+        "B01EMP3XDY",
+        "B078WGG4QG",
+        "B01N0OK41T",
+        "B013P0HW7K",
+        "B01MS6C7S8",
+        "B01G5ATZAE",
+        "B07F1PJVS8",
+        "B075KMZ4MX",
+        "B073VFG6BZ",
+        "B07DHNX18W",
+        "B07DKWQB1B"
+    ],
+    "rating": "4.3"
+}

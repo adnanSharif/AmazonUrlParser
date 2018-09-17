@@ -1,0 +1,71 @@
+{
+    "asin": "B01J6JP8XE",
+    "title": "Cable Matters Inline Passive Power Injector over Ethernet",
+    "brand": "Cable Matters",
+    "feature": [
+        "PASSIVE PoE INJECTOR KIT provides in line power over a Cat 5, 5e, 6 Ethernet network cable to an IP camera, IP phone, wireless access point and more; Enables non PoE equipped devices to be powered over a single network cable; Allows a more flexible position for an IP device",
+        "PoE POWER is sent from the original AC power adapter of your device over a network cable and then split out to provide power at the remote end; IP device power connector has the common 5.5 x 2.1mm center negative male barrel; Powers devices from 15 to 150 feet depending on the voltage of the power supply and quality of the network cable",
+        "STURDY CABLE CONSTRUCTION includes gold-plated connectors, 24 AWG wire, an industry standard fire retardant jacket, and molded strain relief connectors",
+        "PoE POWER SPLITTER uses pins 1-2 and 3-6 for data; Pins 4-5 7-8 are used for power; Supports Fast Ethernet speeds required by most IP cameras and phones; Gigabit Ethernet is not supported since two pairs are used for power"
+    ],
+    "description": null,
+    "price": 899.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 950.0,
+        "width": 600.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41aOIFcUzDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/3195msml9VL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ohU0flXML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41du0DAbmmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/310RaivmAhL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "490499011",
+            "title": "Network Adapters"
+        }
+    ],
+    "similar": [
+        "B00FV12VSW",
+        "B00FYEY6SY",
+        "B07BBVMTSL",
+        "B001PS9E5I",
+        "B074ZTNHNW",
+        "B01C4UY0JK",
+        "B003CFATQK",
+        "B00NRHNPUA",
+        "B01HMNJHII",
+        "B017J8WJ5E",
+        "B019MPTMT8",
+        "B078LYW6D7",
+        "B07C7W91YR",
+        "B01N140WYY",
+        "B004UBUB7C",
+        "B0758CXVND",
+        "B0762KTLJC",
+        "B00AH5XCLC",
+        "B01K1JUE1E",
+        "B00AZA0FU0",
+        "B01MDLUSE7"
+    ],
+    "rating": "4.5"
+}

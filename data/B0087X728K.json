@@ -1,0 +1,61 @@
+{
+    "asin": "B0087X728K",
+    "title": "Arctic Silver 5 AS5-3.5G Thermal Paste",
+    "brand": "Arctic Silver",
+    "feature": null,
+    "description": "The Arctic Silver 5 High-Density Polysynthetic Silver Thermal Compound enhances the compound's performance and long-term stability. Arctic Silver 5 uses three unique shapes and sizes of pure silver particles to maximize particle-to-particle contact area and thermal transfer. Arctic Silver 5 will not separate, run, migrate or bleed.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 3.75,
+        "length": 850.0,
+        "width": 250.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31YrBDux0iL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310091",
+            "title": "Industrial & Scientific"
+        },
+        {
+            "node": "306506011",
+            "title": "Industrial Electrical"
+        },
+        {
+            "node": "306943011",
+            "title": "Thermal Management Products"
+        },
+        {
+            "node": "306944011",
+            "title": "Computer Heatsinks"
+        }
+    ],
+    "similar": [
+        "B0759FKH8K",
+        "B00NXZN0HY",
+        "B00LT0ZWJE",
+        "B075F37SQG",
+        "B07CYKDC2X",
+        "B00BUI5QWS",
+        "B07BL4K8NR",
+        "B01EF9OI0O",
+        "B07CKVW18G",
+        "B01LP5QRJQ",
+        "B01FYDU8X6",
+        "B0045JCFLY",
+        "B001ET76AI",
+        "B01K8A29BE",
+        "B0795DP124",
+        "B00QZD6LFY",
+        "B01G7DFGWK",
+        "B01IEKG402",
+        "B00M5G6AHY",
+        "B075FRTRJ5"
+    ],
+    "rating": "4.7"
+}

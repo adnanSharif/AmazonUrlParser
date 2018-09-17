@@ -1,0 +1,77 @@
+{
+    "asin": "B00EIU49XM",
+    "title": "BulkSupplements Pure Glutathione Reduced Powder (25 grams)",
+    "brand": "BulkSupplements",
+    "feature": null,
+    "description": null,
+    "price": 2396.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 500.0,
+        "width": 150.0,
+        "height": 720.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41DXUThA78L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Aid0%2BqN2L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6936686011",
+            "title": "Multi & Prenatal Vitamins"
+        },
+        {
+            "node": "3773931",
+            "title": "Multiple Vitamin-Mineral Supplements"
+        }
+    ],
+    "similar": [
+        "B0778XYJ41",
+        "B00AYIM9Y8",
+        "B00EIU4A5O",
+        "B073WLRY2P",
+        "B07B3Y3HCK",
+        "B00F8HGA6S",
+        "B0031X3ARS",
+        "B071FHLT3Y",
+        "B0743J21SF",
+        "B00V95M1AW",
+        "B00F8HGA0E",
+        "B00GS7ILFU",
+        "B01FNEZA20",
+        "B00AY915CY",
+        "B01GS6Q300",
+        "B0743Y1CR4",
+        "B00GS7ILEG",
+        "B00EIU49LO",
+        "B01N02YNF5",
+        "B0013OULOM",
+        "B00YQHF6CK",
+        "B01N11P935",
+        "B0751W65BY",
+        "B00MU73UKS",
+        "B00EIU49W8",
+        "B00YQHF634",
+        "B00I07Z9XI",
+        "B01AYO9AM0",
+        "B008X2VXBW",
+        "B00EIU49YG",
+        "B01BHF3L3O",
+        "B00TG2TRL6",
+        "B01N3LZY3O",
+        "B00YQHF666",
+        "B000UQ29YE"
+    ],
+    "rating": "4.4"
+}

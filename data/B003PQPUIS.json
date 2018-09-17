@@ -1,0 +1,70 @@
+{
+    "asin": "B003PQPUIS",
+    "title": "Klaire Labs Coenzyme Q10 100 Mg, 30 Capsules",
+    "brand": "Klaire Labs",
+    "feature": null,
+    "description": "Pure coenzyme Q10 as ubiquinone is provided in convenient two-piece vegetarian capsules, with no other added nutrients. This hypoallergenic* product contains none of the following allergens: milk/casein, eggs, fish, shellfish, tree nuts, peanuts, wheat, gluten, and soybeans. Contains no artificial colors, flavors, or preservatives.",
+    "price": 2995.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 1.875,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/412eo3r9m3L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6939426011",
+            "title": "Supplements"
+        },
+        {
+            "node": "3774521",
+            "title": "Antioxidants"
+        },
+        {
+            "node": "3774561",
+            "title": "CoQ10"
+        }
+    ],
+    "similar": [
+        "B002VRG7S4",
+        "B001PYVIJW",
+        "B075358HTM",
+        "B01M4LXMV7",
+        "B0055OUOQQ",
+        "B00H4HT0EE",
+        "B001WU7QT0",
+        "B004GJVD4I",
+        "B004JP9AT4",
+        "B00NVFNW4W",
+        "B00K61GM7S",
+        "B01D52YXMK",
+        "B06XST2WCZ",
+        "B01CD49YNY",
+        "B001PYZBRM",
+        "B0064R62BO",
+        "B01BKUD45G",
+        "B01L84W4C8",
+        "B001PYZDS4",
+        "B00JVYT2AA",
+        "B0062EKSXC",
+        "B06VX1FNZF",
+        "B0039N1VQW",
+        "B001PYXMUA",
+        "B000FH11VU"
+    ],
+    "rating": "5.0"
+}

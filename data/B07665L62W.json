@@ -1,0 +1,103 @@
+{
+    "asin": "B07665L62W",
+    "title": "CamelBak Chute Mag Water Bottle",
+    "brand": "CamelBak",
+    "feature": [
+        "Magnetic Handle: Keeps the cap stowed while drinking",
+        "Angled Spout: Provides an ergonomic drink interface that delivers a high flow of water without sloshing or spilling",
+        "Comfortable To Carry: Handle designed to comfortably carry a full bottle with two fingers",
+        "BPA, BPS & BPF Free: Taste your beverage, not the bottle",
+        "Wide-Mouth Opening: Easy to fill with ice and water and a breeze to clean",
+        "BPA, BPS & BPF Free: Taste your beverage, not the bottle"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 45.0,
+        "length": 1040.0,
+        "width": 340.0,
+        "height": 370.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/21M5A-M32RL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51yjsxyo49L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41mg20tDB%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51q9G1QLmyL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Charcoal"
+        },
+        {
+            "name": "Style:",
+            "value": "32oz"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "10971181011",
+            "title": "Sports & Fitness"
+        },
+        {
+            "node": "3394801",
+            "title": "Accessories"
+        },
+        {
+            "node": "3395091",
+            "title": "Sports Water Bottles"
+        }
+    ],
+    "similar": [
+        "B07665NMH2",
+        "B0766413JX",
+        "B07579DLK6",
+        "B00VBPEK2W",
+        "B01KN66QNU",
+        "B077M2Q5QB",
+        "B06XDQXRR2",
+        "B079QJQY3X",
+        "B07664TBMK",
+        "B07DK2D87Z",
+        "B00EPGMLXE",
+        "B07667M3N3",
+        "B07B1S1KFW",
+        "B077M99ZX3",
+        "B076CWHTP5",
+        "B07664SN5V",
+        "B01575F9WG",
+        "B014VWQU74",
+        "B07665NMH4",
+        "B07FQTDPT8",
+        "B07821D2QD",
+        "B07DJ7JSKK",
+        "B00WUPXNKC",
+        "B00J08JCWA",
+        "B07663KW9J",
+        "B006JYHFJA",
+        "B07DHVYBFW",
+        "B00EPGMN1E",
+        "B01787PDVI",
+        "B07BBVXQCF",
+        "B0767LGW85",
+        "B07664TBN1",
+        "B07663KWCD",
+        "B0091SPVSI",
+        "B00NTYHQT2",
+        "B07CNQC7MM",
+        "B06ZZ5K887",
+        "B07663V16F",
+        "B07663LH6R",
+        "B011LC85PM",
+        "B079XSWK2B",
+        "B07665CZTB",
+        "B001NCDE8O"
+    ],
+    "rating": "4.4"
+}

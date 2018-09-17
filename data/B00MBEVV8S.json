@@ -1,0 +1,76 @@
+{
+    "asin": "B00MBEVV8S",
+    "title": "Perfect Fitness Pushup Stands",
+    "brand": "Perfect Fitness",
+    "feature": [
+        "360 stability with non-skid platform",
+        "Easy storage with stacking handles",
+        "Padded comfort grips keep wrists in neutral position"
+    ],
+    "description": "Engage more muscles to maximize results with the Perfect Pushup Stands. Padded comfort grips keep wrist in neutral positions to reduce joint strain. Increases muscle strength and definition in arms, shoulders, chest, back and abs. 360 Degree stability with non-skid platform grips well on carpet and all hard floor surfaces. Easy storage with stacking handles.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 45.0,
+        "length": 800.0,
+        "width": 500.0,
+        "height": 500.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/4186q6S3p%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51zLndJl3nL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "10971181011",
+            "title": "Sports & Fitness"
+        },
+        {
+            "node": "3407731",
+            "title": "Exercise & Fitness"
+        },
+        {
+            "node": "3408271",
+            "title": "Strength Training Equipment"
+        },
+        {
+            "node": "3408481",
+            "title": "Pushup Stands"
+        }
+    ],
+    "similar": [
+        "B008DNAJ5M",
+        "B008DNA9WU",
+        "B073GVMLBT",
+        "B00NI4NUFC",
+        "B01GZLH6CM",
+        "B071Z66BXD",
+        "B00LGXE5NS",
+        "B071JBN83R",
+        "B0798J8ZP1",
+        "B00Q3IGY4E",
+        "B01FIJRJOM",
+        "B01FIK51FU",
+        "B07BMZ8KCT",
+        "B06ZXXKHRX",
+        "B07H71CRHD",
+        "B00ZPAWV5C",
+        "B01CXIFOU2",
+        "B01LW3B6NQ",
+        "B01GCA4BJC",
+        "B002YQUP7Q",
+        "B019NTRMM2",
+        "B00S29WN3S",
+        "B076LVVB1C",
+        "B00RQA5UE8",
+        "B00EIWU2FE",
+        "B071W8S9XB"
+    ],
+    "rating": "4.5"
+}

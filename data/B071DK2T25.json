@@ -1,0 +1,88 @@
+{
+    "asin": "B071DK2T25",
+    "title": "PolarPro Katana - DJI Mavic Cinema Tray",
+    "brand": "PolarPro",
+    "feature": [
+        "Capture precise cinematic ground shots with the Katana Tray System (fits Mavic Platinum and Mavic Pro)",
+        "Includes Tray, Mavic Harness, and Phone Mount (up to IP7 Plus with case)",
+        "Allows you to use your Mavic as an all-in-one every day camera",
+        "Use your Mavic\u2019s powerful gimbal and camera in no-fly or difficult to fly zones",
+        "Cell phone monitor mount enables you to frame your subject perfectly"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 50.0,
+        "length": 1260.0,
+        "width": 550.0,
+        "height": 160.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41QBTZV%2B8mL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/410Vb7HYDCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41f0Oq8hbsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41s0LA9nlhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61CeGzotnxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51TPEGk4zUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51oHuXxmG4L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "502394",
+            "title": "Camera & Photo"
+        },
+        {
+            "node": "172435",
+            "title": "Accessories"
+        },
+        {
+            "node": "196569011",
+            "title": "Professional Video Accessories"
+        },
+        {
+            "node": "196573011",
+            "title": "Stabilizers"
+        }
+    ],
+    "similar": [
+        "B0785QGQ9C",
+        "B01IRLZDBE",
+        "B07GV6KZKV",
+        "B078MMF7BY",
+        "B07DFB2PLB",
+        "B07GB1HYQ9",
+        "B0797YQ4HN",
+        "B075NNG4WY",
+        "B0784YNRPW",
+        "B079Y7HP2Q",
+        "B077PC55NT",
+        "B077C8757S",
+        "B07D89FGWP",
+        "B01N9FASEL",
+        "B01MQULKJU",
+        "B06XCR2K5D",
+        "B079C3BGFC",
+        "B073QM9HS4",
+        "B075WXH3HC",
+        "B074HCMJ6F",
+        "B01MQUNS20",
+        "B079YTG9Y6",
+        "B075XLRY7X",
+        "B01LX3ZQG9",
+        "B07CXRR6JB",
+        "B0728N11SM",
+        "B074VYY6P8",
+        "B06XYNCZ85",
+        "B072JZHV2V",
+        "B07BHDXRW5",
+        "B071WKSCWT"
+    ],
+    "rating": "3.9"
+}

@@ -1,0 +1,80 @@
+{
+    "asin": "B006OZF4KG",
+    "title": "Revlon PhotoReady Perfecting Primer, 0.91 Fluid Ounce",
+    "brand": "Revlon",
+    "feature": null,
+    "description": "Get selfie ready with this luxurious, skin-perfecting primer. Revlon PhotoReady Perfecting Primer smooths and perfects skin for a flawless, airbrushed look. The lightweight, pink-tinted formula brightens skin and softens the appearance of imperfections to create the perfect canvas for makeup. To apply, start in the center of your face, blending the primer outwards until the formula is invisible on your skin. Wear alone for a more natural look or use before foundation to enhance your makeup and extend your wear. Revlon is a global leader in cosmetics, hair color, fragrances, skincare, and beauty care products. One of the strongest consumer brand franchises in the world, Revlon\u2019s products are sold in over 100 countries across six continents. Revlon revitalized the industry over the years with iconic nail and lip colors and with breakthrough technology like ColorStay transfer-resistant lipstick and makeup.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 350.0,
+        "width": 150.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/412C3G0PQ8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41V1m5GX0LL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412-K1dV51L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11058281",
+            "title": "Makeup"
+        },
+        {
+            "node": "11058691",
+            "title": "Face"
+        },
+        {
+            "node": "388109011",
+            "title": "Foundation Primers"
+        }
+    ],
+    "similar": [
+        "B004K0MSOM",
+        "B07624DSL9",
+        "B071D3MRHL",
+        "B002PBLH3Q",
+        "B00354QIEU",
+        "B0759HLCKP",
+        "B071DD5PV3",
+        "B008MAPGEK",
+        "B00THGOU8Q",
+        "B0084A5N0A",
+        "B005K8KZDE",
+        "B0049CR7UG",
+        "B00TGF3E6M",
+        "B001J4FU38",
+        "B009QZJDJO",
+        "B00H83298S",
+        "B01DPVX2HI",
+        "B006UET4XE",
+        "B00XQBK8CA",
+        "B00TGF3WRS",
+        "B07BXHN141",
+        "B077WZZ61Z",
+        "B073XTWVM6",
+        "B00Q26WCZ2",
+        "B071ZS7FXM",
+        "B00B4YVU4G",
+        "B0759HMSXF",
+        "B0030HAEG0",
+        "B00RM4XUF4",
+        "B006OZF0WS",
+        "B01MTGECY8",
+        "B00SA729I6",
+        "B01M4MCUAF",
+        "B00TGEG3AC",
+        "B07599CBPP",
+        "B07CL18DHK",
+        "B01M345Z4K"
+    ],
+    "rating": "4.0"
+}

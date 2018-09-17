@@ -1,0 +1,59 @@
+{
+    "asin": "B00VEMTB62",
+    "title": "Estee Lauder Clear Difference Purifying Exfoliating Mask, 2.5 Ounce",
+    "brand": "Estee Lauder",
+    "feature": null,
+    "description": "An intensive clarifying treatment mask. Features a soft clay formula to draw out impurities and remove excess oil. Contains powerful salicylic acid to stop breakout cycle and banish flakiness. Detoxifies and prevents clogged pores to minimize future breakouts. Reduces the look of pores. Unveils a cleaner, clearer, refreshed and shine-free complexion with a healthy glow. Ideal for oily, blemish-prone skin. To use: Apply generously to cleansed face. Leave on for 5 minutes. Wet hands and gently massage over face. Use twice a week.",
+    "price": 4990.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 31.25,
+        "length": 190.0,
+        "width": 140.0,
+        "height": 550.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41%2BQ-FTaQNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41T25QdqZkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/511MudH2mjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21HwEilBglL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11062031",
+            "title": "Treatments & Masks"
+        },
+        {
+            "node": "11061121",
+            "title": "Masks"
+        }
+    ],
+    "similar": [
+        "B01K2UMMI0",
+        "B01N4VMLGA",
+        "B079Y8CSS6",
+        "B01KMSTCWG",
+        "B00X6ZNWG0",
+        "B01HXV90BS",
+        "B01ES349CY",
+        "B00TI6TSD2",
+        "B01M4MCUAF",
+        "B00VEMTEC8",
+        "B0090UJFYI"
+    ],
+    "rating": "5.0"
+}

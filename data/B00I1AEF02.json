@@ -1,0 +1,106 @@
+{
+    "asin": "B00I1AEF02",
+    "title": "Tommy Hilfiger Men's Navy Ties",
+    "brand": null,
+    "feature": [
+        "100% Silk",
+        "Imported",
+        "Dry Clean Only",
+        "Classic tie in allover micro pattern",
+        "Signature contrast tail",
+        "Width: 3 1/8\"",
+        "Length: 57\""
+    ],
+    "description": null,
+    "price": 2499.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Kc139F6zL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51qe8GLIxSL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "Regular"
+        },
+        {
+            "name": "Color:",
+            "value": "Micro Navy Ii"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "2474937011",
+            "title": "Accessories"
+        },
+        {
+            "node": "17874824011",
+            "title": "Ties, Cummerbunds & Pocket Squares"
+        },
+        {
+            "node": "2474955011",
+            "title": "Neckties"
+        }
+    ],
+    "similar": [
+        "B00I1AEDK4",
+        "B00I1AE8D6",
+        "B00I1AEF16",
+        "B000A3YFUI",
+        "B07FJPR8ZQ",
+        "B008N1O1RG",
+        "B00TU7V58A",
+        "B073GCMDJ5",
+        "B00GYKPLNG",
+        "B0192BK6AQ",
+        "B06WGQ5RW2",
+        "B07DJ91RQR",
+        "B002S55366",
+        "B07FWBKQN3",
+        "B00KG6RU6U",
+        "B01DPXHNYO",
+        "B015GIPO5G",
+        "B00I1AE8FY",
+        "B00Y9MAIHK",
+        "B015GIQL12",
+        "B01MS3XTDK",
+        "B01N6KUH2E",
+        "B002SFJFS8",
+        "B07DVVYJGQ",
+        "B07GCY59PV",
+        "B076J5Z51M",
+        "B07CN8FN1Z",
+        "B077GRL5WJ",
+        "B00I1AEBX8",
+        "B07DFGBZNJ",
+        "B015GIPLOU",
+        "B00I1AEFM0",
+        "B01LX3SM6W",
+        "B01FLLJ7ME",
+        "B00I1AEEZS",
+        "B00I1AEDLI",
+        "B07FDKJ9BQ",
+        "B00I1AE9ZS",
+        "B00KG6RP92",
+        "B01MZ6Y6IX",
+        "B00TU7VMOW",
+        "B07F685MZW",
+        "B07BB7W1PC"
+    ],
+    "rating": "4.0"
+}

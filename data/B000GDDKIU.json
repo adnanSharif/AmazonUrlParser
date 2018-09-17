@@ -1,0 +1,71 @@
+{
+    "asin": "B000GDDKIU",
+    "title": "Murad Acne Clarifying Cleanser, Step 1 Cleanse/Tone, 6.75 fl oz (200 ml)",
+    "brand": "Murad",
+    "feature": null,
+    "description": null,
+    "price": 2600.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 290.0,
+        "width": 290.0,
+        "height": 700.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31Mo0I5ohEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31GXM84tdUL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11060901",
+            "title": "Cleansers"
+        },
+        {
+            "node": "7730193011",
+            "title": "Washes"
+        }
+    ],
+    "similar": [
+        "B00FZESMKG",
+        "B000GDC4JQ",
+        "B06XDDZCY2",
+        "B00G2TQNZ4",
+        "B00XN4VUAO",
+        "B00V42Q14C",
+        "B01AMVDRVU",
+        "B00KC56MIC",
+        "B00TGFOZ6K",
+        "B00TGENVDO",
+        "B00THGVILI",
+        "B00JDOKJZK",
+        "B000GX4BSS",
+        "B000GDDKJY",
+        "B000GDA06A",
+        "B06Y271G1K",
+        "B01BHYAPJS",
+        "B000GDDKJ4",
+        "B06XDTLQ1Y",
+        "B07BNXJLVN",
+        "B00PO7GKLM",
+        "B001LNTNGC",
+        "B00G0IKDWG",
+        "B00LA5NHXQ",
+        "B0016A7QNC"
+    ],
+    "rating": "4.1"
+}

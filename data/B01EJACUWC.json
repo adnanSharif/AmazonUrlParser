@@ -1,0 +1,75 @@
+{
+    "asin": "B01EJACUWC",
+    "title": "Cateck Ultra Slim USB 3.0 3-Port Aluminum Hub with SD/TF Card Reader Combo",
+    "brand": "Cateck",
+    "feature": [
+        "Apple-style design ideal For Mac Pro, iMac, MacBook Air, MacBook Pro, MacBook, and Mac mini",
+        "Adds 3 USB 3.0 ports and 2-slots Card Reader to your computer; Supports SDXC (up to 2TB), SDHC, SD, Micro SDXC, Micro SDHC, Micro SD cards",
+        "Plug and play; Hot swapping; USB-powered (no external power or battery needed)",
+        "Built-in Overvoltage / Overcurrent / Leakage and Short-Circuit protection unit; Backward compatible with USB 2.0 / 1.1",
+        "Compatibility: Windows 2000 / ME/ XP / Vista / 7 / 8/ 10 (32bit/ 64bit ) and MAC OS 10.X or later version"
+    ],
+    "description": "It is designed for iMac, MacBook Air, MacBook Pro,laptops, tablets, and ultrabooks and expands one USB 3.0 high-speed port into three easily. It also features SD and TF card slots, which makes reading different types of memory cards very convenient, and the use of USB 3.0 allows for the fast reading of large media files, meeting the needs of those who need their files in HD. Its metallic silver finish and Apple-styled curved edge with shielded white cable complement Apple computers and products. SDXC (up to 2TB), SDHC, SD,Micro SDXC, Micro SDHC , Micro SD; Backward compatible with USB 2.0 / 1.1 Cateck USB 3.0 3-Port Hub with Card Reader Combo \u2022 Windows XP / Vista / 7 / 8/10, Mac OS 9.1 and above \u2022 Mac OS X Lion 10.7.4 users should upgrade to Mountain Lion 10.8.2 or later to avoid unstable connections. \u2022 For stable operation, devices connected to this hub should not exceed a combined current of 5V 900mAh. \u2022 It is not recommended to use this USB hub for too many peripheral devices with high energy consumption. Two external 2.5 \"hard drives without any additional power supply to bring the USB port of the PC is already at its limit. \u2022 This hub is not meant to serve as a stand-alone charger. It is not compatible with iPads or any other devices with irregular charging requirements. \u2022 2.4Ghz wireless devices, such as wireless keyboard and mouse adapters, may not work in close proximity to USB 3.0 devices or hubs. Connecting to a USB 2.0 port is recommended.",
+    "price": 999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 18.0,
+        "length": 530.0,
+        "width": 340.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41QDR8Lj9kL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31CinokgftL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41N34sUEC1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412Wo7x0VmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/317QnSrUJUL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "281413",
+            "title": "Hubs"
+        }
+    ],
+    "similar": [
+        "B078YRMG7P",
+        "B07DFYP6K5",
+        "B019E6YVXC",
+        "B075M3FT13",
+        "B01J7JU55O",
+        "B01MQD0HDU",
+        "B0777DW2JH",
+        "B01MQIATM8",
+        "B00ZKV8QV4",
+        "B0787QCWQX",
+        "B01INOPT3C",
+        "B07DW646GY",
+        "B000EWJYYW",
+        "B07FJVR8HD",
+        "B0776L41WC",
+        "B00TPMEOYM",
+        "B07GD3W277",
+        "B01BED52VI",
+        "B00XMD7KPU",
+        "B07BSL2MVG",
+        "B06XX95J3Z",
+        "B07GCJHM83",
+        "B00UMVFJW6",
+        "B07D2YVH9X"
+    ],
+    "rating": "3.5"
+}

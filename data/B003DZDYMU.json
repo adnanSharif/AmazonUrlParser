@@ -1,0 +1,90 @@
+{
+    "asin": "B003DZDYMU",
+    "title": "Casio Men's AE1000W-1B",
+    "brand": "Casio",
+    "feature": [
+        "LED light: A light-emitting diode (LED) is used to illuminate the watch face. Case Size : 48.1 \u00d7 43.7 \u00d7 13.7 mm",
+        "Hourly Time Signal, 1/100 second stopwatch, Countdown Timer, Full auto-calendar (pre-programmed until the year 2099",
+        "12/24 Hour Formats, Button operation tone on/off",
+        "CR2025, 10 years Battery Life, 1 battery",
+        "100-meter water resistance"
+    ],
+    "description": "This watch features a black resin band, 248-segment high density LCD with digital analog hand format, world time zone display, world time (48 cities + UTC) and 10-year battery life.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 56.875,
+        "length": 190.0,
+        "width": 50.0,
+        "height": 170.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51CkCv4LBwL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31DVLCFajiL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ndylb-j3L._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Band Color:",
+            "value": "black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "706814011",
+            "title": "Outdoor Recreation"
+        },
+        {
+            "node": "11443874011",
+            "title": "Outdoor Clothing"
+        },
+        {
+            "node": "11443875011",
+            "title": "Men"
+        },
+        {
+            "node": "11443906011",
+            "title": "Accessories"
+        },
+        {
+            "node": "15494452011",
+            "title": "Sport Watches"
+        }
+    ],
+    "similar": [
+        "B01FLLJ6IE",
+        "B003DZ7VVK",
+        "B013DL6S08",
+        "B0094B79PA",
+        "B00IYUYAFY",
+        "B015H3KYLO",
+        "B072DSLMXC",
+        "B0743363H3",
+        "B07CP98DXG",
+        "B0039YOHI0",
+        "B01GI8S5UO",
+        "B07465BQZX",
+        "B072P1SKB7",
+        "B06Y2RMLJ2",
+        "B07657P1FN",
+        "B01D0YCYQK",
+        "B01GI9Z1EG",
+        "B001AWZDA4",
+        "B0718XFT6J",
+        "B003DZ7VZG",
+        "B06XP738YV",
+        "B072N86ZGW",
+        "B003UCWWXI",
+        "B07437DLBD",
+        "B003EKNMPS",
+        "B07BXBP5B5",
+        "B078XY8ZQ8",
+        "B018HTGSN8"
+    ],
+    "rating": "4.2"
+}

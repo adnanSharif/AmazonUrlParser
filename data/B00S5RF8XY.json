@@ -1,0 +1,81 @@
+{
+    "asin": "B00S5RF8XY",
+    "title": "Easyday Digital Optic Coaxial RCA Toslink Signal to Analog Audio Converter Adapter with 1.5m Optical Cable",
+    "brand": "Easyday",
+    "feature": [
+        "Supports uncompressed 2-channel LPCM digital audio signal output",
+        "Supports sampling rate at 32, 44.1, 48, and 96 KHz",
+        "24-bit S/PDIF incoming bit stream on left and right channels",
+        "Provides electromagnetic-noise-free transmission",
+        "Note: Don't Support Samsung /LG 5.1 CH Dolby DTS audio (They not include PCM Mode)"
+    ],
+    "description": "This Digital to Analog Audio Converter is designed for either home or professional audio switching. It converts coaxial or toslink digital audio signals to analog L/R audio and available for connection to an external device such as an amplifier via standard RCA jacks.Note:This Decoder not support 5.1 surround sound.",
+    "price": 1019.9999999999999,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 160.0,
+        "width": 80.0,
+        "height": 160.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/512qqXbd8KL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51PvOtCGxUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41UToO7MhCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51xL-DK5CGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41vgNX-YgsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Eh7hCJQZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31XHQvUl-iL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310091",
+            "title": "Industrial & Scientific"
+        },
+        {
+            "node": "306506011",
+            "title": "Industrial Electrical"
+        },
+        {
+            "node": "306831011",
+            "title": "Semiconductor Products"
+        },
+        {
+            "node": "306873011",
+            "title": "Signal Components"
+        },
+        {
+            "node": "306896011",
+            "title": "Signal Converters"
+        }
+    ],
+    "similar": [
+        "B005DIRI6I",
+        "B01AWBA8U8",
+        "B01CHL874K",
+        "B01LQVWG9E",
+        "B00MRNTDWY",
+        "B003OND0N4",
+        "B07FF124N5",
+        "B0156F38LG",
+        "B01CZCYRTU",
+        "B016QVZF06",
+        "B07C9ZHGMQ",
+        "B003O509PY",
+        "B00KNNSKV0",
+        "B004C4WPXA",
+        "B00IXN6L3G",
+        "B008NCCXV6",
+        "B00NH11H38",
+        "B07C5VZVKD",
+        "B077MYRYBK",
+        "B00OY0WBTA",
+        "B07BKX8BV7",
+        "B006IPH5H2",
+        "B07D55GCVM",
+        "B07GKQ7LLZ"
+    ],
+    "rating": "4.0"
+}

@@ -1,0 +1,81 @@
+{
+    "asin": "B00WISC3IE",
+    "title": "Sharpie Fine-tip Permanent Marker, Assorted Colors (2 Packs of 24)",
+    "brand": "Sanford",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 110.00000000000001,
+        "length": 900.0,
+        "width": 790.0,
+        "height": 240.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51lbvQVl7HL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "2-Pack of 24"
+        }
+    ],
+    "categories": [
+        {
+            "node": "1064954",
+            "title": "Office Products"
+        },
+        {
+            "node": "1069242",
+            "title": "Office & School Supplies"
+        },
+        {
+            "node": "1069784",
+            "title": "Writing & Correction Supplies"
+        },
+        {
+            "node": "1069794",
+            "title": "Markers & Highlighters"
+        },
+        {
+            "node": "1069802",
+            "title": "Permanent Markers"
+        }
+    ],
+    "similar": [
+        "B06ZZ2NDZX",
+        "B07CVHZZG6",
+        "B00BEYXGNY",
+        "B019QBPDSM",
+        "B01DPY7K6Y",
+        "B00MQ2PP5A",
+        "B01GRF7NRY",
+        "B007QNWC3M",
+        "B019QBPACQ",
+        "B00JVB8FBA",
+        "B01M71S9DU",
+        "B07GCC8WQG",
+        "B077TJS66N",
+        "B01M0ERS1V",
+        "B07GCB7C5X",
+        "B00R3GRAYS",
+        "B019QBPA12",
+        "B07BTNBQ1T",
+        "B077GFJBZ8",
+        "B0035UQ3MQ",
+        "B000GOZYRO",
+        "B0007L1VOQ",
+        "B018OUTX50",
+        "B07664425F",
+        "B07FDKN8FM",
+        "B00UHUIJK6",
+        "B07GCBC834",
+        "B07B3X9B6C",
+        "B00UHUKKHQ",
+        "B06ZZX41Q1",
+        "B0003WN0DO"
+    ],
+    "rating": "4.6"
+}

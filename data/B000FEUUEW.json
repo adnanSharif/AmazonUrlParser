@@ -1,0 +1,89 @@
+{
+    "asin": "B000FEUUEW",
+    "title": "Crosman 12 CO2 Gram Cartridges",
+    "brand": "Crosman",
+    "feature": [
+        "CO2",
+        "Imported",
+        "CO2 ACCESSORIES"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 240.0,
+        "length": 380.0,
+        "width": 380.0,
+        "height": 350.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/518dhS5eacL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ML301lm1L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Standard Packaging"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "10971181011",
+            "title": "Sports & Fitness"
+        },
+        {
+            "node": "706813011",
+            "title": "Hunting & Fishing"
+        },
+        {
+            "node": "13364359011",
+            "title": "Shooting"
+        },
+        {
+            "node": "13364382011",
+            "title": "Air Guns & Accessories"
+        },
+        {
+            "node": "3307770011",
+            "title": "Air Gun Pellets"
+        }
+    ],
+    "similar": [
+        "B00BWWJPAQ",
+        "B0002IL6T4",
+        "B00L3ISU2S",
+        "B00WYMVN5I",
+        "B0002IL6M6",
+        "B00GA8RP3G",
+        "B00GA8S08K",
+        "B00IVKAY3Y",
+        "B00GLV3VBC",
+        "B005GXYWEG",
+        "B00ZFY5IDK",
+        "B00K1NAA6U",
+        "B001DCB61Q",
+        "B07BWR5J54",
+        "B07897Y55G",
+        "B003KP1PYW",
+        "B0018L9SRQ",
+        "B00GX3X7X0",
+        "B00B5JV84W",
+        "B005GXQR9O",
+        "B00IWZF17M",
+        "B00L2R1IRE",
+        "B001BR2WAW",
+        "B078WGL9CN",
+        "B073TS1P8P",
+        "B01IR83NGO",
+        "B0179ROVWO",
+        "B0002IL6TY",
+        "B001TOLL1I",
+        "B07C2SPG96"
+    ],
+    "rating": "4.6"
+}

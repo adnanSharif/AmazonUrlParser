@@ -1,0 +1,96 @@
+{
+    "asin": "B072JK2XLC",
+    "title": "StarTech.com U.2 to PCIe Adapter - x4 PCIe - for 2.5\" U.2 NVMe SSD - SFF-8639 PCIe Adapter - U.2 SSD - PCIe SSD - U.2 Drive - PEX4SFF8639",
+    "brand": "StarTech",
+    "feature": [
+        "Mount a 2.5\" U.2 NVMe SSD into your desktop computer or server, using an available PCIe expansion slot",
+        "Boost system speed and performance by adding a PCIe NVMe U.2 SSD to your PC",
+        "Simplify system builds with a U.2 to PCIe adapter that mounts your SSD directly to the adapter with no need for adapter cables / Utilize the advanced performance of a PCIe NVMe 2.5 in. SSD for intensive data workloads: ideal for numerous professionals from architects to medical professionals",
+        "PCI Express 3.0 x4 lane host adapter / Compatible with PCIe 3.0 and 2.0 motherboards",
+        "NVMe PCIe Adapter / PCIe NVMe SSD Adapter / SFF-8639 PCIe Adapter / U.2 PCIe Card / PCIe SSD / U.2 SSD PCIe Adapter"
+    ],
+    "description": "\"Get ultra-fast data access by adding an NVMe U.2 SSD to your computer. This U.2 to PCIe adapter lets you add a high-speed, U.2 (4-lane PCIe) 2.5\"\" NVMe SSD, such as the Intel 750 Series drive, to a PC with an available x4 PCI Express expansion slot. You can mount the PCIe U.2 drive directly onto the adapter, giving you an easy and convenient way to improve your system performance and expand overall internal storage. Boost your system speed and performance The expansion card lets you take full advantage of the fast performance and compact size of PCIe U.2 internal solid-state drives. The adapter connects directly to your computer motherboard to support an NVMe U.2 PCIe-based SSD through ultra-fast x4 PCIe. With the U.2 PCIe-based drive in place, the adapter gives your computer a significant speed boost. Easy to install The expansion card is equipped with a full-profile bracket and doesn\u2019t require an adapter cable for installation, this helps to reduce clutter and simplifies system builds. The drive connects directly to the SFF-8639 connector on the adapter, and the adapter connects directly to the computer motherboard. The adapter is compatible with PCIe 3.0 motherboards and is also backward compatible with PCIe 2.0 and PCIe 1.0. The PEX4SFF8639 is backed by a StarTech.com 2-year warranty and free lifetime technical support.\"",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 650.0,
+        "width": 480.0,
+        "height": 90.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41UyWaBbFYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41WFTEmgooL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41jQJea1-tL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41TM-LkaIzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Nc3Ya5ofL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41sWKppgd%2BL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "U.2"
+        },
+        {
+            "name": "Style:",
+            "value": "PCIe"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "281407",
+            "title": "Accessories & Supplies"
+        },
+        {
+            "node": "172532",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "172544",
+            "title": "Connectors & Adapters"
+        }
+    ],
+    "similar": [
+        "B01JB8XHLU",
+        "B01IR05DLK",
+        "B0199CECJ4",
+        "B01N78XZCH",
+        "B073W65QX6",
+        "B01LY9HRDB",
+        "B01C7FRZUS",
+        "B011YJ7WLK",
+        "B01FU9JS94",
+        "B01LXCACH9",
+        "B07G4B394X",
+        "B07GQM3L9N",
+        "B00DYQYITG",
+        "B07BGQRWH9",
+        "B00KY6R634",
+        "B00FE9XGVM",
+        "B01COOQ3MS",
+        "B00VNVMKCG",
+        "B07G96D4XF",
+        "B07C8Y31G2",
+        "B07BMLZVZX",
+        "B073WGN61Y",
+        "B073ZNSZSH",
+        "B07C9RX687",
+        "B017IM54GM",
+        "B07951BDZH",
+        "B06ZYM7L9N",
+        "B01M63J57F",
+        "B01M18TLR3",
+        "B01ATYZLHI",
+        "B01K1JSNLC",
+        "B07C5FXBB6",
+        "B077BMSDXL",
+        "B0716K357W",
+        "B01KPK2SEA"
+    ],
+    "rating": "4.0"
+}

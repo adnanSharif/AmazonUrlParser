@@ -1,0 +1,73 @@
+{
+    "asin": "B003RW2K0G",
+    "title": "Moroccanoil Curl Defining Cream, 8.45 Ounce",
+    "brand": "MOROCCANOIL",
+    "feature": null,
+    "description": "Wavy and curly hair can easily lose its definition-Moroccanoil curl defining cream brings it back. Advanced heat-activated technology provides intense conditioning and activates a curl memory factor to keep hair bouncy and control frizz for hours. Argan oil and protein condition, detangle and tame curls, so hair remains smooth and frizz-free with great movement.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 50.0,
+        "length": 900.0,
+        "width": 700.0,
+        "height": 500.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31IA6Ih2UzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31c9n%2BDX9hL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11057841",
+            "title": "Styling Products"
+        },
+        {
+            "node": "11057871",
+            "title": "Gels"
+        }
+    ],
+    "similar": [
+        "B01BVVA6OG",
+        "B01DPZ9UHA",
+        "B075K3R6TF",
+        "B01GOW023M",
+        "B07BGZKSC6",
+        "B075KNGDNV",
+        "B010GN8IV8",
+        "B004JWR9PO",
+        "B009PAF1WS",
+        "B019GK1KFI",
+        "B00L2R3RJ6",
+        "B01CDO0FL4",
+        "B00EXJLKV2",
+        "B00BAXXFIU",
+        "B01DPERUY6",
+        "B078PLG6MM",
+        "B01BUDUGEU",
+        "B002KG28PW",
+        "B002RGRJC2",
+        "B00OTYIWS0",
+        "B01LVW7G55",
+        "B076JLNGS5",
+        "B078PJ4751",
+        "B07CQCJX2W",
+        "B07DS6WGTM",
+        "B00L2G8A1W",
+        "B078PJCVSQ",
+        "B00OV89SFU",
+        "B00QRSNW40",
+        "B00HZSU6AE",
+        "B016YL45AE"
+    ],
+    "rating": "4.1"
+}

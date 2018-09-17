@@ -1,0 +1,69 @@
+{
+    "asin": "B0050C0DK0",
+    "title": "Gatorade Endurance Formula Powder, Orange, 32 oz.",
+    "brand": "Gatorade",
+    "feature": null,
+    "description": "Newly updated Gatorade Endurance Formula is made with no artificial sweeteners, no artificial flavors and now with a lighter flavor and color compared to previous Endurance Formula for athletes that are training/racing for prolonged periods of time. Reformulated Gatorade EF retains the same higher electrolyte blend (nearly 2x sodium, 3x potassium of traditional Gatorade). Like the entire Gatorade Endurance line, the new Gatorade Endurance Formula reformulation has been scientifically formulated based on the unique needs of endurance athletes.",
+    "price": 2279.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 220.00000000000003,
+        "length": 480.0,
+        "width": 480.0,
+        "height": 509.99999999999994
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51lFOowbzDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5149kt5iRKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/514oPmzQJDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51WSRGar2bL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61DHy7I6OPL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5122r3kRN9L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/510iFuWNfgL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "16310231",
+            "title": "Beverages"
+        },
+        {
+            "node": "14808787011",
+            "title": "Bottled Beverages, Water & Drink Mixes"
+        },
+        {
+            "node": "16318371",
+            "title": "Sports Drinks"
+        }
+    ],
+    "similar": [
+        "B01BGQ1JII",
+        "B01H74NO7M",
+        "B003V5G9L0",
+        "B0721YTD7G",
+        "B00CQRWSKK",
+        "B0050Q4DJS",
+        "B01M26MLTN",
+        "B01DJBZPB0",
+        "B0160Q09SK",
+        "B0052HV6EU",
+        "B07CT8182P",
+        "B071XHZCZ3",
+        "B0721ZWH24",
+        "B00IGRFTA0",
+        "B00CS4V712",
+        "B079L81VK5",
+        "B07F31FS62",
+        "B06WLNZJS5",
+        "B01DG11ZRG",
+        "B00XDC6MK4",
+        "B00IYZN0Y6",
+        "B01N3SMMI3"
+    ],
+    "rating": "3.7"
+}

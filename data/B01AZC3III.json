@@ -1,0 +1,85 @@
+{
+    "asin": "B01AZC3III",
+    "title": "SteelSeries Nimbus Wireless Gaming Controller for Apple TV, iPhone, iPad, iPod touch, Mac",
+    "brand": "SteelSeries",
+    "feature": [
+        "Pressure-sensitive buttons for precise gaming control",
+        "Console-style left and right analog triggers",
+        "Bluetooth 4.1 connectivity",
+        "Lithium ion battery recharges via Lightning connector for 40-plus hours of gaming. Four LEDs display your player status during multiplayer gameplay",
+        "Compatible with games for MFi certified controllers on iPhone X, 8, 8 Plus, 7, 7 Plus, 6S, 6S Plus, 6, 6 Plus, 5, 5C, 5S; iPad Pro, Mini, Mini 4, Mini 3, Mini 2, Air, Air 2; iPod Touch (6th Gen); Mac; Apple TV (4th Gen)",
+        "Color-coded action buttons"
+    ],
+    "description": "Play hundreds of your favorite controller-supported games with the new Nimbus Wireless Controller on your Apple TV. This controller is full-sized, wireless, and based on an ergonomic console design. Other features include 40+ hours of gameplay with just a quick charge via Lightning connector, LED notification, an easy to navigate menu button, and to top it all off, pressure sensitive buttons for the most precise controls. Experience some of the best features that Apple and Steel Series has to offer, all in the palms of your hands.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 123.0,
+        "length": 430.0,
+        "width": 250.0,
+        "height": 590.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41eDqC65wGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31W8Oq2QuiL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31UCu4BK4IL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31sCupuFmeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31hUNiBFaGL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "229575",
+            "title": "PC"
+        },
+        {
+            "node": "318813011",
+            "title": "Accessories"
+        },
+        {
+            "node": "402045011",
+            "title": "Controllers"
+        }
+    ],
+    "similar": [
+        "B015WKY3IM",
+        "B019H5II8Y",
+        "B06XBXHG41",
+        "B071P1FLBJ",
+        "B01HNXGKT6",
+        "B00GK4LUXQ",
+        "B07C7ZRT43",
+        "B00K0JMR52",
+        "B07FVTGLMB",
+        "B07G563BLZ",
+        "B01MSX55FM",
+        "B07C9Y5FC3",
+        "B07DZZYP9Q",
+        "B00PG0C85Y",
+        "B07DLY5PB4",
+        "B01M2UG5YQ",
+        "B07C2JWCV5",
+        "B01F3Y7MNA",
+        "B01N7N3N8F",
+        "B07FH7VLDQ",
+        "B074S7JZGR",
+        "B00QTSR5GO",
+        "B07BJ5DSXK",
+        "B01N3PL81R",
+        "B0757JR1JM",
+        "B017YUIVCC",
+        "B07859ZDV5",
+        "B01AJZ6W0C",
+        "B01EO5QPN2",
+        "B074T9MW8H",
+        "B075FC94HM",
+        "B07C58XDPX",
+        "B075NHCSS4"
+    ],
+    "rating": "4.0"
+}

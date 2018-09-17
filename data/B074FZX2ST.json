@@ -1,0 +1,82 @@
+{
+    "asin": "B074FZX2ST",
+    "title": "Fossil Hybrid Smart Watch - Q Accomplice Stainless Steel",
+    "brand": null,
+    "feature": [
+        "Looks like a watch, acts like a smartwatch\u2014these no-charge hybrid smartwatches feature built-in activity tracking, filtered notifications and multiple time zones",
+        "Snap a photo, ring your phone, control your music and more with the customizable link button",
+        "Track your everyday accomplishments including steps, distance, and calories burned and monitor your sleep duration and quality",
+        "When a notification or alert arrives for an important text, email or app update, a gentle buzz lets you know right away. This wrist essential is always on, always connected with a battery life up to six months and automatically syncs to your phone",
+        "Fit your style with interchangable straps - compatible with all Fossil brand 16mm straps. Compatibility: Android OS 5.0+, iPhone 5/iOS 9.0+, Smartphone App"
+    ],
+    "description": "Slim, smart and even more customizable, our Q Accomplice hybrid looks like a watch, but acts like a smartwatch.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 75.0,
+        "length": 390.0,
+        "width": 390.0,
+        "height": 310.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41fOpBTP8xL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41TCIrbaxKL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/413nPSxukKL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41fdmdtgI4L._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Band Color:",
+            "value": "rose gold"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147440011",
+            "title": "Women"
+        },
+        {
+            "node": "6358543011",
+            "title": "Watches"
+        },
+        {
+            "node": "14130291011",
+            "title": "Smartwatches"
+        }
+    ],
+    "similar": [
+        "B077NJW5PT",
+        "B078434RW9",
+        "B075BJTX74",
+        "B07864SGCL",
+        "B074WBTFJX",
+        "B01N78MZNF",
+        "B0716S22WB",
+        "B078JF4LXP",
+        "B075BQ86PH",
+        "B00IRHGU0M",
+        "B077TXG824",
+        "B076BN82S1",
+        "B01EQZPRO8",
+        "B07B8W2LQL",
+        "B015SUGKLY",
+        "B0781ZPTKZ",
+        "B00YBXJ22O",
+        "B077N311T2",
+        "B074VG7T59",
+        "B074G53N3D",
+        "B075BDHKJJ",
+        "B077TR54RF",
+        "B075T1VTZW",
+        "B01C6LJWH2",
+        "B074VGYKMG",
+        "B076HQ133W",
+        "B076B4FXNH"
+    ],
+    "rating": "3.6"
+}

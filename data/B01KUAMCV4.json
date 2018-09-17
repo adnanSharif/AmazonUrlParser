@@ -1,0 +1,84 @@
+{
+    "asin": "B01KUAMCV4",
+    "title": "Logitech G403 Prodigy RGB Gaming Mouse \u2013 16.8 Million Color Backlighting, 6 Programmable Buttons, Onboard Memory, Up to 12,000 DPI",
+    "brand": "Logitech",
+    "feature": [
+        "Logitech G403 mouse for advanced gaming-grade accuracy and performance",
+        "Ergonomic, lightweight design with rubber side grips and a removable 10 gram weight for supremely comfortable grip and control",
+        "Logitech\u2019s most advanced optical sensor delivers unbeatable fps mouse accuracy and more",
+        "Customize lighting from a palette of 16.8 million colors to match your style and gaming gear",
+        "Six programmable buttons and onboard memory make it easy to setup and store custom commands for your favorite games"
+    ],
+    "description": "Logitech G403 enhances your play with advanced gaming-grade performance in a lightweight, ergonomically designed body. G403 is up to 8x faster than standard mice \u2014 which means when the mouse is moved or clicked, the on-screen response is near-instantaneous. Logitech G Mice are equipped with our most advanced optical sensor for superior accuracy, speed, sensitivity and consistency. Designed to fit your hand and style of gameplay with lightweight construction, rubber grips, and a 10 gram removable weight. Customizable with up to 16.8 million brilliant lighting colors and 6 programmable command buttons, G403 also has an onboard memory so you can take your settings with you wherever you go. With G403 , the game gets better and so do you.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 53.125,
+        "length": 170.0,
+        "width": 270.0,
+        "height": 490.00000000000006
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31%2B7GhEZf2L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Configuration:",
+            "value": "Gaming Mouse"
+        }
+    ],
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "229575",
+            "title": "PC"
+        },
+        {
+            "node": "318813011",
+            "title": "Accessories"
+        },
+        {
+            "node": "402052011",
+            "title": "Gaming Mice"
+        }
+    ],
+    "similar": [
+        "B07C83XP1T",
+        "B076HY5N9H",
+        "B06XMRQ68B",
+        "B06Y3YN2C8",
+        "B076J34621",
+        "B0752VK4XV",
+        "B0788MCRGC",
+        "B071RVX7P2",
+        "B076HY5MK2",
+        "B071S8M8TB",
+        "B00FNKMVUO",
+        "B01JPOLLTK",
+        "B013P0HW7K",
+        "B01M26YUKO",
+        "B019OB663A",
+        "B015MQH59A",
+        "B0745N6CMD",
+        "B01K48R5V4",
+        "B076J5WJQT",
+        "B073C5HFRH",
+        "B07B9TVQ82",
+        "B01LXC1QL0",
+        "B000UVRU6G",
+        "B01KUAMCWI",
+        "B073WGFLQY",
+        "B075GS6GRF",
+        "B078LJ6RPK",
+        "B073C92JML",
+        "B01H74VPX2",
+        "B0054JGGGY",
+        "B073WGB8G6",
+        "B00T56XWZU"
+    ],
+    "rating": "4.1"
+}

@@ -1,0 +1,96 @@
+{
+    "asin": "B01HAPGEIE",
+    "title": "Seagate Expansion 8TB Desktop External Hard Drive USB 3.0 (STEB8000100)",
+    "brand": "Seagate",
+    "feature": [
+        "Easy and simple to use - simply plug in the power adapter and USB cable",
+        "SuperSpeed USB 3.0 port (required for USB 3.0 transfer speeds or backwards compatible with USB 2.0 ports at USB 2.0 transfer speeds). Compatibility may vary depending on user's hardware configuration and operating system",
+        "System Requirements : Windows 8, Windows 7 operating system",
+        "Drag and drop file saving for Windows, right out of the box.Dimensions (L x W x H):6.93 x 4.75 x 1.44\" (176.00 x 120.60 x 36.60 mm)",
+        "Mac compatibility Requires reformatting. Reformatting the Drive will erase all content unless it is backed up to another Drive. Refer to application guide for guidance"
+    ],
+    "description": "The Seagate expansion desktop drive provides extra storage for your ever-growing collection of files. Instantly add space for more files, consolidate all of your files to a single location, or free up space on your computer's internal drive to help improve performance. Setup is straightforward; simply plug in the included power supply and USB cable, and you are ready to go. It is automatically recognized by the Windows operating system, so there is no software to install and nothing to configure. Saving files is easy too-just drag-and-drop. Take advantage of the fast data transfer speeds with the USB 3.0 interface by connecting to a SuperSpeed USB 3.0 port. USB 3.0 is backwards compatible with USB 2.0 for additional system compatibility. System requirements: Windows 7 or higherStorage space may vary slightly as : 7.27 TB . The hard drive is automatically recognised by the Windows operating system which does not require any software to install and nothing to configure",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 210.0,
+        "length": 690.0,
+        "width": 480.0,
+        "height": 140.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41mDnJ8-plL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ssMmWvNJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51h%2B5G3PCxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41MyT2zw4LL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41NtA4O6zrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41JeGO0WciL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Capacity:",
+            "value": "8TB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "595048",
+            "title": "External Hard Drives"
+        }
+    ],
+    "similar": [
+        "B07CX8QBG4",
+        "B07CWCJP3X",
+        "B01K4241D0",
+        "B00TKFEEJ4",
+        "B0798DVKRV",
+        "B07C3W5388",
+        "B079WC6872",
+        "B0781VSXBP",
+        "B07C7XY7GS",
+        "B07BKQ9BVV",
+        "B07C5QD9CC",
+        "B01M3OJQWB",
+        "B01HD6ZLQ6",
+        "B074R2HJ6G",
+        "B017KE8OG0",
+        "B07D54WBZ8",
+        "B00TKFEE8K",
+        "B07D5V2ZXD",
+        "B00ZTRXFBA",
+        "B00JX1ZS5O",
+        "B06W55K9N6",
+        "B0196J43TE",
+        "B06XGT3797",
+        "B00TKFEEBW",
+        "B07BFV841Y",
+        "B00R45V3SW",
+        "B01LQQHLGC",
+        "B074FZS4D8",
+        "B01M8HFODT",
+        "B01DDACL0K",
+        "B01JS7OJG6",
+        "B071WNYN1Z",
+        "B01LQQH86A",
+        "B07CMH78R5",
+        "B00TKFEE9E",
+        "B07CRG7BBH",
+        "B00SRV4B04",
+        "B01MRL6ISA",
+        "B06XG4HLCD"
+    ],
+    "rating": "4.1"
+}

@@ -1,0 +1,92 @@
+{
+    "asin": "B00N9WI71U",
+    "title": "Fisher-Price Laugh & Learn Smart Stages Tablet, Pink",
+    "brand": "Fisher-Price",
+    "feature": [
+        "Introduces Baby to letters, first words, animals and more",
+        "Lots of music, phrases and fun sounds",
+        "Includes Smart Stages technology-learning changes as baby grows",
+        "Three levels of play offer fresh songs, phrases and sounds for your little one",
+        "Tablet screen lights up and twinkles along to the songs and phrases"
+    ],
+    "description": "Baby's first tablet introduces letters, first words, animals and more! Introducing Baby's very own tablet-the Fisher-Price Laugh & Learn Smart Stages Tablet! This tablet includes Smart Stages technology, an exciting new way to change the learning content as baby grows! Because every baby develops at their own pace, Smart Stages technology gives you the ability to select the stage that's best for your child! There are a variety of developmentally appropriate songs, phrases and sounds within three levels of play. Baby can press one of 28 \"app\" buttons to activate sounds and music - and unlock learning about letters, first words, animals and more. To add even more fun, the tablet screen will light up and twinkle along to the songs and phrases.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 78.75,
+        "length": 1110.0,
+        "width": 150.0,
+        "height": 800.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51vUb7il-AL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51USx95F6jL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41riyKVFD%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51v77WLDbYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51fePaKZXEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31yK8rtyhML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51STTzwlbqL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Pink"
+        },
+        {
+            "name": "Product Packaging:",
+            "value": "Standard Packaging"
+        }
+    ],
+    "categories": [
+        {
+            "node": "165793011",
+            "title": "Toys & Games"
+        },
+        {
+            "node": "166164011",
+            "title": "Kids' Electronics"
+        },
+        {
+            "node": "166177011",
+            "title": "Electronic Learning Toys"
+        }
+    ],
+    "similar": [
+        "B00CQHYX2G",
+        "B077VYSXB3",
+        "B06XBW95P2",
+        "B0774LCLBM",
+        "B01LW0029W",
+        "B077H5G2Q3",
+        "B079B788XT",
+        "B01NAS2UED",
+        "B004MWN0MC",
+        "B01M2WU63C",
+        "B00NHQDZ42",
+        "B06XKW16B3",
+        "B07C76F1Q7",
+        "B01LMYCR4Y",
+        "B012C0PFCS",
+        "B00TID3TNA",
+        "B00J0V5XIE",
+        "B01M7O405K",
+        "B0089W1IGQ",
+        "B00HLAN5GS",
+        "B078NN2Z31",
+        "B00P4CEUS2",
+        "B07B6ZN7P8",
+        "B016GEXZIM",
+        "B077BS24FS",
+        "B074KL5KHL",
+        "B000058TJ3",
+        "B079KDM7GW",
+        "B00N9WI5UI",
+        "B01MU9NLUW",
+        "B01LX3J421",
+        "B07661J1HX",
+        "B06WLMCG8M",
+        "B00WB3H2CI"
+    ],
+    "rating": "4.2"
+}

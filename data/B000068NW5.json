@@ -1,0 +1,86 @@
+{
+    "asin": "B000068NW5",
+    "title": "Hosa GTR-210 Straight Guitar Cable, 10 feet",
+    "brand": "Hosa",
+    "feature": [
+        "Length: 10 Feet",
+        "Connectors: Straight to Same",
+        "Conductor: 24 AWG OFC",
+        "Shield: 90% OFC Braid"
+    ],
+    "description": "Hosa Guitar Cables are designed to provide years of dependable service. High-quality components and world-class manufacturing combine to deliver products of exceptional value. Hosa Technology, Inc. is the top choice for premium cables, adaptors, and other audio and video accessories. As the leading supplier of analog and digital connectivity solutions to the musical instrument, broadcast, theater, and professional audio/video industries, our products are manufactured to meet or exceed the demands of today's professional. These guitar instrument cables feature serviceable, all metal plugs for touring and other applications; Oxygen-Free Copper conductors for enhanced signal clarity; and hi-density OFC braided shield for superior EMI and RFI rejection",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 800.0,
+        "width": 100.0,
+        "height": 700.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31ALFofv77L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41NjhAXf5ZL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "10 Feet"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "405757011",
+            "title": "Live Sound & Stage"
+        },
+        {
+            "node": "11973391",
+            "title": "Stage & Studio Cables"
+        },
+        {
+            "node": "13152801",
+            "title": "Instrument Cables"
+        }
+    ],
+    "similar": [
+        "B01HO18UZY",
+        "B01C2T8T2W",
+        "B00BHJNC4E",
+        "B07CVLS4GF",
+        "B01C2T8UX0",
+        "B01NCBLF4M",
+        "B00VMB8IW8",
+        "B000068NW7",
+        "B005PNXT6E",
+        "B074FRXCS2",
+        "B01KPYGBR6",
+        "B001RXOOYM",
+        "B01N959LYA",
+        "B00T631UTC",
+        "B01FL5CFWO",
+        "B001L8PIFW",
+        "B07H3LVS6B",
+        "B00191WVF6",
+        "B01FL599M8",
+        "B000068NW8",
+        "B07C445NY4",
+        "B001RXSFME",
+        "B0006NDF8A",
+        "B078MCS8MH",
+        "B0018R6AGM",
+        "B01FLK39L0",
+        "B01JNLUA5G",
+        "B01HED0DIO",
+        "B01HO18RZW",
+        "B005WPU8ZA",
+        "B073S2C8HR",
+        "B000PO310W",
+        "B019O3BSX6",
+        "B07G86NNRB"
+    ],
+    "rating": "4.3"
+}

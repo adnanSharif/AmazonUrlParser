@@ -1,0 +1,29 @@
+{
+    "asin": "B012KJH9B6",
+    "title": null,
+    "brand": "Samsung",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 114.99999999999999,
+        "length": 530.0,
+        "width": 20.0,
+        "height": 780.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B01MATMXZV",
+        "B01578NORU",
+        "B07193VPNF",
+        "B01IP3RIK8",
+        "B01N0P7YNK",
+        "B01M3MYPOO",
+        "B01LB08BH6"
+    ],
+    "rating": null
+}

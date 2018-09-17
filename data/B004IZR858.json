@@ -1,0 +1,82 @@
+{
+    "asin": "B004IZR858",
+    "title": "Polsen OLM-10 Omnidirectional Lavalier Microphone",
+    "brand": "Polsen",
+    "feature": [
+        "Self-Powered Electret Condenser Mic | Omnidirectional Polar Pattern | 3.5mm TRS Dual Mono Connector",
+        "Sends Audio to Left & Right Channels | Accurate Voice Reproduction | Lightweight, Discrete Design",
+        "20' Cable | In-Line Power Switch | For Most Devices with 3.5mm Mic Input",
+        "Includes Tie Clip, Windscreen, & Battery",
+        "In The Box: 3.5mm to 1/4\" Adapter, Tie Clip, Foam Windscreen, LR44 Battery, Limited 1-Year Manufacture Warranty"
+    ],
+    "description": "The is an all-in-one solution for recording hands-free audio to both channels of your camcorder or DSLR as well as most devices with a 3.5mm mic-level input that cannot supply phantom power. It is a self-powered clip-on electret condenser mic designed for accurate voice reproduction in home and video webcasting applications such as presentations, interviews, dictation, and corporate video. The microphone's small, 21mm-long lightweight body allows for discrete placement with the included tie-clip while its 20-foot long cable gives you ample distance from your recording device. Featuring a 3.5mm dual mono TRS output connector, the mic sends audio to both the left and right channels of your recorder. Thanks to its omnidirectional polar pattern, the OLM-10 provides a uniform response that will not cause the bass-boosting proximity effect common with cardioid patterns, while allowing you to move freely without off-axis rejection causing a drop in volume. The in-line power switch allows you to quickly mute the microphone as well as preserve battery life when not in use. A windscreen for reduced noise and plosives, 1/4\" adapter, and LR44 battery are included.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 30.0,
+        "length": 830.0000000000001,
+        "width": 509.99999999999994,
+        "height": 240.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41oQB23VD4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41NW9wTQACL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61RT2h86ueL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11974521",
+            "title": "Microphones & Accessories"
+        },
+        {
+            "node": "8882489011",
+            "title": "Microphones"
+        },
+        {
+            "node": "11974631",
+            "title": "Condenser Microphones"
+        },
+        {
+            "node": "11974641",
+            "title": "Instrument"
+        }
+    ],
+    "similar": [
+        "B07DB7RYSZ",
+        "B01DQ0BJ2S",
+        "B07CQDQKCC",
+        "B000BSMKPY",
+        "B00L6C8PNU",
+        "B003QKBVYK",
+        "1849760977",
+        "B015GEH5KC",
+        "B07GSRG3SH",
+        "B00HZA6EJO",
+        "B079Z6M7HY",
+        "B008OM1GCW",
+        "B00E1SAODA",
+        "B079Z6Q5FF",
+        "B00FGFBMFG",
+        "B002EOSTNK",
+        "B071X6H6ZS",
+        "B00V92Y6EY",
+        "B00EBK6C20",
+        "B075JHG28K",
+        "B009YCI62Y",
+        "B01ABTVFJE",
+        "B07DPQJQ2L",
+        "B07D9LNPNZ",
+        "B00FO97DCU",
+        "B079Z6XTMW",
+        "B075F6W2VD",
+        "B00KLFJZ6Y",
+        "B074MBD643"
+    ],
+    "rating": "3.7"
+}

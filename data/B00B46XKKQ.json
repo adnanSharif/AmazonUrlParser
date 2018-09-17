@@ -1,0 +1,91 @@
+{
+    "asin": "B00B46XKKQ",
+    "title": "SilverStone Technology All Black Sleeved 1-to-2 Sleeved PWM Fan Splitter Cable (CPF01)",
+    "brand": "SilverStone Technology",
+    "feature": [
+        "Beautiful all black sleeved cable",
+        "Supports 2 PWM fans from a single motherboard PWM header",
+        "One-to-two PWM fan splitter",
+        "Length 100mm"
+    ],
+    "description": "CPF01 is a PWM fan splitter that connects 2 fans with a single motherboard PWM header. For those who require addition cooling in their systems, CPF01 will be the perfect solution for you",
+    "price": 880.0000000000001,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 2.0,
+        "length": 600.0,
+        "width": 100.0,
+        "height": 20.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31CHO8viz1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31cj8KdXF0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31SA66wckSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/3133pQZMTXL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31oADs25hzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31S0WFMuUmL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "281407",
+            "title": "Accessories & Supplies"
+        },
+        {
+            "node": "172532",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "172544",
+            "title": "Connectors & Adapters"
+        }
+    ],
+    "similar": [
+        "B078NWY1JX",
+        "B01N1Z3FYD",
+        "B008YD7B0M",
+        "B015AD1L0Y",
+        "B008N323U6",
+        "B01JO3E7W0",
+        "B01MSXN4VW",
+        "B07539MRTR",
+        "B07BTW64CD",
+        "B00HJOJS9O",
+        "B01LVWB5U0",
+        "B011F7W3LU",
+        "B01F9RH0R4",
+        "B00J0NZGGQ",
+        "B00HJOJJ66",
+        "B004J3P658",
+        "B00KG8K5CY",
+        "B00VNW556I",
+        "B002OFP6QW",
+        "B01N0XQ7XC",
+        "B01FFFHDKO",
+        "B00KF7MVI2",
+        "B076HBQTD5",
+        "B0786YMFCH",
+        "B009NQLT0M",
+        "B0797NWDCB",
+        "B07F29LBN3",
+        "B007S3T4O0",
+        "B07DMJ88FV",
+        "B07656C9NF",
+        "B00NOTVCUQ",
+        "B01EF9OI0O",
+        "B01H0OZC9W",
+        "B00OD7MO6E",
+        "B009D3HV1Q"
+    ],
+    "rating": "4.4"
+}

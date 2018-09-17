@@ -1,0 +1,93 @@
+{
+    "asin": "B01AZC3J3M",
+    "title": "Microsoft Wireless Display Adapter",
+    "brand": "Microsoft",
+    "feature": [
+        "Wirelessly project what's on your tablet, laptop, or smartphone to your big screen",
+        "Enjoy movies, personal videos, photos, games, websites, and even PowerPoint presentations on your HDTV",
+        "Modernize your meetings by displaying business applications, Office documents, videos and websites through a conference room projector or monitor.",
+        "Simply plug into an HDTV, connect, then wirelessly mirror or extend your screen",
+        "Snap the ends together to pack and travel. Compatible with Miracast enabled Windows 10/Windows 8.1 devices. Not compatible with Surface RT."
+    ],
+    "description": "Share what's on your tablet, laptop, or smartphone on an HDTV or monitor with the Microsoft Wireless Display Adapter. Stream movies, view personal photos, or display a presentation on a big screen - all wirelessly. It uses Wi-Fi CERTIFIED Miracast technology, so you're not limited to certain apps or content streaming; you can display everything from your device. The Wireless Display Adapter is also an Intel Wireless Display (WiDi) certified adapter and works with 2-in-1s and tablet devices with Intel WiDi capability. Just plug the USB and HDMI from the Wireless Display Adapter into your HDTV or monitor, connect, then mirror or extend your screen and enjoy. System requirements:Computer - All Miracast enabled Windows 10 phones, tablets and laptops, including the Surface line up. Internet access not required for use. Note: ensure the latest Windows updates are installed. 1All Miracast enabled Windows 10 phones, tablets and laptops, including the Surface line up. Internet access not required for use.Full functionality not available with non HDCP devices. If a device was originally pre-installed with a prior version of Windows (Windows 8, Win7, Vista or XP)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 90.0,
+        "width": 1590.0,
+        "height": 40.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31vJcdObkcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/319USi-KB4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31gEANvaKfL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51UaFAahhdL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "Wireless Display Adapter"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "172472",
+            "title": "Computer Cable Adapters"
+        },
+        {
+            "node": "3015395011",
+            "title": "DVI-HDMI Adapters"
+        }
+    ],
+    "similar": [
+        "B074GYX6VR",
+        "B072K1XGS6",
+        "B07FY7HNR8",
+        "B0146N8BDO",
+        "B013SZIM6W",
+        "B00J9C2JDG",
+        "B0163HP38W",
+        "B00UBGU4PY",
+        "B073P6Y5KL",
+        "B014I8UQJY",
+        "B07GTMQG77",
+        "B0134V3KIA",
+        "B00NH11R3I",
+        "B00HFAEBWG",
+        "B00904JILO",
+        "B075ZTJ9XR",
+        "B00O14JG2Y",
+        "B014I8SSD0",
+        "B07C81KY62",
+        "B01NARIOAX",
+        "B06XBLB261",
+        "B07FD4KJ7J",
+        "B017Q8ZVWK",
+        "B01F9RGJJO",
+        "B01MED1GGP",
+        "B01822N2IO",
+        "B076Q3GBJK",
+        "B072K5TXGT",
+        "B07FMZS78F",
+        "B005EZTUMU",
+        "B076KRFB8X",
+        "B00FG7MZP0",
+        "B077VMF1VV",
+        "B01C9YTI9S"
+    ],
+    "rating": "3.7"
+}

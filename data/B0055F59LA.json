@@ -1,0 +1,56 @@
+{
+    "asin": "B0055F59LA",
+    "title": "Hydrofarm LGBQM Quantum PAR Meter Micromol Sensor",
+    "brand": "Hydrofarm",
+    "feature": [
+        "Data logging capability using standard mini-USB cable and proprietary data logging software available at hydrofarm.com",
+        "Low power consumption with built-in low battery power indication",
+        "Constant linear response curve (as opposed to other meters' Gaussian response) yields higher accuracy independent of wavelength - perfect for measuring LED light output"
+    ],
+    "description": "QUANTUM PAR METER is fully portable handheld PAR meter features our highly accurate, integrated Quantum Sensor that measures PAR (Photo synthetically Active Radiation) flux in wavelengths ranging from the 400 to 700 nm. It measures up to 10,000 mol compared with 2,000 moll for other meters on the market. Data logging capability using standard mini-USB cable and proprietary data logging software available at hydrofarm.com. Low power consumption with built-in low battery power indication. Constant linear response curve (as opposed to other meters quo; Gaussian response) yields higher accuracy independent of wavelength \u2013 perfect for measuring LED light output. Automatic sun or electric light calibration modes ensure accurate readings no matter the source.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": 670.0,
+        "width": 440.00000000000006,
+        "height": 240.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51LbClzF7IL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51OG2yPUpdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51GILjjvcgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ioBYM%2BNZL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B075MMF8NH",
+        "B01FYWU2IS",
+        "B005A0ETXY",
+        "B00LAX52IQ",
+        "B01J2KM3LW",
+        "B019ETLC7M",
+        "B008S0I6JG",
+        "B017V6BQJE",
+        "B01I5LAJUG",
+        "B01H72RD3K",
+        "B075DC6X25",
+        "B0185OLBPK",
+        "B00SHZYCG8",
+        "B005GA9GEU",
+        "B01N7GBF2S",
+        "B07B3RGYRM",
+        "B008S0AKJA",
+        "B0013BKDO8",
+        "B01I5LALNQ",
+        "B01CHZJPZG",
+        "B003CHDFV4",
+        "B008S0PR9I",
+        "B007XR62FK",
+        "B007S42Z2M",
+        "B004K0A7I6"
+    ],
+    "rating": "2.5"
+}

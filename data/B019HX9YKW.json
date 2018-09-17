@@ -1,0 +1,59 @@
+{
+    "asin": "B019HX9YKW",
+    "title": "La Compagnie de Provence - Liquid Hand Soap - Black Jasmine",
+    "brand": "La Compagnie de Provence",
+    "feature": null,
+    "description": "Indulge yourself with our olive oil infused Black Jasmine Liquid Soap, which will gently cleanse your hands leaving them refreshingly soft and smooth. An exotic and captivating fragrance of jasmine magnified by the infusion of cedar, musk and black pepper. Authentic Liquid Marseille Soap. Made with natural olive oil. Biodegradable formula and eco-friendly recyclable glass dispenser. Elegant accessory for your kitchen and bath.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 170.0,
+        "length": 890.0,
+        "width": 390.0,
+        "height": 290.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31Doguwc16L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "17242866011",
+            "title": "Foot, Hand & Nail Care"
+        },
+        {
+            "node": "11062211",
+            "title": "Foot & Hand Care"
+        },
+        {
+            "node": "11062271",
+            "title": "Hand Wash"
+        }
+    ],
+    "similar": [
+        "B00C1T0UYE",
+        "B0742M1KNC",
+        "B01CIP9FNM",
+        "B001XTXIBK",
+        "B005ZJ1GRM",
+        "B01LR803J6",
+        "B07FLTQF82",
+        "B01EHEIWP4",
+        "B07CNHQXYM",
+        "B079ZL5711",
+        "B00OBRIVSQ",
+        "B01N5YBLPL",
+        "B076PN6V8G",
+        "B0047X6BAY",
+        "B01KYQON9I",
+        "B076PR7RMH",
+        "B071216C9J",
+        "B074KDPT25"
+    ],
+    "rating": "2.7"
+}

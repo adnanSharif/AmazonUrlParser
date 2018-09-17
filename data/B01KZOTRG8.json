@@ -1,0 +1,81 @@
+{
+    "asin": "B01KZOTRG8",
+    "title": "Crest 3D White Toothpaste Radiant Mint 4.8 oz",
+    "brand": "Crest",
+    "feature": [
+        "Whitens teeth by removing up to 80% of surface stains.",
+        "Protects teeth against future stains.",
+        "Strengthens teeth and safe on tooth enamel.",
+        "Fluoride toothpaste protects against cavities.",
+        "Radiant Mint flavor."
+    ],
+    "description": "Brighten your smile with Crest 3D White Radiant Mint Whitening Toothpaste. It whitens your teeth by removing up to 80 percent of surface stains and protects against future stains. 3D White fluoride toothpaste also strengthens your tooth enamel and helps protect against cavities.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": 160.0,
+        "width": 710.0,
+        "height": 580.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51086%2BtvGoL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61rvIu-S6YL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51SqPYd6OfL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41HqwyM9IwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5130M%2B2QNAL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51i0kmhlzgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31nPoIzto5L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "4.8 oz (3 pack)"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "10079992011",
+            "title": "Oral Care"
+        },
+        {
+            "node": "3778371",
+            "title": "Toothpaste"
+        }
+    ],
+    "similar": [
+        "B06Y5JBM46",
+        "B07H74D7KJ",
+        "B01MZC708J",
+        "B0762LYF5D",
+        "B0787KPCGX",
+        "B079Z4VJS7",
+        "B01MYMG98W",
+        "B00I7HPNHS",
+        "B00AHAWWO0",
+        "B01BNF1USQ",
+        "B07G7JTYH9",
+        "B00PY09CK0",
+        "B019FGCM00",
+        "B01KZOTTZW",
+        "B07H71YC4W",
+        "B0795T2MPB",
+        "B07DQ6LLYF",
+        "B01LWQDM4I",
+        "B071YD6ZVX",
+        "B071RC4QPM",
+        "B07GJ5W4LX",
+        "B002TSA948",
+        "B0762PS6DN",
+        "B00SX07354",
+        "B07961C65H",
+        "B07H73Q3CR",
+        "B002YXXZQM"
+    ],
+    "rating": "4.6"
+}

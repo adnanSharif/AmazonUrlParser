@@ -1,0 +1,80 @@
+{
+    "asin": "B002FH90Q6",
+    "title": "Nature Made Zinc Tabs - 30 mg - 100 ct",
+    "brand": "Nature Made",
+    "feature": null,
+    "description": "Want to support your immune system? Try Nature Made Zinc. This formula helps boost immune support while also acting as a vital growth and development nutrient.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 320.0,
+        "width": 170.0,
+        "height": 170.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41mkJicgG1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51TrNJ4hHkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51d7S7Z37sL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/415RPnFQGsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31AYzU8ENHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51XPhRMBslL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31oyAbx0pIL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774271",
+            "title": "Minerals"
+        },
+        {
+            "node": "3774511",
+            "title": "Zinc"
+        }
+    ],
+    "similar": [
+        "B07GPSQHB4",
+        "B00JPEBHNQ",
+        "B00J11LZLW",
+        "B07DZPF648",
+        "B00L1I9Y5C",
+        "B00B95J47K",
+        "B0019GCQ5Q",
+        "B000GCQ8X0",
+        "B01KYK675C",
+        "B000TMJZ4G",
+        "B00NRQ06VM",
+        "B01CJGXMU2",
+        "B000GFPD10",
+        "B00LB46AAI",
+        "B0006ZUS92",
+        "B076KVTXCR",
+        "B019HOPO50",
+        "B017L2H4EY",
+        "B0000DJAVX",
+        "B002FH5I0I",
+        "B00GBBW1MW",
+        "B00VXE7MSA",
+        "B00TNB0JRQ",
+        "B076MFYXLN",
+        "B07BF1M19L",
+        "B00024L2YM",
+        "B07H435WZD",
+        "B00GBBYDQE",
+        "B01NB0G1V8",
+        "B008PQDCG0",
+        "B013RMKCV4",
+        "B0098U0QC0",
+        "B00HLXPYAA"
+    ],
+    "rating": "4.3"
+}

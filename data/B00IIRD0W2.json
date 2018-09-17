@@ -1,0 +1,74 @@
+{
+    "asin": "B00IIRD0W2",
+    "title": "Jerome Russell Punky Colour Cream Alpine Green",
+    "brand": "Jerome Russell",
+    "feature": null,
+    "description": "Jerome Russell Punky Alpine Green #1402 3.5 oz",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/410zz9OThHL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11057451",
+            "title": "Hair Coloring Products"
+        },
+        {
+            "node": "10728531",
+            "title": "Hair Color"
+        }
+    ],
+    "similar": [
+        "B0011UO8UQ",
+        "B0011V16IW",
+        "B000RRRHJ8",
+        "B01FMNG846",
+        "B01KMVI792",
+        "B000RRPUHO",
+        "B001216W58",
+        "B01DPZ831Y",
+        "B01JQWGUX8",
+        "B01HGGFHLC",
+        "B009P4ZJXK",
+        "B01KN21U9O",
+        "B0011UQ0JI",
+        "B01DQ009K6",
+        "B00NMOLQUE",
+        "B00K6RW2D0",
+        "B004KEU3Y0",
+        "B01DPZZBP0",
+        "B01DQ006XQ",
+        "B01JQC1TO8",
+        "B0147R9UMA",
+        "B00M1SSVY6",
+        "B01BKSLNJM",
+        "B01DQ09OKC",
+        "B00GLS58OS",
+        "B01IAFKKYW",
+        "B07GXZ42YK",
+        "B074VSV386",
+        "B074L7S689",
+        "B0147R9UHU",
+        "B01DPZ6TA6",
+        "B01J6FD696",
+        "B00HDYVLK4"
+    ],
+    "rating": "4.2"
+}

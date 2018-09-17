@@ -1,0 +1,107 @@
+{
+    "asin": "B005FKF4K6",
+    "title": "D'Addario EXL140-8 8-String Nickel Wound Electric Guitar Strings, Light Top/Heavy Bottom, 10-74",
+    "brand": "D'Addario",
+    "feature": [
+        "Optimized for 8-string electrics tuned F#, B, E, A, D, G, B, E",
+        "Round wound with nickelplated steel for distinctive bright tone",
+        "Corrosion resistant packaging for strings that are always fresh",
+        "String Gauges: Plain Steel .010, .013 .017, Nickel Wound .030, .042, .054, .064, .074",
+        "Made in the U.S.A. for the highest quality and performance"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 480.0,
+        "width": 30.0,
+        "height": 480.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/516KGmXOd-L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61HuMfGMEAL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/515DWZBG3dL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "1-Pack"
+        },
+        {
+            "name": "Size:",
+            "value": "Lt. Top/Hvy. Bottom, 8-String, 10-74"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11965871",
+            "title": "Instrument Accessories"
+        },
+        {
+            "node": "11967641",
+            "title": "Guitar & Bass Accessories"
+        },
+        {
+            "node": "486420011",
+            "title": "Strings"
+        },
+        {
+            "node": "11968641",
+            "title": "Electric Guitar Strings"
+        }
+    ],
+    "similar": [
+        "B00JC5Y3TS",
+        "B01FL58KK0",
+        "B0002F7K7Y",
+        "B00NFEK9Y0",
+        "B00LQ0AF3K",
+        "B000T9P8KY",
+        "B00N4ZHPZ6",
+        "B00YJJ0K0I",
+        "B00YJJ0JNQ",
+        "B00KWGWNMA",
+        "B0002DWQNE",
+        "B01GH436CQ",
+        "B00BI4TWA6",
+        "B0013PU76I",
+        "B001L8IKJ8",
+        "B01FLK67KA",
+        "B01MZF7RDR",
+        "B00KWGOM5Q",
+        "B0002GJNEG",
+        "B01FL9F5RM",
+        "B00Y0N18EK",
+        "B0009FC8EC",
+        "B01FLK40AO",
+        "B0002CZX62",
+        "B000OR2RAK",
+        "B01FL37KZ8",
+        "B0013NBIHW",
+        "B01FKYJ27C",
+        "B000P22EMU",
+        "B000CC4JFS",
+        "B00YJJ0HQA",
+        "B01FL3549C",
+        "B01FLK723G",
+        "B01FLJKR0W",
+        "B009XNP2NA",
+        "B07F75YNGD",
+        "B07C6QBRMN",
+        "B0799HBNMD",
+        "B0007WOX22",
+        "B01FL37GN4",
+        "B007HXINDO",
+        "B01KZRPPKW",
+        "B000MFL7UU",
+        "B07F91J8HC",
+        "B074XMB3H5"
+    ],
+    "rating": "4.7"
+}

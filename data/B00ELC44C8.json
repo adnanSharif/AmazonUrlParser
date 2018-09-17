@@ -1,0 +1,84 @@
+{
+    "asin": "B00ELC44C8",
+    "title": "Bosch R12V8PK 8-Piece All-Purpose Reciprocating Saw Blade Set",
+    "brand": "Bosch",
+    "feature": [
+        "General-purpose set designed especially for cordless reciprocating saws",
+        "4 In. blade length with thin blade kerf for optimized battery life",
+        "Includes blades for wood and metal applications",
+        "8 piece pack"
+    ],
+    "description": "2x2 tooth geometry has alternating height on pairs of teeth for up to 20 percent faster material removal. Bosch delivers precision-ground teeth and thick blades for high-performance in wood and metal cutting. The line-up includes blades designed specifically for durability in demolition, heavy-use and specialty applications like fiber cement.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 23.0,
+        "length": 40.0,
+        "width": 480.0,
+        "height": 780.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51azRGGN93L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "328182011",
+            "title": "Power & Hand Tools"
+        },
+        {
+            "node": "552262",
+            "title": "Power Tool Parts & Accessories"
+        },
+        {
+            "node": "8106311011",
+            "title": "Saw Blades, Parts & Accessories"
+        },
+        {
+            "node": "552286",
+            "title": "Blades"
+        },
+        {
+            "node": "552332",
+            "title": "Reciprocating Saw Blades"
+        }
+    ],
+    "similar": [
+        "B075ZM9Q7D",
+        "B07C2S4QHQ",
+        "B003HIWR08",
+        "B076CJKDXT",
+        "B000FAKY56",
+        "B072WM881G",
+        "B01HD4EGEG",
+        "B015XPRS60",
+        "B075J7LF4Z",
+        "B071QY9KP8",
+        "B00BD5G3SY",
+        "B01H3ZT1WM",
+        "B000FAPPAA",
+        "B002M78RAY",
+        "B01L8O0CRC",
+        "B0751H4LKQ",
+        "B00OKGAERO",
+        "B01IB4NAEY",
+        "B00POLZRCQ",
+        "B07C4B3KY7",
+        "B000FAIUU2",
+        "B075L7BKY1",
+        "B01FGN7E90",
+        "B01H3ZSY5C",
+        "B07C3RRV8T",
+        "B01FIVTQ3M",
+        "B000FAPP9G",
+        "B01M09GWK8",
+        "B009K1H3WI",
+        "B07569SB87"
+    ],
+    "rating": "4.3"
+}

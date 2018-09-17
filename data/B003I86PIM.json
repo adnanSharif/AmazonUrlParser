@@ -1,0 +1,87 @@
+{
+    "asin": "B003I86PIM",
+    "title": "Garmin GPSMAP 78 2.6-Inch Marine GPS Navigator and Worldwide Chartplotter",
+    "brand": "Garmin",
+    "feature": [
+        "1.7MB built-in memory",
+        "Transflective, 65-K color TFT display",
+        "160 x 240 pixel display resolution",
+        "MicroSD card slot; 20 hours battery life",
+        "Waterproof (IPX7); Floats",
+        "Marine-friendly handheld with high-sensitivity GPS receiver and 2.6-inch color TFT display",
+        "Perfect for boating/watersports--waterproof to IPX7 standards; floats in water"
+    ],
+    "description": "The Garmin GPSMAP 78 1.7MB Marine-Friendly Handheld GPS Navigator features crisp color mapping, high-sensitivity receiver, new molded rubber side grips, plus a microSD card slot for loading additional maps. The card slot is located inside the waterproof battery compartment, so you don't have to worry about getting it wet. It comes with built-in worldwide basemap and 1.7MB of map storage space. GPSMAP 78 also supports BirdsEye Satellite Imagery (subscription required), that lets you download satellite images to your device and integrate them with your maps. And the unit floats in water, and is IPX7 waterproof to withstand the accidental dunk or splash in the lake.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 83.75,
+        "length": 120.0,
+        "width": 260.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31Mt6-IWXFL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31lWgaWFnQL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/312EZgeCTuL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31PwEJ3lSsL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "3248684011",
+            "title": "Car & Vehicle Electronics"
+        },
+        {
+            "node": "319574011",
+            "title": "Marine Electronics"
+        },
+        {
+            "node": "551462",
+            "title": "Marine GPS Chartplotters"
+        }
+    ],
+    "similar": [
+        "B0795F22QH",
+        "B01DQ0HJX6",
+        "B07561PLML",
+        "B01KLGJFTY",
+        "B0749LHXFQ",
+        "B01MA58DQ1",
+        "B075YT81TT",
+        "B01DQ0HCGU",
+        "B0000996BA",
+        "B00F9X34XS",
+        "B003I86PJ6",
+        "B009NEKAEK",
+        "B01M2YMPDR",
+        "B06XCRZZTW",
+        "B01DQ0HB9I",
+        "B01MAY1C29",
+        "B01DQ0HKTE",
+        "B019T4RBQ8",
+        "B00LH3DMUO",
+        "B00AJ05C36",
+        "B01F4PYHRW",
+        "B07BGFD8H3",
+        "B072KP1Z6Y",
+        "B010XO3IS8",
+        "B076DD5JNS",
+        "B0753KFMSL",
+        "B00NTCHCU2",
+        "B003I86PJG",
+        "B00J2FGQBG",
+        "B003SWA8MW",
+        "B0187T4OAC",
+        "B00XQE6Z92",
+        "B01DQ0HK8A",
+        "B01DQ0HCOW",
+        "B01MA58CSP"
+    ],
+    "rating": "3.8"
+}

@@ -1,0 +1,81 @@
+{
+    "asin": "B00117ZTOS",
+    "title": "Country Life Target Mins - Calcium Magnesium Potassium, 500mg/500mg/99mg - 180 Tablet",
+    "brand": "Country Life",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 160.0,
+        "length": 600.0,
+        "width": 500.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51KlXyERqtL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774271",
+            "title": "Minerals"
+        },
+        {
+            "node": "3774291",
+            "title": "Calcium"
+        },
+        {
+            "node": "6939226011",
+            "title": "Calcium Magnesium"
+        }
+    ],
+    "similar": [
+        "B00XQ2XGAA",
+        "B002RS6PN4",
+        "B00014DNJU",
+        "B00CU3SX4K",
+        "B00JGCBGZQ",
+        "B000R2A3NU",
+        "B0055OUOQQ",
+        "B00L2R1NB0",
+        "B000GFPD10",
+        "B07959HPLW",
+        "B000WSGBLW",
+        "B01IT9NLHW",
+        "B00028LZ9A",
+        "B00GBBYDQE",
+        "B00028O4E8",
+        "B06X9YYMKT",
+        "B07CQXDGKT",
+        "B000I4FCAG",
+        "B00117ZTNY",
+        "B073WP1PRP",
+        "B00L1I9Y5C",
+        "B074N7KTJK",
+        "B00TDFH3WQ",
+        "B00SODYZQK",
+        "B01LLMUG22",
+        "B07CS55R5Q",
+        "B00GB85JR4",
+        "B01FYD2CP8",
+        "B000168HV2",
+        "B00117ZTMU",
+        "B01FYDCGZ4",
+        "B00GZ9KQPY",
+        "B002BSH3HC",
+        "B009MKHYCG",
+        "B001LRPUMY",
+        "B004L4EJQ2"
+    ],
+    "rating": "4.3"
+}

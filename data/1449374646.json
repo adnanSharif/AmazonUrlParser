@@ -1,0 +1,54 @@
+{
+    "asin": "1449374646",
+    "title": "Cloud Native Java: Designing Resilient Systems with Spring Boot, Spring Cloud, and Cloud Foundry 1st Edition",
+    "brand": "by {\"isAjaxInProgress_B0059MGDZU\":\"0\",\"isAjaxComplete_B0059MGDZU\":\"0\"} Josh Long (Author) \u203a Visit Amazon's Josh Long Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Josh Long (Author), {\"isAjaxComplete_B074WF4SGH\":\"0\",\"isAjaxInProgress_B074WF4SGH\":\"0\",\"isAjaxInProgress_B0059MGDZU\":\"0\",\"isAjaxComplete_B0059MGDZU\":\"0\"} Kenny Bastani (Author) \u203a Visit Amazon's Kenny Bastani Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Kenny Bastani (Author)",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 229.99999999999997,
+        "length": 700.0,
+        "width": 120.0,
+        "height": 910.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [
+        {
+            "node": "283155",
+            "title": "Books"
+        },
+        {
+            "node": "5",
+            "title": "Computers & Technology"
+        },
+        {
+            "node": "3652",
+            "title": "Networking & Cloud Computing"
+        }
+    ],
+    "similar": [
+        "B06XDFFW9Z",
+        "1789138086",
+        "1484228073",
+        "1617292540",
+        "1786463784",
+        "1491950358",
+        "0134685997",
+        "1788471458",
+        "B074MDSSWR",
+        "1783266376",
+        "1786462907",
+        "B07FRXZRRV",
+        "product-description",
+        "0134494164",
+        "B01N1TTJFK",
+        "1788838386",
+        "1788472144",
+        "1491932430",
+        "1617293989"
+    ],
+    "rating": "3.4"
+}

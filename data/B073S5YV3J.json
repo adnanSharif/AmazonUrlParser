@@ -1,0 +1,83 @@
+{
+    "asin": "B073S5YV3J",
+    "title": "ASRock H110 Pro BTC+ 13GPU Mining Motherboard Cryptocurrency",
+    "brand": "ASRock",
+    "feature": [
+        "ASRock Super Alloy",
+        "Supports 7th and 6th Generation Intel CoreTM i7/i5/i3/Pentium/Celeron Processors",
+        "Supports DDR4 2400/2133",
+        "1 PCIe 3.0 x16, 12 PCIe 2.0 x1",
+        "4 SATA3, 1 M.2 (SATA3)"
+    ],
+    "description": "This motherboard is specifically designed for mining, the revolutionary digital crypto-currency that may be used anywhere in the world. The abundant onboard PCIe slots guarantee fast Crypto mining, while the additional power connectors provide advanced system stability while mining.",
+    "price": 12530.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 240.0,
+        "length": 1360.0,
+        "width": 1120.0,
+        "height": 240.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51i%2BedVQx7L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51QtI8oMGGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5140ZmEk09L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51RwGLaqpEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51jU3-NzCuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51J-brJBa4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/312Sm65TNML._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "1048424",
+            "title": "Motherboards"
+        }
+    ],
+    "similar": [
+        "B0792PRYTL",
+        "B076KLJR2Y",
+        "B079MRMJZL",
+        "B075KFPJ6M",
+        "B075RJP22C",
+        "B01MYTY55V",
+        "B074XDTVN1",
+        "B075RJHN2D",
+        "B01GU94QSQ",
+        "B015VPX05A",
+        "B00QL3MHTC",
+        "B07HBSKZKW",
+        "B074XBM459",
+        "B079LZSGG9",
+        "B07988FLFW",
+        "B075RHWCC4",
+        "B01LMZZFWO",
+        "B07B6MYCH1",
+        "B074PS39BK",
+        "B072XGDWB3",
+        "B0782PSHJ3",
+        "B012SLYMT8",
+        "B07FKLNJHP",
+        "B07HBCNWTB",
+        "B073ZMZV6K",
+        "B07481N9LW"
+    ],
+    "rating": "3.6"
+}

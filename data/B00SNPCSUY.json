@@ -1,0 +1,90 @@
+{
+    "asin": "B00SNPCSUY",
+    "title": "CeraVe Skin Renewing Night Cream - Multipurpose Night Cream, Face Moisturizer, Anti Aging Face Cream & Wrinkle Cream \u2013 Moisturizer for Face w Hyaluronic Acid & Niacinamide, 1.7 oz",
+    "brand": "CeraVe",
+    "feature": null,
+    "description": "CeraVe Skin Renewing Night Cream is formulated to restore the skin barrier overnight, so you can wake up with skin that looks refreshed and renewed. This nongreasy formula contains an exclusive ceramide and peptide complex, along with kollaren and chronoline to help reduce the look of fine lines and wrinkles and support skin elasticity. Ceramides, hyaluronic acid and niacinamide work to provide intense hydration while helping to repair and restore the protective skin barrier.",
+    "price": 1399.0,
+    "listPrice": 2210.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 800.0,
+        "width": 260.0,
+        "height": 220.00000000000003
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Sznb8dUHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51g-yqhPORL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/4138DOM0xYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/518hW6Uy-qL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51iBGdQyr6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51L4dBqUUHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51d9yJvigoL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11061301",
+            "title": "Creams & Moisturizers"
+        },
+        {
+            "node": "16479981011",
+            "title": "Face Moisturizers"
+        }
+    ],
+    "similar": [
+        "B01N35TNYX",
+        "B00D7BZNT2",
+        "B00365DABC",
+        "B074S81M2H",
+        "B01LZAN652",
+        "B077TQR6ZW",
+        "B016F3MG2U",
+        "B017610BFO",
+        "B07DNL57KX",
+        "B00BGD5C0S",
+        "B01M4MCUAF",
+        "B003O7IBUW",
+        "B075WZQ8RF",
+        "B01BJL0RII",
+        "B00TTD9BRC",
+        "B01MYCUBSU",
+        "B00U1YCRD8",
+        "B077TWXCQV",
+        "B010E1ZQ8U",
+        "B00JJPMXDO",
+        "B00O9TLU9S",
+        "B00IJJDYTI",
+        "B0012J30LY",
+        "B01MSSDEPK",
+        "B00SNOACEO",
+        "B00JF3RYPM",
+        "B00BN2UF54",
+        "B01JIRKQ3G",
+        "B01N1LL62W",
+        "B00KBD0CXG",
+        "B01ES349CY",
+        "B001AMBAIS",
+        "B01HIFXVCI",
+        "B01M1KQHM7",
+        "B0024GT9NC",
+        "B01B6PQAHY",
+        "B07BRQC5XZ",
+        "B000YJ2SLG",
+        "B00LV5NY3I"
+    ],
+    "rating": "4.2"
+}

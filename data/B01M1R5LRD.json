@@ -1,0 +1,50 @@
+{
+    "asin": "B01M1R5LRD",
+    "title": "Feitian ePass NFC FIDO U2F Security Key",
+    "brand": "Feitian",
+    "feature": [
+        "FIDO U2F certified security key",
+        "Smart card secure element and JavaCard operating system",
+        "Identified as HID device, NFC interface for mobile phones and contactless readers"
+    ],
+    "description": "Feitian ePass FIDO\u00ae-NFC is a FIDO alliance certified U2F security key. Unlike the traditional second factor authenticators, FIDO U2F provides a much convenient solution to replace or be a plus of traditional password. Each FIDO device is able to store multiple key pairs. Feitian ePass FIDO\u00ae-NFC embedded NFC module into its key-liked compact body. Users are able to use the ePass FIDO\u00ae-NFC for registration and authentication with their Mobile phones or other devices with NFC sensor. ePass FIDO\u00ae-NFC will be a considerate partner for those who have both security and convenience requirements.",
+    "price": 1698.9999999999998,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 4.0,
+        "length": 170.0,
+        "width": 80.0,
+        "height": 10.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31JoPZ7KZFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41tWfITfFxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Z-nfqOykL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31iWloS4gUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41r9QlukdFL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B018Y1Q71M",
+        "B00LX8KZZ8",
+        "B07BYSB7FK",
+        "B018358ENI",
+        "B018Y1XXT6",
+        "B00D7H8XB6",
+        "B00Q3KFX8U",
+        "B00AETJ5DU",
+        "B076ZNTND8",
+        "B074N9LQZL",
+        "B07B8Q2G3K",
+        "B01FZMH0QY",
+        "B06Y1CSRZX",
+        "B01LZO0WE9",
+        "B076WP4BQS",
+        "B01LYV6TQM",
+        "B01FZMORQ0",
+        "B015N9Z4DU"
+    ],
+    "rating": "3.7"
+}

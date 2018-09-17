@@ -1,0 +1,71 @@
+{
+    "asin": "B009D3KQ54",
+    "title": "Evercool Model EC-DF001 17.72\" PWM Braided Fan Splitter Run Multiple 4 pin fans!",
+    "brand": "Evercool",
+    "feature": [
+        "Supports 5 PWM fans from a single motherboard PWM header",
+        "Black braided cable"
+    ],
+    "description": "PWM fans receive their spin rate orders from your PC's motherboard. If you have multiple PWM fans, you can use this cable to sync them up to spin at the same rate. One 4-pin connector allows the connected fan to provide RPM feedback to the motherboard.- Supports 5 PWM fans from a single motherboard PWM header- Black braided cable: EverCool: EC-DF001Connector 1: Molex 4-pin male (connects to PSU)Connector 2: PWM 4-pin female (connects to MB)Connector 3: PWM 4-pin male (connects to feedback fan)Connectors 4-7: PWM 4-pin male",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": 50.0,
+        "width": 900.0,
+        "height": 650.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/413wuaUoUPL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012290011",
+            "title": "Fans & Cooling"
+        }
+    ],
+    "similar": [
+        "B003AI272I",
+        "B009NQLT0M",
+        "B00KFCRF1A",
+        "B079LY2LTS",
+        "B079NXYC7H",
+        "B01IBA3XCW",
+        "B01N0XQ7XC",
+        "B00KG8K5CY",
+        "B009D3HV1Q",
+        "B073SMF21G",
+        "B074DQJY8K",
+        "B00NTUJTAK",
+        "B01FFFHDKO",
+        "B07611QXG4",
+        "B01DV1Z0WC",
+        "B007YL84VA",
+        "B0756P4KPQ",
+        "B01BGUX0MM",
+        "B01G5I6MRK",
+        "B00GK8SYCW",
+        "B01MTCEAQ2",
+        "B009NQMESS",
+        "B00MYA3A4C"
+    ],
+    "rating": "3.9"
+}

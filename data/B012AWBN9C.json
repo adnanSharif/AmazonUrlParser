@@ -1,0 +1,82 @@
+{
+    "asin": "B012AWBN9C",
+    "title": "Samsung Qi Certified Fast Charge Wireless Charger Pad - US Version - Black",
+    "brand": "Samsung",
+    "feature": [
+        "Charge your compatible Galaxy smartphones, and other Qi-compatible devices, without the need to plug your device in to a wall charger or USB port",
+        "Works with all Qi compatible smartphones including the Samsung Galaxy S8, S8+, Note 8, Apple iPhone 8, iPhone 8 Plus, iPhone X",
+        "You can still use your device while charging, and your device is always accessible so you can answer a call without having to unplug.",
+        "The Fast Charge feature is compatible with Galaxy Note5 and Galaxy S6 edge+ and later models of the Galaxy S and Galaxy Note series. Standard charging speed applies to other Qi enabled devices.",
+        "Multi-colored LED halo indicates charging status",
+        "Retail Package includes: Wireless Charging Pad / Fast Charge Wall Charger / Quick Start Guide (standard warranty: 1 year)"
+    ],
+    "description": "Take your wireless charging experience to the next level with the Fast Charge Wireless Charging Pad. Available in black sapphire or white, the new wireless charging pad allows you to charge your Galaxy Note 5 or Galaxy S6 edge+ device up to 1.4x faster than standard wireless charging pads, reducing total charging time from 0-100% by up to 50 minutes!* Using Samsung\u2019s Fast Charge technology, the pad can transfer a faster charge to the device when used with the included Fast Charge wall charger. The Fast Charge Wireless Charging Pad is closing the gap in speed between wireless and wired charging! The pad is also backwards compatible for any Qi-enabled device so you can charge those devices wirelessly at standard speeds.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 350.0,
+        "width": 80.0,
+        "height": 720.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31sNKn61eCL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41jm5AkoYzL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31bESNAmb1L._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "2335752011",
+            "title": "Cell Phones & Accessories"
+        },
+        {
+            "node": "2407755011",
+            "title": "Accessories"
+        },
+        {
+            "node": "2407761011",
+            "title": "Chargers & Power Adapters"
+        }
+    ],
+    "similar": [
+        "B07FKBQJ5L",
+        "B07GH4YDDF",
+        "B075NDTVJV",
+        "B01M6VWNHG",
+        "B0773JCTR5",
+        "B07G34F1L5",
+        "B07GRNDR64",
+        "B06XH4X7SZ",
+        "B06XD5N4Y3",
+        "B07FJZDGL5",
+        "B07B7FZZB7",
+        "B012AWBP9U",
+        "B00UCZGS6S",
+        "B076K31MKS",
+        "B078X4NQ6M",
+        "B07DKYMDL6",
+        "B07FLYM9YL",
+        "B07GJND8DW",
+        "B07BC356C7",
+        "B01BMDQ9U8",
+        "B07856GC4Y",
+        "B07G378GW4",
+        "B0797F2V5C",
+        "B078NTG28C",
+        "B071V9XV8K",
+        "B073TLKQB9",
+        "B07C3HJ42X",
+        "B01IPJX2NY",
+        "B07CN8NXLQ",
+        "B01BBZJ31Y",
+        "B075V234VL"
+    ],
+    "rating": "3.6"
+}

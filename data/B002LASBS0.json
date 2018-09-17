@@ -1,0 +1,87 @@
+{
+    "asin": "B002LASBS0",
+    "title": "MXL 550/551R Microphone Ensemble",
+    "brand": "MXL Mics",
+    "feature": [
+        "Two microphones that cover a wide range of vocal and instrument applications",
+        "Both mics have cardioid polar patterns for a clean, clear pickup",
+        "Beautiful red gloss finish and chrome grills",
+        "Fine-tuned to deliver extra clarity and detail",
+        "FET preamp with balanced output for low noise",
+        "Includes two mic stand adapters and protective carrying case"
+    ],
+    "description": "This all-in-one Recording Ensemble delivers outstanding performance for both vocals and instruments. Ideal for quality-oriented but budget-mindful musicians, the MXL 550/551R Ensemble includes the MXL 550 and MXL 551. The MXL 550 is a robust vocal condenser microphone with exceptional clarity and tonal quality. The MXL 551 instrument microphone provides the dynamic range needed for acoustic guitars, drums, high-hat cymbals, pianos, percussion, stringed instruments and more.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 269.0,
+        "length": 1200.0,
+        "width": 800.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41IloXK%2BObL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41kCAVlV0sL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41QpxS6mfKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51pnx%2BK0W4L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Red"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11974521",
+            "title": "Microphones & Accessories"
+        },
+        {
+            "node": "8882489011",
+            "title": "Microphones"
+        },
+        {
+            "node": "11974631",
+            "title": "Condenser Microphones"
+        },
+        {
+            "node": "11974651",
+            "title": "Multipurpose"
+        }
+    ],
+    "similar": [
+        "B0774TNWZR",
+        "B007IXD2DO",
+        "B000VJJQUU",
+        "B01JNLTTKS",
+        "B076Q821RY",
+        "B0002GIRP2",
+        "B0002GJI3C",
+        "B07GNW7MH2",
+        "B0002GJHYM",
+        "B0007NQH98",
+        "B074QTNY4C",
+        "B0055EOTGM",
+        "B000JRPYGE",
+        "B00TKO18KS",
+        "B003CLIPHO",
+        "B01D94RV14",
+        "B01JNLUA5G",
+        "B006LQJHX8",
+        "B00TKOPOEY",
+        "B0178DOWK0",
+        "B004D8ETUW",
+        "B01LY7QM1N",
+        "B00QHURLHM",
+        "B07DQVS9ZV",
+        "B0779PKLV9",
+        "B001R76D42",
+        "B019NY2PKG"
+    ],
+    "rating": "4.4"
+}

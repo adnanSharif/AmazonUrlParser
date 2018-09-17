@@ -1,0 +1,87 @@
+{
+    "asin": "B004JO5KYO",
+    "title": "Nature's Bounty Fish Oil 1200 mg Omega-3, 180 softgels each(pack of 2)",
+    "brand": "Nature's Bounty",
+    "feature": null,
+    "description": "These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 160.0,
+        "length": 320.0,
+        "width": 630.0,
+        "height": 610.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61EzSCEWnBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51OYlIU2ThL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51DK8czLe6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31J0NkSNpkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41piEolCZnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/516sbPCIa%2BL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6939426011",
+            "title": "Supplements"
+        },
+        {
+            "node": "6943343011",
+            "title": "Essential Fatty Acids"
+        },
+        {
+            "node": "6943348011",
+            "title": "Omega Oils"
+        },
+        {
+            "node": "6943349011",
+            "title": "Omega-6"
+        }
+    ],
+    "similar": [
+        "B004U3Y9GE",
+        "B003FW4F60",
+        "B01NBTJFJB",
+        "B01DBTFO98",
+        "B019UNB0FQ",
+        "B014LDT0ZM",
+        "B002QMB55Y",
+        "B004GJVD2K",
+        "B0771ZD3H8",
+        "B001G7QFW8",
+        "B00L3XNK32",
+        "B00L1I9Y5C",
+        "B01BTBZWBU",
+        "B07GC6PPGC",
+        "B01MA6MT2T",
+        "B00CAZAU62",
+        "B009ES5ENM",
+        "B0013L5G9U",
+        "B0771X1HTZ",
+        "B01JP47UOU",
+        "B00W0I3WGE",
+        "B003USIFGK",
+        "B01GNCGV5G",
+        "B00Y4VIHKG",
+        "B000NPYY04",
+        "B0013L5GAY",
+        "B009IMJOO4",
+        "B0019GW3G8",
+        "B004U3Y9FU",
+        "B01070FUDE",
+        "B009HUMBUQ",
+        "B00IARTBG4",
+        "B002FU6I90"
+    ],
+    "rating": "4.4"
+}

@@ -1,0 +1,62 @@
+{
+    "asin": "B01N0ONU46",
+    "title": "Rude Health Organic Almond Milk 1ltr - (2 Pack)",
+    "brand": "Rude Health",
+    "feature": null,
+    "description": "We take organic Italian almonds, roast them and combine with spring water to create this subtle, creamy drink. It\u2019s ultimate version of a nut milk first enjoyed by ancient Persians, thousands of years before it reached the coffee shops of London, Amsterdam and New York.",
+    "price": 1784.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 459.99999999999994,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ol7HkT4vL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "371460011",
+            "title": "Dairy, Cheese & Eggs"
+        },
+        {
+            "node": "119343011",
+            "title": "Milk Substitutes"
+        },
+        {
+            "node": "6520452011",
+            "title": "Almond Milk"
+        }
+    ],
+    "similar": [
+        "B071WY281Q",
+        "B07332GMR7",
+        "B01GZ7HQI0",
+        "B00MXXV5Q0",
+        "B0012C4X3K",
+        "B01HH79Y0U",
+        "B01GW3M6EQ",
+        "B01NCJZE1D",
+        "B07B2M5BRW",
+        "B000MHHDVK",
+        "B07C678XLL",
+        "B013JL4AZM",
+        "B01JZ0BY8C",
+        "B017LVN45I",
+        "B0139ZUSEU",
+        "B01A5ZPQ1M",
+        "B00856TSCC",
+        "B01GOTHSFK",
+        "B012DT19IM",
+        "B0777S2XYR",
+        "B01FJ8JBN4"
+    ],
+    "rating": "5.0"
+}

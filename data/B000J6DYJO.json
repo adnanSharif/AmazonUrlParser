@@ -1,0 +1,71 @@
+{
+    "asin": "B000J6DYJO",
+    "title": "NOW L-Arginine 500 mg, 100 Capsules",
+    "brand": "NOW Foods",
+    "feature": null,
+    "description": "L-Arginine is a conditionally essential basic amino acid involved primarily in urea metabolism and excretion, as well as DNA synthesis.* By NOW Foods",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 21.875,
+        "length": 600.0,
+        "width": 500.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41SLcmPd4AL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51a2JE04TfL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41t%2BNXggehL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31vFZQbLrCL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "6973663011",
+            "title": "Sports Nutrition"
+        },
+        {
+            "node": "10781161",
+            "title": "Amino Acids"
+        },
+        {
+            "node": "6939950011",
+            "title": "L-Arginine"
+        }
+    ],
+    "similar": [
+        "B00ZYPT3YK",
+        "B0013OVX58",
+        "B003BHZ71G",
+        "B01CUWIURK",
+        "B00HZV1Z2O",
+        "B00YSPNF2I",
+        "B07C4RQYNH",
+        "B01MFXS2V5",
+        "B003BHSXPS",
+        "B07B45PSV8",
+        "B075FFGNH8",
+        "B002WIZF6M",
+        "B0013OVX3U",
+        "B0013OQLJQ",
+        "B000OSQR9G",
+        "B0013OQGCI",
+        "B01MS461VC",
+        "B003G70U3G",
+        "B000GCQ8X0",
+        "B0013OVZXS",
+        "B00NIYG04U",
+        "B077JFKMSX",
+        "B01FVQ0BSS",
+        "B07CJ2ZSTH",
+        "B01CKNC8GI",
+        "B004R634Z6",
+        "B00NAKBOFC"
+    ],
+    "rating": "4.3"
+}

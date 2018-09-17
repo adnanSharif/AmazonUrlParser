@@ -1,0 +1,50 @@
+{
+    "asin": "1119158974",
+    "title": "LTE Optimization Engineering Handbook 1st Edition",
+    "brand": "by Xincheng Zhang (Author)",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 320.0,
+        "length": 710.0,
+        "width": 170.0,
+        "height": 1010.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [
+        {
+            "node": "283155",
+            "title": "Books"
+        },
+        {
+            "node": "5",
+            "title": "Computers & Technology"
+        },
+        {
+            "node": "3839",
+            "title": "Programming"
+        }
+    ],
+    "similar": [
+        "1118683218",
+        "1118725107",
+        "0128143231",
+        "1118818032",
+        "1981002723",
+        "1107130093",
+        "153700252X",
+        "1537324497",
+        "B01MRB67EQ",
+        "B016NIEONQ",
+        "0128045752",
+        "1119063302",
+        "0470689005",
+        "B074Z7F6D4",
+        "B01E9D1COG"
+    ],
+    "rating": "4.0"
+}

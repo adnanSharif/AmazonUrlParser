@@ -1,0 +1,73 @@
+{
+    "asin": "B002CNJSYW",
+    "title": "PPP Pet Whitest Coat Shampoo, 13-1/2-Ounce",
+    "brand": "PPP",
+    "feature": [
+        "Leaves the coat soft, lustrous and tangle free",
+        "Pleasant watermelon fragrance",
+        "For dogs, cats, puppies and kittens"
+    ],
+    "description": "Contains a special bluing agent for the brightest and whitest coat possible. Uses no harsh bleach, makes white coats whiter and black coats shiny.",
+    "price": 1619.0000000000002,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": 320.0,
+        "width": 180.0,
+        "height": 800.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41yhiezL8EL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41AY%2BiYy0sL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/3155wYV3CHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/510xfawVl7L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "2619533011",
+            "title": "Pet Supplies"
+        },
+        {
+            "node": "2975312011",
+            "title": "Dogs"
+        },
+        {
+            "node": "2975362011",
+            "title": "Grooming"
+        },
+        {
+            "node": "2975371011",
+            "title": "Shampoos & Conditioners"
+        },
+        {
+            "node": "2975374011",
+            "title": "Shampoos"
+        }
+    ],
+    "similar": [
+        "B0002563S6",
+        "B0037Z6VK8",
+        "B07CW3T8ZV",
+        "B002CGLHFM",
+        "B000KVWNB8",
+        "B01LXYCVTT",
+        "B074NC67TB",
+        "B01K3712K6",
+        "B01M0RS993",
+        "B00867277I",
+        "B0180A1CWG",
+        "info.html",
+        "B07CZR9GLC",
+        "B00QXMSMPO",
+        "B0777RY9GT",
+        "B000NV87FG",
+        "B00AO3N640",
+        "B000WEIKZQ",
+        "B07CVS4NLR",
+        "B06XNXQ4Q7",
+        "B002CZNC4C"
+    ],
+    "rating": "4.3"
+}

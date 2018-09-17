@@ -1,0 +1,88 @@
+{
+    "asin": "B004AI97MA",
+    "title": "Bio-Oil 4.2oz: Multiuse Skincare Oil",
+    "brand": "Bio-Oil",
+    "feature": [
+        "Clinically proven and dermatologist recommended* for scars and stretch marks *GfK Recommendation Study 12/2014",
+        "Helps improves the appearance of uneven skin tone, dry and aging skin",
+        "Non-greasy and won't clog your pores. Bio\u2011Oil is safe to use on a scar once the skin's surface is fully healed",
+        "Hypoallergenic. Ideal for all skin types, even sensitive skin",
+        "#1 selling scar and stretch mark product in 18 countries and winner of 224 skincare awards"
+    ],
+    "description": "Bio-Oil is a specialist moisturizing oil that helps improve the appearance of scars, stretch marks, uneven skin tone, aging and dehydrated skin. Bio-Oil has won 126 skincare awards since its global launch in 2002. It is America\u2019s number 1 selling multiuse skincare oil.",
+    "price": 1499.0,
+    "listPrice": 1798.9999999999998,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 180.0,
+        "width": 180.0,
+        "height": 580.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41m2-z0g4DL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31KMJKbDykL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11060661",
+            "title": "Moisturizers"
+        },
+        {
+            "node": "11060691",
+            "title": "Oils"
+        }
+    ],
+    "similar": [
+        "B008S8U48E",
+        "B07B1S6BZD",
+        "B0010ED5FC",
+        "B076J1VRB4",
+        "B07H3NKST9",
+        "B077T2GMFG",
+        "B01MXOGE8F",
+        "B01IB3P0N4",
+        "B01MTU0RUJ",
+        "B002ZG94UY",
+        "B01BPCAWK4",
+        "B01MFAX9KQ",
+        "B00HE1X0XW",
+        "B0037W6PJS",
+        "B00NC5VKG8",
+        "B00GGLLC7C",
+        "B06XG58W56",
+        "B00FCL7C0I",
+        "B00HE1VY44",
+        "B01DPVXXUY",
+        "B00TN4DG2I",
+        "B00GJX58PE",
+        "B0029PT4KG",
+        "B000VPPUEA",
+        "B07GPJ3LBB",
+        "B00LSN0OCC",
+        "B00HNQE9LU",
+        "B00DM14TYC",
+        "B01D6ZS3G8",
+        "B00AREGVUM",
+        "B016CZ0UE2"
+    ],
+    "rating": "4.1"
+}

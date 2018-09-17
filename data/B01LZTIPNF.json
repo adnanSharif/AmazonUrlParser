@@ -1,0 +1,68 @@
+{
+    "asin": "B01LZTIPNF",
+    "title": "Case Air Wireless Tethering System",
+    "brand": "Tether Tools",
+    "feature": [
+        "Wireless control of camera settings and shutter release to take photos.",
+        "Use Live View to view shots on your phone, tablet, and computer.",
+        "Review and download photos and videos to your device.",
+        "Works with Canon and Nikon DSLRs",
+        "Works with iOS, Android, Windows and Mac"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 50.0,
+        "length": 260.0,
+        "width": 160.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51cwtkA4IzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41-vD%2BkUC0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51pdw9Vjs%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51-aHUayALL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51wOI74TskL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51w7%2Bhj10QL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41MMjeWpwQL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "502394",
+            "title": "Camera & Photo"
+        }
+    ],
+    "similar": [
+        "B007BD4BRC",
+        "B0163L89LG",
+        "B01IP6U7EO",
+        "B07B497B3D",
+        "B00AA478UQ",
+        "B01C4UY0JK",
+        "B07CZJMSHP",
+        "B079BZQQ6Y",
+        "B0088PPFP4",
+        "B072HMJ5RP",
+        "B019532VTU",
+        "B07D4GXCYY",
+        "B0734J76NN",
+        "B00L88SB5O",
+        "B07BFQQKGV",
+        "B079JWDXCW",
+        "B075GKDNBM",
+        "B01EGDW0AE",
+        "B019532XBG",
+        "B072R46TYV",
+        "B01MQWLCPK",
+        "B07F3F63SX",
+        "B0040609WO"
+    ],
+    "rating": "3.0"
+}

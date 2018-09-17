@@ -1,0 +1,92 @@
+{
+    "asin": "B074LHG47K",
+    "title": "HooToo Wireless Travel Router, FileHub, 10400mAh External Battery, USB Port, High Performance Travel Charger - TripMate Titan 300Mbps (Not a Hotspot)",
+    "brand": "HooToo",
+    "feature": [
+        "Storage Backup: this TripMate Titan transfers files between multiple USB hard drives and your devices (phone/tablet/computer) to free much more space up for your devices.",
+        "Wireless Router: 300Mbps Wi-Fi speed on 2.4GHz band instantly convert a wired network to wireless network. And bridge and extend WiFi, share internet securely with others (but it's NOT a hotspot and do not support VPN).",
+        "Media Streamer & Sharer: seamlessly share with your families, friends and stream your videos, photos, and music on your connected smartphones, tablets, TVs, media players, Chromecast, Roku, and other DLNA devices, via App HooToo TripMate Plus.",
+        "New USB Reader Technology: wirelessly recognize USB flash drive, hard disk, SDHC, SDXC cards with your devices (phone/tablet/computer) via TripMate APP, even more support with a usb hub.",
+        "Upgraded Chip & External Battery Packs: Built-in 10400mAh power bank (5V/2.1A) enables you to charge your iPhone or smartphone up to 3 times. Please use the latest app: HooToo TripMate Plus. Note: It cannot be compatible with Xfinity Hot Spot."
+    ],
+    "description": "New Update For HooToo Wireless Travel Router1) We have shut up telnet and ssh on Feb 2015, fw-7620-WiFiDGRJ-HooToo-HT-TM05-2.000.034.2)The engineering team has updated our app and improve product quality for years, thanks for the advice from every customer to make this product more and more stable.3)Please feel free to email us if you have questions with our travel router series.What Can TripMate Titan Do For You?1)Be a wireless travel routerInstantly convert a wired network to wireless to create your own secure Wi-Fi network.2)Be a powerful filehub.TripMate Titan transfers files between multiple USB hard drives and your devices (phone/tablet/computer) to free much more space up for your devices. It can support USB card reader, USD flash drive, HDD and so on which means you can use this USB hard drives to transfer your document/photos/videos between SD Card, HDD, and your devices (phone/tablet/computer). You don't need to take your computer anymore when traveling. 3)Be a power bankBuilt-in 10400mAh power bank (5V/2.1A) enables you to charge your iPhone or smartphone up to 3 times. Please use the latest app: HooToo TripMate Plus. Note: It cannot be compatible with Xfinity Hot Spot.TripMate is Powerful, BUT:1 ) Cannot be used for IP camera FTP path;2 ) Cannot work as a proxy server;do not support VPN3 ) The Ethernet port can only be used as a WAN input port;4 ) No app for Windows Phone OS;5 ) It supports NTFS/FAT16/FAT32 formatted disk;6 ) Cannot bridge an iPhone hotspot.7 ) Cannot stream the media purchased from iTunes except DRM free medias due to digital rights management policy.8 ) Due to the limitation of the Apple iOS system, you can ONLY access the Photos folder on your iPad/iPhone; Filehub is currently unable to sync with media files stored in iTunes to USB storage devices due to digital rights management (DRM).9 ) Does not work with Mac formatted hard drive.10\uff09Up to 5 mobile devices can connect simultaneously allowing you to stream media from the SD or USB drives, or you can directly share files between two different storage devices.11\uff09As a portable router, you can turn any wired network and make it wireless, or connect it via a DSL or cable modem and it will act as a regular router.",
+    "price": 4499.0,
+    "listPrice": 5499.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 85.0,
+        "length": 160.0,
+        "width": 370.0,
+        "height": 160.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41qZ1s%2BlQhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/415Jo4GCieL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/311tfnaHAjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ox9r5m4eL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51PiRCwfSmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41kqVjYYCjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41kTD1aUvQL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "300189",
+            "title": "Routers"
+        }
+    ],
+    "similar": [
+        "B01N5RCZQH",
+        "B01MF68UPG",
+        "B01MAW2294",
+        "B07BW3JYJR",
+        "B01MCS5B2A",
+        "B079829QPH",
+        "B071CN3C12",
+        "B075TJ8VNH",
+        "B073TSK26W",
+        "B017NT8Q24",
+        "B07712LKJM",
+        "B0776LVWTN",
+        "B0064EKNKI",
+        "B07FSFF3M9",
+        "B01M4HMY8G",
+        "B01MAVXYI9",
+        "B00S7NKF0W",
+        "B00HZWOQZ6",
+        "B077BL1LNB",
+        "B017OEB32I",
+        "B01LCH2LWO",
+        "B01M63FJ5H",
+        "B07GZN67J7",
+        "B01M2WY4KP",
+        "B012ZNMUL6",
+        "B07H5T2DJF",
+        "B01MA14GJO",
+        "B07122BYFV",
+        "B01M1DFVO8",
+        "B016ZWS9ZE",
+        "B075857KVC",
+        "B0167N0B70",
+        "B00TQEX8BO",
+        "B07CGFW9V6"
+    ],
+    "rating": "4.2"
+}

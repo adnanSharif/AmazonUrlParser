@@ -1,0 +1,68 @@
+{
+    "asin": "B01CLVLN0Q",
+    "title": "Ravensburger The Castles Burgundy Card Game",
+    "brand": "Ravensburger",
+    "feature": [
+        "Card game based on the top Selling castles of burgundy board game",
+        "Includes 240 cards and instructions",
+        "Recommended age: 12+"
+    ],
+    "description": "The hundred years' War is over and the Renaissance is looming. Conditions are perfect for the princes of the Loire Valley to propel their estates to prosperity and prominence. Through strategic trading and building, clever planning, and careful thought, players add settlements and castles, practice trade along the river, exploit silver mines, farm Livestock and more in this top-selling game by Stefan Feld.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 56.875,
+        "length": 480.0,
+        "width": 180.0,
+        "height": 700.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51gGkETtJXL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51lvxLjyECL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61G4nQtRb2L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51R4zkBTMIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61IAaVpMgiL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "165793011",
+            "title": "Toys & Games"
+        },
+        {
+            "node": "166220011",
+            "title": "Games"
+        },
+        {
+            "node": "166239011",
+            "title": "Card Games"
+        }
+    ],
+    "similar": [
+        "B0757DCGJZ",
+        "B0006HCA82",
+        "B01HF1QCWQ",
+        "B01MT5MYK4",
+        "B01HQZ99US",
+        "B0077Q0NP2",
+        "B01MZ8P4D6",
+        "B07BMLQBM2",
+        "B00UU668LO",
+        "B00PGBZDM8",
+        "B00BEA67Y8",
+        "B01ABN5NZC",
+        "B06XDLYVK3",
+        "B07559HC1K",
+        "B01KMY8HN0",
+        "B076C3LW3W",
+        "B00T0JDVOO",
+        "B07BKLT9B5",
+        "B003O2T0JS",
+        "B06W2K2VRM",
+        "B005UWYK22",
+        "B01HDYNZF2",
+        "B07H1NSLSY"
+    ],
+    "rating": "4.0"
+}

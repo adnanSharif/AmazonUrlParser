@@ -1,0 +1,56 @@
+{
+    "asin": "B01EXGGLKE",
+    "title": "Shopkins Season 5, 2 Pack: Case of 30",
+    "brand": "Shopkins",
+    "feature": [
+        "Shopkins Season 5 2-Pack Case of 30 (Display box not included)"
+    ],
+    "description": "Shopkins Season 5 2-Pack Case of 30",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 245.00000000000003,
+        "length": 690.0,
+        "width": 430.0,
+        "height": 919.9999999999999
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61nYzDJ%2BDGL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "16322461",
+            "title": "Candy & Chocolate"
+        },
+        {
+            "node": "17369014011",
+            "title": "Chocolate & Fudge"
+        }
+    ],
+    "similar": [
+        "B078HQFWD5",
+        "B00Z8B2XR4",
+        "B01EZ1Q0F8",
+        "B01MG9APNP",
+        "B01LZ0YZEG",
+        "B01MA56QDA",
+        "B000JZ3576",
+        "B01M8JPF64",
+        "B01CMJZQ2I",
+        "B01BRTBTU2",
+        "B079TG1QNG",
+        "B01HAM2POE",
+        "B019DDQQ3E",
+        "B06XRJFXWZ",
+        "B0765JWD81",
+        "B073V5DCW9",
+        "B06XZ2S8BF"
+    ],
+    "rating": "4.4"
+}

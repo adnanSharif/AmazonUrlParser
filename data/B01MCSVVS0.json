@@ -1,0 +1,68 @@
+{
+    "asin": "B01MCSVVS0",
+    "title": "Nutricost L-Glutamine (500 Grams) (Blue Raspberry)",
+    "brand": "Nutricost",
+    "feature": null,
+    "description": "L-Glutamine Powder by Nutricost is a high quality L-Glutamine product that is made in the USA. Glutamine has recently been the focus of much scientific interest, particularly for those in the fitness and health community. L-Glutamine has been shown to help maintain a positive nitrogen balance in the body (an anabolic state) as well as many other other health and fitness benefits.",
+    "price": 1995.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 150.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51mMjOmSyOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/511K1vG2Y%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/513MqSaam4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51bAOKa1gxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51x4busvNFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31RtbQeoN8L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "6973663011",
+            "title": "Sports Nutrition"
+        },
+        {
+            "node": "10781161",
+            "title": "Amino Acids"
+        },
+        {
+            "node": "6939952011",
+            "title": "L-Glutamine"
+        }
+    ],
+    "similar": [
+        "B007G43CQ2",
+        "B00E7TMOMM",
+        "B01M23UCDQ",
+        "B0013OUL2Y",
+        "B0742HHQ5J",
+        "B00SHXE7VK",
+        "B00C1C21S4",
+        "B00XAK49VS",
+        "B01MFDA8ZH",
+        "B002YHLVPU",
+        "B0016RG8ZW",
+        "B00333B2B2",
+        "B00MWE8WAM",
+        "B017MW6LQK",
+        "B00GL2HMES",
+        "B0017050A2",
+        "B00T5A1SD4",
+        "B0013OXEKK",
+        "B0183B7F50",
+        "B01M63BX6N",
+        "B00068GLZ4",
+        "B00N1A2JM8"
+    ],
+    "rating": "3.9"
+}

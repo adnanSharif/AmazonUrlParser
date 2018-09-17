@@ -1,0 +1,87 @@
+{
+    "asin": "B000EEL920",
+    "title": "Dunlop SLS1503BK Straplok Traditional Strap Retainer System, Black",
+    "brand": "Jim Dunlop",
+    "feature": [
+        "360\u00ba Groove and Ball Design",
+        "Case Hardened Steel Skin",
+        "Release Tested Up to 800 lbs.",
+        "Same Strap Can Be Used with Several Guitars",
+        "Traditional Design Strap Button"
+    ],
+    "description": "The Dunlop Straplok System is the strap retainer designed with the artist in mind. 360-degree groove and ball design allows the unit to rotate without catching. The case hardened steel skin guarantees long life. The same strap can be used with several guitars, as the strap button is interchangeable. Release tested up to 800 lbs. of pull, it will not come loose!",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 9.0,
+        "length": 450.0,
+        "width": 280.0,
+        "height": 140.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41US-QXbSgL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11965871",
+            "title": "Instrument Accessories"
+        },
+        {
+            "node": "11967641",
+            "title": "Guitar & Bass Accessories"
+        },
+        {
+            "node": "486418011",
+            "title": "Straps & Strap Locks"
+        }
+    ],
+    "similar": [
+        "B01I4AXG7G",
+        "B002NLSCPE",
+        "B07C7QXS9H",
+        "B0002NIADE",
+        "B07D38HYP2",
+        "B07FTSGFYB",
+        "B0002GWRIK",
+        "B009DAHPLU",
+        "B01FN1YPVA",
+        "B0009G3DNQ",
+        "B071W15V1N",
+        "B00G8JRANW",
+        "B01FL5CQ1Y",
+        "B06Y1SYTWR",
+        "B01FL5DS5M",
+        "B01FKSSW74",
+        "B0002D0E92",
+        "B00724YGCA",
+        "B000EEJAWQ",
+        "B0002GYMBA",
+        "B000EEL92A",
+        "B01FS4JKSK",
+        "B07DN6RVLC",
+        "B06XXQDQPZ",
+        "B077VC79K5",
+        "B002AQNGIU",
+        "B0002CZW3G",
+        "B07BNQMWM4",
+        "B01FKW0AIO",
+        "B0002CZVXM",
+        "B00095VIMU",
+        "B01N9LSXM2",
+        "B019WTLVKW",
+        "B018ZI2S62",
+        "B00CE20R1O"
+    ],
+    "rating": "4.8"
+}

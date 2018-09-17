@@ -1,0 +1,72 @@
+{
+    "asin": "B000A409BG",
+    "title": "L'Oreal Excellence Hicolor Hilights Magenta 1.2 oz.",
+    "brand": "L'Oreal Paris",
+    "feature": null,
+    "description": "Hicolor red hilights by L\\'Oreal excellence is the first highlighting series formulated for dark hair. Rich, no-drip creme makes it easy for control of creative techniques. True-to-shade color that resists fading. Breakthrough technology lifts hair 3-4 levels, no pre-lightening required, for highly-visible, intense red highlights even on dark hair, without brassines.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/21OUv1nxScL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11057451",
+            "title": "Hair Coloring Products"
+        },
+        {
+            "node": "10728531",
+            "title": "Hair Color"
+        }
+    ],
+    "similar": [
+        "B000A3ZN7M",
+        "B01DPZ831Y",
+        "B003YHHV80",
+        "B0711XBS26",
+        "B01DPZZBP0",
+        "B01FMNG846",
+        "B00B1DRA94",
+        "B00HDYVLK4",
+        "B0002Z8PLE",
+        "B01M9G7WW4",
+        "B00UYY2GUO",
+        "B01DQ006XQ",
+        "B079QJZL3X",
+        "B01IR2KVO2",
+        "B000A3V2PE",
+        "B01IA9FDIQ",
+        "B000GCT01W",
+        "B00006JN4S",
+        "B00YG494US",
+        "B000A409CU",
+        "B01N8XF244",
+        "B01BKSLNJM",
+        "B01DQ09OKC",
+        "B01G3CXU7S",
+        "B01J1M58NQ",
+        "B00HDYSK3K",
+        "B01LTHYYBS",
+        "B01DPZZA5Q",
+        "B00KNWYEF2",
+        "B01IA9C0SW",
+        "B000A409CK"
+    ],
+    "rating": "4.0"
+}

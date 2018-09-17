@@ -1,0 +1,78 @@
+{
+    "asin": "B0013J2IJI",
+    "title": "Loops by Yigal Mesika",
+    "brand": "Yigal Mesika",
+    "feature": [
+        "Magic Trick",
+        "Easy to Do",
+        "Memorable"
+    ],
+    "description": "Manufactured by Close-Up Specialist Yigal Mesika in Israel is LOOPS! These invisible thread loops are strong enough to move objects and stretch to ten inches without breaking. These Loops are worn on your wrist all day, without snagging or breaking. PRACTICAL Magic Made Easy: Move Silverware! Perfect Crazy Man's Hand-Cuffs! Levitate Objects! Impromptu Rising Cards! Defy Gravity! Each package contains FIVE Loops and detailed instructions with 15 illustrations. Mesika's Animated Miracles Book is available as well. This is one of our best selling items.",
+    "price": 1065.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 2.0,
+        "length": 620.0,
+        "width": 450.0,
+        "height": 10.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41uvhHZWIWL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "165793011",
+            "title": "Toys & Games"
+        },
+        {
+            "node": "166027011",
+            "title": "Novelty & Gag Toys"
+        },
+        {
+            "node": "166355011",
+            "title": "Magic Kits & Accessories"
+        }
+    ],
+    "similar": [
+        "B01KFLXLVI",
+        "B0016C1WQC",
+        "B073D7HJJM",
+        "B07FRYVWNV",
+        "B01FNH2V8I",
+        "B075LVQNZF",
+        "B01MCUCMNK",
+        "B01LY6FNO9",
+        "B071DFKG55",
+        "B00ME5SV3M",
+        "B01HT154E4",
+        "B016NBWADY",
+        "B002FP9L1W",
+        "B016NBW9GC",
+        "B00L2R3ZPC",
+        "B01FNGY2JK",
+        "B072L6QSQ8",
+        "B00ND5XBZK",
+        "B01N0V87F5",
+        "B000K0SY8A",
+        "B07DR6J4XC",
+        "B016NBW9OE",
+        "B016NBW9RQ",
+        "B00ME5SSI0",
+        "B00YRPD15U",
+        "B01LX6UFEY",
+        "B01N69OIMI",
+        "B071WLTCZ7",
+        "B0782ZHL7Q",
+        "B079ZCLB4C",
+        "B01FNH1S1Y",
+        "B001689FJW"
+    ],
+    "rating": "3.9"
+}

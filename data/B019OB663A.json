@@ -1,0 +1,96 @@
+{
+    "asin": "B019OB663A",
+    "title": "Logitech G502 Proteus Spectrum RGB Tunable Gaming Mouse, 12,000 DPI On-The-Fly DPI Shifting, Personalized Weight and Balance Tuning with (5) 3.6g Weights, 11 Programmable Buttons",
+    "brand": "Logitech",
+    "feature": [
+        "Advanced optical gaming sensor (PMW3366): Logitech's most accurate and responsive optical sensor precisely translates hand movements onscreen",
+        "Tunable weight and balance: Repositionable 3.6G weights for superior fit and feel. Resolution: 200 \u2013 12,000 dpi",
+        "RGB customizable lighting: Match your style and environment with up to 16.8 million colors.System Requirements:Windows 7 or later,Mac OS X 10.10 or later,Chrome OS",
+        "Easy-to-program Logitech Gaming Software: Customize lighting, surface tuning, button macros and more",
+        "Customizable controls: 11 programmable buttons and adjustable hyper-fast scroll wheel for fast, accurate maneuvers",
+        "Responsiveness USB data format 16 bits/axis, USB report rate 1000 Hz (1ms), Microprocessor 32-bit ARM"
+    ],
+    "description": "G502 features an advanced optical sensor for maximum tracking accuracy, customizable RGB lighting, custom game profiles, from 200 up to 12,000 DPI, and repositionable weights",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 63.74999999999999,
+        "length": 160.0,
+        "width": 300.0,
+        "height": 520.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41xxUrMt7nL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41sKIlQ6XRL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41kQpvNPwfL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41CocZ-rHHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51krBeUjspL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "regular"
+        }
+    ],
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "229575",
+            "title": "PC"
+        },
+        {
+            "node": "318813011",
+            "title": "Accessories"
+        },
+        {
+            "node": "402052011",
+            "title": "Gaming Mice"
+        }
+    ],
+    "similar": [
+        "B07B7HYBQW",
+        "B00TKFD51M",
+        "B0716ZFWWV",
+        "B07G9QCVW8",
+        "B0788N5H11",
+        "B073C92JML",
+        "B06X9W8W2R",
+        "B07FWYNFDX",
+        "B00N3OELPU",
+        "B00OHJY7C2",
+        "B078LJ6RPK",
+        "B07D99ZDCH",
+        "B0794WBPHK",
+        "B06ZYH9WB5",
+        "B074KL48WC",
+        "B00E4MQODC",
+        "B06X3W3YQD",
+        "B01K48R5V4",
+        "B073C5HFRH",
+        "B077XDQD2D",
+        "B07C7YT7W2",
+        "B077X3K6NS",
+        "B000UEZ36W",
+        "B01MS6C7S8",
+        "B07GBZ4Q68",
+        "B0788MCRGC",
+        "B013HSWF40",
+        "B01LXC1QL0",
+        "B00LZVNWIA",
+        "B078PH5WS9",
+        "B073WGB8G6",
+        "B075GS6GRF",
+        "B0086UK7IQ",
+        "B01D63UU52",
+        "B072JWR7Y5",
+        "B00IRHE892",
+        "B01798VS4C",
+        "B071164BZT",
+        "B072R2NQBV"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,66 @@
+{
+    "asin": "B002VJK3DM",
+    "title": "Jerome Russell PUNKY COLOUR, ATLANTIC BLUE, 3.5-Ounce Jars (Pack of 3)",
+    "brand": "Jerome Russell",
+    "feature": null,
+    "description": "Get Outrageous Color On Bleached Or Chemically-Treated Hair, Semi-Permanent Conditioning Hair Color, Create A Highlight Effect On Darker Hair, No Peroxide Required",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 91.875,
+        "length": 600.0,
+        "width": 500.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51PPB-RHqIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51PPB-RHqIL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11057451",
+            "title": "Hair Coloring Products"
+        },
+        {
+            "node": "10728531",
+            "title": "Hair Color"
+        }
+    ],
+    "similar": [
+        "B0015RALII",
+        "B002VJK3M8",
+        "B0147R9UHU",
+        "B002GDKPUY",
+        "B001216W58",
+        "B004KEWXQQ",
+        "B01KMVI792",
+        "B01JQ7MZZA",
+        "B01JQDNK80",
+        "B002GENWU8",
+        "B001G0MC40",
+        "B074VKMFNG",
+        "B0015RCTNI",
+        "B01JPM9644",
+        "B0011UXEIS",
+        "B0011V16IW",
+        "B01IAFHB1W",
+        "B0756LX7YT",
+        "B01IAFJ3M2",
+        "B01IAFLHRQ",
+        "B0147R9UMA",
+        "B0743CZWCP",
+        "B000RRRHJ8",
+        "B004KEU3Y0"
+    ],
+    "rating": "4.6"
+}

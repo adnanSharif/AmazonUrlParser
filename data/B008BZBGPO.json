@@ -1,0 +1,35 @@
+{
+    "asin": "B008BZBGPO",
+    "title": null,
+    "brand": "XRP",
+    "feature": [
+        "20cm long",
+        "PCI-e x1 to x16 slot",
+        "Fits any video card with PCI-e x16 slot",
+        "20cm long",
+        "PCI-e x1 to x16 slot",
+        "Fits any video card with PCI-e x16 slot",
+        "Allows the x1 slot on the motherboard be utilized for GPU SCRYPT mining"
+    ],
+    "description": "Install PCI-E 16X device to PCI-E 1X slot freely according to dimension and position of computer case. Ideal for small computer & server case, like 1U & 2U. One end is PCI-E 16X female and another end ...",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 5.0,
+        "length": 860.0,
+        "width": 500.0,
+        "height": 40.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B008BZBFTG",
+        "B0067WZH2Q",
+        "B00D79EV0G",
+        "B01NH0GW7Z",
+        "B017QQM80A"
+    ],
+    "rating": null
+}

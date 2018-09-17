@@ -1,0 +1,71 @@
+{
+    "asin": "B00OX59OYG",
+    "title": "HP G8X92AA LA Prime v2 Graphing Calculator",
+    "brand": "HP",
+    "feature": [
+        "Engineering; Computer science; Surveying; Trigonometry; Statistics; Geometry; Biology; Chemistry; Physics",
+        "2-D Function, Polar, Parametric Plot; Differential Equation, Bar Plot; Histogram, Scatter Plot; Find: Intersect, Extremum, Slope, Area; Zoom, Trace, Co-ordinates, Shade",
+        "Decimal hrs/hrs min sec conversions; Polar/rectangular conversions; Angle conversions; Base conversions and arithmetic; Unit conversions; Bit, Boolean graphics; Display and printer graphics",
+        "Memory: 32 MB mDDR ; Flash memory: 256 MB"
+    ],
+    "description": "HP G8X92AA LA Prime v2 Graphing Calculator",
+    "price": 11755.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 169.0,
+        "length": 340.0,
+        "width": 730.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Jqi5pLWCL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "1064954",
+            "title": "Office Products"
+        },
+        {
+            "node": "172574",
+            "title": "Office Electronics"
+        },
+        {
+            "node": "172518",
+            "title": "Calculators"
+        },
+        {
+            "node": "172523",
+            "title": "Graphing"
+        }
+    ],
+    "similar": [
+        "B06ZYWHVY3",
+        "B01B6QGJ42",
+        "B01MDQ2MNP",
+        "B07439DYBR",
+        "B0727XX94K",
+        "B073XH23S4",
+        "B00CMWCT26",
+        "B0711D5RNZ",
+        "B01MDQ2PRD",
+        "0915573024",
+        "B004NBZAYS",
+        "B00157VICG",
+        "B00481K4KS",
+        "B004TS0GRG",
+        "B0034BAQS8",
+        "B06XS6V17P",
+        "B01LXRVGN8",
+        "B0747RQGF5",
+        "B0751CDVST",
+        "B01E1YKH76",
+        "B000TDRHG8",
+        "B07623BY6Q",
+        "B00JALV3II",
+        "B00RJCESTQ",
+        "B00VUTAFR8"
+    ],
+    "rating": "4.2"
+}

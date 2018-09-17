@@ -1,0 +1,86 @@
+{
+    "asin": "B00BWF5U0M",
+    "title": "Sabrent 4-Port USB 2.0 Hub with Individual Power Switches and LEDs (HB-UMLS)",
+    "brand": "Sabrent",
+    "feature": [
+        "Instantly Add Four USB 2.0 Ports to all Compatible Device.",
+        "Easy Setup, Plug-and-Play, Hot Swappable, Hot Pluggable.",
+        "Gain Four, Downstream Ports Which Offer High-Speed (480Mbps), Full-Speed (12Mbps), And Low-Speed (1.5Mbps).",
+        "Intelligently Designed to Be as Thin as Possible, Allowing you to Maximize Precious Work Space or Travel with ease.",
+        "Backwards Compatible With 1.1 Devices and Hosts."
+    ],
+    "description": ".",
+    "price": 5245.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 5.0,
+        "length": 120.0,
+        "width": 50.0,
+        "height": 320.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41T22zJoJEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vExAvoyQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51lvWu5iMAL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51DKqg3bkwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vTRoeiJuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51u1T1dLGBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Mp7%2BEXXIL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "281413",
+            "title": "Hubs"
+        }
+    ],
+    "similar": [
+        "B01LZL3P10",
+        "B07FLTHXRP",
+        "B0192LPK5M",
+        "B01K9X9DLO",
+        "B00C7SA21U",
+        "B00IJ6QAO2",
+        "B06XCY549R",
+        "B071DT8J72",
+        "B00UMVFJW6",
+        "B07FJVR8HD",
+        "B00EKW8UEM",
+        "B00LRYUJQS",
+        "B00SIQIV04",
+        "B00BP5KOPA",
+        "B01CEFEMFW",
+        "B00JX1ZS5O",
+        "B007NNRE9W",
+        "B003M0NURK",
+        "B078S763JT",
+        "B00YFQ7M88",
+        "B00O0KISQE",
+        "B00XMD7KPU",
+        "B00TPMEOYM",
+        "B07DRGLJ8V",
+        "B01ER4B7YM",
+        "B074XK1GTS",
+        "B07FVS7LXG",
+        "B076YPRTKF",
+        "B07D2MG273",
+        "B07FH7XJCD",
+        "B00006HZ05",
+        "B01M6ZSZ0H",
+        "B076Q43SPC"
+    ],
+    "rating": "4.3"
+}

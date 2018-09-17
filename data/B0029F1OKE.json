@@ -1,0 +1,75 @@
+{
+    "asin": "B0029F1OKE",
+    "title": "(Texas Instruments) Advanced Financial Calculator (BA II Plus)",
+    "brand": "Texas Instruments",
+    "feature": [
+        "Solves time-value-of-money calculations such as annuities, mortgages, leases, savings and more.",
+        "Generates amortisation schedules.",
+        "Performs cashflow analysis for up to 24 uneven cash flows with up to 4-digit frequencies.",
+        "Computes NPV and IRR.",
+        "One or two variable statistics with 4 regressions options: linear, logarithmic, exponential and power."
+    ],
+    "description": "(Texas Instruments) Advanced Financial Calculator (BA II Plus)",
+    "price": 4506.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 48.75,
+        "length": 980.0000000000001,
+        "width": 120.0,
+        "height": 670.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51%2BaKPOlHzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41qB2v7bIJL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "1064954",
+            "title": "Office Products"
+        },
+        {
+            "node": "172574",
+            "title": "Office Electronics"
+        },
+        {
+            "node": "172518",
+            "title": "Calculators"
+        },
+        {
+            "node": "172522",
+            "title": "Financial & Business"
+        }
+    ],
+    "similar": [
+        "1980617570",
+        "B00FMH2VMQ",
+        "B06XS6V17P",
+        "B0002ABA8E",
+        "B078R6FWKC",
+        "B0001EMLZW",
+        "B075BBP3V6",
+        "B073XH23S4",
+        "B07DBVDRW7",
+        "1423223837",
+        "1423208595",
+        "B01HIPOCYE",
+        "B0009FHR4I",
+        "B074TVVJDY",
+        "B01F1EVQS4",
+        "1305635930",
+        "B004TS0GR6",
+        "B00009WNV9",
+        "B00000JZKB",
+        "B073HB76TX",
+        "B013Z5Y70K",
+        "B017USH00M",
+        "1980699968",
+        "B01MPWCLZT",
+        "1423218175",
+        "B01MDQ2MNP",
+        "B01N7D3FLT"
+    ],
+    "rating": "4.4"
+}

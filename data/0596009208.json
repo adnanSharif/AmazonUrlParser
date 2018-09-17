@@ -1,0 +1,52 @@
+{
+    "asin": "0596009208",
+    "title": "Head First Java, 2nd Edition 2nd Edition",
+    "brand": "by {\"isAjaxInProgress_B001H6U55G\":\"0\",\"isAjaxComplete_B001H6U55G\":\"0\"} Kathy Sierra (Author) \u203a Visit Amazon's Kathy Sierra Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Kathy Sierra (Author), {\"isAjaxInProgress_B001H6U55G\":\"0\",\"isAjaxComplete_B001H6U55G\":\"0\",\"isAjaxComplete_B004APJL7O\":\"0\",\"isAjaxInProgress_B004APJL7O\":\"0\"} Bert Bates (Author) \u203a Visit Amazon's Bert Bates Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Bert Bates (Author)",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 320.0,
+        "length": 800.0,
+        "width": 150.0,
+        "height": 919.9999999999999
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [
+        {
+            "node": "283155",
+            "title": "Books"
+        },
+        {
+            "node": "5",
+            "title": "Computers & Technology"
+        },
+        {
+            "node": "3839",
+            "title": "Programming"
+        }
+    ],
+    "similar": [
+        "1539397831",
+        "1943872074",
+        "0071809252",
+        "0596004656",
+        "0596008678",
+        "0135166306",
+        "1787127680",
+        "1785887947",
+        "1544614519",
+        "1491919531",
+        "B01CGQNPWK",
+        "1789138086",
+        "B07FYSKVYY",
+        "B07F8CKS2S",
+        "0596007124",
+        "1259589315",
+        "0134685997"
+    ],
+    "rating": "4.2"
+}

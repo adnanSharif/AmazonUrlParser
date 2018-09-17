@@ -1,0 +1,74 @@
+{
+    "asin": "B00Q23K98M",
+    "title": "John Frieda Frizz Ease Miraculous Recovery Repairing Conditioner, 8.45 Ounce",
+    "brand": "John Frieda",
+    "feature": null,
+    "description": "Repairs the frizz-causing damage that prevents you from achieving your ideal style each day.",
+    "price": 1473.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": 190.0,
+        "width": 229.99999999999997,
+        "height": 850.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41bZpr9dM5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41KzVjr9T4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41GrNuy9aHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31zpOcCDRFL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "17911764011",
+            "title": "Shampoo & Conditioner"
+        },
+        {
+            "node": "11057251",
+            "title": "Conditioners"
+        }
+    ],
+    "similar": [
+        "B00390FH5G",
+        "B01N14E9T8",
+        "B00Q23K0G8",
+        "B005XR49V6",
+        "B07BPGCH8F",
+        "B0056GDG90",
+        "B000P9DS4Q",
+        "B07DNL5X4H",
+        "B00Q23K0J0",
+        "B06Y2DT2GJ",
+        "B07BPC3WX3",
+        "B075RQL6K5",
+        "B009VJ9JPI",
+        "B079RCD6J5",
+        "B07572RXKP",
+        "B07CCQW2QK",
+        "B00GLS5B9U",
+        "B01DPZ71NA",
+        "B01GEW0NA4",
+        "B00Q23JZJQ",
+        "B00GLS5BEU",
+        "B01MSWI7P6",
+        "B00TIFJGQC",
+        "B073ZKK24H",
+        "B075WBL2HJ",
+        "B00P1NBL54",
+        "B00Q23K7RA",
+        "B07BPC433J",
+        "B01E7TQUF8",
+        "B000GCWD6G"
+    ],
+    "rating": "4.5"
+}

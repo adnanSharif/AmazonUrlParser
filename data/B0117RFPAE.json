@@ -1,0 +1,96 @@
+{
+    "asin": "B0117RFPAE",
+    "title": "Bose SoundSport in-Ear Headphones - Apple Devices, Energy Green",
+    "brand": "Bose",
+    "feature": [
+        "Deep, clear sound enhanced by exclusive TriPort technology for crisp highs and natural-sounding lows.Connectivity Technology: Wired",
+        "Proprietary Stay Hear tips, in three sizes, conform to your ear's shape to stay comfortably in place all day",
+        "Sweat- and weather-resistant; engineered and tested for lasting quality and durability",
+        "Inline microphone and remote for easy switching between calls and music with select iPhone models",
+        "Matching protective carrying case included"
+    ],
+    "description": "Bose Sound Sport in-ear headphones deliver deep, clear sound for the music you love, with a durable design that stands up to the rigors of your day. Exclusive TriPort technology provides crisp highs and natural-sounding lows, while acoustic ports are positioned to resist sweat and weather, and hydrophobic cloth keeps moisture out. Proprietary Stay Hear tips conform to your ears' shape, so they stay comfortably in place all day long. They come in a variety of colors to match your style: Charcoal, Frost, Energy Green, Power Red or Neon Blue. They even include a matching carrying case for storage and added protection. And an inline microphone and remote make for easy switching between calls and music with select iPhone models. Meet the headphones engineered to go wherever life takes you. Included: Sound Sport in-ear headphones; 3 pairs Stay Hear tips (S, M, L); carrying case; clothing clip.",
+    "price": 8900.0,
+    "listPrice": 9900.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 53.125,
+        "length": 80.0,
+        "width": 100.0,
+        "height": 4200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31erA0HhDuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31PKdBoCStL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41wusR6AUwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41OXx2lNeQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51yxcSbPs2L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51eJrUZ5chL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        },
+        {
+            "name": "Style:",
+            "value": "Energy Green"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "172541",
+            "title": "Headphones"
+        },
+        {
+            "node": "12097478011",
+            "title": "Earbud Headphones"
+        }
+    ],
+    "similar": [
+        "B0170HVOXW",
+        "B078HSVK7M",
+        "B01L7PWBRG",
+        "B0117RFPCC",
+        "B011IH5ZHG",
+        "B07CGDTWSH",
+        "B01MUH39MD",
+        "B0117RFZHC",
+        "B01LXJFMGF",
+        "B07FCJMQFL",
+        "B0748JM8M5",
+        "B00M7Y0KJS",
+        "B0117RFYDW",
+        "B074WTKWG6",
+        "B0117RFPM2",
+        "B07B826WR6",
+        "B01M69YXPJ",
+        "B0117RFYQE",
+        "B078J67KC7",
+        "B00X9KV0HU",
+        "B0117RFOEG",
+        "B011IH5YLI",
+        "B01HETFQMQ",
+        "B0727W2STJ",
+        "B01IEHIMLY",
+        "B00EWCUK98",
+        "B01L160DLW",
+        "B0786FQ6K4",
+        "B01DFKC2SO",
+        "B01L7PSJFO",
+        "B00AQQ41C6",
+        "B07BW9G8FG",
+        "B0789QMWPW",
+        "B0041OQ03C",
+        "B07DP6LGTT",
+        "B075NRNZWD",
+        "B017PHA8OS",
+        "B002M966FA",
+        "B077YG22Y9"
+    ],
+    "rating": "4.0"
+}

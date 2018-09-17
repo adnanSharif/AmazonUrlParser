@@ -1,0 +1,60 @@
+{
+    "asin": "B007MAJA3Y",
+    "title": "Omni-Vit Liquid",
+    "brand": "Oropharma",
+    "feature": [
+        "A liquid mixture of vitamins and amino acids formulated to supplement your bird's diet",
+        "Especially useful for breeding and young growing birds",
+        "Also very effective at enhancing your bird's stamina, particularly in regards to fighting infections, weakness or stress"
+    ],
+    "description": "OMNI-VIT is a liquid mixture of vitamins and amino acids, and is formulated to supplement your bird's diet. This product is especially useful for breeding and young growing birds. It is also very effective at enhancing your bird's stamina, particularly in regards to fighting infections, weakness or stress. INGREDIENTS: Brewer's yeast - Saccharomyces cerevisiae Sodium chloride Amino acids Vitamins ANALYSIS: L-alanine 1.720 mg/kg L-arginine 1.000 mg/kg L-cysteine 100 mg/kg L-glutamine 1.720 mg/kg L-histidine 140 mg/kg L-isoleucine 188 mg/kg L-leucine 528 mg/kg L-phenylalanine 300 mg/kg L-proline 2.720 mg/kg L-serine 150 mg/kg L-tyrosine 50 mg/kg L-valine 428 mg/kg Glycine 4.000 mg/kg Asparagine 1.040 mg/kg Ornithine 500 mg/kg L-lysine 3.000 mg/kg L-threonine 840 mg/kg L-tryptophan 300 mg/kg DL-methionine 1.500 mg/kg Nutritional additives: Vitamin A 1.500.000 IU/kg Vitamin D3 80.000 IU/kg Vitamin E 15.000 mg/kg Vitamin C 10.000 mg/kg Vitamin K3 25 mg/kg Vitamin B1 250 mg/kg Vitamin B2 250 mg/kg Vitamin B6 150 mg/kg Vitamin B12 1 mg/kg Vitamin PP 200 mg/kg Biotin 3 mg/kg Choline chloride 20.000 mg/kg D-pantothenic acid 500 mg/kg Other additives: Preservative(s)",
+    "price": 1200.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 3.75,
+        "length": 200.0,
+        "width": 400.0,
+        "height": 200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41UgbvltgGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41sTPZ%2BYPyL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "2619533011",
+            "title": "Pet Supplies"
+        },
+        {
+            "node": "2975221011",
+            "title": "Birds"
+        },
+        {
+            "node": "2975238011",
+            "title": "Food"
+        }
+    ],
+    "similar": [
+        "B06XPJPKRM",
+        "B015XML4PE",
+        "B07BJG2KPH",
+        "B00TCL4W5M",
+        "B00JU75LO4",
+        "B00QRYPUAS",
+        "B00474SA98",
+        "B004HLJBDU",
+        "B00DYO4U0A",
+        "B001T7BP2K",
+        "B078GXMRWM",
+        "B00NHQ3JPC",
+        "B0002MLAE6",
+        "B078RW4K1B",
+        "B078WFQ6ZW",
+        "B071CLC8BC",
+        "B0016D7FMQ",
+        "B002B4D8T8"
+    ],
+    "rating": null
+}

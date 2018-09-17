@@ -1,0 +1,70 @@
+{
+    "asin": "B002GENWU8",
+    "title": "Manic Panic Flash Lightning Hair Bleach Kit 40 Volume.",
+    "brand": "Manic Panic",
+    "feature": null,
+    "description": "Kit Includes: Dust-Free Bleach Powder 38 grams, 40 Volume Creme Developer 4 ounces, Tint Brush, Gloves, Mixing Tub, Plastic Cap, and Instruction Sheet",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 50.0,
+        "length": 520.0,
+        "width": 509.99999999999994,
+        "height": 240.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51FLOSM21eL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Y3s2LPy-L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11057451",
+            "title": "Hair Coloring Products"
+        }
+    ],
+    "similar": [
+        "B077J8R12J",
+        "B0147R9UFM",
+        "B006E5HUP8",
+        "B071LHPZBV",
+        "B0147R9UHU",
+        "B00D0GBXUC",
+        "B00ZYJL9W0",
+        "B000143FYS",
+        "B003JN6JZK",
+        "B016M9UFJ8",
+        "B00H4W38UQ",
+        "B073W9SKY3",
+        "B002GELXJK",
+        "B00HDYSK3K",
+        "B000CSYYZM",
+        "B06Y1NJGHD",
+        "B076V6TY5G",
+        "B076VMRPYT",
+        "B00B1WWR6Q",
+        "B07G2GHGQG",
+        "B00OQKGD8S",
+        "B0010O0DVQ",
+        "B00HRADSJ6",
+        "B07D7FMK6Y",
+        "B000271KR8",
+        "B001RPL902",
+        "B07D4NQWQG",
+        "B07BW989XC",
+        "B000GCT01W",
+        "B0743CZWCP",
+        "B0147R9UHA",
+        "B00KNWYEF2"
+    ],
+    "rating": "4.2"
+}

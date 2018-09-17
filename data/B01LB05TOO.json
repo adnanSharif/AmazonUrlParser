@@ -1,0 +1,75 @@
+{
+    "asin": "B01LB05TOO",
+    "title": "Micron 1100 MTFDDAK2T0TBN-1AR1ZABYY 2TB SATA 6Gb/s 2.5\" Solid State Drive",
+    "brand": "Micron",
+    "feature": [
+        "Micron MTFDDAK2T0TBN-1AR1ZABYY 2TB Micron 3D TLC NAND Flash",
+        "SATA 6 Gb/s interface. Hot-plug/hot-remove capable (2.5\" Form Factor)",
+        "Industry-standard, 512-byte sector size support",
+        "Bare Drive in Anti-Static Wrap",
+        "3 Year Warranty through the Point of Purchase"
+    ],
+    "description": "This 2TB 1100 Micron solid state drive (SSD) uses a single-chip controller with a SATA interface on the system side and up to four channels of Micron NAND Flash internally. The SSD integrates easily in existing storage infrastructures. The SSD is designed to use the SATA interface efficiently during both READs and WRITEs while delivering bandwidth-focused performance. SSD technology enables enhanced boot times, faster application load times, reduced power consumption and extended reliability.",
+    "price": 31499.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 500.0,
+        "width": 500.0,
+        "height": 190.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41g9poCis3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/310azvN8KIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31j6qgbOJNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31McEiBNMWL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "1292116011",
+            "title": "Internal Solid State Drives"
+        }
+    ],
+    "similar": [
+        "B073SBZ8YH",
+        "B016CHGPP8",
+        "B07573JBW3",
+        "B01N6JQS8C",
+        "B07FNWGL6T",
+        "B073SBQMCX",
+        "B07D998212",
+        "B0784SLQM6",
+        "B06Y5ZXLWV",
+        "B0798WLXGD",
+        "B079GT8252",
+        "B071KGS72Q",
+        "B00UN550AC",
+        "B07DYL3KD2",
+        "B01LB05YOO",
+        "B016498CK0",
+        "B00HJZJI84",
+        "B07CNT5R5Q",
+        "B0784SY515",
+        "B01IEEFWM4",
+        "B0786QNSBD",
+        "B00F3QFKNS",
+        "B078C515QL",
+        "B01LZWX6PD",
+        "B075KNVMKY"
+    ],
+    "rating": "4.4"
+}

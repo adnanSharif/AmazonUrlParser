@@ -1,0 +1,94 @@
+{
+    "asin": "B003QKBVYK",
+    "title": "Zoom ZH1 H1 Handy Portable Digital Recorder (Black)",
+    "brand": "Zoom",
+    "feature": [
+        "Stereo X/Y mic configuration captures perfect stereo images",
+        "Same frequency and SPL handling as popular Zoom H2",
+        "Records Broadcast WAV (BWF) at 96kHz/48kHz/44.1kHz at 16-bit or 24-bit",
+        "Records MP3 from 48 to 320kbps for maximum recording time",
+        "Hi-Speed USB 2.0 port"
+    ],
+    "description": "Brilliant stereo recording in your pocket.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": 670.0,
+        "width": 380.0,
+        "height": 180.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/4133M%2BDeEtL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ry2J-ZC3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Q-OIgF43L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41RX14-eoHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31I1wFhgQuL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        },
+        {
+            "name": "style:",
+            "value": "Recorder only"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11973111",
+            "title": "Studio Recording Equipment"
+        },
+        {
+            "node": "486500011",
+            "title": "Portable Recorders"
+        }
+    ],
+    "similar": [
+        "B01DPOXS8I",
+        "B079Z6M7HY",
+        "B07C7PCPPS",
+        "B01N9FJ8B7",
+        "B078PTM82R",
+        "B01N0NGK9X",
+        "B01MDJE1CV",
+        "B06XCX358V",
+        "B00EIZJCF2",
+        "B003VWC840",
+        "B078PXPR7Q",
+        "B0796VPCZG",
+        "B07B4HGRVY",
+        "B01MSKI46R",
+        "B01MDKY34J",
+        "B01M8GTHKX",
+        "B00MIXFBKG",
+        "B07B4JJMKN",
+        "B01FWNSXJO",
+        "B01M2VRPUV",
+        "B01LXZP6MX",
+        "B00L6C8PNU",
+        "B07G83H4QV",
+        "B06XSDM65D",
+        "B00HWMG44U",
+        "B0797DCMGM",
+        "B00LU8K790",
+        "B06XWC9KM7",
+        "B012Z698ZE",
+        "B075CSHLYH",
+        "B07B4KFQW7",
+        "B07FF2STKQ",
+        "B0090XWZB0",
+        "B0797P22HY",
+        "B01M6TX72B",
+        "B07F2QGG6W",
+        "B01MS6YGMI",
+        "B06XB5HJFT"
+    ],
+    "rating": "4.4"
+}

@@ -1,0 +1,88 @@
+{
+    "asin": "B00FI1678A",
+    "title": "Martian Passport Smartwatches with Amazon Alexa \u2013 Analog + Voice (B00FI1678A)",
+    "brand": "Martian Watches",
+    "feature": [
+        "Use Voice Commands - Create calendar events, check weather & directions, set an alarm and search the web hands-free",
+        "View Notifications - Get SMS, calendar, email and social notifications anywhere, anytime",
+        "Voice Text Messages - Send and receive hands-free voice-to-text messages while on the move",
+        "Take Phone Calls - Answer or place a quick call from your wrist, even when your hands are full",
+        "Martian Electronic Leash, Remote Camera Control and more.Compatible with iOS 9.0 and Android 5.0"
+    ],
+    "description": "From the company that invented the world's first voice command watch comes Passport. With impressive executive styling, the Passport speaks for itself with a polished case that tops a Bluetooth smart watch styled for individuals who want a stately analog timepiece. Passport acts as a hands-free gateway to the world, allowing users to see incoming calls and messages, make and receive calls through the watch's discreet speaker and microphone, and do anything their smartphone can execute with a voice command. Passport is a game-changing hand-free solution for smartphone users.",
+    "price": 6473.999999999999,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 980.0000000000001,
+        "width": 150.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ndwLdBp9L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41VTh9eBHYL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51uSYh8VP6L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51nRBuImGML._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        },
+        {
+            "name": "Style:",
+            "value": "White/Silver/Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "10048700011",
+            "title": "Wearable Technology"
+        },
+        {
+            "node": "7939901011",
+            "title": "Smart Watches"
+        }
+    ],
+    "similar": [
+        "B01M5B9SVG",
+        "B0757FSYVN",
+        "B00GR8ULXA",
+        "B074QMN9FS",
+        "B00FOLM256",
+        "B07CRRSHBG",
+        "B07B499PWG",
+        "B017J31K9A",
+        "B017J31L80",
+        "B06VSJWD2R",
+        "B07DYJQL72",
+        "B00FI16820",
+        "B00IO9IHGS",
+        "B00FI1678U",
+        "B074K884KQ",
+        "B01MDLTZJI",
+        "B00FI16HS0",
+        "B079FYG5TC",
+        "B07F1HH8XG",
+        "B075GKSWD9",
+        "B01MAWJI9S",
+        "B07C6S96NN",
+        "B01MF7DOD8",
+        "B072LG89PQ",
+        "B07657P1FN",
+        "B07DHDKSFJ",
+        "B00JGSODL4",
+        "B07G26WP6T",
+        "B07D9HMTNS",
+        "B07DHDSV9Q",
+        "B0779L4FZR",
+        "B076HMN6ST",
+        "B079HRXHYM"
+    ],
+    "rating": "3.5"
+}

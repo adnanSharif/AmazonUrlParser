@@ -1,0 +1,97 @@
+{
+    "asin": "B073GZBT36",
+    "title": "Samsung T5 Portable SSD - 500GB - USB 3.1 External SSD (MU-PA500B/AM)",
+    "brand": "Samsung",
+    "feature": [
+        "Superfast Read-Write speeds of up to 540 MB/s",
+        "Top to bottom metal design that fits in the palm of your hand",
+        "Optional password protection and AES 256-bit hardware encryption",
+        "Includes USB Type C to C and USB Type C to A cables",
+        "3-year warranty"
+    ],
+    "description": "The Samsung T5 Portable SSD has the latest in Samsung V-NAND flash memory technology. Its portable design, blazing fast transfer speeds of up to 540 MB/s, shock resistance, and secure encryption make it the best portable SSD on the market.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 229.99999999999997,
+        "width": 40.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/318I0KrjRKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31e-DDer6%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41IPYF2krIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41XPos9wePL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Y1am7xbFL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "500 GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "3015429011",
+            "title": "External Solid State Drives"
+        }
+    ],
+    "similar": [
+        "B074JHS4QQ",
+        "B078STRHBX",
+        "B01AVF6WN2",
+        "B073H4GPLQ",
+        "B078DPCY3T",
+        "B07G8GYF7J",
+        "B011M8YACM",
+        "B077W6MWBF",
+        "B01LXS4TY6",
+        "B078SWJ3CF",
+        "B07H4VJQJN",
+        "B07FNB7L8F",
+        "B01NB1IJ7J",
+        "B07F1PPV61",
+        "B073H552FK",
+        "B0793D23H1",
+        "B073W95VDT",
+        "B01127E6RM",
+        "B0784SY515",
+        "B078211KCN",
+        "B07C87D158",
+        "B07BYHGNB5",
+        "B07C8Y31G1",
+        "B074Y8K9W3",
+        "B07FCPN3Q5",
+        "B0798YKP1K",
+        "B071NFVXBH",
+        "B072LX795S",
+        "B078T9SZ3K",
+        "B01E2330K2",
+        "B07DWS6BB4",
+        "B07BVC6GZQ",
+        "B07C5B4MSK",
+        "B06XNPPRD9",
+        "B0784SLQM6",
+        "B07C5R7B4M",
+        "B073H552FJ",
+        "B07FF79P5P",
+        "B073SBZ8YH",
+        "B075TX4QNX",
+        "B06Y5ZXLWV"
+    ],
+    "rating": "4.7"
+}

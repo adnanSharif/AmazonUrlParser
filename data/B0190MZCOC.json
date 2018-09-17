@@ -1,0 +1,43 @@
+{
+    "asin": "B0190MZCOC",
+    "title": "Vinyl Decal Protective Skin Cover Sticker for Sony PS4 Console And 2 Dualshock Controllers #14",
+    "brand": null,
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51btf%2Bi0RxL._AC_SX150_SY75_CR,0,0,150,75_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41pWCNQzDBL._AC_SX150_SY75_CR,0,0,150,75_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "6427814011",
+            "title": "PlayStation 4"
+        },
+        {
+            "node": "6427815011",
+            "title": "Accessories"
+        },
+        {
+            "node": "10111041011",
+            "title": "Faceplates, Protectors & Skins"
+        }
+    ],
+    "similar": [
+        "B00VAOXMHS"
+    ],
+    "rating": "1.4"
+}

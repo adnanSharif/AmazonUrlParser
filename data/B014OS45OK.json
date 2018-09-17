@@ -1,0 +1,78 @@
+{
+    "asin": "B014OS45OK",
+    "title": "Anker Ultra Slim 4-Port USB 3.0 Data Hub with 3.3ft USB 3.0 Extension Cable",
+    "brand": "Anker",
+    "feature": [
+        "More Ports: Turn one of your computer's USB ports into four high speed data connections. Included USB extension cable lets you easily reach out-of-the-way ports.",
+        "SuperSpeed Data: Up to 5 Gbps data speeds let you transfer an HD movie in seconds.",
+        "Ultra Portable: About an ounce in weight and super small, making it easy to grab and go.",
+        "Extra Durable: Cable reinforcement, sturdy exterior and heat-resistant connectors ensure ultimate durability.",
+        "What You Get: Anker Ultra Slim 4-Port USB 3.0 Data Hub, 3.3ft USB extension cable, welcome guide, our fan-favorite 18-month warranty and friendly customer service."
+    ],
+    "description": "Connect your USB drives, peripherals and more. Turn one of your computer's USB ports into four. Transfer data at speeds of up to 5 Gbps. That's fast enough to transfer a full HD movie in just seconds! Weighing about an ounce and super small, this Anker Ultra Slim Hub is designed to be as portable as possible. A reinforced built-in cable, sturdy exterior and heat-resistant connectors give this hub incredible durability. At Anker, we believe in our products. That's why we back them all with an 18-month warranty and provide friendly, easy-to-reach support. Windows 8 / 7 / Vista / XP, Mac OS X 10.2 (and above) Mac OS X Lion 10.7.4 users should upgrade to Mountain Lion 10.8.2 or later to avoid unstable connections. 2.4 GHz wireless devices, MIDI devices and some USB 3.0 devices may not be supported. Try using the host port or a USB 2.0 connection. The maximum output current is 900mA per port. This hub is not intended for use with devices with high power requirements (external hard drives, iPads, etc.). The hub will sync but not charge tablets and other devices that require a higher power input.",
+    "price": 1599.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 31.25,
+        "length": 420.0,
+        "width": 120.0,
+        "height": 40.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/4172wcbckbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31A8NArA-UL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41R1Gc27IUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/316Vm0qT1uL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51N4VrnqPNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51UIx6PiN7L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ffbc-ZJRL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "17387627011",
+            "title": "USB Hubs"
+        }
+    ],
+    "similar": [
+        "B00XMD7KPU",
+        "B00JX1ZS5O",
+        "B00WU0V7IC",
+        "B07DX2DL7D",
+        "B00BWF5U0M",
+        "B0719V9Q1D",
+        "B00OQ0CYFE",
+        "B01MCTET84",
+        "B078S83X68",
+        "B076Q54J2J",
+        "B01FJQGFK8",
+        "B014RWATK2",
+        "B07BLXGP3B",
+        "B00PBZX0OM",
+        "B00O0KISQE",
+        "B06XNPQPKR",
+        "B00UMVFJW6",
+        "B00TPMEOYM",
+        "B074QLCKW6",
+        "B076Q43SPC",
+        "B074XK1GTS",
+        "B07F8L8V94",
+        "B00L2442H0",
+        "B07DW646GY",
+        "B01M7ZV7LL"
+    ],
+    "rating": "4.4"
+}

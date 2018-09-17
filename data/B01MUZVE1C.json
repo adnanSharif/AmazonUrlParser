@@ -1,0 +1,60 @@
+{
+    "asin": "B01MUZVE1C",
+    "title": "The Ordinary Caffeine Solution 5% + EGCG (30ml): Reduces Appearance of Eye Contour Pigmentation and Puffiness",
+    "brand": "The Ordinary",
+    "feature": null,
+    "description": "This light-textured formula contains an extremely high 5% concentration of caffeine, supplemented with highly-purified Epigallocatechin Gallatyl Glucoside (EGCG) from green tea leaves. Independent studies have shown that topical use of each of caffeine and EGCG can help reduce looks of puffiness and of dark circles in the eye contour. Additional studies have shown that caffeine can also reduce the appearance of cellulite. Does not contain parabens, sulphates, mineral oil, methylchloroisothiazolinone, methylisothiazolinone, animal oils, benzalkonium chloride, coal tar dyes, formaldehyde, mercury, and oxybenzone.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 1.25,
+        "length": 509.99999999999994,
+        "width": 509.99999999999994,
+        "height": 509.99999999999994
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31tparrdgkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/319%2BLYbokNL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11061941",
+            "title": "Eyes"
+        }
+    ],
+    "similar": [
+        "B07CNCG5P1",
+        "B007Z90QF8",
+        "B00B15EGZS",
+        "B06X3VDS2V",
+        "B009SUHZKQ",
+        "B07DXG9LDT",
+        "B01MYEZPC8",
+        "B00LV5NY3I",
+        "B01K7MW148",
+        "B07CNFDPPZ",
+        "B01N9Y5UGE",
+        "B00QL67MY4",
+        "B0711DTHY2",
+        "B01D3ESTYS",
+        "B071D4D5DT",
+        "B07CMHJSTM",
+        "B06VSX2B1S",
+        "B071914GGL",
+        "B07CNCTSP6",
+        "B0719RXCJ3",
+        "B011AZH09C",
+        "B071Y5YPGR"
+    ],
+    "rating": "3.7"
+}

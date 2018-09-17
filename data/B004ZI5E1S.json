@@ -1,0 +1,83 @@
+{
+    "asin": "B004ZI5E1S",
+    "title": "ASUS Xonar U3 Sound Cards (XONAR_U3/UAD/B/A)",
+    "brand": "Asus",
+    "feature": [
+        "High performance headphone amplifier drives headphones/headsets to its full potential",
+        "Best surround sound experience with support for Dolby technologies",
+        "ASUS GX2.5 enables realistic 3D audio effects in games",
+        "Xonar hyper-grounding technologies separates audio signals from noise which results in clean and clear sound"
+    ],
+    "description": "The ASUS Xonar U3 upgrades your audio via USB for crisp and clear sound in music, movies, games, and VOIP.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 75.0,
+        "length": 770.0,
+        "width": 380.0,
+        "height": 770.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/21WNZEERSaL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41zQH7hlSSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41i7kS%2B5RcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41r17pwNaGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/514CEvhEFpL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "284823",
+            "title": "Internal Sound Cards"
+        }
+    ],
+    "similar": [
+        "B07DPL6Q8H",
+        "B0044DEDCA",
+        "B00R98JVVU",
+        "B075CKL4HH",
+        "B00KK8ZLEC",
+        "B07BYCRLGZ",
+        "B00MI8IDRE",
+        "B0719PKWNT",
+        "B00OJ5AV8I",
+        "B006IPH5H2",
+        "B077YG22Y9",
+        "B00Y4663GG",
+        "B0746H458L",
+        "B0044DEDC0",
+        "B00CJG2ZYM",
+        "B06XBZ38ZJ",
+        "B00EO6X4XG",
+        "B004275EO4",
+        "B01DFKC2SO",
+        "B07DBNFZJR",
+        "B01MG9EL4A",
+        "B00DI88X32",
+        "B07GZK19KX",
+        "B009ISU33E",
+        "B073SQYXTW",
+        "B074XLMYY5",
+        "B00EWCUK98",
+        "B07BWCT63P",
+        "B007TMZ1BK"
+    ],
+    "rating": "4.0"
+}

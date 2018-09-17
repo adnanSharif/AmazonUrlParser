@@ -1,0 +1,53 @@
+{
+    "asin": "1108409563",
+    "title": "Conquering the Physics GRE 3rd Edition",
+    "brand": "by Yoni Kahn (Author), Adam Anderson (Author)",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 150.0,
+        "length": 860.0,
+        "width": 60.0,
+        "height": 1080.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [
+        {
+            "node": "283155",
+            "title": "Books"
+        },
+        {
+            "node": "465600",
+            "title": "New, Used & Rental Textbooks"
+        },
+        {
+            "node": "468216",
+            "title": "Science & Mathematics"
+        }
+    ],
+    "similar": [
+        "0071763465",
+        "product-description",
+        "9814412112",
+        "1108420419",
+        "1482086921",
+        "1524757918",
+        "1719838712",
+        "1479274631",
+        "1107179866",
+        "1260026396",
+        "9332550441",
+        "981323749X",
+        "B01E9ERWSU",
+        "1941234518",
+        "1889057592",
+        "1947556479",
+        "1107189632",
+        "981238149X"
+    ],
+    "rating": "4.5"
+}

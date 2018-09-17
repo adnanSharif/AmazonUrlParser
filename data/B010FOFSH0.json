@@ -1,0 +1,71 @@
+{
+    "asin": "B010FOFSH0",
+    "title": "[KLAIRS] Freshly Juiced Vitamin Drop, 5% pure vitamin C, vitamin C serum, 35ml, 1.18oz",
+    "brand": "Klairs",
+    "feature": null,
+    "description": null,
+    "price": 2805.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 80.0,
+        "width": 80.0,
+        "height": 260.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31Nw2Uo5rvL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41zr8faxw%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31LWCUnQvXL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/4160qzYYT3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Cyd5gngeL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11062031",
+            "title": "Treatments & Masks"
+        },
+        {
+            "node": "7792528011",
+            "title": "Serums"
+        }
+    ],
+    "similar": [
+        "B019RTEKO6",
+        "B01KMSTCWG",
+        "B00PGOFYG0",
+        "B07519S8RF",
+        "B01M0XSD38",
+        "B077NL7CKX",
+        "B07B4NMGHY",
+        "B01M4MCUAF",
+        "B07B65NJLV",
+        "B00IDWP4IA",
+        "B07FD53LQZ",
+        "B07B6SJT4L",
+        "B06XPX4DGF",
+        "B071GQP892",
+        "B072K1LNNY",
+        "B016NRXO06",
+        "B07DXK5V9F",
+        "B076HZ775N",
+        "B01M1HIIUT",
+        "B07FQ5FBKT",
+        "B00S7A5XC0",
+        "B07FKGLF4N"
+    ],
+    "rating": "4.1"
+}

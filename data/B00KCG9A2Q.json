@@ -1,0 +1,82 @@
+{
+    "asin": "B00KCG9A2Q",
+    "title": "Perfect-Prime TH0160, USB Temperature & Humidity Data Logger Dewpoint Show, PC Software supports up to Win 10, Thermoemter/Hygrometer (No batteries included)",
+    "brand": "Perfect-Prime",
+    "feature": [
+        "Temperature measurement range: - 40\u00b0C to 105\u00b0C",
+        "Temperature measurement accuracy: \u00b11\u00b0C",
+        "Humidity measurement accuracy: \u00b13 % RH",
+        "Record 21,000 temperature and humidity counts simultaneously",
+        "Battery: ER14250, 3.6V (not included )"
+    ],
+    "description": "Features and Specifications Temperature measurement range: - 40\u00b0C to 105\u00b0C Temperature measurement accuracy: \u00b11\u00b0C Temperature display resolution: 0.1\u00b0C Humidity measurement range: 0 to 100%RH Humidity measurement accuracy: \u00b13 % RH Humidity display resolution: 0.1% RH Operate/Storage temperature: - 40 to 105 \u00b0C Alarm display if user-defined maximum/minimum values are exceeded Select-able measure Interval: 1 second to 24 hours Record 21,000 temperature and humidity counts simultaneously LED Light indication Download collected data through PC's USB interface Software version for: Window 98/2000/XP/7/8/Vista/Win10 Analysis software used to view graph created from the recorded data Dew point indication via Windows control software. Software can be download on our website: https://perfect-prime.com/pages/downloads-perfectprime Battery: ER14250, 3.6V (not included )",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 760.0,
+        "width": 500.0,
+        "height": 140.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31A7ubtG7CL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31tUBEqOZlL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/311eANfTnWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41qdcaKdmxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41w8%2BzKEAsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41MW0JLyZOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41QAIGzwM8L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Gray"
+        }
+    ],
+    "categories": [
+        {
+            "node": "16310091",
+            "title": "Industrial & Scientific"
+        },
+        {
+            "node": "256409011",
+            "title": "Test, Measure & Inspect"
+        },
+        {
+            "node": "5006548011",
+            "title": "Recorders & Data Acquisition"
+        },
+        {
+            "node": "5006549011",
+            "title": "Data Loggers"
+        }
+    ],
+    "similar": [
+        "B001AFFVWQ",
+        "B00UZEOOG2",
+        "B0142NS4KI",
+        "B008S0I7XQ",
+        "B004UHUGGC",
+        "B01AEQ9X9I",
+        "B076DCTLKV",
+        "B005NI59W8",
+        "B01CY29RCI",
+        "B00MQSCZF2",
+        "B07B7KLMVW",
+        "B01082MXS6",
+        "B01N98976A",
+        "B078W1XNTD",
+        "B01MY9A0G1",
+        "B008EL7J8S",
+        "B0142O0GRG",
+        "B07C92Y9V9",
+        "B016L4EFUO",
+        "B07F5TNFZP",
+        "B01MTDZFDZ",
+        "B00LSGGK18",
+        "B01E9GL54U",
+        "B01HH7YD2Y"
+    ],
+    "rating": "3.2"
+}

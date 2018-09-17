@@ -1,0 +1,69 @@
+{
+    "asin": "B000P255VM",
+    "title": "Joop! Jump By Joop! For Men. Eau De Toilette Spray 3.4 oz",
+    "brand": "Joop!",
+    "feature": null,
+    "description": "This product is made of high quality material. It is recommended for romantic wear. This Product Is Manufactured In France.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 83.75,
+        "length": 150.0,
+        "width": 300.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41thnPhFRnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41QNaGyWrOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31uUQq0HdYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ePllyuMYL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11056591",
+            "title": "Fragrance"
+        },
+        {
+            "node": "11056761",
+            "title": "Men's"
+        },
+        {
+            "node": "363236011",
+            "title": "Eau de Toilette"
+        }
+    ],
+    "similar": [
+        "B000C1VYES",
+        "B01M1HIIUT",
+        "B01LWS0Q04",
+        "B009B1RIU4",
+        "B005MQNX2Y",
+        "B00N48BNGK",
+        "B001D5599I",
+        "B014G8IYRM",
+        "B00HWQFR3A",
+        "B000GHWUU0",
+        "B002XQ1TSG",
+        "B005IQ2BH6",
+        "B01N1UR11Z",
+        "B0719HFF6T",
+        "B001BSH4WW",
+        "B07C891BVY",
+        "B01LXL3NXX",
+        "B000XE961C",
+        "B014LYHMOM",
+        "B00212SXOK",
+        "B01BHQ69S2",
+        "B06Y5CJG3Z",
+        "B000UWP0XU",
+        "B00HEM34O6",
+        "B000UX24OW"
+    ],
+    "rating": "4.2"
+}

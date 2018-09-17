@@ -1,0 +1,74 @@
+{
+    "asin": "B001E0WDV4",
+    "title": "Natrol Biotin Tablets, 1,000mcg, 100 count (pack of 2)",
+    "brand": "Natrol",
+    "feature": null,
+    "description": "Natrol Biotin Tablets, 1,000mcg, 100 count (pack of 2)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 30.0,
+        "length": 190.0,
+        "width": 190.0,
+        "height": 360.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41w86pE%2BGSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61PfcwrA8qL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51hCn8J8RoL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31tuDil26PL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6936790011",
+            "title": "Vitamins"
+        },
+        {
+            "node": "3774671",
+            "title": "Vitamin B"
+        },
+        {
+            "node": "3774751",
+            "title": "B7 (Biotin)"
+        }
+    ],
+    "similar": [
+        "B077V6X8RF",
+        "B00Y4VIHKG",
+        "B001G7QVHW",
+        "B01C46JWTW",
+        "B005CD3NGI",
+        "B0185PXU3K",
+        "B00OKO1OMK",
+        "B01DPZQXGQ",
+        "B00NV5UTYI",
+        "B079VSGR75",
+        "B01FTF8NHW",
+        "B00028NGEC",
+        "B01D6AQQQC",
+        "B00GB85JR4",
+        "B01AMJCHB8",
+        "B000BD1EII",
+        "B01CKLMWYS",
+        "B01IO43YO2",
+        "B00ZPU27JW",
+        "B00JKK3MAG",
+        "B00OJOL3KO",
+        "B004H7GB9G",
+        "B0014D2GEK",
+        "B072L3KTCH",
+        "B01C46JWN8",
+        "B0072F8D7S"
+    ],
+    "rating": "4.1"
+}

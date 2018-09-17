@@ -1,0 +1,95 @@
+{
+    "asin": "B002BXAMJS",
+    "title": "Nature's Bounty Calcium-Magnesiuim-Zinc",
+    "brand": "Nature's Bounty",
+    "feature": [
+        "Provides multiple levels of support for strong, healthy bones",
+        "Inovled in proper muscle contraction impulse",
+        "Supports nerve function and impulses",
+        "Also contains Vitamin D3 to help support immune health",
+        "These statements have not been evaluated by the Food and Drug Administration",
+        "Packaging may vary due to redesign, same great product ingredients",
+        "These convenient caplets feature a high-potency combination of bone-healthy calcium, magnesium, zinc, and vitamin D.*"
+    ],
+    "description": "Calcium is the primary mineral responsible for strong bones. The body also uses Calcium for proper muscle contraction, nerve function & heart function. Vitamin D assists in Calcium absorption & maintaining a healthy immune system. Because the body cannot produce Calcium, a balanced diet, regular exercise, healthy lifestyle choices & adequate intake of Calcium & Vitamin D can play a role in maintaining optimal bone health.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 200.0,
+        "width": 200.0,
+        "height": 420.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51DOAwIzvrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51YI1LtapwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vl%2BDP%2BxkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41EjQoiGFNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41QHTlsTg7L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41nc50qgFhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41I7rcp7thL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "100Count"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774271",
+            "title": "Minerals"
+        },
+        {
+            "node": "3774291",
+            "title": "Calcium"
+        },
+        {
+            "node": "6939226011",
+            "title": "Calcium Magnesium"
+        }
+    ],
+    "similar": [
+        "B002LANWWK",
+        "B002G3PRXY",
+        "B003CF7TOA",
+        "B000GG87MG",
+        "B0043ZLTT4",
+        "B001IY03L8",
+        "B074V86VXH",
+        "B00CG672M0",
+        "B000GFPD10",
+        "B0029SBR8K",
+        "B07FC7DCCW",
+        "B017C3VI3K",
+        "B07H426DJ8",
+        "B0014D2GEK",
+        "B004JO3JTM",
+        "B01HBN0QSY",
+        "B005A6964U",
+        "B07FC8GWW1",
+        "B06X9YYMKT",
+        "B00L1I9Y5C",
+        "B000NRXNT0",
+        "B000YMYPBE",
+        "B07GT876Y2",
+        "B000GG87V2",
+        "B000OD1F7U",
+        "B0013TMWIK",
+        "B0040J0Q92",
+        "B00016AG5W",
+        "B002BSH3HC",
+        "B074V73GHT",
+        "B004L4EJQ2"
+    ],
+    "rating": "4.5"
+}

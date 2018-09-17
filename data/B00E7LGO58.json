@@ -1,0 +1,71 @@
+{
+    "asin": "B00E7LGO58",
+    "title": "Seagate Savvio 10K.6 SAS 6GBS 600GB (ST600MM0006)",
+    "brand": "Seagate",
+    "feature": [
+        "Transition from slower 2.5 inch, 10K-RPM or lower-capacity 3.5 inch, 15K-RPM hard drives to smaller, faster, best-in-class Savvio 10K.6 enterprise hard drives",
+        "PowerChoice technology for T10-compliant power management enables IT organizations to tailor systems for performance and power consumption",
+        "First mission-critical HDD to offer the Seagate RAID Rebuild technology option - making RAID recovery faster and safer"
+    ],
+    "description": "Seagate Instant Secure Erase (ISE) technology makes it safe, fast and easy to retire, repurpose and sell drives High capacity and small footprint enable data centers to keep pace with data growth and optimize data center real estate.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 80.0,
+        "length": 80.0,
+        "width": 270.0,
+        "height": 360.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51RwUFbM95L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Dqca9OdgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Zs1k81lJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/511hN9Vsp2L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "1254762011",
+            "title": "Internal Hard Drives"
+        }
+    ],
+    "similar": [
+        "B07F7HR1BW",
+        "B01GPMRXL0",
+        "B0183FSG68",
+        "B009L0SILI",
+        "B017O27I9W",
+        "B07GDST8HJ",
+        "B01NH5EN9I",
+        "B06XSL2C13",
+        "B0047O25FI",
+        "B014VTW40E",
+        "B01KQ1F62O",
+        "B00C9TEOWU",
+        "B00718XVJG",
+        "B07GDT1JCF",
+        "B07G9S7T2C",
+        "B01BK7FSNK",
+        "B00D02AHV2",
+        "B07CML4F4W",
+        "B00PB1RK4M",
+        "B002P4J3YI",
+        "B01I3FQ5JI",
+        "B07DVF5N2F",
+        "B07BR4HMG4"
+    ],
+    "rating": "4.2"
+}

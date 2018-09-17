@@ -1,0 +1,100 @@
+{
+    "asin": "B071H9WW8G",
+    "title": "Cole Haan Men's Grand Evolution Shortwing Oxford",
+    "brand": null,
+    "feature": [
+        "Leather",
+        "Imported",
+        "Smooth suede upper.",
+        "Leather lining.",
+        "Dual density cushioning is more firm through the forefoot and midfoot for added stability and softer under the heel for shock absorption.",
+        "Grand.OS comfort technology.",
+        "Achilles cushioning for added heel comfort and minimized irritation."
+    ],
+    "description": "Our grand technology that is a proven winner for every season in a short wing. With nearly 80 years in the business and hundreds of points of distribution in the U.S., Cole Haan is one of America's premier luxury brands. Founded in 1928 as a collaboration between Trafton Cole and Eddie Haan, Cole Haan epitomized artisan quality and impeccable craftsmanship during a time when style was everything. Originally, Cole Haan was a men's footwear label that captured the essence of the 20s spirit with beautifully-designed and well-made shoes for the dapper gentleman. Today, Cole Haan brings that heritage to all of its products, including men's and women's dress and casual footwear, belts, hosiery, handbags, small leather goods, outerwear and sunglasses.",
+    "price": 9985.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 269.0,
+        "length": 1400.0,
+        "width": 800.0,
+        "height": 450.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41y9iqZ9P7L._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51bQsWyHqFL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51So1a0Eh-L._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31tByoc1W-L._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41JKKessSeL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41F5ZvCdD3L._US40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "8 M US"
+        },
+        {
+            "name": "Color:",
+            "value": "Toadrock Suede/Sun Dried Tomato"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "679255011",
+            "title": "Shoes"
+        }
+    ],
+    "similar": [
+        "B074DWK2XT",
+        "B07FK4G6YT",
+        "B074DXC2KH",
+        "B0725RK5QM",
+        "B073J1H5V2",
+        "B071CH7YRH",
+        "B07CGM6GR3",
+        "B0743YH6ZP",
+        "B077BXBCTS",
+        "B0718Z4PPJ",
+        "B074DWH6Q9",
+        "B078XHXDBM",
+        "B01J4PA2ZO",
+        "B0743XBGQS",
+        "B076D86GWS",
+        "B01I47RMNI",
+        "B078JRKFG4",
+        "B074DWWV2C",
+        "B07D55K9MM",
+        "B078SFVZ3B",
+        "B074YX1PJP",
+        "B078T1MC94",
+        "B076D777GH",
+        "B075F332LR",
+        "B07BB2PJRX",
+        "B07DBNLZPD",
+        "B01MRLUEYO",
+        "B06W55BJP8",
+        "B01N03BRPW",
+        "B001RPXWY8",
+        "B078JLZKST",
+        "B06ZZKCQT4",
+        "B01I47RI1E",
+        "B07D57BQNT",
+        "B07FFSF569",
+        "B071D2DP4G",
+        "B078XGYC4J",
+        "B07533YRBF",
+        "B0711741HX",
+        "B0735Z1MTY",
+        "B07FJTZG62"
+    ],
+    "rating": "4.3"
+}

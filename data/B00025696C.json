@@ -1,0 +1,68 @@
+{
+    "asin": "B00025696C",
+    "title": "Seachem Flourish Iron 500ml",
+    "brand": "Seachem",
+    "feature": [
+        "Highly concentrated",
+        "Iron supplement",
+        "For planted aquarium"
+    ],
+    "description": "Flourish Iron is a highly-concentrated (10,000 mg/L) ferrous iron (Fe+2) gluconate supplement. It should be used in those cases where the iron requirements exceed that which can be delivered by Flourish at the recommended dose or signs of iron deficiency appear (such as short and slender stems or yellowing between veins.) Contains no phosphate or nitrate.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 120.0,
+        "length": 760.0,
+        "width": 150.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41RwR80gysL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41uQL52RBdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31AtL9TAZLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41c78uaAf0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51yWOPDSJrL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "2619533011",
+            "title": "Pet Supplies"
+        },
+        {
+            "node": "2975446011",
+            "title": "Fish & Aquatic Pets"
+        },
+        {
+            "node": "2975478011",
+            "title": "Aquarium Water Treatments"
+        }
+    ],
+    "similar": [
+        "B00025696M",
+        "B00HYT4DJY",
+        "B0002DGNIS",
+        "B0069RTFB8",
+        "B00025694Y",
+        "B0002APILO",
+        "B01DSFMNHQ",
+        "B000256962",
+        "B0002DGNJC",
+        "B000HHSG5M",
+        "B00OY7OQAA",
+        "B00025694O",
+        "B01J5GE3MA",
+        "B06XK816RT",
+        "B0743LDN66",
+        "B001EUL3F6",
+        "B000255QLG",
+        "B00GFTQDQK",
+        "B07F51NTGJ",
+        "B0002APIJQ",
+        "B01JS2UGAE",
+        "B005KQ4LWC",
+        "B000255QJS"
+    ],
+    "rating": "4.5"
+}

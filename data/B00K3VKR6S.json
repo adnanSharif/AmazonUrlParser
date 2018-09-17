@@ -1,0 +1,79 @@
+{
+    "asin": "B00K3VKR6S",
+    "title": "Beard Farmer - Growther Beard Growth Oil (Grow Your Beard Fast) All Natural Beard Oil",
+    "brand": "Beard Farmer",
+    "feature": null,
+    "description": null,
+    "price": 2399.0,
+    "listPrice": 2999.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 3.75,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51i0ZA3HeDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41K792szeOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Z7wtfK-8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31Jq8woTFkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41U%2BQQMMhZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51TjWZx1CcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41fp4LxRskL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "3778591",
+            "title": "Shave & Hair Removal"
+        },
+        {
+            "node": "13271079011",
+            "title": "Men's"
+        },
+        {
+            "node": "13271118011",
+            "title": "Beard & Mustache Care"
+        },
+        {
+            "node": "7655120011",
+            "title": "Beard Conditioners & Oils"
+        }
+    ],
+    "similar": [
+        "B079V24X4K",
+        "B07BF1M19L",
+        "B07CQSH3RC",
+        "B0163BMOMG",
+        "B0763T3JGV",
+        "B01E6CI9I2",
+        "B071RPCF3M",
+        "B019FYL7L2",
+        "B00NYP3YIS",
+        "info.html",
+        "B072Q2GJZR",
+        "B00SUAE8F0",
+        "B00CSTM3II",
+        "B00YKR92IK",
+        "B07FCL95SX",
+        "B071HJP1VH",
+        "B00PEEZ07K",
+        "B078N1DBY9",
+        "B072B5PP2Q",
+        "B00M49SG0Q",
+        "B00OSE5XII",
+        "B01A6BPTMQ",
+        "B00QVZJP4U",
+        "B00ZD3T7E4",
+        "B01A9FEVYQ",
+        "B00UEN9ECI",
+        "B01692GG8M",
+        "B0796PQ636"
+    ],
+    "rating": "3.8"
+}

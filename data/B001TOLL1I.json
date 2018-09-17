@@ -1,0 +1,74 @@
+{
+    "asin": "B001TOLL1I",
+    "title": "Umarex 12 Gram CO2 Cylinders- 12-Pack",
+    "brand": "Umarex",
+    "feature": [
+        "Doesn't dirty your air gun valves",
+        "Number of rounds per capsule depends on the airgun",
+        "Manufactured under tight tolerances",
+        "Only available for purchase in certain zip codes"
+    ],
+    "description": "12g CO2 Cylinders (12-Pack)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 120.0,
+        "length": 300.0,
+        "width": 340.0,
+        "height": 710.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51dx8Mr4UFL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "10971181011",
+            "title": "Sports & Fitness"
+        },
+        {
+            "node": "706813011",
+            "title": "Hunting & Fishing"
+        },
+        {
+            "node": "13364359011",
+            "title": "Shooting"
+        },
+        {
+            "node": "13364382011",
+            "title": "Air Guns & Accessories"
+        }
+    ],
+    "similar": [
+        "B01GF81M5W",
+        "B0002IL6M6",
+        "B00GA8RP3G",
+        "B00GX3X7X0",
+        "B01DC3ZH7M",
+        "B001A4N47G",
+        "B07D4LPP54",
+        "B00AU6D85S",
+        "B01BMZSAJO",
+        "B00J7OOHPY",
+        "B00C2G58U2",
+        "B079W47C5C",
+        "B00ZFY5IDK",
+        "B003UCC68E",
+        "B00TOKCWW6",
+        "B017KU1DIK",
+        "B000HKKY7M",
+        "B01IR83NGO",
+        "B00IVKA8BW",
+        "B01GVS1O7M",
+        "B004TDPQUI",
+        "B01L450QBW",
+        "B071FLC9P2",
+        "B007II3FQS"
+    ],
+    "rating": "4.6"
+}

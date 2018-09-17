@@ -1,0 +1,88 @@
+{
+    "asin": "B012B6YQY6",
+    "title": "TP-Link 4-Port USB 3.0 Hub, USB Splitter, Ultra Mini, Plug and Play, with Foldable Cord Design (UH400)",
+    "brand": "TP-Link",
+    "feature": [
+        "Instantly add four USB 3.0 ports to any compatible devices, like Mac, Surface, Chromebook, PC, Raspberry Pi, Xbox, PS3/4, Smart TV, etc.",
+        "Plug-and-Play for windows, Linux, Mac OS, no driver required. Hot Swappable, Hot Pluggable.",
+        "Backwards compatible with USB 2.0 and USB 1.1. Supports transfer speeds up to 5Gbps (USB 3.0), 480Mbps (USB 2.0), 12Mbps (USB 1.1).",
+        "Ultra-compact with unique foldable cord design makes it an ideal USB hub on the go without scratching your PCs.",
+        "Can be used for both power charging for mobile phones and data sync. Max output per port: 900MA; total current output: 5V/2.5A; watts:12.5W.",
+        "Industry-leading FREE lifetime 24/7 technical support and a 2-year warranty.",
+        "From reliable brand: TP-Link has been ranked as the World\u2019s No. 1 provider of WLAN products for the past consecutive 7 years by IDC. In 2017.",
+        "J.D. Power and Associates ranked TP-Link \u201cHighest in Customer Satisfaction for Wireless Routers\u201d."
+    ],
+    "description": "TP-Link UH400 is a 4 ports USB 3.0 hub, no power adapter needed. It can transform one of your computer's USB ports into four. With foldable cord, lightweight and portable design makes it a great travel companion to expand your laptop\u2019s USB 3.0 port into four. Fully backwards compatible with the USB 2.0/1.1 products. With TP-Link UH400, you can now transfer data at up to 10 times the speeds of the older USB 2.0 standards. Speeds of 5Gbps are a vast improvement over USB 2.0\u2019s 480Mbps top speed. It is also backwards compatible, allowing you the capability of using USB 2.0/1.1 products if need be. Please Note: 2.4Ghz wireless devices, such as wireless keyboard and mouse adapters, may not work in close proximity to USB 3.0 devices or hubs. Connecting to a USB 2.0 port is recommended. For a stable connection, don't use this hub with high power-consumption devices (the devices connected to the 4-Port USB 3.0 Hub must not exceed a combined current of 5 volts 900 mAh), such as external hard drives, tablets and other devices which require a higher power input.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 5.0,
+        "length": 280.0,
+        "width": 280.0,
+        "height": 70.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31vH3YaDKRL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41%2BUvNt5aIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41jouo8h%2BxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ykpHXr6dL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5109o-fEIpL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51V%2BqcI1jhL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Capacity:",
+            "value": "4 USB 3.0 Ports"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "17387627011",
+            "title": "USB Hubs"
+        }
+    ],
+    "similar": [
+        "B01MCQSFG0",
+        "B014I8SSD0",
+        "B00SCX6I8A",
+        "B00TPMEOYM",
+        "B01F9RGOI0",
+        "B00M4QAQI4",
+        "B0192LPK5M",
+        "B00XMD7KPU",
+        "B00OTK16FK",
+        "B07GW4HCB3",
+        "B07FVS7LXG",
+        "B01MA1050F",
+        "B076Q43SPC",
+        "B078S763JT",
+        "B074XK1GTS",
+        "B076YPRTKF",
+        "B002VPE1QG",
+        "B00JX1ZS5O",
+        "B00OQ0CYFE",
+        "B019H4DSI0",
+        "B07FLTHXRP",
+        "B00C5K8D5W",
+        "B07FH7XJCD",
+        "B07G11N71F",
+        "B07FB9BHMV",
+        "B01D92SSX6",
+        "B00OT6YUIY",
+        "B00O0KISQE"
+    ],
+    "rating": "4.3"
+}

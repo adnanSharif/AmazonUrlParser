@@ -1,0 +1,89 @@
+{
+    "asin": "B00CIZ0DNO",
+    "title": "Caribbean Cacao Ultimate Cocoa Butter - Delightfully Rich Scent & Highest Quality, From our exclusive source in the Dominican Republic. 1 LB Body Butter Bar For Stretch Marks, Dry Skin, Acne etc",
+    "brand": "Caribbean Cacao",
+    "feature": null,
+    "description": null,
+    "price": 1449.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 80.0,
+        "length": 600.0,
+        "width": 600.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/516COWnunwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51AYdepvaxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/511fW4LCjvL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51SACOWpw0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Wt1VSvdIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51cQmrIdikL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51GXx2%2BEoIL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11060661",
+            "title": "Moisturizers"
+        },
+        {
+            "node": "11060671",
+            "title": "Body Butter"
+        }
+    ],
+    "similar": [
+        "B00D9NV2D4",
+        "B016M9UEY4",
+        "B00CHMWAY8",
+        "B079T4ZTS9",
+        "B01LYVMKHM",
+        "B008KPO2MY",
+        "B01N1QJNNJ",
+        "B00HE1SFNM",
+        "B00LUZ7LJM",
+        "B016TVTYSW",
+        "B0728BY2KF",
+        "B01M1KD8PE",
+        "B01DPXWHT0",
+        "B016M9UFJ8",
+        "B06ZY4J8Z6",
+        "B01LYMZK4V",
+        "B00HE078RM",
+        "B007IX8ARW",
+        "B01NCLYTNX",
+        "B01MTBCIE9",
+        "B00LCINT52",
+        "B00L9DUHQE",
+        "B01DPY3DNS",
+        "B0019LVFSU",
+        "B00E99MIX0",
+        "B07CYK6JLX",
+        "B0155IKGLO",
+        "B01M8GAFC8",
+        "B00GDIL0AM",
+        "B015X0NP9O",
+        "B07FPXFX6F",
+        "B011QHFB4A",
+        "B00DS842HS",
+        "B00HE04KAU",
+        "B00N04SMBW",
+        "B01M7MUPZ8",
+        "B0186TZYPC",
+        "B013VVXE5C"
+    ],
+    "rating": "4.8"
+}

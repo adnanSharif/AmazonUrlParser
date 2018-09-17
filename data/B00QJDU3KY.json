@@ -1,0 +1,44 @@
+{
+    "asin": "B00QJDU3KY",
+    "title": "Kindle Paperwhite, 6\" High-Resolution Display (300 ppi) with Built-in Light, Wi-Fi (International Version)",
+    "brand": "Amazon",
+    "feature": [
+        "Higher resolution display (300 ppi) - with twice as many pixels",
+        "Now with Bookerly, our exclusive font, hand-crafted from the ground up for faster reading with less eyestrain",
+        "Built-in adjustable light--read day and night",
+        "Unlike tablets, no screen glare, even in bright sunlight",
+        "A single battery charge lasts weeks, not hours",
+        "Lighter than a paperback, holds thousands of books",
+        "Exclusive features help build your vocabulary, learn about characters, and connect with like-minded readers--all without leaving the page"
+    ],
+    "description": null,
+    "price": 13999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ENCKePBdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51CtmBFO6uL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61We7RPrEeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5149wY8vlwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51oh0MecrgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31EW35Cpp6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31vZiSoJzaL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B006GWO7UA",
+        "B007R5YFS4",
+        "B00QJDVBFU",
+        "B008BADT4K",
+        "B01C4UY0JK",
+        "B06XDK92KS"
+    ],
+    "rating": "4.4"
+}

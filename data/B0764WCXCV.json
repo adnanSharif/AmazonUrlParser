@@ -1,0 +1,92 @@
+{
+    "asin": "B0764WCXCV",
+    "title": "Crucial MX500 250GB 3D NAND SATA 2.5 Inch Internal SSD - CT250MX500SSD1(Z)",
+    "brand": "Crucial",
+    "feature": [
+        "Sequential reads/writes up to 560/510 MB/s and random reads/writes up to 95k/90k on all file types",
+        "Accelerated by Micron 3D NAND technology",
+        "Integrated Power Loss Immunity preserves all your saved work if the power unexpectedly gets cut",
+        "Crucial 5-year limited warranty",
+        "Product ships in Amazon Certified Frustration Free Packaging (may differ from retail packaging depicted in product collateral)"
+    ],
+    "description": "Start your system in seconds, store up to 2TB of data, and upgrade with an SSD you can count on. Join more and more people who are keeping their family videos, travel photos, music, and important documents on an SSD, and get the near-instant performance and lasting reliability that comes with solid state storage. Upgrade with the Crucial MX500 SSD, a drive built on quality, speed, and security that\u2019s all backed by helpful service and support. Even if you\u2019ve never installed an SSD, don\u2019t fear \u2013 our step-by-step guide walks you through the process to make installation easy. It\u2019s worth it.",
+    "price": 5999.0,
+    "listPrice": 7998.999999999999,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 409.99999999999994,
+        "width": 30.0,
+        "height": 280.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51K4HDZVQzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41%2BAGwrmuEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51X3yxr7KPL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ibXilbARL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/417o63ZUHUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51E%2BIXYV8yL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Capacity:",
+            "value": "1"
+        },
+        {
+            "name": "Style:",
+            "value": "250GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "1292116011",
+            "title": "Internal Solid State Drives"
+        }
+    ],
+    "similar": [
+        "B077SQ8J1V",
+        "B0781VSXBP",
+        "B0090UG55A",
+        "B076XW19JQ",
+        "B01F9G46Q8",
+        "B01BFWRJFA",
+        "B016498CK0",
+        "B0781Z7Y3S",
+        "B073SBZ8YH",
+        "B076Q4PC4Y",
+        "B011M8YACM",
+        "B079KRC9VS",
+        "B00GMGZBP0",
+        "B07BN6SMTX",
+        "B077SL4FZG",
+        "B016CHGPP8",
+        "B07864WMK8",
+        "B073SBX6TY",
+        "B00HJZJI84",
+        "B079GT8252",
+        "B073SB2MXW",
+        "B009GUXU52",
+        "B07DD54R9S",
+        "B078C515QL",
+        "B01EX782JG",
+        "B076WX8JPH",
+        "B0183FSG68",
+        "B0784SLQM6",
+        "B07D998212",
+        "B077SF8KMG",
+        "B01N5IB20Q"
+    ],
+    "rating": "4.7"
+}

@@ -1,0 +1,70 @@
+{
+    "asin": "B00DENV72K",
+    "title": "Caro White Lightening Beauty Cream with Carrot Oil 500 Ml",
+    "brand": "Caro White",
+    "feature": null,
+    "description": "CARO WHITE LIGHTENING BEAUTY CREAM 500ML LIGHTENING BEAUTY CREAM 500ML CARO WHITE",
+    "price": 1165.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Gewt6xkFL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11056421",
+            "title": "Scrubs & Body Treatments"
+        }
+    ],
+    "similar": [
+        "B01JIRKQ3G",
+        "B075WYBVQQ",
+        "B078ZKT5PR",
+        "B07DPG66XT",
+        "B008P5E9M2",
+        "B01FLO5914",
+        "B079LZVR8D",
+        "B07BPC6F3C",
+        "B077NJH7LQ",
+        "B072PWFFXT",
+        "B01MU1DE03",
+        "B006KHMQLS",
+        "B00L5ML4LQ",
+        "B01H619Q3W",
+        "B07F17K8ML",
+        "B01N8XF244",
+        "B076MS9YWB",
+        "B07BRB3XG3",
+        "B00ODH7PAO",
+        "B00D8GL0UC",
+        "B01K2UMMI0",
+        "B073JV3TWC",
+        "B008BJ5GMO",
+        "B07C8HF9MT",
+        "B01M4MCUAF",
+        "B008BIKT9A",
+        "B071VK9Y28",
+        "B00LNN357S",
+        "B008P58H0M"
+    ],
+    "rating": "3.4"
+}

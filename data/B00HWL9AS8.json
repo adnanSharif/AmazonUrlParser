@@ -1,0 +1,100 @@
+{
+    "asin": "B00HWL9AS8",
+    "title": "Garmin GPSMAP 64s Worldwide with High-Sensitivity GPS and GLONASS Receiver",
+    "brand": "Garmin",
+    "feature": [
+        "Sunlight-Readable 2.6\" color display",
+        "Expanded Internal Memory 4GB",
+        "DUAL BATTERY SYSTEM Use with 2 traditional AA batteries, or the optional rechargeable NiMH battery pack that can be charged while inside the device.Weight 8.1 oz (230 g) with batteries:\u00a0AA batteries required (best with Polaroid AA batteries)",
+        "Receive Smart Notifications* and pair with optional ANT+ sensors, such as heart rate monitor, Tempe temperature sensor, speed/cadence, or use to control your VIRB action camera (64s/64st only)",
+        "Wirelessly upload data to Garmin Connect and view on smartphone, plus share activities as they happen with Live Track (64s/64st only).Display size(inches):1.43 x 2.15"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 101.0,
+        "length": 240.0,
+        "width": 140.0,
+        "height": 630.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/410AKLKoP0L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41r4G1KuAPL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41pFTHfw10L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31t9-NN11bL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Kkud2Lw1L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41RmKRi%2BNiL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41GEr3AytgL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "With ANT+Bluetooth"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "172526",
+            "title": "GPS & Navigation"
+        },
+        {
+            "node": "219536011",
+            "title": "Sports & Handheld GPS"
+        },
+        {
+            "node": "319582011",
+            "title": "Handheld GPS Units"
+        }
+    ],
+    "similar": [
+        "B06XDHM839",
+        "B077TCFH19",
+        "B078CJB4TJ",
+        "B077TGLDFF",
+        "B000CSOXTO",
+        "B077TGMRVV",
+        "B00AXUXRUC",
+        "B01HS1PTK4",
+        "B00542NVS2",
+        "B071XVS1YZ",
+        "B077TN4YDT",
+        "B00E0V4812",
+        "B00HWL9BQ4",
+        "B00IM3P8GS",
+        "B07BCJ8G5Q",
+        "B00XQE6Z92",
+        "B00AXUXRSO",
+        "B00HWL9AII",
+        "B074M38SJC",
+        "B077TJS7WR",
+        "B00HWL9AR4",
+        "B008RM7A5Q",
+        "B077T97LWN",
+        "B07888CSJX",
+        "B07F6B2TLF",
+        "B078X4X4WJ",
+        "B009NEKAEA",
+        "B00HZV9YE0",
+        "B01GX7M81W",
+        "B01B22ND6W",
+        "B078CK1SJ4",
+        "B078X5WLX4",
+        "B00XQE6ZFG",
+        "B0749LHXFQ",
+        "B008RM7BG4",
+        "B078M8SHVK",
+        "B00B1QUF8O",
+        "B073VFTHXN",
+        "B077T8QZMT",
+        "B077T77YJ6",
+        "B07FNR66JW",
+        "B01M29VXAN"
+    ],
+    "rating": "4.1"
+}

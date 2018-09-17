@@ -1,0 +1,70 @@
+{
+    "asin": "B00IG0SKYO",
+    "title": "Nature Made Magnesium 250 mg Tablets 100 ea (Pack of 5)",
+    "brand": "Nature Made",
+    "feature": null,
+    "description": "Nature Made Magnesium 250 mg tablets provide magnesium which helps support nerve, muscle and heart function.\u2020",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": 600.0,
+        "width": 600.0,
+        "height": 1000.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51QjOfXyaqL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774271",
+            "title": "Minerals"
+        },
+        {
+            "node": "3774411",
+            "title": "Magnesium"
+        }
+    ],
+    "similar": [
+        "B00CU3SX4K",
+        "B00J0C4QCW",
+        "B06XWHLGZZ",
+        "B0002VG3QC",
+        "B004U3Y8OM",
+        "B002RS6PN4",
+        "B01N01YMA4",
+        "B001G7QM0I",
+        "B00E4MP0WS",
+        "B00H5PJ0HW",
+        "B011M06YFG",
+        "B00CBXSPMY",
+        "B01IU9JBW0",
+        "B00FZP6TB4",
+        "B002LANWWK",
+        "B01LXB13M6",
+        "B008PQD65M",
+        "B01LYWPNY6",
+        "B076S3CSCB",
+        "B0029O0BWW",
+        "B00PXI0VYY",
+        "B003PGJLRO",
+        "B00ZY5PLQ4",
+        "B01CJGXMU2",
+        "B01LZTEZ9A",
+        "B00TRSBHMQ",
+        "B07CDWT8WM",
+        "B07BSP6GDT",
+        "B001E10DJW"
+    ],
+    "rating": "4.4"
+}

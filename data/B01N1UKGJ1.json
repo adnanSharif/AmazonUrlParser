@@ -1,0 +1,96 @@
+{
+    "asin": "B01N1UKGJ1",
+    "title": "PUMA Boys' 5-Pack Bodysuits",
+    "brand": null,
+    "feature": [
+        "60% Cotton, 40% Polyester",
+        "Imported",
+        "Machine Wash",
+        "Five-pack of logoed short-sleeve bodysuits in various patterns, lap-shoulder neckline, snap-crotch",
+        "PUMA offers performance and sport-inspired lifestyle products in countless categories for all ages and genders"
+    ],
+    "description": "PUMA bodysuits get your little one ready to take on the competition early with bright colors and comfy cotton.",
+    "price": 1897.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ZGpO9jxJL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Special Size:",
+            "value": "Baby Boys"
+        },
+        {
+            "name": "Size:",
+            "value": "0-3 Months"
+        },
+        {
+            "name": "Color:",
+            "value": "Field Green"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147444011",
+            "title": "Baby"
+        },
+        {
+            "node": "7628013011",
+            "title": "Baby Boys"
+        },
+        {
+            "node": "1044510",
+            "title": "Clothing"
+        },
+        {
+            "node": "1046184",
+            "title": "Bodysuits"
+        }
+    ],
+    "similar": [
+        "B01MY0HB0G",
+        "B01CR8N5C2",
+        "B06WV7Q2GV",
+        "B07211S6WP",
+        "B01MRZMI2P",
+        "B07412PGQN",
+        "B01N7KACNF",
+        "B01AX8UB20",
+        "B00TQ10KLS",
+        "B01N0T3G82",
+        "B016V5AVI8",
+        "B075ZWDJJ2",
+        "B072JZK44L",
+        "B01MQY9MLX",
+        "B00NUYWVYQ",
+        "B01AX8KWBK",
+        "B071WLRPRV",
+        "B076NYPS7M",
+        "B07GTGW747",
+        "B075LFS9GH",
+        "B01NCOF58X",
+        "B075XR7JW6",
+        "B01N0T34GR",
+        "B01N7KAV17",
+        "B073Z2X1XQ",
+        "B074ST828H",
+        "B00TYEQP3O",
+        "B01MY0J012",
+        "B01MY0HBPX",
+        "B01DY2QQPS",
+        "B07347DZB3",
+        "B01N6IYK2N"
+    ],
+    "rating": "3.6"
+}

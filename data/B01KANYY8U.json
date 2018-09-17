@@ -1,0 +1,94 @@
+{
+    "asin": "B01KANYY8U",
+    "title": "Rankie DisplayPort (DP) to DVI Cable, Gold Plated, 6 Feet",
+    "brand": "Rankie",
+    "feature": [
+        "The 6 feet cable connects a DisplayPort / DisplayPort++ (DP / DP++) equipped laptop or desktop to a monitor or projector with DVI input. (Note: NOT bi-directional, only transmits from DP to DVI)",
+        "Gold-plated connectors resist corrosion and improve the signal transmission. The braided foil shielding reduces interference, and bare copper conductors enhance transmission performance",
+        "Supports video resolutions up to 1920x1200 / 1080P (Full HD)",
+        "The DP connector has a latch to provide secure connection with the port. Press the latch down before unplugging the connector",
+        "Suitable for Extended Desktop or Mirrored Displays. Lifetime warranty from Rankie"
+    ],
+    "description": null,
+    "price": 699.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 22.0,
+        "length": 7280.0,
+        "width": 150.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41htSjsa%2BHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41dTLdllCCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51wv4gITPQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41VorbeyilL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51U4prqkUiL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vkFPuXQcL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "281407",
+            "title": "Accessories & Supplies"
+        },
+        {
+            "node": "172532",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "172540",
+            "title": "Cables & Interconnects"
+        },
+        {
+            "node": "464418",
+            "title": "Video Cables"
+        },
+        {
+            "node": "202506011",
+            "title": "DVI Cables"
+        }
+    ],
+    "similar": [
+        "B01GJ62ODY",
+        "B01GPMRXL0",
+        "B00Z05JMKO",
+        "B00Z08TZNU",
+        "B014RWWOAA",
+        "B072WQHMNN",
+        "B00Q20H3O8",
+        "B00B2HOVK0",
+        "B01GPMRYNM",
+        "B01J8S6G16",
+        "B01KRMEVQO",
+        "B01LGITGY0",
+        "B01KAVJ4PA",
+        "B00YOSA85Q",
+        "B014I8UQJY",
+        "B00GFYW83C",
+        "B015IGOK9M",
+        "B01KAVKR6K",
+        "B01M0QDFDM",
+        "B013G4BXZ2",
+        "B072WQ67FP",
+        "B01D15IJ3K",
+        "B01E742BM4",
+        "B077BPW8XJ",
+        "B00IHMFK44",
+        "B01KAVDAM8",
+        "B014RWWURC",
+        "B00IHMFIBY",
+        "B07F7YV4BR"
+    ],
+    "rating": "4.6"
+}

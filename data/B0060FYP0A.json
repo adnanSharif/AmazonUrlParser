@@ -1,0 +1,80 @@
+{
+    "asin": "B0060FYP0A",
+    "title": "NGK IX Spark Plugs - DR8EIX",
+    "brand": "NGK",
+    "feature": [
+        "Priced individually"
+    ],
+    "description": "Designed specifically for the performance enthusiast, Iridium IX offers extreme ignitability, improved throttle response and superior anti fouling. The 0.6mm laser welded fine Iridium tip ensures high durability and a consistently stable spark and the tapered ground electrode minimizes electrical Quenching Effect. Longer insulator nose prevents fouling, the corrugated ribs on insulator prevents flashover, and a triple gasket seal eliminates combustion gas leakage. Iridium alloy has extremely high melting point, giving it high durability to heat and electrical wear, perfect for today's high-performance engines. Trivalent Metal Plating - superior anti-corrosion and anti-seizing properties.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 85.0,
+        "length": 330.0,
+        "width": 100.0,
+        "height": 90.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31fAfUgipmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/419MtNjq3QL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Number of Items:",
+            "value": "4"
+        }
+    ],
+    "categories": [
+        {
+            "node": "15684181",
+            "title": "Automotive"
+        },
+        {
+            "node": "15719731",
+            "title": "Replacement Parts"
+        },
+        {
+            "node": "15728931",
+            "title": "Ignition Parts"
+        },
+        {
+            "node": "15729421",
+            "title": "Spark Plugs & Wires"
+        },
+        {
+            "node": "15729431",
+            "title": "Spark Plugs"
+        }
+    ],
+    "similar": [
+        "B01MR8CF80",
+        "B006B253K8",
+        "B00230AT38",
+        "B00A2NCHU6",
+        "B0022ZAFOC",
+        "B000E2CVT2",
+        "B004SKU3XW",
+        "B000FGJSGQ",
+        "B07CSPBYFK",
+        "B001KO7BQQ",
+        "B00P34B6GA",
+        "B000E2AR6G",
+        "B00KD5Z2EG",
+        "B000BYGGZS",
+        "B003BUCKQ8",
+        "B000CSGWZC",
+        "B00VV86L94",
+        "B000COTP9Q",
+        "B07H81FTJ2",
+        "B00J6CHP7E",
+        "B0042LPEKE",
+        "B010EM1AR0",
+        "B000AS1XZS",
+        "B01LVXUD26",
+        "B01HU2L1NU",
+        "B00FFZU25S",
+        "B00BP2VDX0"
+    ],
+    "rating": "4.3"
+}

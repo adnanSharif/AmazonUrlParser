@@ -1,0 +1,73 @@
+{
+    "asin": "B01E7Q96QQ",
+    "title": "Ghirardelli Majestic Premium Cocoa Powder, 32 oz",
+    "brand": "Ghirardelli",
+    "feature": null,
+    "description": "The finest in the land. 20/22% cocoa butter content. 100% cocoa. Perfectly suited for premium baking.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 180.0,
+        "length": 700.0,
+        "width": 550.0,
+        "height": 550.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41ch8ibg7HL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "16310221",
+            "title": "Cooking & Baking"
+        },
+        {
+            "node": "6485877011",
+            "title": "Baking Chocolates, Carob & Cocoa"
+        },
+        {
+            "node": "16317471",
+            "title": "Cocoa"
+        }
+    ],
+    "similar": [
+        "B01D55RS74",
+        "B01IPZUZW4",
+        "B00E1S71IG",
+        "B00DUF3YBE",
+        "B01FJ8JANA",
+        "B06XWNYPCT",
+        "B00DUF219A",
+        "B06Y6FLLK4",
+        "B00AZX0IE0",
+        "B01NAI6IEM",
+        "B01BCCYJHE",
+        "B019TWSX2Q",
+        "B01IAB42QS",
+        "B00F0TEJQM",
+        "B071WMKWQ3",
+        "B00EQF8KKM",
+        "B002RBOCZE",
+        "B01LYD5BJU",
+        "B01FJ96UXC",
+        "B01N2R37JO",
+        "B000H26J7E",
+        "B00DV54EJY",
+        "B06Y6JRJ2F",
+        "B00112EUPM",
+        "B00RBS5I92",
+        "B077PHN69C",
+        "B01071RJQE",
+        "B01D56323C",
+        "B01N4AOLBN",
+        "B01MV1IYAV",
+        "B00AW5NLZE",
+        "B0019SE6M0"
+    ],
+    "rating": "4.7"
+}

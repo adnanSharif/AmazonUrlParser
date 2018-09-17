@@ -1,0 +1,91 @@
+{
+    "asin": "B01F9G43WU",
+    "title": "SanDisk SSD PLUS 240GB Solid State Drive - SDSSDA-240G-G26",
+    "brand": "SanDisk",
+    "feature": [
+        "Faster boot-up, shutdown, application load and response",
+        "Up to 20X faster than your old hard drive",
+        "Read/write speeds of up to: 530MB/s/440MBs",
+        "Generous battery life. Cool, quiet operation",
+        "Product dimensions: 2.75 x 3.96 x 0.28 inches"
+    ],
+    "description": "SanDisk SSD PLUS 240GB Solid State Drive - SDSSDA-240G-G26",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 390.0,
+        "width": 20.0,
+        "height": 270.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41s38USpyiL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/312neKmr0jL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41qIDS2iFjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31dLX-GSOoL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31qJ9rHDrdL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Capacity:",
+            "value": "240 GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "1292116011",
+            "title": "Internal Solid State Drives"
+        }
+    ],
+    "similar": [
+        "B077SQ8J1V",
+        "B079D3DBNM",
+        "B01LY5ZZ4P",
+        "B071KGRXRG",
+        "B01MRW2K7E",
+        "B01N6JQS8C",
+        "B0781VSXBP",
+        "B076XW19JQ",
+        "B01MRW2K79",
+        "B01F9G46Q8",
+        "B00E3W1726",
+        "B01F31UR7G",
+        "B078SNST4W",
+        "B016498CK0",
+        "B07C7NWGVX",
+        "B07FNB7L8F",
+        "B073SBZ8YH",
+        "B0088PUEPK",
+        "B078STRHBX",
+        "B07621PNWC",
+        "B076Q4PC4Y",
+        "B0798WLXGD",
+        "B00ESW9SWC",
+        "B07864WMK8",
+        "B01F9G414U",
+        "B00OAJ412U",
+        "B079GT8252",
+        "B073SB2MXW",
+        "B009GUXU52",
+        "B004CCS266",
+        "B07G3KRZBX",
+        "B071KGRXRH",
+        "B0784SLQM6",
+        "B01LA4CP5M",
+        "B07D998212"
+    ],
+    "rating": "4.5"
+}

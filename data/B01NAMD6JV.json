@@ -1,0 +1,104 @@
+{
+    "asin": "B01NAMD6JV",
+    "title": "CamelBak Chute .75L Water Bottle",
+    "brand": "CamelBak",
+    "feature": [
+        "Hard plastic is 100% free of BPA and bps, and stands up to frequent use around town and on the trail",
+        "Spout cap snaps into the handle to prevent it from getting in the way when drinking; tether securely attaches the cap to the bottle for easy filling",
+        "Cap unscrews in just half a turn for quick access to your water",
+        "All parts of the chute bottle are top-rack dishwasher safe",
+        "CamelBak Got your Bak guarantee: if we built it, we'll Bak it with our lifetime guarantee"
+    ],
+    "description": "The new Chute.75L water bottle is designed for hydration on demand, whether you're in the backcountry or sitting at your desk. The ergonomic high-flow spout is angled and contoured for efficient, full-on hydration. The leak-proof, tethered cap twists off with just half a turn and conveniently snaps into the handle so it's out of the way when you're drinking. We even put the threads for the cap on the inside of the spout so you get a comfortable lip seal. And the one-piece tether is twice as clever as any you'll see on the market. It keeps the top locked out of your way for one-handed refills on the go.",
+    "price": 1300.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 1040.0,
+        "width": 400.0,
+        "height": 350.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41zD2GTHyiL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "10971181011",
+            "title": "Sports & Fitness"
+        },
+        {
+            "node": "3394801",
+            "title": "Accessories"
+        },
+        {
+            "node": "3395091",
+            "title": "Sports Water Bottles"
+        }
+    ],
+    "similar": [
+        "B07CBKNWZB",
+        "B01N0U1ABP",
+        "B077M2Q5QB",
+        "B07DJ7JSKK",
+        "B01N8Q2ZKJ",
+        "B01AL6XISS",
+        "B01DQ7HKL0",
+        "B07BBR8WK5",
+        "B015DJC0EG",
+        "B01N1VJ6H0",
+        "B00EPGMN1E",
+        "B07FZ8XBLK",
+        "1946906344",
+        "B07GZJG93D",
+        "B0795WP4VC",
+        "B07FZB48BX",
+        "B015DJC1LS",
+        "B00EPGMF44",
+        "B014VWQU74",
+        "B07G124QYP",
+        "B01MT2931W",
+        "1946906395",
+        "B01N45NNCL",
+        "B00EPGMDUU",
+        "B07663TZNT",
+        "B015DJBXQC",
+        "B015DJC816",
+        "B015DJBZHY",
+        "B01CPQEHQE",
+        "B015DJBRRM",
+        "B07CNQC7MM",
+        "B01G7SQBPQ",
+        "B077NL73N6",
+        "B00EPGMLXE",
+        "B015DK90LG",
+        "B015DJBYHK",
+        "B06XC3R2MX",
+        "B01F4SV43Y",
+        "B00J4VCY5A",
+        "B015DJC71C",
+        "B076ZYN92Q",
+        "B07BGC5SMM",
+        "B015DK02GS",
+        "B01787PDVI",
+        "B00EPGMJ36",
+        "B077M99ZX3",
+        "B00O0UV49W",
+        "B0787XWHCV",
+        "B00J4VCYYG",
+        "1946906352",
+        "B01MT2976V",
+        "B00EPGMHU6"
+    ],
+    "rating": "4.3"
+}

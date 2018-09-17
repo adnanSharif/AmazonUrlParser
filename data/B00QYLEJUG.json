@@ -1,0 +1,82 @@
+{
+    "asin": "B00QYLEJUG",
+    "title": "Arnold N-Scale Chicago Burlington Road #561 () Playset",
+    "brand": "Arnold",
+    "feature": [
+        "Heavy metal die-cast chassis / 5 pole can motor with flywheels",
+        "State-of-the-Art power pickup",
+        "Locomotives will have road specific detailing",
+        "Detail parts: horns, bell, handrails, grab irons and snowplows (if applicable)",
+        "DCC Ready configuration to accept standard NMRA 6 pin decoder"
+    ],
+    "description": "The new model of the U25C has been licensed by and developed with full co-operation of the Transportation Division of General Electric. Multiple roadnames and roadnumbers will be available for the new model and will incorporate all new state-of-the art tooling.",
+    "price": 5999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": 500.0,
+        "width": 80.0,
+        "height": 120.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Ub9nYRI2L._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "1"
+        },
+        {
+            "name": "Product Packaging:",
+            "value": "561"
+        }
+    ],
+    "categories": [
+        {
+            "node": "165793011",
+            "title": "Toys & Games"
+        },
+        {
+            "node": "276729011",
+            "title": "Hobbies"
+        },
+        {
+            "node": "276745011",
+            "title": "Trains & Accessories"
+        },
+        {
+            "node": "3243184011",
+            "title": "Train Cars"
+        },
+        {
+            "node": "3243186011",
+            "title": "Locomotives"
+        }
+    ],
+    "similar": [
+        "B00QYLER26",
+        "B074D8PZ6F",
+        "B016MV1OWI",
+        "B07DW5N1F6",
+        "B018E6V00U",
+        "B001CSNZR4",
+        "B0006KSNLC",
+        "B01C35QC4W",
+        "B00QYLEJOM",
+        "B01N3TZF10",
+        "B01C35QI5A",
+        "B00QYLEJX8",
+        "B00QYLEQYA",
+        "0890247935",
+        "B00QYLEK6E",
+        "B078YDNDXQ",
+        "B0000CGB5U",
+        "B01C35QI78",
+        "B076KWS1X9",
+        "B075163BFL",
+        "B078Y3K3RY",
+        "B007UY2D72"
+    ],
+    "rating": "3.4"
+}

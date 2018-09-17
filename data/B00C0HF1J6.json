@@ -1,0 +1,73 @@
+{
+    "asin": "B00C0HF1J6",
+    "title": "Mogador Argan Oil Certified Organic 100% Pure Argan Oil, 4 fl. oz (120 ml)",
+    "brand": "Mogador Argan Oil",
+    "feature": null,
+    "description": "Mogador Argan Oil is 100% pure certified organic skin care and hair treatment product. Our Moroccan partner Feminine Coop is certified by ECOCERT and is widely recognized as the best argan oil producer. Mogador Argan Oil is cosmetic grade with no solvents used during the extraction. It is not deodorized. Under the supervision of our company's chemist, Mogador is imported according to a rigorous quality assurance plan, thus ensuring maximum freshness and batch consistency. Mogador Argan oil is a multi-purpose organic skincare product that is effective in treating acne, psoriasis, eczema, and cold sores, as well as for deep scarring and burns. Mogador is super rich in anti-aging antioxidants and vitamin E. These components make the skin refined, radiant and diminish the appearance of wrinkles. Mogador is rich in Omega-6 and Omega-9, two essential fatty acids for creating prostaglandin, a natural anti-inflammatory, which reduces pain, swelling and inflammation. Mogador is the perfect massage oil to relax tired, tense muscles by stimulating blood circulation. Mogador can also be applied as a nourishing hair-conditioning mask, restoring the natural softness and shine of your hair, relieving dry scalps. Used as a nail treatment, Mogador Argan oil fortifies dry, brittle nails.",
+    "price": 3495.0000000000005,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 50.0,
+        "length": 80.0,
+        "width": 400.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41GmJEJML3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/419lNtQ1QhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31wrdMIektL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11060661",
+            "title": "Moisturizers"
+        },
+        {
+            "node": "11060691",
+            "title": "Oils"
+        }
+    ],
+    "similar": [
+        "B004S2FY7K",
+        "B00ES3V8OC",
+        "B00ZBBZP9O",
+        "B07GX9NQ5L",
+        "B00K8C4L14",
+        "B01N24P4YY",
+        "B004S2G4FG",
+        "B0186UX2UK",
+        "B06XS8P5VP",
+        "B010GGOZCG",
+        "B01LYVMKHM",
+        "B00HVFIUAE",
+        "B004SR5VM8",
+        "B001E5EC72",
+        "B004DTQ9L8",
+        "B01MR4A0AU",
+        "B01LM282RW",
+        "B0798T7XK9",
+        "B00R43QAJ6",
+        "B001DKOVO2",
+        "B004Z209HS",
+        "B076VTHJZ5",
+        "B07F753PR7",
+        "B01A19HK2A",
+        "B00D3M0CRS",
+        "B00HE07L9W"
+    ],
+    "rating": "4.1"
+}

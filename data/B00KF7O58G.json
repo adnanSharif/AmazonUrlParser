@@ -1,0 +1,83 @@
+{
+    "asin": "B00KF7O58G",
+    "title": "Noctua SSO Bearing Fan Retail Cooling NF-P14s redux-1500 PWM",
+    "brand": "noctua",
+    "feature": [
+        "The square 140mm frame of the NF-P14s features standard 140mm mounting holes (124.5mm spacing), which makes it a premium grade replacement for common 140mm case fans and perfect for use on 140mm water cooling radiators",
+        "Specifically developed for high-impedance applications such as CPU coolers, water-cooling radiators or cases with tight fan grills, the NF-P14's nine-blade impeller provides outstanding pressure and airflow performance.",
+        "Noctua's signature Vortex-Control Notches split up trailing edge vortices and thus spread the fan's noise emission over a wider range of frequencies. This measure makes the fan sound more pleasant to the human ear.",
+        "Supporting fully automatic speed control via PWM, the fan uses Noctua's custom designed NE-FD1 PWM IC that integrates Smooth Commutation Drive (SCD) tech. SCD suppresses PWM switching noises and thus makes the fan quieter at lower speeds."
+    ],
+    "description": "Now available in a square frame version called NF-P14s (s for square frame) that lends itself to use in case and radiator cooling, the classic NF-P14 is a long-standing favorite among enthusiast users around the world and helped to found Noctuid's reputation as a top-tier manufacturer of premium quality quiet cooling components. The new redox edition reissues this award-winning model in a streamlined, accessibly priced package that has been reduced to the essential core: the NF-P14 premium fan. Its industry grade SSO bearing, over 150.000 hours MTBF rating and full 6 years manufacturer's warranty make the NF-P14 redox a proven premium choice that provides trusted Noctuid quality at an attractive price point. The performance-oriented top speed of the 1500rpm PWM version is ideal for high efficiency case, radiator and CPU cooling as well as other applications that require both extended performance headroom and PWM for automatic speed control.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 65.0,
+        "length": 550.0,
+        "width": 550.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41vszXdUUEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JfGNDOt4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51MFhiLdB6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41AbN83iAPL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41TV3CZateL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41iizOXFnFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41hwz75T%2B7L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012290011",
+            "title": "Fans & Cooling"
+        },
+        {
+            "node": "11036281",
+            "title": "CPU Cooling Fans"
+        }
+    ],
+    "similar": [
+        "B01N0XQ7XC",
+        "B00KF7PPY4",
+        "B00KFCR0PQ",
+        "B00N1Y4D32",
+        "B00KF7QO2G",
+        "B00KG8K5CY",
+        "B07DK71GBC",
+        "B0745N6CMF",
+        "B00CP6QLY6",
+        "B00KF7Q4WG",
+        "B07CG2PGY6",
+        "B07175CYWL",
+        "B01LEP516M",
+        "B07BXYWJ9K",
+        "B07655KF5C",
+        "B00KF7NGUE",
+        "B07GQ4PGDK",
+        "B018SOU3UG",
+        "B076LXGCYN",
+        "B00KF7OMTI",
+        "B00DP9WRZY",
+        "B07C3P5QJ2",
+        "B07CG2PGVG"
+    ],
+    "rating": "4.5"
+}

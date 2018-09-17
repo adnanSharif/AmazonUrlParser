@@ -1,0 +1,76 @@
+{
+    "asin": "B000VIX9NQ",
+    "title": "RUSK Designer Collection Str8 Anti-Frizz and Curl Lotion",
+    "brand": "RUSK",
+    "feature": null,
+    "description": "Transform frizzy, curly or unruly hair and tame it into smooth, straight, obedient style with this light, greaseless styling lotion. Rusk straight anti-frizz and anti-curl lotion temporarily removes curl, eliminates frizz, blocks humidity for up to 24 hours and becomes invisible in the hair. RUSK is one of the premier salon brands in the world",
+    "price": 1450.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 200.0,
+        "width": 200.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31gB0ETaa-L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41-4xl5HjyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/516vnRDXLgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31VETdkqFiL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11057841",
+            "title": "Styling Products"
+        },
+        {
+            "node": "11057871",
+            "title": "Gels"
+        }
+    ],
+    "similar": [
+        "B005EMSRDG",
+        "B07C2T7ZXX",
+        "B0007CXYN6",
+        "B01DPZ9UHA",
+        "B000H0U77O",
+        "B003LRG1VG",
+        "B00D1YFICC",
+        "B002RS6JPI",
+        "B0746VVWX5",
+        "B07FNBKHBB",
+        "B01GOW023M",
+        "B075K2RX6J",
+        "B00WKR4HRI",
+        "B07F7WS8JG",
+        "B07BN8WTL6",
+        "B01JF90JFW",
+        "B00570DA1Y",
+        "B00AO4E9DG",
+        "B002I9LJ74",
+        "B0017RD0KW",
+        "B06XGXP9RP",
+        "B075KNZ4M9",
+        "B07F7GKGH5",
+        "B001NJGARY",
+        "B00390FH5G",
+        "B000H88QOM",
+        "B07C1Q3CQX",
+        "B00WKR4XKE",
+        "B06XSVMZMH",
+        "B0746W5MB8",
+        "B0018DP2JW",
+        "B00WKR49B2"
+    ],
+    "rating": "4.2"
+}

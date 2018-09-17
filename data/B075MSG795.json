@@ -1,0 +1,103 @@
+{
+    "asin": "B075MSG795",
+    "title": "Blue Microphones Yeti USB Microphone (Teal)",
+    "brand": "Blue",
+    "feature": [
+        "Tri-capsule array - 3 condenser capsules can record almost any situation",
+        "Multiple pattern selection - cardioid, bidirectional, omnidirectional & stereo",
+        "Gain control, mute button, zero-latency headphone output",
+        "Perfect for vocals, musical instruments, podcasting, voiceovers, interviews, field recordings, conference calls",
+        "Compatible with Windows 10, Windows 8 (including 8.1), Windows 7, Windows Vista, Windows XP (Home and Professional), and Mac OS X (10.4.11 or higher), and requires a minimum of 64 MB of RAM(remove existing and upload)"
+    ],
+    "description": "Create unparalleled recordings with your computer using Blue's best-selling Yeti family of USB microphones. Thanks to tri-capsule technology, Yeti microphones produce pristine, studio-quality recordings with legendary ease. And four different pattern settings offer incredible flexibility so you can record vocals, music, podcasts, audio for video, interviews, or even cryptozoology lectures in ways that would normally require multiple mics. Whether you're recording at home, on the road, or in the Himalayas, Yeti helps you produce studio-quality recordings every time.Blue Microphones tri-capsule technology gives you four distinct pattern modes to choose from:Yeti features studio controls for headphone volume, pattern selection, instant mute and microphone gain - putting you in charge of every level of the recording process. If you\u2019re experiencing distortion or feedback while recording an especially loud source, simply adjust the mic's sensitivity with the gain control. Or if you want to take a break in the middle of a podcast, use the instant mute button.",
+    "price": 12900.0,
+    "listPrice": 19900.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 370.0,
+        "length": 100.0,
+        "width": 100.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41-H14-AYDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41%2BL%2B8XkwSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41BQrinhnRL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ue-kPZlwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ZeuCQmGwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51DtCg567%2BL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "style:",
+            "value": "1"
+        },
+        {
+            "name": "Color:",
+            "value": "USB Microphone"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "502394",
+            "title": "Camera & Photo"
+        },
+        {
+            "node": "172435",
+            "title": "Accessories"
+        }
+    ],
+    "similar": [
+        "B01MSQFIRE",
+        "B072PR6W8P",
+        "B00HBN6T1I",
+        "B078MHS3SC",
+        "B07CYCK39B",
+        "B0747X8QZH",
+        "B00TREF98S",
+        "B0176NRE1G",
+        "B075CSHLYH",
+        "B01N1IC2HX",
+        "B06Y2VP3C7",
+        "B0722Z52B7",
+        "B06XC9RMDV",
+        "B008AOH1O6",
+        "B0776S87YL",
+        "B07CY5HS72",
+        "B07B4PR2GD",
+        "B078VBSDCX",
+        "B01LY6Z2M6",
+        "B01H3DXTG8",
+        "B0170NWLWY",
+        "B079VVRV57",
+        "B07F1BJYQG",
+        "B0793DK4XF",
+        "B06XX8NCKF",
+        "B078RX5LKF",
+        "B07G85VNS1",
+        "B00F9X34XS",
+        "B01HOYG0LW",
+        "B01LXOJZJ9",
+        "B01L3LL95O",
+        "B002VA464S",
+        "B000JRPYGE",
+        "B017PH9682",
+        "B0791Y51BK",
+        "B014PYGYRE",
+        "B079F7C5D1",
+        "B075Z446PZ",
+        "B0763D2FFR",
+        "B01M3OGB3G",
+        "B01M8FJZMA",
+        "B072TPRZYV",
+        "B01L5XI86I",
+        "B00N1YPXW2",
+        "B01MDJ3KB3",
+        "B008F4USMS"
+    ],
+    "rating": "4.3"
+}

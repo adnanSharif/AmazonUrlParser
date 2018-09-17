@@ -1,0 +1,76 @@
+{
+    "asin": "B075VM9N96",
+    "title": "Samyang Extra Spicy Roasted Chicken Ramen 5 Pack",
+    "brand": "Samyang",
+    "feature": null,
+    "description": "these are super spicy noodle,make sure you can eat when you buy.",
+    "price": 810.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 160.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/615Qd0%2BL57L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61vukHVghYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ZLR28MoWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51TO2FYwooL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61rOYYt-LXL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "16319621",
+            "title": "Soups, Stocks & Broths"
+        },
+        {
+            "node": "6464981011",
+            "title": "Asian Noodle Soups"
+        }
+    ],
+    "similar": [
+        "B07GC83FWP",
+        "B00SOFG5Q6",
+        "B01DWNSAOO",
+        "B079WLKGF2",
+        "B078SYY21S",
+        "B0772Q397V",
+        "B0777DWD7L",
+        "B00778B90S",
+        "B07D3JWV23",
+        "B07DMQYM9C",
+        "B004L9249G",
+        "B07BH52XWL",
+        "B07FNW8JKX",
+        "B01ND0IGTT",
+        "B07G4J89V3",
+        "B07DMNWRXG",
+        "B073SP57L8",
+        "B079HB4WMQ",
+        "B075MP1YDN",
+        "B00ICT6ARS",
+        "B06XW3413R",
+        "B00GE1XKHY",
+        "B06XWJ2M1R",
+        "B00MCGCDKA",
+        "B001AY9GVO",
+        "B077FG8W9Z",
+        "B07B75Q18L",
+        "B005ECO3H0",
+        "B079HVMBFB",
+        "B07DP2W9WP",
+        "B07F4D1Z51",
+        "B01IU3OPMC",
+        "B07DMQ2XL7",
+        "B07CW9B67R",
+        "B07DMPL5VL"
+    ],
+    "rating": "4.3"
+}

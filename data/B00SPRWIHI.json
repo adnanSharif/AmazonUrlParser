@@ -1,0 +1,75 @@
+{
+    "asin": "B00SPRWIHI",
+    "title": "NOW Foods Calcium Citrate 100% Pure, Powder 8 oz",
+    "brand": "NOW Foods",
+    "feature": null,
+    "description": "Is Now Foods 100% pure Calcium Citrate right for you? Calcium Citrate is an optimal calcium supplement formulated to exacting specifications. Our calcium is complexed with citric acid for enhanced solubility and has no other ingredients. Calcium is a mineral that is found naturally in foods. Calcium is necessary for many normal functions of your body, especially bone formation and maintenance. Calcium can also bind to other minerals (such as phosphate) and aid in their removal from the body.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 65.0,
+        "length": 310.0,
+        "width": 310.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41-OOIJlxoL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774271",
+            "title": "Minerals"
+        },
+        {
+            "node": "3774291",
+            "title": "Calcium"
+        },
+        {
+            "node": "6939224011",
+            "title": "Calcium Citrate"
+        }
+    ],
+    "similar": [
+        "B004189JCW",
+        "B00F8I5XPG",
+        "B06XTYYK4J",
+        "B00F8I5XOW",
+        "B00GBBYDQE",
+        "B01G5EQCJM",
+        "B071183M28",
+        "B0040J0Q92",
+        "B07C5977YC",
+        "B00NRQDT70",
+        "B001IY03L8",
+        "B00GI1UZJ6",
+        "B00024D786",
+        "B001LRPUMY",
+        "B00012NJIC",
+        "B0043ZLTT4",
+        "B0748K8CHF",
+        "B01MXIO908",
+        "B001F0R7XM",
+        "B0006ZF9NC",
+        "B01JETYF9Y",
+        "B01LMOIBDU",
+        "B06XTXB5RL",
+        "B0002PU648",
+        "B00172XUWU",
+        "B07BF62WMX",
+        "B0013OQJ66",
+        "B004L4EJQ2",
+        "B01CO8M95E",
+        "B00SJKPBNY"
+    ],
+    "rating": "4.3"
+}

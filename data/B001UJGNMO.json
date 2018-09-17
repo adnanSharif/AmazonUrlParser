@@ -1,0 +1,88 @@
+{
+    "asin": "B001UJGNMO",
+    "title": "Monoprice 104760 3-Feet Premier Series XLR Male to 1/4-Inch TRS Male 16AWG Cable",
+    "brand": "Monoprice",
+    "feature": [
+        "Monoprice's line of Professional Audio cables brings you high performance cables at rock bottom prices",
+        "Balanced audio cables utilize impedance balanced lines that reduce EM and RF noise and extend the effective range of the cable run",
+        "They have a separate braided shield to provide additional resistance to interference without modulating the interference into the signal"
+    ],
+    "description": "Monoprice's line of Professional Audio cables brings you high performance cables at rock bottom prices. . Whether you're connecting broadcast equipment instruments for your band or your high end entertainment system Monoprice has the interconnect cables for you. Balanced audio cables utilize impedance balanced lines that reduce EM and RF noise and extend the effective range of the cable run. Additionally unlike standard unbalanced RCA interconnects that utilizes their braid as a signal return balanced cables have a separate braided shield to provide additional resistance to interference without modulating the interference into the signal. This prevents ground loop issues. XLR to 1/4\" TRS balanced pro audio cables provide high fidelity and eliminate noise in the recording studio and on the stage. Our new Premier Series cables up the ante in terms of construction quality and performance.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 31.25,
+        "length": 570.0,
+        "width": 480.0,
+        "height": 120.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Ievj9hEVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31kocoaC3tL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "Premier Series"
+        },
+        {
+            "name": "Length:",
+            "value": "3ft"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "405757011",
+            "title": "Live Sound & Stage"
+        },
+        {
+            "node": "11973391",
+            "title": "Stage & Studio Cables"
+        },
+        {
+            "node": "11973421",
+            "title": "Microphone Cables"
+        }
+    ],
+    "similar": [
+        "B01JY29YZ6",
+        "B0037MTJD2",
+        "B01JNLUA5G",
+        "B06XB23FGR",
+        "B01JNLTTKS",
+        "B01J33CE5S",
+        "B001L2CJDM",
+        "B00KO8VY4O",
+        "B001UJELJ6",
+        "B001UJCJ6I",
+        "B001UJEKZ6",
+        "B001UJIYIK",
+        "B00CTWOY36",
+        "B001VO8286",
+        "B078KCZMLH",
+        "B00GJ3PCM8",
+        "B01JY2BDAU",
+        "B07DHHG9B3",
+        "B002HQRS32",
+        "B07FXL5RQ7",
+        "B004LWH79A",
+        "B001SBN6BA",
+        "B077L6SKCV",
+        "B001UJK23U",
+        "B001UJCHMO",
+        "B01MAVQR3R",
+        "B001UJCIIM",
+        "B016QVZF06",
+        "B01JY2G5U8",
+        "B00KO8VXKO",
+        "B01JY2FXTC",
+        "B077L3YK13",
+        "B01MS2KGFB"
+    ],
+    "rating": "4.6"
+}

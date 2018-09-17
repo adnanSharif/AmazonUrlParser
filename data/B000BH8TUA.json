@@ -1,0 +1,67 @@
+{
+    "asin": "B000BH8TUA",
+    "title": "Microlife PF 100 Peak Flow Meter for Spirometry with FEV1",
+    "brand": "Microlife",
+    "feature": [
+        "Measures peak flow and FEV1 to indicate early warning signs for impending asthmatic incidents or conditions",
+        "Automatic traffic light indicator",
+        "Doctor recommended",
+        "Meets American Thoracic Society accuracy standards"
+    ],
+    "description": "This device is used to measure Peak Expiratory Flow (PEF) and Forced Expiratory Volume in 1-second (FEV1) in both children and adults. PEF is the fastest speed air can be blown out of the lungs after inhalation. FEV1 measures the volume after exhaling in 1-second. Peak Flow (PEF) and Forced Expiratory Volume in 1-second (FEV1) measurements can tell how well lungs are breathing by monitoring airflow. Doctors can have patients monitor changes in airflow and record the results. The automatic memory stores and provides easy access to the last 240 readings along with the time and date.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 85.0,
+        "length": 750.0,
+        "width": 550.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Y6YG08HGL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31lwzLBo7GL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3760941",
+            "title": "Health Care"
+        },
+        {
+            "node": "8627102011",
+            "title": "Respiratory Aids & Accessories"
+        },
+        {
+            "node": "8627108011",
+            "title": "Peak Flow Meters"
+        }
+    ],
+    "similar": [
+        "B07B655W4C",
+        "B00FE8N7Y4",
+        "B0789G8KTG",
+        "B00JWTRA5I",
+        "B0722K219D",
+        "B000Y02JMI",
+        "B078B426TM",
+        "B003TJH3LI",
+        "B018GTN9L8",
+        "B07CWQ59FL",
+        "B00B9AOKP6",
+        "B07CKW8HZQ",
+        "B07DL8JF8S",
+        "B00R2X59A4",
+        "B01CEHZM9U",
+        "B000UBHA0M",
+        "B073TSY5PY",
+        "B07BLZVWGT",
+        "B072LW24G6",
+        "B07899NFZQ"
+    ],
+    "rating": "3.8"
+}

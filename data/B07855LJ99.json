@@ -1,0 +1,88 @@
+{
+    "asin": "B07855LJ99",
+    "title": "SanDisk 128GB Ultra Fit USB 3.1 Flash Drive - SDCZ430-128G-G46",
+    "brand": "SanDisk",
+    "feature": [
+        "A compact, plug-and-stay, high-speed USB 3.1 flash drive that's ideal for adding more storage to laptops, game consoles, in-car audio and more",
+        "Simple, fast way to add up to 256GB of storage to your device",
+        "Read speeds up to 130MB/s1. Compatibility-USB 3.1 (backward compatible with USB 3.0 and USB 2.0). Operating Temperature-0 degree C to 35 degree C",
+        "Write up to 15X faster than standard USB 2.0 drives1",
+        "Move a full-length movie to the drive in less than 30 seconds"
+    ],
+    "description": "SanDisk 128GB Ultra Fit USB 3.1 Flash Drive",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 4.0,
+        "length": 120.0,
+        "width": 60.0,
+        "height": 20.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/412sFXK8YBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41sRpPKIpzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41A9yiBmqKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41pC4Us8MnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51X2FCnzTZL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "128GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "3151491",
+            "title": "USB Flash Drives"
+        }
+    ],
+    "similar": [
+        "B077XZ2W6F",
+        "B07FH7XJCD",
+        "B07CXP2WV6",
+        "B00TKFCYP0",
+        "B015CH1PJU",
+        "B01N66VDHV",
+        "B0784SLQM6",
+        "B01GK9921C",
+        "B00FJRS73G",
+        "B01MUH9BET",
+        "B00NH13S44",
+        "B00P0GI68M",
+        "B07D7T3F86",
+        "B07857Y17V",
+        "B079DV589Q",
+        "B078989XST",
+        "B077VYCV37",
+        "B013CCTNKU",
+        "B07CWCJP3X",
+        "B071DM71S5",
+        "B01BGTG2A0",
+        "B07F3ZTCXL",
+        "B07BKQ9BVV",
+        "B07C3PTVV3",
+        "B07D7PDLXC",
+        "B06XWZWYVP",
+        "B077Y149DL",
+        "B07F62W3TQ",
+        "B01EZ0X55C",
+        "B0785MC7RQ",
+        "B01E8M24Q8",
+        "B077VXV323"
+    ],
+    "rating": "4.1"
+}

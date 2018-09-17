@@ -1,0 +1,85 @@
+{
+    "asin": "B017NI17HQ",
+    "title": "Garmin Striker 4 with Transducer, 3.5\" GPS Fishfinder with CHIRP Traditional Transducer",
+    "brand": "Garmin",
+    "feature": [
+        "CLEARV\u00dc SCANNING SONAR - Shows you more of what is in the water around your boat. This high-frequency sonar gives near-photographic images with detailed representations of objects, structure and fish.",
+        "THE POWER OF SIMPLE - Offers a keyed interface with dedicated buttons. The device is easy to use and easy to install. Available in 3.5-, 5- and 7-inch display sizes. Water rating IPX7",
+        "WAYPOINT MAP - Use the waypoint map to easily view, mark and navigate to locations such as brush piles, stumps and docks. Maximum depth-1,600 feet freshwater, 750 feet saltwater. Current draw at 12V : 0.23A",
+        "CHIRP SONAR - CHIRP sends a continuous sweep of frequencies which provides a wider range of information. CHIRP sonar is able to create crisper fish arches with better target separation.",
+        "BUILT-IN FLASHER - View your sonar data in the classic flasher format; ideal for ice fishing or vertical jigging.Display size: 1.9 x 2.9 inches (4.9 x 7.3 cm); 3.5 inches diagonal (8.7 cm)"
+    ],
+    "description": "Following in the success of the STRIKER fishfinder series, Garmin is proud to announce the new STRIKER fishfinders with ClearV\u00fc technology. These devices are designed to allow you to mark your favorite fishing spot and easily navigate back to it tomorrow, saving you time and money. STRIKER series fishfinders are available in 3.5-, 5- and 7-inch display sizes.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 235.0,
+        "length": 360.0,
+        "width": 160.0,
+        "height": 590.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41f2ftaBVuL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Nkh23xPtL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41RFPjFCgXL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ATXG2eoTL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41McETmEU6L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41DYbSATRKL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "3248684011",
+            "title": "Car & Vehicle Electronics"
+        },
+        {
+            "node": "319574011",
+            "title": "Marine Electronics"
+        },
+        {
+            "node": "551460",
+            "title": "Fish Finders & Depth Finders"
+        }
+    ],
+    "similar": [
+        "B01M9CEC6G",
+        "B079L87WNC",
+        "B01MA58CSP",
+        "B076W865Z4",
+        "B00TQLSNXU",
+        "B00MH4QI26",
+        "B013DZJDWE",
+        "B006LO9XHA",
+        "B01MAY1C29",
+        "B017NI1IJI",
+        "B00FPQZ95K",
+        "B06XCRZZTW",
+        "B00F3ZO6HU",
+        "B00EWCUK98",
+        "B06X9SY4K9",
+        "B01M2YMPDR",
+        "B076WBHD2T",
+        "B017N313B6",
+        "B077PQ4CQV",
+        "B07CH9FRYS",
+        "B076LXR32Z",
+        "B073J9QWKY",
+        "B073SQYXTW",
+        "B01HGM33HG",
+        "B077JFK5YH",
+        "B017T84PM4",
+        "B07561PLML",
+        "B076W2N5TH",
+        "B017N31870",
+        "B077PQ134T",
+        "B076W9JSK1",
+        "B074MQZC8T",
+        "B019T4RBQ8"
+    ],
+    "rating": "4.4"
+}

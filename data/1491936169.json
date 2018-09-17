@@ -1,0 +1,27 @@
+{
+    "asin": "1491936169",
+    "title": "Kafka: The Definitive Guide: Real-Time Data and Stream Processing at Scale",
+    "brand": "Neha Narkhede and 2 more",
+    "feature": null,
+    "description": "Every enterprise application creates data, whether it\u2019s log messages, metrics, user activity, outgoing messages, or something else. And how to move all of this data becomes nearly as important as the ...",
+    "price": null,
+    "listPrice": 3999.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 101.0,
+        "length": 700.0,
+        "width": 70.0,
+        "height": 919.9999999999999
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "1449373321",
+        "1491950358",
+        "1491912219",
+        "1491933666",
+        "1449361307"
+    ],
+    "rating": null
+}

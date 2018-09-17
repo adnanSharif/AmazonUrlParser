@@ -1,0 +1,103 @@
+{
+    "asin": "B001CH33F4",
+    "title": "iBungee Stretch Laces",
+    "brand": "SpeedLaces",
+    "feature": [
+        "0.5\" high",
+        "3.5\" wide",
+        "Made In The USA laces eliminate tying",
+        "Quickly put on and take of shoes",
+        "Provides superior shoe comfort by evenly distributing laces tension",
+        "Helps achieve a perfect shoe fit",
+        "Each pack comes with 2 laces and 2 lace locks, enough for one pair of shoes!"
+    ],
+    "description": "Originally developed for runners and triathletes, iBungee laces are designed for more than just putting shoes on and taking them off quickly. iBungee laces are manufactured using an elastic material that allows them to flex with the foot, resulting in a shoe that fits more uniformly. iBungee laces are a much different concept than standard laces, which don't flex. Runners and athletes using standard laces often report foot numbness, or a feeling of the shoe slipping that can result in blistering, but these problems can be eliminated with the iBungee Stretch Laces. The iBungee Stretch Laces include a Race-Lock fastening system that allow tension on the shoes to be quickly adjusted, almost instantly. For triathletes, this saves time when transitioning into the shoes. Ultra marathon and marathon runners finally have an answer to manage foot swell that occurs naturally during distance runs. With standard laces, when foot swell occurs, the foot begins to press on the shoe and can become a painful situation requiring tying and retying of laces, costing time. With iBungee stretch laces, the elastic material provides greater flex to the shoe and is more accommodating to foot swell than standard laces. Should tension need to be adjusted, the race locks provide quick re-tensioning. Each iBungee set comes with one pair (2 laces) and two Race-Lock fasteners. It's no wonder that iBungee stretch laces are a favorite of professional athletes, the elderly, and young kids. With iBungee stretch laces, you'll never tie shoes again. Quick on, Quick off, and Quick Adjust. It's that simple!",
+    "price": 595.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 4.0,
+        "length": 500.0,
+        "width": 350.0,
+        "height": 50.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/518dCYDzywL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/513U3Q9S8TL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41xS7UgpWeL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51A%2BvSLfVJL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vfKrCB1QL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "38-Inch"
+        },
+        {
+            "name": "Color:",
+            "value": "Black Laces with Black Race Lock"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147440011",
+            "title": "Women"
+        },
+        {
+            "node": "679337011",
+            "title": "Shoes"
+        },
+        {
+            "node": "6127771011",
+            "title": "Athletic"
+        }
+    ],
+    "similar": [
+        "B001CGXYF4",
+        "B007DLVLES",
+        "B07GQQBRT2",
+        "B071JXWRT4",
+        "B001CH33JA",
+        "B004Y9Z0G2",
+        "B072JH5DWT",
+        "B07CYPWR6Z",
+        "B01N28TF36",
+        "B007DLVLDY",
+        "B07DHTMDJ7",
+        "B06XGFH1BP",
+        "B001CH33M2",
+        "B072PYMWXJ",
+        "B00GR5ZRF0",
+        "B071CYL8KR",
+        "B07CHMYR3B",
+        "B01DFK6EXS",
+        "B001CH12ES",
+        "B07C79KW7V",
+        "B007DLVLD4",
+        "B001CGW5S6",
+        "B009SG2IA2",
+        "B06XGRY2CS",
+        "B001CH33GI",
+        "B07DLBJN4D",
+        "B01DFK6GRC",
+        "B06XG9DQWW",
+        "B00975EAJ6",
+        "B001CGW5XQ",
+        "B001CGXYHC",
+        "B001CH3598",
+        "B0792V46GT",
+        "B0186Z4YSE",
+        "B01DFKC0R2",
+        "B001CGW5IQ",
+        "B004Y9Z4FO",
+        "B01IFJEVCK",
+        "B00BG3362O",
+        "B01MG8UJ3L",
+        "B00ANR662G"
+    ],
+    "rating": "4.3"
+}

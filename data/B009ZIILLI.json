@@ -1,0 +1,87 @@
+{
+    "asin": "B009ZIILLI",
+    "title": "Plugable USB Bluetooth 4.0 Low Energy Micro Adapter (Windows 10, 8.1, 8, 7, Raspberry Pi, Linux Compatible; Classic Bluetooth, and Stereo Headset Compatible)",
+    "brand": "Plugable",
+    "feature": [
+        "Adds Bluetooth support to Windows 10, 8.1, 8, 7, or Linux PCs that don't already have it. Adds Bluetooth 4.0 (Bluetooth Low Energy) support to Windows 8 and higher.",
+        "Supports Bluetooth speakers, headphones, headsets, keyboards, mice, and more. Extremely compact USB adapter. Safe to leave in for laptop travel. Energy efficient.",
+        "Automatic install through Windows Update in Windows 10 with default Bluetooth stack. Includes Broadcom Bluetooth stack for Windows 8.1, 8 and 7 (available separately for 10). Works with Raspbian and Ubuntu on the Raspberry Pi.",
+        "Does NOT add Bluetooth Low Energy (Bluetooth 4.0) capability to Windows 7 and earlier. Does NOT work in car stereo systems or TVs. Does NOT work with Mac. NOT recommended for employer-provided computers.",
+        "Some audio devices, such as the Bose QuietComfort 35, require downloading specific drivers to function in Windows 7. The Monoprice 8323 is NOT compatible."
+    ],
+    "description": null,
+    "price": 1295.0,
+    "listPrice": 1998.9999999999998,
+    "prime": true,
+    "dimensions": {
+        "weight": 18.0,
+        "length": 80.0,
+        "width": 20.0,
+        "height": 50.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41T8d2YAZ-L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41pSss9VD1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41oWhhiVs7L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41FmlhhufdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41W2Gq1lbnL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "490499011",
+            "title": "Network Adapters"
+        },
+        {
+            "node": "3015437011",
+            "title": "Bluetooth Network Adapters"
+        }
+    ],
+    "similar": [
+        "B01MUYG9O4",
+        "B01NA0JGUM",
+        "B076H6QZRX",
+        "B0774MF5SF",
+        "B0797XKF8D",
+        "B076GY91CM",
+        "B07CVLGBHX",
+        "B07F9RVXV4",
+        "B07G9TSDCG",
+        "B019PJRCPM",
+        "B01LH6RPBW",
+        "B00VWEK4IG",
+        "B01L8LLP2G",
+        "B06XTS21ZH",
+        "B00BX0YKX4",
+        "B07F8LD2LZ",
+        "B07BHG4P13",
+        "B07FJN9TJQ",
+        "B0764GKZ15",
+        "B00EWCUK98",
+        "B07CMDB1LZ",
+        "B076XCMXGV",
+        "B076FP4KQD",
+        "B01M0YLXI9",
+        "B01DWH77GC",
+        "B0773ZPKS2",
+        "B07BBFZF7R",
+        "B0775YF36R",
+        "B013G4C17G",
+        "B00DJ83070",
+        "B01G9U51L2",
+        "B078LZ7C8L"
+    ],
+    "rating": "4.2"
+}

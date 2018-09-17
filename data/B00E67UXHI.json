@@ -1,0 +1,84 @@
+{
+    "asin": "B00E67UXHI",
+    "title": "Sennheiser Culture Series Wideband Headset (SC60-USB-CTRL)",
+    "brand": "Sennheiser",
+    "feature": [
+        "Compatible with global providers - with integrated call control and USB connector",
+        "Sennheiser HD voice clarity - wideband sound for a natural listening experience",
+        "Noise canceling microphone - filters out ambient noise for optimum speech clarity",
+        "High-comfort - large ear pads in a lightweight headset for relaxed wearing",
+        "Dual-sided wearing style - for stereo HD sound reproduction in noisy environments",
+        "Sennheiser HD voice clarity - wideband sound for a natural listening experience",
+        "Noise canceling microphone - filters out ambient noise for optimum speech clarity"
+    ],
+    "description": "The SC 60 USB CTRL is a deployment-friendly, dual-sided headset optimized for Microsoft Lync. Features include noise-canceling microphone and large comfortable ear pads. The SC 60 USB CTRL is designed for users requiring Sennheiser stereo sound and call control when working in a Unified Communications environment.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 31.25,
+        "length": 670.0,
+        "width": 240.0,
+        "height": 950.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41RnPaFu%2BML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31aqGiKxnjL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "11548951011",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "3015405011",
+            "title": "Computer Headsets"
+        }
+    ],
+    "similar": [
+        "B07D62V4HV",
+        "B01KZM6KM4",
+        "B07DW173KT",
+        "B003MRUV9I",
+        "B06XPPWG8F",
+        "B0091F8F7A",
+        "B005HWEYN0",
+        "B006HNQQ66",
+        "B07CYNCHN5",
+        "B075ZMFBW8",
+        "B01L160DLW",
+        "B07DHMFQYK",
+        "B076WSTTY2",
+        "B06XWL72HP",
+        "B001SN8QJ0",
+        "B075X1VL3Y",
+        "B000NH4EI4",
+        "B00D4LBOV6",
+        "B00CCIKJKE",
+        "B01MYYW3UA",
+        "B00E67UV9S",
+        "B071LDMQGB",
+        "B003BO2GE0",
+        "B07H9GNNG9",
+        "B076HPB1HQ",
+        "B006JH8T3S",
+        "B07FT72M3X",
+        "B076PQNW99",
+        "B075NRNZWD",
+        "B072C5QXCZ"
+    ],
+    "rating": "4.3"
+}

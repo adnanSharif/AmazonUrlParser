@@ -1,0 +1,74 @@
+{
+    "asin": "B000ANKXKE",
+    "title": "Armani Code Eau de Toilette Spray for Men, 4.2 Fluid Ounce",
+    "brand": "GIORGIO ARMANI",
+    "feature": null,
+    "description": "Armani Code Eau de Toilette Spray for Men, 4.2 Fluid Ounce",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": 300.0,
+        "width": 300.0,
+        "height": 1200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31-63dTeGnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31qV6n1LUgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vAiFRKKwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31NExJ%2BUsrL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11056591",
+            "title": "Fragrance"
+        },
+        {
+            "node": "11056761",
+            "title": "Men's"
+        },
+        {
+            "node": "363236011",
+            "title": "Eau de Toilette"
+        }
+    ],
+    "similar": [
+        "B014LYHMOM",
+        "B000E7YK5K",
+        "B014G8IYRM",
+        "B01H2BIVDC",
+        "B000NI0V62",
+        "B001FWXHIY",
+        "B00SH46VR2",
+        "B000XE4A22",
+        "B014Q9656I",
+        "B014Q8YMCI",
+        "B009NPOXVK",
+        "B000P22TIY",
+        "B06VX2987K",
+        "B00B4TR3KG",
+        "B00DW10WMK",
+        "B002XQ1YTK",
+        "B000C213ZM",
+        "B017GSOLIU",
+        "B01I407MV2",
+        "B002K4KLMQ",
+        "B002X4WP18",
+        "B07821D2NQ",
+        "B01NB1ZBA1",
+        "B01JFANUXE",
+        "B07GG7BM2S",
+        "B07CVQCZXP",
+        "B000P20U80",
+        "B07BKW6GHJ",
+        "B01BLHR8DC",
+        "B076CR2XLN"
+    ],
+    "rating": "3.9"
+}

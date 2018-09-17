@@ -1,0 +1,75 @@
+{
+    "asin": "B01HDS197Y",
+    "title": "Natural Vitamin C Face Wash - Cleanse, Brighten, Hydrate, Nourish Skin - Anti Aging Skin Cleanser - 8 Ounces - Eve Hansen",
+    "brand": "Eve Hansen",
+    "feature": null,
+    "description": null,
+    "price": 1995.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 65.0,
+        "length": 620.0,
+        "width": 200.0,
+        "height": 200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41IbIsC3mOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51yDfTfKaAL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41WxSIpzlbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41G6mF0pWzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51UI1-Dat%2BL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11060901",
+            "title": "Cleansers"
+        },
+        {
+            "node": "7730193011",
+            "title": "Washes"
+        }
+    ],
+    "similar": [
+        "B00LV5NY3I",
+        "B076P12L98",
+        "B071YM4LFG",
+        "B00FZESMKG",
+        "B01KMSTCWG",
+        "B06XMRPW3G",
+        "B00ZH05VUM",
+        "B01DPY2N02",
+        "B07C755MBH",
+        "B01DPVQDPG",
+        "B0767YMW2X",
+        "B01BI8GR3Q",
+        "B01LWSN8IS",
+        "B01MYGUSUD",
+        "B00SB8KSPA",
+        "B01913CX6U",
+        "B074PGVLDR",
+        "B01N2AZBX9",
+        "B077NM31XT",
+        "B01H4DHUL2",
+        "B01HDUSLQO",
+        "B018WCEIHI",
+        "B0763TCBDW",
+        "B01HDPPXN8",
+        "B00SFNCSWC",
+        "B01MRCBWS5"
+    ],
+    "rating": "4.2"
+}

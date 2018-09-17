@@ -1,0 +1,82 @@
+{
+    "asin": "B01LZHRYL4",
+    "title": "GoPro Supercharger (International Dual-Port Charger) (GoPro Official Accessory)",
+    "brand": "GoPro",
+    "feature": [
+        "The compact design of Supercharger lets you take it everywhere",
+        "The 27.5W Supercharger USB-C port charges fast-charge compatible GoPro devices up to 20 to 70% faster than a conventional charger.",
+        "Supercharger can power your GoPro while recording for extended uses like time lapse capture",
+        "Supercharger comes with AC outlet adapters for US, UK, EU and AU style wall sockets.",
+        "Supports normal charging for all other GoPro devices and works with most devices that can be charged via USB."
+    ],
+    "description": "The fastest way to charge your GoPro, the 27.5W Supercharger (International Dual-Port Charger) lets you charge two GoPro devices simultaneously-anywhere in the world. The USB-C port offers 20 to 70% faster charging on fast-charge compatible devices compared to using a conventional charger. You can also continuously power your GoPro during longer captures. Includes interchangeable AC plugs for US, UK, EU and AU style wall sockets.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 83.75,
+        "length": 100.0,
+        "width": 300.0,
+        "height": 220.00000000000003
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41FJ7uRXXvL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "502394",
+            "title": "Camera & Photo"
+        },
+        {
+            "node": "172435",
+            "title": "Accessories"
+        },
+        {
+            "node": "13535371",
+            "title": "Batteries & Chargers"
+        },
+        {
+            "node": "13535441",
+            "title": "Battery Chargers"
+        },
+        {
+            "node": "11041881",
+            "title": "Camcorder"
+        }
+    ],
+    "similar": [
+        "B07FQ46C61",
+        "B07CK8WTVD",
+        "B074X5WPC5",
+        "B06XWLWH6Y",
+        "B01N5MP640",
+        "B01M8J9ONB",
+        "B00YXJLA0I",
+        "B07C7P4YKQ",
+        "B0755PDKCN",
+        "B07DP3ZWSV",
+        "B07DW1G46Y",
+        "B01N0DVFA7",
+        "B076FS9W7Z",
+        "B076DD5JNS",
+        "B000VZKDYC",
+        "B07F6B9H5M",
+        "B01LWKCIQN",
+        "B074WJ118S",
+        "B01M14ATO0",
+        "B01CTHWTQE",
+        "B0734J76NN",
+        "B01LYIUQPN",
+        "B00NIYJKL0",
+        "B07FMSMCWB",
+        "B07B7YPKQX",
+        "B01LZHRYJS",
+        "B00NIYNU8E"
+    ],
+    "rating": "4.5"
+}

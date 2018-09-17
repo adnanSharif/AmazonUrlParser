@@ -1,0 +1,77 @@
+{
+    "asin": "B01FWHD5QG",
+    "title": "Lincoln Stain Wax Shoe Polish Variety Pack of Browns (Light Brown, Brown, Dark Brown)",
+    "brand": "Lincoln Shoe Polish",
+    "feature": [
+        "Leather",
+        "Three classic brown colors from Lincoln - Light Brown, Brown, and Dark Brown.",
+        "Shines and protects",
+        "Made in USA"
+    ],
+    "description": "The three main brown colors for Lincoln - Light Brown, Brown, and Dark Brown.",
+    "price": 2020.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 70.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51vw8W3EgeL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5145qDFJZsL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51QFOYef0CL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51zpyupJiLL._US40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7586146011",
+            "title": "Shoe, Jewelry & Watch Accessories"
+        },
+        {
+            "node": "9616100011",
+            "title": "Shoe Care & Accessories"
+        },
+        {
+            "node": "3421046011",
+            "title": "Polishes & Dyes"
+        }
+    ],
+    "similar": [
+        "B00SZBJPIE",
+        "B07BN1W6SR",
+        "B07587QP5G",
+        "B00B94QJVK",
+        "B0773CKHFP",
+        "B076J63B7R",
+        "B002PLC60Y",
+        "B009JVVGD6",
+        "B003UNDWKY",
+        "B005MV99L8",
+        "B004X6SMUW",
+        "B01DPY5F20",
+        "B000MLBCWM",
+        "B000MLDC3O",
+        "B01G7QYE6G",
+        "B009JVVYZ6",
+        "B0714JB91Z",
+        "B005MUWUB0",
+        "B071ZDJYHD",
+        "B07CL8NQ8D",
+        "B07BQBYCS4",
+        "B004RPOFWI",
+        "B0063KAT3Y",
+        "B07731MQVV",
+        "B001ECZOKY",
+        "B07DCLL3SZ",
+        "B00UY2KLGC",
+        "B074F2NQYY"
+    ],
+    "rating": "4.7"
+}

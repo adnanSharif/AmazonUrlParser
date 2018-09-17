@@ -1,0 +1,93 @@
+{
+    "asin": "B006UETC18",
+    "title": "Maybelline New York Dream Bouncy Blush, Rose Petal, 0.19 Ounce",
+    "brand": "Maybelline New York",
+    "feature": null,
+    "description": "Dream bouncy blush's unique bouncy texture gives you the freshest flush ever the revolutionary powder-gel formula is lightweight like a powder, yet it melts seamlessly into skin like a cream, for a sheer wash of bouncy fresh color that lasts. By Maybelline",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 70.0,
+        "width": 200.0,
+        "height": 200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/418fmo3CFeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51DCcm1gvHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/512jfY40gzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51gnzg71jVL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11058281",
+            "title": "Makeup"
+        },
+        {
+            "node": "11058691",
+            "title": "Face"
+        },
+        {
+            "node": "11058711",
+            "title": "Blush"
+        }
+    ],
+    "similar": [
+        "B06XJ72XHF",
+        "B008C13146",
+        "B0000531H5",
+        "B006UETEP2",
+        "B077NJH7LQ",
+        "B00HRMPF7M",
+        "B001KYTWG8",
+        "B000IEMGGE",
+        "B01NCNHGNQ",
+        "B00TGF8H5U",
+        "B06XDYKJDJ",
+        "B006UETCDG",
+        "B00TGF3WRS",
+        "B07CQ6FTJB",
+        "B006UETCLS",
+        "B006UETDR6",
+        "B00EMAM9BC",
+        "B000BNG4VU",
+        "B001H9A2AG",
+        "B000P6WIHM",
+        "B00HE23ZZE",
+        "B01ACPVW3G",
+        "B00H3R6K3Y",
+        "B00THGVILI",
+        "B006UETEFC",
+        "B006UETDGC",
+        "B006UET4XE",
+        "B00IZNYSZM",
+        "B07BHB59RT",
+        "B003RD4ZE4",
+        "B00HE0ZVGW",
+        "B00TGG7TY4",
+        "B01DPVVA4U",
+        "B00L2R3962",
+        "B006UETCW2",
+        "B01KI40GCE",
+        "B003BMLJNQ",
+        "B00H56KCUU",
+        "B006UETD7G",
+        "B0094GHKFE",
+        "B006UETE5C",
+        "B001KYVP4K",
+        "B07B6X43G4",
+        "B018B8Q66O",
+        "B004Y9GY44",
+        "B00JE97DEY",
+        "B00GOW0KIA",
+        "B003I6O5RC",
+        "B004CN5SOE"
+    ],
+    "rating": "3.5"
+}

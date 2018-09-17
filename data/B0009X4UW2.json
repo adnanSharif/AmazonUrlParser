@@ -1,0 +1,51 @@
+{
+    "asin": "B0009X4UW2",
+    "title": "The Joshua Tree",
+    "brand": "U2 Format: Audio Cassette",
+    "feature": null,
+    "description": "U2-The Joshua Tree (1987 Island Records Inc. CassetteTape)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51UCls8vP4L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "5174",
+            "title": "CDs & Vinyl"
+        },
+        {
+            "node": "40",
+            "title": "Rock"
+        }
+    ],
+    "similar": [
+        "B06XH1ZJHT",
+        "B07DKSPGX5",
+        "B000001FA5",
+        "B002J8LVO0",
+        "B0013LPS8E",
+        "B00Q5F3AN8",
+        "B01F2MFH6M",
+        "B000001F3D",
+        "B076MB76N1",
+        "B07D9G5VV2",
+        "B07D58QQ7Q",
+        "B000001FS5",
+        "B000WS4PCO",
+        "B01AEEBB2W",
+        "B01M8KEOT3",
+        "B001NB5BA4",
+        "B06XH5Y4QV",
+        "B071HJ41VR"
+    ],
+    "rating": "4.7"
+}

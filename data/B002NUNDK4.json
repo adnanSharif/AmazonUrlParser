@@ -1,0 +1,75 @@
+{
+    "asin": "B002NUNDK4",
+    "title": "Citracal Maximum, Highly Soluble, Easily Digested, 630 mg Calcium Citrate With 500 IU Vitamin D3, Bone Health Supplement for Adults, Caplets, 120 Count",
+    "brand": "Citracal",
+    "feature": null,
+    "description": "Citracal calcium supplement + D3 maximum calcium citrate can be taken with or without food",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 55.00000000000001,
+        "length": 250.0,
+        "width": 250.0,
+        "height": 480.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41pwhwnoyPL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6936790011",
+            "title": "Vitamins"
+        },
+        {
+            "node": "3774781",
+            "title": "Vitamin D"
+        },
+        {
+            "node": "6936848011",
+            "title": "D3"
+        }
+    ],
+    "similar": [
+        "B002FH5I0I",
+        "B009SZXM4E",
+        "B0055XUEIK",
+        "B0013TMWIK",
+        "B0043ZLTT4",
+        "B0043OOSYS",
+        "B0040J0Q92",
+        "B004L4EJQ2",
+        "B00JA4TOH2",
+        "B00N1B8EQW",
+        "B079C799K6",
+        "B01LY4Y16T",
+        "B00DJUK8HS",
+        "B00R42HUGO",
+        "B001IY03L8",
+        "B0051HZKKM",
+        "B002CVTXBW",
+        "B00L1I9Y5C",
+        "B017C3VI3K",
+        "B00F4BV5DQ",
+        "B00012NJIC",
+        "B06XP3B13K",
+        "B002U7B49W",
+        "B001LRPUMY",
+        "B06XXW2FKQ",
+        "B078TXVTXT",
+        "B0773T6H3V",
+        "B0046Y096G",
+        "B00UIBKXSK",
+        "B0041RDVUY"
+    ],
+    "rating": "4.5"
+}

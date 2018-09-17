@@ -1,0 +1,96 @@
+{
+    "asin": "B00Q3N513E",
+    "title": "Kwikset 99160-002 916 Z-Wave SmartCode Touchscreen Electronic Deadbolt, Featuring SmartKey in Satin Nickel, Works with Alexa via SmartThings, Wink, or Iris",
+    "brand": "Kwikset",
+    "feature": [
+        "SmartCode 916 is a one-touch locking motorized deadbolt that allows you to enter your home with the convenience of keyless entry and the back-lit keypad provides increased visibility",
+        "Does NOT work via Zigbee or Amazon Key, and is incompatible with Xfinity",
+        "Works With Alexa for voice control (hub required, Alexa device and hub are sold separately)",
+        "Requires 4 AA batteries, purchased separately",
+        "Easily installs in minutes with just a screwdriver"
+    ],
+    "description": "The SmartCode 916 touchscreen smart lock with Home Connect technology enables the lock to wirelessly communicate with other devices in home. The lock allows the user (through a web enabled device) to remotely check the door lock status, lock or unlock the door and receive notifications via email or text. SmartCode is a one-touch locking motorized deadbolt. With your personalized code, you can enter your home with the convenience of keyless entry and the back-lit keypad provides increased visibility. It features patented SecureScreen\u2122 technology to prevent code detection from fingerprints on the touchscreen. SmartCode is easy to install, program and use, and operates on 4 AA batteries. It also features SmartKey Security as the back-up keyway. The crisp, clean appearance of the Satin Nickel finish adds to the overall look of the product and brings a modern feel.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 345.0,
+        "length": 350.0,
+        "width": 540.0,
+        "height": 990.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41qHYHljfIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JYW5WELOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ESZwPVTKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Ie4baxkhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JIu-zq6YL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/414CXN4JnlL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "Z-Wave"
+        },
+        {
+            "name": "Color Name:",
+            "value": "Satin Nickel"
+        }
+    ],
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "511228",
+            "title": "Hardware"
+        },
+        {
+            "node": "511276",
+            "title": "Door Hardware & Locks"
+        },
+        {
+            "node": "511306",
+            "title": "Deadbolts"
+        }
+    ],
+    "similar": [
+        "B07CGS13J2",
+        "B07F96JB63",
+        "B00115YDWO",
+        "B06Y69D7HQ",
+        "B01FKIITYK",
+        "B004T3KFZO",
+        "B01MTKOL8Z",
+        "B07C8925BB",
+        "B00Q3N4NT2",
+        "B0716ZYCB3",
+        "B07FJGGWJL",
+        "B01C4UY0JK",
+        "B00I9P2G8W",
+        "B00Q3N4TZA",
+        "B0002YUFOK",
+        "B0764DHD8B",
+        "B0746QQ7RB",
+        "B004ECHIYG",
+        "B0764DFNK6",
+        "B00YFQJWW2",
+        "B01BFME5MA",
+        "B01F8QCAPI",
+        "B00I0EOIBA",
+        "B06Y39SK61",
+        "B001003MUO",
+        "B01NBLHN3S",
+        "B01KB9WM2S",
+        "B07GNZV85R",
+        "B07F3FBRXH",
+        "B071Z98SWC",
+        "B00X6E0O4O",
+        "B06ZZ5X55N",
+        "B07648N95F",
+        "B01M6CKJXC",
+        "B010NZV0GE"
+    ],
+    "rating": "3.2"
+}

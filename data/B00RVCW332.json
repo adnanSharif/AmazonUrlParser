@@ -1,0 +1,100 @@
+{
+    "asin": "B00RVCW332",
+    "title": "NIKE Men's Huarache Run Ultra Running Sneaker",
+    "brand": null,
+    "feature": [
+        "synthetic-and-mesh",
+        "Imported",
+        "sku=819685-002-9.5"
+    ],
+    "description": "Inspired by Native American sandals, the Tinker Hatfield-designed Air Huarache hit the scene in 1991, with a neoprene-like sockliner that offered total comfort in a lightweight package. Retooled for today, the Air Huarache Run running shoes are a unique sneaker with plenty of performance and head-turning style..",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 300.0,
+        "length": 1400.0,
+        "width": 950.0,
+        "height": 500.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Ej9rrgG9L._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41zWSFQn-vL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31xHmnDzrjL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ggj0WmlqL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/311zjrxr3WL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/411l9rotdYL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/414oOvObOOL._US40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "9.5 M US"
+        },
+        {
+            "name": "Color:",
+            "value": "Black/Black/Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "679255011",
+            "title": "Shoes"
+        },
+        {
+            "node": "6127770011",
+            "title": "Athletic"
+        },
+        {
+            "node": "679286011",
+            "title": "Running"
+        },
+        {
+            "node": "14210389011",
+            "title": "Road Running"
+        }
+    ],
+    "similar": [
+        "B07BZ8VRGD",
+        "B07DW3YGH2",
+        "B073RJRP6C",
+        "B003DSHRTS",
+        "B07CNLPGRG",
+        "B075RDF3PB",
+        "B071L68PF7",
+        "B07C5TZ8VW",
+        "B01N9C529P",
+        "B071LGHYQL",
+        "B07D36HNBB",
+        "B075Z58B22",
+        "B07B3PT8W7",
+        "B00TIP1IAO",
+        "B071FJJQMM",
+        "B073QVFNJT",
+        "B07546MN5Z",
+        "B073RHX8VC",
+        "B077F8N2CZ",
+        "B07BSYHPXH",
+        "B00DH1D0ME",
+        "B077MMX48V",
+        "B0793ZVNFZ",
+        "B01ATSL2UO",
+        "B079KZG18Z",
+        "B06Y4CJVQY",
+        "B07C39W571",
+        "B071S6NMJR",
+        "B072FH1MFT",
+        "B079XSZDHK",
+        "B010RWD4GM",
+        "B07B9LWXJS"
+    ],
+    "rating": "4.3"
+}

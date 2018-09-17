@@ -1,0 +1,71 @@
+{
+    "asin": "B01MG33X6L",
+    "title": "Witbot CNC Shield Expansion Board V3.0 +UNO R3 Board for Arduino+ A4988 Stepper Motor Driver With Heatsink Kits for Arduino",
+    "brand": "Witbot",
+    "feature": null,
+    "description": "1>PWM Spindle and direction pins 2>4-Axis support (X, Y, Z , A-Can duplicate X,Y,Z or do a full 4th axis with custom firmware using pins D12 and D13) 3>2 x End stops for each axis (6 in total) 4>Coolant enable 5>Uses removable A4988 or DRV8825 compatible stepper drivers 6>Compact design 7>Stepper Motors can be connected with 4 pin molex connectors or soldered in place 8>Please note that this is an unassembled kit and Basic soldering skills are needed 1>Low RDS (On) Output 2>Automatic current decay mode detection / selection 3>Mix with slow current decay modes 4>Synchronous rectification for low power dissipation 5>Internal UVLO 6>Crossover-current protection 7>3.3 and 5 V compatible logic supply 8>Thermal shutdown circuitry 9>Ground fault protection 10>Load short-circuit protection 11>Five selectable step modes: full, 1/2, 1/4, 1/8 and 1/16 1>MCU: ATmega328 2>USB interface: ATmega16U2 3>Operating voltage: 5V 4>Digital I/O pins: 14 (including 6 with PWM capability) 5>Analog input pins: 6 6>I-I/O pin output current: 40mA max 7>3.3V output current: 150mA max 8>Flash memory: 32kB (0.5kB used by bootloader- included) 9>Static RAM (SRAM): 2kB 10>EEPROM: 1kB 11>Clock speed: 16MHz 1 x CNC Shield Board 1 x UNO R3 Board for Arduino 4 x A4988 Stepper Motor Driver 4 x Heat Sink",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 33.75,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/6125T9KtZwL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/516dBVswmiL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51J-DJ0HFGL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51UxiWN8C2L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51nq-PoncaL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51McFv1wyQL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310091",
+            "title": "Industrial & Scientific"
+        },
+        {
+            "node": "6066126011",
+            "title": "Additive Manufacturing Products"
+        },
+        {
+            "node": "6066132011",
+            "title": "3D Printer Parts & Accessories"
+        },
+        {
+            "node": "8481414011",
+            "title": "3D Printer Controllers"
+        }
+    ],
+    "similar": [
+        "B07DXM6Z92",
+        "B00D7CWSCG",
+        "B016O7TD6O",
+        "B01N4LP86I",
+        "B008GRTSV6",
+        "B06XHKSVTG",
+        "B00PNEQI7W",
+        "B00DFSF9GE",
+        "B0756T3F57",
+        "B01ELGR26I",
+        "B00F2IQNX8",
+        "B00PNEQKC0",
+        "B078RJ6FTN",
+        "B074TZ79GC",
+        "B016D6DSBW",
+        "B01FFGAKK8",
+        "B072N4FMRN",
+        "B06XG9HDLG",
+        "B06Y2BSCL7",
+        "B07FLN24JP",
+        "B00MFRMFS6",
+        "B01EWOE0UU",
+        "B074TZC27M",
+        "B07DPMMFT6",
+        "B00IJ67BJA"
+    ],
+    "rating": "3.9"
+}

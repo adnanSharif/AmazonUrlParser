@@ -1,0 +1,82 @@
+{
+    "asin": "B004JO3JUG",
+    "title": "Nature's Bounty Vitamin D3 2000 IU Twin Packs, 150 Count Each, Total 300 Softgels",
+    "brand": "Nature's Bounty",
+    "feature": null,
+    "description": "Nature's Bounty Vitamin D - the \"Sunshine Vitamin\" is an essential nutrient that the body creates by converting cholesterol in the body via sunshine. However, today's culture of cubicles, sunscreen, and near-round-the-clock indoor living minimizes our exposure to natural sunlight for the needed period of time for Vitamin D to form. Supplementing with Nature's Bounty Vitamin D3 is an easy way to increase your daily intake of this important nutrient.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 200.0,
+        "width": 400.0,
+        "height": 420.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51qXNLeVDaL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41LgSeSOKdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51KZ6AyBJiL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61IKSMw8CIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31QSJbIJPSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51dzH7PQw9L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31fvdJE9mUL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6936790011",
+            "title": "Vitamins"
+        },
+        {
+            "node": "3774781",
+            "title": "Vitamin D"
+        },
+        {
+            "node": "6936848011",
+            "title": "D3"
+        }
+    ],
+    "similar": [
+        "B076JTQR66",
+        "B00DYSUQR2",
+        "B001KYOJC0",
+        "B00ZPU27JW",
+        "B0046Y096G",
+        "B0014D2GEK",
+        "B00DYSUQEA",
+        "B01G2IT9ZA",
+        "B00GB85JR4",
+        "B00159JNIU",
+        "B06XXW2FKQ",
+        "B018J1LOSI",
+        "B008PQDCG0",
+        "B001LRPUMY",
+        "B004GJYTF8",
+        "B00L1I9Y5C",
+        "B00NV5UTMK",
+        "B00DN4VCA2",
+        "B003USIFGK",
+        "B005D0DUMM",
+        "B001GCU196",
+        "B001GAOGC6",
+        "B001LFFPT4",
+        "B008C21IKY",
+        "B005TKEYGC",
+        "B004U3Y8NI",
+        "B004U3Y8OM",
+        "B0041S3LK8",
+        "B072ZZK4VL",
+        "B06XP3B13K",
+        "B004L4EJQ2"
+    ],
+    "rating": "3.7"
+}

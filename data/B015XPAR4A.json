@@ -1,0 +1,87 @@
+{
+    "asin": "B015XPAR4A",
+    "title": "SHIMANO Neoprene Reel Cover",
+    "brand": "SHIMANO",
+    "feature": [
+        "Made using the highest quality components",
+        "Tested for quality and durability",
+        "The most trusted name in fishing",
+        "The Large sleeve will fit: Tekota 700, 800 ; Tiagra 12, 16, 20; TLD 15, 20, 25 ; TLD 2-Speed 20II, 30II ; Trinidad 40, 50 ; Tyrnos 20, 30"
+    ],
+    "description": "From an angling perspective, every individual who has owned and enjoyed using Shimano tackle has a reason to thank a Japanese visionary named Shozaburo Shimano, who in 1921 declared \"I aim to make Shimano's products the best in Kansai, then the best in Japan, and finally the best in the world.\" For over 80 years, Shimano has concentrated on precision engineering, one step at a time. Creating the most innovative products and processes you can hold in your hand today.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 640.0,
+        "width": 570.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/518TcHlGRCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51YZ0rHoLjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31SbbBkCu7L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        },
+        {
+            "name": "Size:",
+            "value": "Large"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "10971181011",
+            "title": "Sports & Fitness"
+        },
+        {
+            "node": "706813011",
+            "title": "Hunting & Fishing"
+        },
+        {
+            "node": "3408951",
+            "title": "Fishing"
+        },
+        {
+            "node": "6680005011",
+            "title": "Rod & Reel Storage & Accessories"
+        }
+    ],
+    "similar": [
+        "B001H54MDS",
+        "B00SK63J6I",
+        "B0049C03N4",
+        "B00U7W9N1S",
+        "B015XPAUYM",
+        "B00B3Y50AW",
+        "B00B3Y5R1E",
+        "B01LXY6V8Z",
+        "B00M0TWDC2",
+        "B01N2PJHS9",
+        "B07BJLPDZB",
+        "B01N5B097G",
+        "B072J8VXMT",
+        "B07DDFV678",
+        "B00M03PR4Y",
+        "B00B3Y3ELY",
+        "B078GL8QKV",
+        "B003BY7FGY",
+        "B078GJJC37",
+        "B07DDHYM8J",
+        "B079MGC7RX",
+        "B003TWLZGY",
+        "B003BY7GAO",
+        "B078GHR83X",
+        "B0174J6SMS",
+        "B078B963TF"
+    ],
+    "rating": "4.3"
+}

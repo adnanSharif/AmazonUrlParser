@@ -1,0 +1,94 @@
+{
+    "asin": "B01EUC7NPI",
+    "title": "Samsung Galaxy Tab A SM-T580NZKAXAR 10.1-Inch 16 GB, Tablet (Black)",
+    "brand": "Samsung",
+    "feature": [
+        "1.6 GHz exynos 7870 octa-core Processor",
+        "Os: android\u00a06.0\u00a0Marshmallow. Battery Type and Size:Li-Ion 7,300mAh",
+        "2GB of RAM + 16GB. Bluetooth profiles: A2DP,AVRCP,DI,HID,HOGP,HSP,OPP,PAN",
+        "10.1\" wuxga Display, 8Mp rear camera + 2Mp front camera",
+        "Refer User manual in Technical Specification before use"
+    ],
+    "description": "Enjoy powerful performance and a vibrant display with the Black 10.1\" Galaxy Tab a from Samsung. This tablet features a Samsung exynos 7870 chip set, which utilizes an octa-core processor clocked at speeds up to 1.6 GHz. It comes with 2GB of RAM and 16GB of built-in storage. It's also equipped with a micro SD slot that supports microSDXC cards up to 2TB. For high-speed Internet connectivity, 802.11a/b/g/n/AC Wi-Fi is built-in. Bluetooth 4.2 connectivity is also integrated for pairing with Bluetooth-enabled devices, such as Select headphones and accessories. Troubleshoot: For software related issues can be resolved by performing a factory reset on the product which will reload the software back to new in box condition by turning off the device and while pressing and holding the volume up key and the home key, pressing the power key. All personal information should be backed up prior to this step as it will delete all customer and local content. While unfortunate, all electronics regardless of manufacturer have a small possibility of having problems. If this is the case, the customer can contact 1-800 Samsung for troubleshooting, support and if required repair through Samsung Warranty service",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 172.0,
+        "length": 1000.0,
+        "width": 30.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41kjmFI9AcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31aFo8xhJ7L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41BDv6WK5fL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41snWCbIvOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41OudsK55gL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41zPG%2Bd-ZUL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "1"
+        },
+        {
+            "name": "Color:",
+            "value": "Tablet"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "13896617011",
+            "title": "Computers & Tablets"
+        },
+        {
+            "node": "1232597011",
+            "title": "Tablets"
+        }
+    ],
+    "similar": [
+        "B0758B7QKB",
+        "B078XDLDNM",
+        "B01MSPQ4TL",
+        "B01LOVZCE2",
+        "B0711BT1QK",
+        "B076MMCTWP",
+        "B01FVLU5GQ",
+        "B01IO22AHG",
+        "B018QAYM7C",
+        "B01578NORU",
+        "B01LXDJHNB",
+        "B018RAT7KS",
+        "B07DH7MGM9",
+        "B075VSG1TQ",
+        "B01FVLUDAO",
+        "B01M4GBS4I",
+        "B01J90MSDS",
+        "B075VS89SW",
+        "B01N8UG7HA",
+        "B01IEHIMLY",
+        "B01LFV5SI6",
+        "B07FP3767V",
+        "B01N0ON3DN",
+        "B07DSFPF9B",
+        "B074FZSQ6Q",
+        "B01N0P7YNK",
+        "B0794RHPZD",
+        "B01MTGLBP5",
+        "B01M6YJEAH",
+        "B01HJOBKGC",
+        "B01FJ5DFOS",
+        "B00M4L4MFC",
+        "B01EUC7NAI"
+    ],
+    "rating": "4.3"
+}

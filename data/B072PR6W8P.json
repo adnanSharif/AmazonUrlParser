@@ -1,0 +1,110 @@
+{
+    "asin": "B072PR6W8P",
+    "title": "Blue Yeti USB Microphone - Slate",
+    "brand": "Blue",
+    "feature": [
+        "Tri-capsule array - 3 condesner capsules can record almost any situation",
+        "Multiple pattern selection - cardioid, bidirectional, omnidirectional & stereo",
+        "Gain control, mute button, zero-latency headphone output",
+        "Perfect for vocals, musical instruments, podcasting, voiceovers, interviews, field recordings, conference calls",
+        "Compatible with Windows 10, Windows 8 (including 8.1), Windows 7, Windows Vista, Windows XP (Home and Professional), and Mac OS X (10.4.11 or higher), and requires a minimum of 64 MB of RAM(remove existing and upload)"
+    ],
+    "description": "Yeti is the most advanced and versatile multi-pattern USB microphone available anywhere. Combining three capsules and four different pattern settings, Yeti is the ultimate tool for creating amazing recordings, directly to your computer. Blue Yeti can capture anything with a clarity and ease unheard of in a USB microphone. Featuring Blue innovative triple capsule array, Yeti can record in stereo or your choice of three other unique patterns, including cardioid, omnidirectional, and bidirectional. Yeti utilizes a high quality A-D converter, a built-in headphone amplifier for zero-latency monitoring, and direct controls for headphone volume, pattern selection, instant mute, and microphone gain. With no drivers to install, Yeti is the most versatile USB mic lighting up the airwaves today.",
+    "price": 12900.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 398.0,
+        "length": 490.00000000000006,
+        "width": 470.0,
+        "height": 1160.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41vvYeBksjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41-xm-OaG5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/413WFq57dSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41TKaunoqOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41CbpWuqDGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41PqHC5F-SL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ZoFEJOmVL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "style:",
+            "value": "1"
+        },
+        {
+            "name": "Color:",
+            "value": "USB Microphone"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11974521",
+            "title": "Microphones & Accessories"
+        },
+        {
+            "node": "8882489011",
+            "title": "Microphones"
+        },
+        {
+            "node": "11974631",
+            "title": "Condenser Microphones"
+        }
+    ],
+    "similar": [
+        "B014PYGTUQ",
+        "B0763D2FFR",
+        "B01H3DXTG8",
+        "B01L5YN37Q",
+        "B01LXOJZJ9",
+        "B07G85VNS1",
+        "B078VBSDCX",
+        "B01D8U1QE2",
+        "B07CLYPDBQ",
+        "B078RX5LKF",
+        "B078TYTXSP",
+        "B0791Y51BK",
+        "B0792BR9N7",
+        "B00XOXRTX6",
+        "B01JTOK5DE",
+        "B004L9KLT6",
+        "B008AOH1O6",
+        "B014PYGYRE",
+        "B002VA464S",
+        "B07CY5HS72",
+        "B01MDJ3KB3",
+        "B077X723HZ",
+        "B01L3LL95O",
+        "B01LC1RPZI",
+        "B008F4USMS",
+        "B0170NWLWY",
+        "B0722Z52B7",
+        "B01M8FJZMA",
+        "B06VX1ZW2M",
+        "B00N1YPXW2",
+        "B077ZP7ZJR",
+        "B078MHS3SC",
+        "B01N3TMY12",
+        "B01M3OGB3G",
+        "B0756HWRCF",
+        "B07CYCK39B",
+        "B06XC9RMDV",
+        "B072TPRZYV",
+        "B06XX8NCKF",
+        "B079F7C5D1",
+        "B075MSG795",
+        "B0747X8QZH",
+        "B00HBN6T1I",
+        "B0178DOWK0",
+        "B017PH9682",
+        "B079VVRV57",
+        "B01FWRF70I",
+        "B01LY6Z2M6"
+    ],
+    "rating": "4.3"
+}

@@ -1,0 +1,76 @@
+{
+    "asin": "B01718JVJE",
+    "title": "iHealth Ease Wireless Upper Arm Blood Pressure Monitor for Apple and Android with Standard Cuff (8.7-14.2 Inch Circumference)",
+    "brand": "iHealth",
+    "feature": null,
+    "description": "Fits upper arms with diameter of 8.7\"-14.2\" (22-36cm). Take control of your health with easy, accurate blood pressure readings anytime, anywhere right from your iOS or Android device. Clinically tested and FDA approved, the iHealth Ease Blood Pressure Monitor meets rigorous standards for quality worldwide, but is priced below most traditional blood pressure monitors, making its smart, medical grade technology accessible to everyone. The Ease uses Bluetooth Smart technology to connect with your smartphone or tablet. The MyVitals app automatically logs and tracks your readings, and allows one-touch data sharing in PDF or spreadsheet format to keep your doctor or caregivers in the loop. The new Triple-Check feature ensures thorough, accurate data, and every reading is stored in your secure iHealth account and charted with past readings to give you a clear overview of your blood pressure trends at a glance. Take control of your health with the iHealth Blood Pressure monitor. Measure. Track. Share.",
+    "price": 3499.0,
+    "listPrice": 3999.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 140.0,
+        "length": 280.0,
+        "width": 250.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Kxv4TvtsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/311vx8nAj1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41f-ocrUv6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51DUyDTVbsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41MJ7wgQIsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41FSnP-nTiL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3775161",
+            "title": "Medical Supplies & Equipment"
+        },
+        {
+            "node": "3777131",
+            "title": "Health Monitors"
+        },
+        {
+            "node": "3777151",
+            "title": "Blood Pressure Monitors"
+        }
+    ],
+    "similar": [
+        "B00JIAZVN4",
+        "B01FV10IFY",
+        "B01DX5NGR2",
+        "B00KW4PO82",
+        "B009SPTHGQ",
+        "B01M9AZ5Q7",
+        "B07B4HKLFK",
+        "B00D7MDXCU",
+        "B00T00X472",
+        "B071YVH78D",
+        "B0743LGMT8",
+        "B06Y67LZ7R",
+        "B07CPSQT3L",
+        "B01A4W8AUK",
+        "B01C5QS1T8",
+        "B01M0PTDQ9",
+        "B00N1IRZTW",
+        "B00Y2N86JI",
+        "B00EC51DCS",
+        "B06XW4P254",
+        "B07CTMCQ2F",
+        "B00ANJAKF8",
+        "B06W9JNPVZ",
+        "B01N8U3IMT",
+        "B0748BG68N",
+        "B06XSYBLT8",
+        "B07GWYMN64",
+        "B00J547PAA",
+        "B07C8YTP4T",
+        "B00LV74908"
+    ],
+    "rating": "3.7"
+}

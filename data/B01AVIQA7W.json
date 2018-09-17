@@ -1,0 +1,71 @@
+{
+    "asin": "B01AVIQA7W",
+    "title": "Waterfall Glen Soap Company Mistique - sandalwood and patchouli & spices, vegan bath soap with shea butter 5.8oz",
+    "brand": "Waterfall Glen Soap Company",
+    "feature": null,
+    "description": null,
+    "price": 978.9999999999999,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 38.125,
+        "length": 400.0,
+        "width": 100.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61MeupMlM8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51zX1ipuVJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/4117T5vw5HL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51rD6qvlH1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41xuqQW9nrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51OWEOWIBeL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11056281",
+            "title": "Cleansers"
+        },
+        {
+            "node": "11056341",
+            "title": "Soaps"
+        }
+    ],
+    "similar": [
+        "B072M6M54S",
+        "B005BYXMS2",
+        "B019YHYAGO",
+        "B074XTQCQS",
+        "B06XRPG669",
+        "B0757ZNF2X",
+        "B01CRMPV5M",
+        "B07FP51615",
+        "B00FNOGQ4C",
+        "B01AVIQ9AU",
+        "B01MSPMU00",
+        "B01M2CZBHA",
+        "B00M49SG0Q",
+        "B07GBPDZ46",
+        "B00X20462S",
+        "B01BPN6KG8",
+        "B07663ZTPR",
+        "B005V4ZNMU",
+        "B01AVIQ92I",
+        "B0016BFD4K",
+        "B01KJV0PKY"
+    ],
+    "rating": "4.1"
+}

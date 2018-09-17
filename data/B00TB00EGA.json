@@ -1,0 +1,72 @@
+{
+    "asin": "B00TB00EGA",
+    "title": "Batiste Dry Shampoo, Floral Fragrance, 6.73 Ounce",
+    "brand": "Batiste",
+    "feature": null,
+    "description": "Take your hair from flat to fab with Batiste Floral Dry Shampoo. Our waterless formula targets excess oil, dirt, and grease at the roots. Batiste Floral locks in a bright and lively scent that never overpowers. Just spray in, massage, style, and go. Batiste Dry Shampoo instantly makes your hair feel clean, fresh, and full of body and texture. Perfect for the girl-on-the-go, use Batiste Dry Shampoo between washes to keep your hair looking fresh and fabulous without the effort. Let's face it, life gets crazy sometimes and skipping a wash (or two) is inevitable. With Batiste Dry Shampoo, you can be confident your hair looks great no matter what life throws your way.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 180.0,
+        "width": 180.0,
+        "height": 869.9999999999999
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41iKhrjZ37L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51EniEZs%2BpL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/514KmBiEmVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41qeGjjeybL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61euqD5S%2BdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31QEBP4ziQL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "17911764011",
+            "title": "Shampoo & Conditioner"
+        },
+        {
+            "node": "11057651",
+            "title": "Shampoos"
+        }
+    ],
+    "similar": [
+        "B0033Y1B0I",
+        "B00TB00HPS",
+        "B007PQYHJW",
+        "B00DQ3HIV2",
+        "B00PBX3TN6",
+        "B00C44KUDC",
+        "B01CYDXMYQ",
+        "B077XC65Y2",
+        "B015O9VHB2",
+        "B01CYDXMY6",
+        "B01619SJ74",
+        "B00U2VQZDS",
+        "B01M73Z3KW",
+        "B07D7F9MWG",
+        "B016939FIY",
+        "B01CYDXMQO",
+        "B075J6M915",
+        "B01CYDXMVE",
+        "B00TB00ASM",
+        "B004BD107O",
+        "B01BPHIB2K",
+        "B00016XJ4M",
+        "B07H866SF5",
+        "B01L09YRDU",
+        "B07CBFPLYG",
+        "B01IADYSI8"
+    ],
+    "rating": "4.4"
+}

@@ -1,0 +1,65 @@
+{
+    "asin": "B06XN71NR1",
+    "title": "Bath and Body Works CocoShea Honey Conditioning Shower Jelly Gel 8 Ounce Coco Shea",
+    "brand": "Bath & Body Works",
+    "feature": null,
+    "description": "CocoShea Honey \u2013 Bath & Shower Jelly - 8 oz - Fun and pampering, our ultra conditioning bath & shower jelly lathers into a creamy foam and conditions as it cleanses to leave skin looking and feeling soft and healthy.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": 300.0,
+        "width": 300.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41I2Hn1UBoL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11056281",
+            "title": "Cleansers"
+        },
+        {
+            "node": "11056291",
+            "title": "Body Washes"
+        }
+    ],
+    "similar": [
+        "B06XN6NVTK",
+        "B06WV7GZRS",
+        "B071WGDN92",
+        "B078N88KLL",
+        "B00W87KH8S",
+        "B004ML4XW4",
+        "B06XSDWBYK",
+        "B01N8XF244",
+        "B07DP66VSX",
+        "B06XCGPWYT",
+        "B079174NGF",
+        "B06XS8TRJ3",
+        "B00WRN3TBU",
+        "B01MST4TO6",
+        "B074CDK3MY",
+        "B01N9TNO4X",
+        "B01N1IUSFE",
+        "B01K2UMMI0",
+        "B06XCX3MK8",
+        "B00Q2MYPHY"
+    ],
+    "rating": "3.4"
+}

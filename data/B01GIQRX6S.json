@@ -1,0 +1,77 @@
+{
+    "asin": "B01GIQRX6S",
+    "title": "Beard Growth - Beard Oil - Beard Kit - Beard Conditioner - Beard Care - Grooming Kit - Beard Growth Supplements - Beard Growth Oil - Barba - Hair Growth - Facial Hair Growth For Men.",
+    "brand": "The Beard Legacy",
+    "feature": null,
+    "description": null,
+    "price": 2597.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 400.0,
+        "width": 200.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ZRVXQf%2BIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/616YLjFFXWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51bR1KPwSOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51dbRj80ifL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61bR5e8UJuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61W0oMINWqL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61XHS2iMc5L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "3778591",
+            "title": "Shave & Hair Removal"
+        },
+        {
+            "node": "13271079011",
+            "title": "Men's"
+        },
+        {
+            "node": "13271118011",
+            "title": "Beard & Mustache Care"
+        },
+        {
+            "node": "7655120011",
+            "title": "Beard Conditioners & Oils"
+        }
+    ],
+    "similar": [
+        "B07BRGJGSL",
+        "B07CVX2RQB",
+        "B06XZ9ZF99",
+        "B06Y62RLWX",
+        "B00WF6VFSS",
+        "B01E6CI9I2",
+        "B0163BMOMG",
+        "B07FCL95SX",
+        "B00SUAE8F0",
+        "B07C9SZZC8",
+        "B00K3VKR6S",
+        "B019FYL7L2",
+        "B07F343KDQ",
+        "B000JNQSIQ",
+        "B00ZD3T7E4",
+        "B074H5W6Y3",
+        "B07C5J72MH",
+        "B0784PDKJJ",
+        "B076R26X9Z",
+        "B07B53Q3BX",
+        "B00OSE5XII",
+        "B074MLH82M",
+        "B072JKVNBQ",
+        "B0741QHPFN",
+        "B01M7STUEL",
+        "B013XKK1KC"
+    ],
+    "rating": "4.2"
+}

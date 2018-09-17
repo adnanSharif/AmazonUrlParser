@@ -1,0 +1,76 @@
+{
+    "asin": "B01BZIBJAK",
+    "title": "Phanteks RGB LED 4 Pin Adapter, Specified for Cases with Multi Colors RGB Control (PH-CB_RGB4P)",
+    "brand": "Phanteks",
+    "feature": [
+        "Asus Aura Ready",
+        "Compatible with upcoming motherboards with 4pin RGB Header",
+        "Allows you to synchronize your Phanteks cases with Multi-colors LED control (Luxe, Mini XL, P400..) and Phanteks Led strip to the motherboards software.",
+        "Customize and colorize your LED strip and case LED with the use of the motherboards software",
+        "Easy plug and play",
+        "Long cable length for easy wiring and cable management",
+        "Length: 609mm (24in), Connector Number: 3",
+        "Connector Detail\t:1x RGB LED Extension Connector (12V, G, R, B), 1x Motherboard RGB LED Connector, 1x RGB LED Strip Connector. Terminal Gender:\tM-F"
+    ],
+    "description": "Phanteks' RGB LED Adapter is a simple, frustration-free solution to the upcoming RGB integrated motherboards that includes the RGB headers. This adapter will allow you to synchronize and control the lighting of your LED strip and Phanteks cases with the motherboards' lighting software.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 4.0,
+        "length": 2400.0,
+        "width": 10.0,
+        "height": 10.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51D3olaedzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31NLP0ECY6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31n3uPCI%2BHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31wiMYDbwIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41dNrsDhdlL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "172472",
+            "title": "Computer Cable Adapters"
+        }
+    ],
+    "similar": [
+        "B071LGL2X2",
+        "B075753TQ8",
+        "B074Q65CRV",
+        "B07C5HV9S7",
+        "B07C9V1NF1",
+        "B01N5HIDXB",
+        "B01FFFHDKO",
+        "B014EKQ5AA",
+        "B072C6LS3B",
+        "B01G5I6RK2",
+        "B06XKDC6MD",
+        "B017NMXBPS",
+        "B078NT49MJ",
+        "B00TP1C51M",
+        "B014I8UQJY",
+        "B074Q5BXVF",
+        "B077SF8KMG",
+        "B07C1HQYR7",
+        "B07C1ZFRWW",
+        "B00TOVTZ7K",
+        "B01HUFMIZ2",
+        "B074Q4Y16V"
+    ],
+    "rating": "4.2"
+}

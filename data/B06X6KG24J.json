@@ -1,0 +1,79 @@
+{
+    "asin": "B06X6KG24J",
+    "title": "Fitbit Alta HR and Alta Leather Accessory Band, Brown, Small",
+    "brand": "Fitbit",
+    "feature": null,
+    "description": "Switch up your shade with Fitbit Alta HR classic accessory bands. Comfortable, durable and water resistant, this band can go wherever you do - from outdoor jogs to rainy communes.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 21.875,
+        "length": 730.0,
+        "width": 80.0,
+        "height": 40.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31YIsBVA0NL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41GD9ZNrOJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41IGzXfqRUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41hZE5ta3ZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/413Bd%2BAq9HL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31PSt2lgcFL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "10048700011",
+            "title": "Wearable Technology"
+        },
+        {
+            "node": "10048701011",
+            "title": "Accessories"
+        },
+        {
+            "node": "10048712011",
+            "title": "Arm & Wristband Accessories"
+        }
+    ],
+    "similar": [
+        "B06W58QKH6",
+        "B077CZB1KK",
+        "B06VXDTVSV",
+        "B06X6K22TP",
+        "B06XC4XCMD",
+        "B06W9MN1BF",
+        "B07CQ31PV6",
+        "B06X9L8ZT2",
+        "B06VX4VP6G",
+        "B07B8RJSHB",
+        "B07B4915CX",
+        "B07B6VN1G3",
+        "B07B48W8Y8",
+        "B0718W22WY",
+        "B06WP8PP3R",
+        "B07CSWV9J8",
+        "B073QNQT43",
+        "B06X1DB9HL",
+        "B06X6KM4BH",
+        "B06XHB37L7",
+        "B078X6FF1K",
+        "B06XCRB5VK",
+        "B01FENVYJ8",
+        "B0786J81YY",
+        "B01MR130SV",
+        "B07BW4BNKZ",
+        "B06WRVGXZ7",
+        "B079DL1CH8",
+        "B06ZZHC4S5",
+        "B074Q9SCJW",
+        "B06XCQ2VXP",
+        "B0798JPK87",
+        "B073ZCBG16"
+    ],
+    "rating": "4.0"
+}

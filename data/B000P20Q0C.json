@@ -1,0 +1,69 @@
+{
+    "asin": "B000P20Q0C",
+    "title": "Estee Lauder Pleasures Intense Eau de Parfum Splash, 3.4 Ounce",
+    "brand": "Estee Lauder",
+    "feature": null,
+    "description": "Launched by the design house of Estee Lauder in 2002, PLEASURES INTENSE is a women's fragrance that possesses a blend of a seductive, extremely lush floral, with low notes of vanilla and maple. It is recommended for romantic wear.When applying any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you. For instance, your mood, stress level, age, body chemistry, diet, and current medications may all alter the scents you wear. Similarly, factor such as dry or oily skin can even affect the amount of time a fragrance will last after being applied. An intensely feminine celebration of nature, with a sensual, seductive side. Embrace the velvety, voluptuous bouquet of Peony, Pink Tiger Lily and Jasmine. Top Notes: Green Lily, Le Charme Peony, Cassis Middle Notes: Moroccan Rose, Pink Tiger Lily, Jasmine Base Notes: Maple Wood, Benzoin Crystals , Vanilla",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 66.25,
+        "length": 200.0,
+        "width": 200.0,
+        "height": 650.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31U1US2QkjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31dvHJXrYWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ivaonFkaL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31U0S3RZ45L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11056591",
+            "title": "Fragrance"
+        },
+        {
+            "node": "11056931",
+            "title": "Women's"
+        },
+        {
+            "node": "11057071",
+            "title": "Eau de Parfum"
+        }
+    ],
+    "similar": [
+        "B01KMSTCWG",
+        "B000BTO6EG",
+        "B00UYY2GXG",
+        "B014G8IYRM",
+        "B07B9QTC61",
+        "B000C1Z5AW",
+        "B01M4MCUAF",
+        "B003X87414",
+        "B000C1Z5B6",
+        "B00LHZDOB4",
+        "B000A3AEO4",
+        "B079Y8CSS6",
+        "B000C1ZAKC",
+        "B07F9RDCXN",
+        "B000E7WHCI",
+        "B071ZG6HDG",
+        "B000ICRDSW",
+        "B001CERZ7E",
+        "B07B9X6PS4",
+        "B01CREOHMI",
+        "B003H1RZ0M",
+        "B00ZE4CTYW",
+        "B01K2UMMI0",
+        "B01C47JAMA",
+        "B000KYTXYU"
+    ],
+    "rating": "4.2"
+}

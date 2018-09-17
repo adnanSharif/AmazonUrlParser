@@ -1,0 +1,81 @@
+{
+    "asin": "B01DKXT4CI",
+    "title": "Ubiquiti Networks 8-Port UniFi Switch, Managed PoE+ Gigabit Switch with SFP, 150W (US-8-150W)",
+    "brand": "Ubiquiti Networks",
+    "feature": [
+        "(8) Gigabit RJ45 Ports",
+        "(2) Gigabit SFP Ports",
+        "Auto-Sensing IEEE 802.3af/at PoE+",
+        "Configurable 24V Passive PoE",
+        "10 Gbps Total, Non-Blocking Line Rate",
+        "Managed by UniFi Controller"
+    ],
+    "description": "UNIFI SWITCH 8PORT 150W",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 509.99999999999994,
+        "length": 1360.0,
+        "width": 960.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31k0MjmRTNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31aXt5lLT1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41m4l4tKdnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ms75tNKnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51sni8DHxBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51fqw2cGcXL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "281414",
+            "title": "Switches"
+        }
+    ],
+    "similar": [
+        "B017T2QB22",
+        "B01N1VMBUR",
+        "B001QUA6R0",
+        "B06WVFFHQ7",
+        "B00IJI0U78",
+        "B0751K65V5",
+        "B01LVWCDB0",
+        "B007TQAZGM",
+        "B01MU3WUX1",
+        "B01E46ATQ0",
+        "B079DSW6XX",
+        "B00EQDMWIK",
+        "B01N2NLNEH",
+        "B00PFZV1K8",
+        "B01LW2P72V",
+        "B01MZ32B1B",
+        "B00HXT8QSO",
+        "B01MAW2294",
+        "B00OJZUQ24",
+        "B073V4QRXQ",
+        "B00LV8YZLK",
+        "B001QUA6RA",
+        "B015S8397E",
+        "B079187FR1",
+        "B073V4STQR",
+        "B01KNFQ438",
+        "B00HXT8QKC",
+        "B071DWXLYL"
+    ],
+    "rating": "4.5"
+}

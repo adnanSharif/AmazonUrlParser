@@ -1,0 +1,96 @@
+{
+    "asin": "B0781Z7Y3S",
+    "title": "Samsung 860 Evo 500GB 2.5 inch SATA III Internal SSD (MZ-76E500B/AM)",
+    "brand": "Samsung",
+    "feature": [
+        "Powered by Samsung V-NAND Technology. Optimized Performance for Everyday Computing",
+        "Enhanced Performance: Sequential Read/Write speeds up to 550MB/s and 520MB/s respectively",
+        "Ideal for mainstream PCs and laptops for personal, gaming and business use",
+        "Hardware/Software Compatibility: Windows 8/Windows 7/Windows Server 2003 (32-bit and 64-bit), Vista (SP1 and above), XP (SP2 and above), MAC OSX, and Linux",
+        "Included Contents: 2.5\" (7mm) SATA III (6Gb/s) SSD & User Manual (All Other Cables, Screws, Brackets Not Included). 5-Year Warranty"
+    ],
+    "description": "Samsung 860 EVO solid state drive is the SSD to trust. Based on 3D VNAND flash, Samsung offers enhanced read/write performance, endurance and power management efficiency. With multiple form factors, the 860 EVO is ideal for mainstream PCs and laptops.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 390.0,
+        "width": 280.0,
+        "height": 30.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41qR7C253KL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31bHEZngjxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Hwgn4PvnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41JX1N9gi1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/3109P-XexIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41nGSBdSwxL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Capacity:",
+            "value": "500 GB"
+        },
+        {
+            "name": "Style:",
+            "value": "SSD"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "1292116011",
+            "title": "Internal Solid State Drives"
+        }
+    ],
+    "similar": [
+        "B077SQ8J1V",
+        "B00OBRE5UE",
+        "B07DTCH8RG",
+        "B07598VZR8",
+        "B01LXS4TY6",
+        "B01N6JQS8C",
+        "B0781VSXBP",
+        "B07CM41WD7",
+        "B078DPCY3T",
+        "B00DJ3YEH0",
+        "B07864XY8B",
+        "B01F9G46Q8",
+        "B07836C6YV",
+        "B073H552FK",
+        "B07CNCG8LL",
+        "B016498CK0",
+        "B079NZFLFQ",
+        "B07FL19WGC",
+        "B073SBZ8YH",
+        "B07C8Y31G1",
+        "B07115TH6B",
+        "B078211KCN",
+        "B011M8YACM",
+        "B0134EW7G8",
+        "B0786QNSBD",
+        "B016CHGPP8",
+        "B07864WMK8",
+        "B00HJZJI84",
+        "B00OAJ412U",
+        "B073GZBT36",
+        "B009GUXU52",
+        "B0784SLQM6",
+        "B00ZSI7Y3U",
+        "B07BYHGNB5",
+        "B07F6BHF4L"
+    ],
+    "rating": "4.7"
+}

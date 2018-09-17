@@ -1,0 +1,91 @@
+{
+    "asin": "B00VMCU9CO",
+    "title": "HyperX 4GB 1866MHz DDR3L CL11 1.35V SODIMM HyperX Impact Laptop Memory HX318LS11IB/4",
+    "brand": "HyperX",
+    "feature": [
+        "Kingston Value Ram",
+        "HX318LS11IB/4",
+        "Memory (RAM)"
+    ],
+    "description": "4GB 1866MHZ DDR3L HYPERX IMPACT BLK",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 4.0,
+        "length": 270.0,
+        "width": 120.0,
+        "height": 10.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41-8aR1eOrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51kkwFM18iL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31UUY6WYyAL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "DDR3 1866MHz"
+        },
+        {
+            "name": "Capacity:",
+            "value": "4GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "172500",
+            "title": "Memory"
+        }
+    ],
+    "similar": [
+        "B071NFM5Q6",
+        "B01LOOJBQY",
+        "B071156CZC",
+        "B00UVOVS6K",
+        "B00VMCUBK4",
+        "B00KQCOSLY",
+        "B07DMDB53B",
+        "B00IV19IJ4",
+        "B075MZTQC8",
+        "B00VMCUAIM",
+        "B0728F8JS5",
+        "B00BKVQETY",
+        "B07B9W3QGK",
+        "B00VMCUCH6",
+        "B07B3YKSYS",
+        "B00OIOYJG0",
+        "B00KSLPNN0",
+        "B075N1Z9LT",
+        "B00Q0ZB3PU",
+        "B00EHBERSE",
+        "B00SNSKH7M",
+        "B01979WV9C",
+        "B01775JF9M",
+        "B075MZTQBT",
+        "B07FV16JFQ",
+        "B00SNM1LFU",
+        "B075VSBNQY",
+        "B018VF6N8I",
+        "B07612KHB9",
+        "B00BKVQFCU",
+        "B075N1BYWX"
+    ],
+    "rating": "4.8"
+}

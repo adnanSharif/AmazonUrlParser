@@ -1,0 +1,63 @@
+{
+    "asin": "B00C7W49DI",
+    "title": "Burt's Bees Baby Bee Fragrance Free Shampoo & Wash 8oz (Pack of 3)",
+    "brand": "Burt's Bees",
+    "feature": null,
+    "description": "Cleanse babys delicate skin and hair with this fragrance-free, hypo-allergenic wash. This tear-free, non-irritating formula is clinically proven to be safe, gentle, and effective for daily use. Pediatrician-tested and formulated with aloe and oat flour, this creamy wash gently cleanses and nourishes babys skin, plus it leaves hair silky soft. It`s sulfate, paraben, phthalate, petrochemical and fragrance-free, so you can pamper your baby worry-free.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 200.0,
+        "length": 770.0,
+        "width": 600.0,
+        "height": 210.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41IDwRx7QOL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "165796011",
+            "title": "Baby Products"
+        },
+        {
+            "node": "17720255011",
+            "title": "Baby Care"
+        },
+        {
+            "node": "17720256011",
+            "title": "Bathing"
+        },
+        {
+            "node": "1253810011",
+            "title": "Soaps & Cleansers"
+        },
+        {
+            "node": "668889011",
+            "title": "Body Wash"
+        }
+    ],
+    "similar": [
+        "B01BIA1T1Y",
+        "B07DPYKJT5",
+        "B01BFSGUYU",
+        "B01BKVCSTS",
+        "B07CLBRVYK",
+        "B07D2JMJPS",
+        "B00OKJGP74",
+        "B00O0GO484",
+        "B06VT8317K",
+        "B006L3MDDC",
+        "B075X2KL5C",
+        "B01A59VMOI",
+        "B06X6CRHY7",
+        "B00SGP6316",
+        "B06XB17BVH",
+        "B00JF3S29Y",
+        "B003IGY93W",
+        "B06X3SD4VC"
+    ],
+    "rating": "5.0"
+}

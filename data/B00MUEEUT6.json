@@ -1,0 +1,29 @@
+{
+    "asin": "B00MUEEUT6",
+    "title": null,
+    "brand": "Old Spice",
+    "feature": [
+        "3oz",
+        "3oz"
+    ],
+    "description": "Old Spice Red Zone Deodorant",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 45.0,
+        "length": 600.0,
+        "width": 600.0,
+        "height": 1000.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B001FB5LWU",
+        "B00EZWT5JQ",
+        "B01LTI0916",
+        "B001L98GGE"
+    ],
+    "rating": null
+}

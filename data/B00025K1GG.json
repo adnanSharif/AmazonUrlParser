@@ -1,0 +1,78 @@
+{
+    "asin": "B00025K1GG",
+    "title": "Hikari Freeze Dried Tubifex Worms",
+    "brand": "HIKARI",
+    "feature": [
+        "Convenient, Small Cubes Of Tubifex Worms",
+        "Will not cloud the water",
+        "Multi-vitamin rich to reduce stress and stress related diseases",
+        "Free of parasites and harmful bacteria",
+        "Nitrogen charging reduces oxidation prior to opening"
+    ],
+    "description": "A Great Treat Or Daily Diet For Goldfish, Certain Reptiles and Tropical Fish, Discus, Smaller Freshwater Fishes, Turtles and Some Lizards. Bio-Pure FD is the worlds cleanest freeze-dried fish food available today. Pharmaceutical freeze-drying techniques allow us to give you a product as close to fresh as humanly possible. Expect a texture and taste not previously available in a freeze-dried food.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 400.0,
+        "width": 250.0,
+        "height": 250.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51oOx0AhaBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51s-YY6pkyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31nsAiAxPBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/415EK4wjjNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31xyMw1ZXCL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": ".70 Ounces"
+        }
+    ],
+    "categories": [
+        {
+            "node": "2619533011",
+            "title": "Pet Supplies"
+        },
+        {
+            "node": "2975446011",
+            "title": "Fish & Aquatic Pets"
+        },
+        {
+            "node": "2975479011",
+            "title": "Food"
+        }
+    ],
+    "similar": [
+        "B01CPR0YKQ",
+        "B003WRG54I",
+        "B00195OQU0",
+        "B01LYE99G0",
+        "B00026Z444",
+        "B009R6A5DA",
+        "B00025Z74C",
+        "B004HE5IXE",
+        "B00025K0WG",
+        "B013MAUYSM",
+        "B000OQRK94",
+        "B00025694O",
+        "B00ZBI9DD6",
+        "B000NVBZ5K",
+        "B008JBYX9G",
+        "B00025K1GQ",
+        "B0010P8FWO",
+        "B00A8O8PQO",
+        "B00ILUUXC6",
+        "B07914CBVV",
+        "B00025K1HK",
+        "B0037LWQZG",
+        "B001LUQ9WQ",
+        "B0002563LS",
+        "B00266SE0Y",
+        "B00025JZAY"
+    ],
+    "rating": "4.3"
+}

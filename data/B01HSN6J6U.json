@@ -1,0 +1,99 @@
+{
+    "asin": "B01HSN6J6U",
+    "title": "adidas Men's CF Super Daily Sneaker",
+    "brand": null,
+    "feature": [
+        "Leather",
+        "Imported",
+        "Rubber sole",
+        "Shaft measures approximately low-top from arch",
+        "Soft suede upper for a plush look",
+        "Stitched-on 3-Stripes; Reinforced toe adds support; Embossed leather lining provides comfort",
+        "cloudfoam MEMORY sock liner molds to the foot for superior step-in comfort"
+    ],
+    "description": "An everyday pair gets a vulc-inspired upgrade. These shoes have a canvas upper and stitched-on 3-stripes. Outsole cutouts flash a peek at the cloudfoam cushioning that delivers unmatched comfort.",
+    "price": 4389.0,
+    "listPrice": 6500.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 75.0,
+        "length": 500.0,
+        "width": 500.0,
+        "height": 70.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41OhlGsLEQL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51izqTo1rSL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51LgKryqNnL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41QkP9FvWXL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41SOC03o%2B1L._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41VmJoyZGQL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41T44wP-swL._US40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "8.5 M US"
+        },
+        {
+            "name": "Color:",
+            "value": "Black/Grey/White"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "679255011",
+            "title": "Shoes"
+        },
+        {
+            "node": "679312011",
+            "title": "Fashion Sneakers"
+        }
+    ],
+    "similar": [
+        "B074T2SGYL",
+        "B07G5JK3XB",
+        "B07H3MS3QG",
+        "B0711QZT4L",
+        "B071LF9KQK",
+        "B01MTGFWPB",
+        "B01IHDPEK2",
+        "B06XWK6XZP",
+        "B071F83JSX",
+        "B0190R934W",
+        "B07C7FDSS6",
+        "B01NCPV05A",
+        "B00PEZAQM8",
+        "B0711R2DGF",
+        "B014AA2PTY",
+        "B01HSNAVCS",
+        "B077X9NMRF",
+        "B00RHO3RFM",
+        "B00CBJW4UW",
+        "B01HSN3R2O",
+        "B077XCQG1J",
+        "B00QYILD3U",
+        "B01MFDPU86",
+        "B01MQYAB33",
+        "B0791SM453",
+        "B075GZN756",
+        "B078MPXBJQ",
+        "B01HSNAUGA",
+        "B078RRYSK5",
+        "B01MXT6G48",
+        "B01HSN40TI",
+        "B072JXFPY4",
+        "B01I07LA26",
+        "B01N77VGJI",
+        "B00IBU1QE0"
+    ],
+    "rating": "4.3"
+}

@@ -1,0 +1,93 @@
+{
+    "asin": "B079YKV963",
+    "title": "Scivation Xtend BCAA Powder, Branched Chain Amino Acids, BCAAs, Watermelon, 20 Servings",
+    "brand": "Scivation",
+    "feature": null,
+    "description": "Scivation XTEND is the most advanced BCAA drink mix and is packed with 7 grams of BCAAs, 2.5 grams of L-Glutamine, and 1 gram of Citrulline Malate. Plus, with a unique blend of hydration-inducing electrolytes, Scivation XTEND is a calorie-free way to help anyone grind through even the most grueling gym session.",
+    "price": 1499.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 73.75,
+        "length": 380.0,
+        "width": 380.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Xjo-D479L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51cJJKNWvKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51CFYF1LvOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Z69mu8NIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51hRBO9pTgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51QNovFFX-L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "6973663011",
+            "title": "Sports Nutrition"
+        },
+        {
+            "node": "10781161",
+            "title": "Amino Acids"
+        },
+        {
+            "node": "6939949011",
+            "title": "BCAAs"
+        }
+    ],
+    "similar": [
+        "B01M28VEPR",
+        "B00L9NZFE8",
+        "B01DQ8ND10",
+        "B075RGM6W9",
+        "B016R0SSJG",
+        "B00I9E4W4O",
+        "B06XRZ4936",
+        "B079YBMB77",
+        "B0779GVM5J",
+        "info.html",
+        "B00EED85VU",
+        "B01M9FB9FH",
+        "B01N2TCPB0",
+        "B075RBHGKK",
+        "B014A658CE",
+        "B01MFC1NQL",
+        "B00SHXE7VK",
+        "B006OC444Q",
+        "B00VUUASWY",
+        "B00MV51RTK",
+        "B00E95CDCU",
+        "B01E9MTWGM",
+        "B07F43GT72",
+        "B00RZDAFNM",
+        "B005CH0EM0",
+        "B07G3GQ13W",
+        "B005CH0F10",
+        "B071ZDCK6N",
+        "B01MQYSBTZ",
+        "B005CH0DT4",
+        "B0779B98D2",
+        "B005CH0EBQ",
+        "B00LEQEAX2",
+        "B077FZKVMR",
+        "B012XC5MG4",
+        "B00L0ENIM2",
+        "B017BOYK9E",
+        "B01M5FNK6N",
+        "B00BCGU542",
+        "B07BJG2KPH",
+        "B06XRS6Z7Q",
+        "B01LFUREJS",
+        "B005CH0FEM",
+        "B07FDKLCZ8",
+        "B01M8I3FJJ",
+        "B06Y1VN798",
+        "B01MSJGM9L"
+    ],
+    "rating": "4.2"
+}

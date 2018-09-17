@@ -1,0 +1,90 @@
+{
+    "asin": "B07DX9CJFY",
+    "title": "Club3D DisplayPort to DisplayPort 1.4/HBR3 Cable DP 1.4 8K 60Hz 4m/13.12', 24AWG Black, VESA Certified (CAC-1069B)",
+    "brand": "CLUB3D",
+    "feature": [
+        "The total bandwidth of High Bit Rate 3 Connections is 32.4Gbit/s, the video data rate being 25.92Gbit/s",
+        "Support 7680*4320 (8K) at 60Hz, Support 5120*2880 (5K) at 60Hz",
+        "Downwards compatible to older DisplayPort standards ( DisplayPort 1.2 and 1.1)",
+        "Vesa 8K cable certified",
+        "Gold plated connector"
+    ],
+    "description": "he Club 3D DisplayPort 1.4 HBR3 8K cable enables the connection of your DisplayPort supported (Gaming) PC or Laptop to an (Ultra) High Resolution Monitor or other DisplayPort supported device. DisplayPort 1.4 adds support for Display Stream Compression 1.2 (DSC), Forward Error Correction, and extends the maximum number of inline audio channels to 32. It features locking DisplayPort connectors providing a secure, dependable connection. Simply press the built-in one-touch latch button to unlock the connector. The soft Ultra Flex jacket protects the cable from bends and deformation damage.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 125.0,
+        "length": 15750.0,
+        "width": 70.0,
+        "height": 50.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41ieKLgTFqL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51fvKk0aeGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/416Xv8PFekL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ian58UZsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5192uCZd7zL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41gd4yEewML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51t2FxlMjfL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "4m/13.12ft VESA"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "281407",
+            "title": "Accessories & Supplies"
+        },
+        {
+            "node": "172532",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "172544",
+            "title": "Connectors & Adapters"
+        }
+    ],
+    "similar": [
+        "B00CD1FB4E",
+        "B01FX3K7T2",
+        "B01GPMRXL0",
+        "B00C7S0BES",
+        "B06XSWPMVT",
+        "B015OW3P1O",
+        "B07CLPLZZS",
+        "B06Y1QP9FV",
+        "B07F85RQD2",
+        "B077BPW8XJ",
+        "B074C6PCGK",
+        "B01J8S7PG6",
+        "B00CD1FB3A",
+        "B0098HVZBE",
+        "B076D6GGG8",
+        "B01J8S7EXU",
+        "B00B2HOVK0",
+        "B0716ZFWWV",
+        "B0767F5DNR",
+        "B07DKPBWB3",
+        "B01DKHHU48",
+        "B078LFX4FW",
+        "B01L7RHQZQ",
+        "B017EVR2VM",
+        "B00MIBN16O",
+        "B00I83XF76",
+        "B01J8S6G16",
+        "B0783PYZ7V",
+        "B07F7YV4BR",
+        "B01NBT9S37",
+        "B013PWQT68",
+        "B01DKHM8EA"
+    ],
+    "rating": "4.7"
+}

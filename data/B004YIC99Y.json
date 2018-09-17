@@ -1,0 +1,91 @@
+{
+    "asin": "B004YIC99Y",
+    "title": "Truvativ 40 0-Degree 42 Height 31.8 1-1/8 Hussefelt Stem",
+    "brand": "Truvativ",
+    "feature": [
+        "Material: Forged AL-6061-T6",
+        "Weight: 203g (40mm)",
+        "Bolts: CrMo",
+        "Recommended Group: Downhill, Freeride"
+    ],
+    "description": "Forged 6061-T6 aluminum with 4-bolt faceplate and 2-bolt steerer clamp. 42mm steerer clamp stack height.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 53.125,
+        "length": 509.99999999999994,
+        "width": 160.0,
+        "height": 160.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41PMfCFnKRL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Blast Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "706814011",
+            "title": "Outdoor Recreation"
+        },
+        {
+            "node": "3403201",
+            "title": "Cycling"
+        },
+        {
+            "node": "3404731",
+            "title": "Parts & Components"
+        },
+        {
+            "node": "6389387011",
+            "title": "Handlebars, Headsets & Stems"
+        },
+        {
+            "node": "3404971",
+            "title": "Stems"
+        }
+    ],
+    "similar": [
+        "B017YRH88S",
+        "B075FL98Y8",
+        "B07648DSRH",
+        "B07BN48QPV",
+        "B0785P78G1",
+        "B018J1J7QE",
+        "B004YIDC5O",
+        "B01H8W9JI6",
+        "B074TY97VM",
+        "B006DA52LI",
+        "B07B543Y3J",
+        "B004YIC9LM",
+        "B078SCGB5L",
+        "B01FJH5NXC",
+        "B07CH4HFXV",
+        "B009F9XYBY",
+        "B075L7JYTC",
+        "B001IANSJ6",
+        "B06XXJVLK4",
+        "B00D3FG5EY",
+        "B07BFPKMCY",
+        "B07BFQ25WT",
+        "B01MQFOVN7",
+        "B07413PZGL",
+        "B07FD63HR7",
+        "B0741JGHB5",
+        "B009F9XCGQ",
+        "B01FLW0ML8",
+        "B071FDY4XR",
+        "B01LVWCFS2",
+        "B01FLW0JOI",
+        "B006DB72LU"
+    ],
+    "rating": "4.7"
+}

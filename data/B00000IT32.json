@@ -1,0 +1,78 @@
+{
+    "asin": "B00000IT32",
+    "title": "Mattel Original UNO Card Game",
+    "brand": "Mattel",
+    "feature": [
+        "Four suits of 25 cards each, plus the eight Wild cards",
+        "Reach 500 points to win the standard game",
+        "Includes 108-card deck plus instructions and scoring rules",
+        "Earn points from other players when you go out first",
+        "Two-handed, partner, and tournament options for even more action"
+    ],
+    "description": "America's No.1 brand of family game. See why this color coded card game is such a popular brand of family game. Be the first player or team to score 500 points. Points are scored by being the first to rid yourself of all the cards in your hand before your opponents.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 459.99999999999994,
+        "width": 360.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51xupUSKVwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51KaEDjYqDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51PaWrSVKfL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1 Pack"
+        }
+    ],
+    "categories": [
+        {
+            "node": "165793011",
+            "title": "Toys & Games"
+        },
+        {
+            "node": "166220011",
+            "title": "Games"
+        },
+        {
+            "node": "166239011",
+            "title": "Card Games"
+        }
+    ],
+    "similar": [
+        "B00GTJSGXE",
+        "B018NPJU5Y",
+        "B00001QHVP",
+        "B07BKLT9B5",
+        "B00IVLIW5K",
+        "B0000BYRUI",
+        "B01MG6C6K9",
+        "B074ZB1B9J",
+        "B00000DMF5",
+        "B00004TZY8",
+        "B00V155S46",
+        "B06XDLYVK3",
+        "B06Y1N3PTX",
+        "B01ARGC2VQ",
+        "B00TLEMRKM",
+        "B00D8STBHY",
+        "B00NB574LY",
+        "B0000205XI",
+        "B004MU9V8Q",
+        "B00J57138C",
+        "B00ABA0ZOA",
+        "B06XZ9K244",
+        "B0077Q0NP2",
+        "B00D7OAOYI",
+        "B00G7S4V54",
+        "B072BR5T4N",
+        "B01JUHYMM0",
+        "B00A2F7JBG"
+    ],
+    "rating": "4.0"
+}

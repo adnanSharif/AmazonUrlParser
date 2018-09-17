@@ -1,0 +1,87 @@
+{
+    "asin": "B01MU2YSR4",
+    "title": "Sensibo Sky - Air Conditioner Controller, Wi-Fi, Compatible with Amazon Alexa & Google Home, Supports iOS & Android",
+    "brand": "Sensibo",
+    "feature": [
+        "Supports ductless mini-splits, window A/Cs, and any A/C with a remote control",
+        "Control from anywhere using your smartphone: iOS, Android, Web app",
+        "Control with your voice with Amazon Echo & Google Home",
+        "7-day scheduling, Timers and Climate React smart triggers",
+        "Geofencing location based on/off"
+    ],
+    "description": null,
+    "price": 11900.0,
+    "listPrice": 14900.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 9.0,
+        "length": 220.00000000000003,
+        "width": 80.0,
+        "height": 320.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41-7Ik7jyeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/514Zf%2BnquRL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51N2r%2BVqc5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51GLqhXLV2L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Hq2X7W-GL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41wApKWJsbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ZIX5W8sPL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "551240",
+            "title": "Building Supplies"
+        },
+        {
+            "node": "495346",
+            "title": "HVAC"
+        },
+        {
+            "node": "1296436011",
+            "title": "Thermostats & Accessories"
+        },
+        {
+            "node": "495354",
+            "title": "Thermostats"
+        },
+        {
+            "node": "2054378011",
+            "title": "Programmable"
+        }
+    ],
+    "similar": [
+        "B07F951JDP",
+        "B00SMMZHRE",
+        "B073CVG5ZH",
+        "B079ZXDPC7",
+        "B01C9RIAFS",
+        "B074BQGTQT",
+        "B07BH749V7",
+        "B07976WPNM",
+        "B00MXM6K9S",
+        "B07254YSZK",
+        "B074K427TZ",
+        "B06XSFCK55",
+        "B07883168H",
+        "B01DFKC2SO",
+        "B010ACFKNE",
+        "B01EUDL4BQ",
+        "B074BSHXXQ",
+        "B075FSHKQ5",
+        "B00EWCUK1Q",
+        "B01MT0AYIJ",
+        "B01GIXZDKO",
+        "B076BCPJP4",
+        "B07D5THKKK",
+        "B00P2KP0MQ",
+        "B07BLZFQZZ",
+        "B07CRS7PK2"
+    ],
+    "rating": "4.3"
+}

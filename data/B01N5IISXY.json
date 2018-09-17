@@ -1,0 +1,103 @@
+{
+    "asin": "B01N5IISXY",
+    "title": "CORSAIR K95 RGB PLATINUM Mechanical Gaming Keyboard - USB Passthrough & Media Controls - Fastest Cherry MX Speed - RGB LED Backlit - Black Finish (CH-9127014-NA)",
+    "brand": "Corsair",
+    "feature": [
+        "Aircraft-grade anodized brushed aluminum frame: Built to withstand a lifetime of gaming. Lightweight and rugged durability, necessary for a keyboard that's going to see a lot of action",
+        "8MB profile storage with hardware macro and lighting playback: Allow access up to three stored profiles on the go, independent of external software. Windows 10, Windows 8, Windows 7, or Windows Vista.",
+        "Dynamic multicolor per key backlighting with Light Edge: Adjust each key's color and illumination level in addition to 19-zones on the top edge light bar for sophisticated and dramatic animations",
+        "100% CHERRY MX Speed RGB mechanical key switches: Unleash blistering speed with the 1.2mm actuation and durability of gold contact CHERRY MX mechanical key switches",
+        "6 programmable G-keys keys for in-game macros: Assign single keystrokes or complex multi-key combos to any of the 6 dedicated macro keys"
+    ],
+    "description": "CORSAIR K95 RGB PLATINUM features CHERRY MX Speed key switches backed by a lightweight aluminum frame. 8MB profile storage with hardware macro and lighting playback enable profile access independent of external software. Utilize the 19-zone Light Edge to add to dramatic animations and effects. Take advantage of the 6 programmable G-keys for in-game macros.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 573.0,
+        "length": 1830.0,
+        "width": 670.0,
+        "height": 140.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41iaSLg867L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41kUN0T0jtL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41LPApR8CcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ab-EDzqHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51L5CzaOwWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41X-XSfl1pL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "Keyboard Only"
+        },
+        {
+            "name": "Color:",
+            "value": "Black"
+        },
+        {
+            "name": "Size:",
+            "value": "Cherry MX Speed"
+        }
+    ],
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "229575",
+            "title": "PC"
+        },
+        {
+            "node": "318813011",
+            "title": "Accessories"
+        },
+        {
+            "node": "402051011",
+            "title": "Gaming Keyboards"
+        }
+    ],
+    "similar": [
+        "B072DRCM1Q",
+        "B0716ZFWWV",
+        "B01MS0I1ZK",
+        "B00UBQZPXK",
+        "B071216QR4",
+        "B07D5S54C5",
+        "B00FZLD2O0",
+        "B07B3WCZDC",
+        "B01MU3R9VM",
+        "B07C9S9YQN",
+        "B07D5S54C6",
+        "B01LZ2SET7",
+        "B00S9AAKA8",
+        "B07BJ3J3FK",
+        "B07D9GMYPR",
+        "B06Y2G68B5",
+        "B071PDHQ41",
+        "B0787KFJY9",
+        "B00YZ4E3YG",
+        "B01ER4B8C8",
+        "B07D5S5QKF",
+        "B07DHNX18W",
+        "B0755TS6FX",
+        "B016MAK38U",
+        "B06XD6SDS1",
+        "B077XDQD2D",
+        "B0784RJ23V",
+        "B06XFVG274",
+        "B074ZQJW9R",
+        "B06XFVSTJZ",
+        "B07C83S17H",
+        "B01D63UU52",
+        "B079YF1X8W",
+        "B01MU3DZYN",
+        "B075KMZ4MX",
+        "B01798VS4C",
+        "B01MRUNPS2",
+        "B079545JTL"
+    ],
+    "rating": "4.2"
+}

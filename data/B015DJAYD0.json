@@ -1,0 +1,95 @@
+{
+    "asin": "B015DJAYD0",
+    "title": "CamelBak eddy Water Bottle, 32oz",
+    "brand": "CamelBak",
+    "feature": [
+        "Enjoy spill-proof sipping at work or on the trail with the CamelBak eddy water bottle",
+        "Redesigned cap and Big Bite valve provide faster flow than previous versions; just bite and sip, and your beverage flows through the valve",
+        "Made of Eastman Tritan copolyester, the dishwasher-safe bottle is completely BPA-free and BPS-free",
+        "Carry the integrated handle in the crook of a finger, or connect it to a pack or waist belt with a small carabiner (not included)",
+        "CamelBak Got Your Bak Guarantee: If we build it, we'll Bak it with our lifetime guarantee"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 45.0,
+        "length": 1000.0,
+        "width": 350.0,
+        "height": 350.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31iaGLLbjlL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31KXClD1GNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31GBOzt7YNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31BP8tFoHSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31giydEBhjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31gaWZDiXiL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Oxford"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "10971181011",
+            "title": "Sports & Fitness"
+        },
+        {
+            "node": "3394801",
+            "title": "Accessories"
+        },
+        {
+            "node": "3395091",
+            "title": "Sports Water Bottles"
+        }
+    ],
+    "similar": [
+        "B07F3NFCB5",
+        "B00L0WEH8I",
+        "B07579DLK6",
+        "B00NTYIHNQ",
+        "B01BN96A0K",
+        "B01ILVYG4U",
+        "B006ZT8YFI",
+        "B01M66C1KH",
+        "B06XDQXRR2",
+        "B06XH5KVJL",
+        "B015DK94R6",
+        "B07664SN5V",
+        "B07DLG2Y1V",
+        "B006ZV6CDM",
+        "B077GBN5NB",
+        "B07C7YVJ2W",
+        "B07DJ7JSKK",
+        "B071ZFMMBR",
+        "B00FK8WWSU",
+        "B01LA8AMVM",
+        "B00G46CNEK",
+        "B015DJARL4",
+        "B00904UCY6",
+        "B015DJZRRS",
+        "B077G23DN9",
+        "B01LA8AQH2",
+        "B07FZB48BX",
+        "B00NTYHQT2",
+        "B07G9XJ9K6",
+        "B00OBVOPBO",
+        "B0763BNJ9P",
+        "B076W64YRF",
+        "B06ZZ5K887",
+        "B071774P59",
+        "B06XCFRNQV",
+        "B006ZTA550",
+        "B015DK0I94",
+        "B001NCDE8O"
+    ],
+    "rating": "4.2"
+}

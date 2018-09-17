@@ -1,0 +1,91 @@
+{
+    "asin": "B01MT3SZ46",
+    "title": "Canon PowerShot G9 X Mark II Compact Digital Camera w/1 Inch Sensor and 3inch LCD - Wi-Fi, NFC, Bluetooth Enabled (Black)",
+    "brand": "Canon",
+    "feature": [
+        "1.0-Inch, 20.1 Megapixel High-sensitivity CMOS sensor.",
+        "Digic 7 image processor.",
+        "Ultra-slim, lightweight and pocket-size camera.",
+        "Autofocus - One-shot AF, Servo AF Manual Focus"
+    ],
+    "description": "The Power Shot G9 x mark II camera combines an ultra-slim design with high-performing features for incredible image quality and easy portability.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 120.0,
+        "length": 120.0,
+        "width": 390.0,
+        "height": 229.99999999999997
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41bk24bhxJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ZJb5YYNuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41a4qwm1bmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/410LH4OVtxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/313svci5cXL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31cAdatCg%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/81-kHNuFp0L._SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        },
+        {
+            "name": "Style:",
+            "value": "Camera only"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "502394",
+            "title": "Camera & Photo"
+        },
+        {
+            "node": "281052",
+            "title": "Digital Cameras"
+        },
+        {
+            "node": "330405011",
+            "title": "Point & Shoot Digital Cameras"
+        }
+    ],
+    "similar": [
+        "B01MR4QLUS",
+        "B01N4R2XXT",
+        "B01M70O3YY",
+        "B00889ST2G",
+        "B06Y125DWZ",
+        "B0167Q104K",
+        "B01HSF99O2",
+        "B07CLMKYZT",
+        "B07DNKP88H",
+        "B07DDG912V",
+        "B01GST3E4K",
+        "B01N9MCH0E",
+        "B07BFJ4KB7",
+        "B01BV14OXA",
+        "B0167Q140U",
+        "B0176AFQT6",
+        "B01ANXY69O",
+        "B077B54GNH",
+        "B07CLQJW7D",
+        "B07DFSMNRT",
+        "B00VLNHLE8",
+        "B077RJ9681",
+        "B06XBYYLBJ",
+        "B016L285HU",
+        "B0049XV5LM",
+        "B071R6JRZZ",
+        "B07DKG29RG",
+        "B073TRT2LK",
+        "B01LORO7BA",
+        "B07C7R3N9J"
+    ],
+    "rating": "4.5"
+}

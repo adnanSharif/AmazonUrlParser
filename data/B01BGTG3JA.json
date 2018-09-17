@@ -1,0 +1,91 @@
+{
+    "asin": "B01BGTG3JA",
+    "title": "SanDisk Ultra Fit 64GB USB 3.0 Flash Drive - SDCZ43-064G-GAM46",
+    "brand": "SanDisk",
+    "feature": [
+        "An ultra\u2010small, low\u2010profile, high\u2010speed USB 3.0 flash drive that's ideal for notebooks",
+        "The fast way to move media between your devices",
+        "Read speeds up to 150MB/s",
+        "Write up to 15X faster than standard USB 2.0 drives",
+        "Transfer a full\u2010length movie in less than 30 seconds",
+        "Transfer a full\u2010length movie faster than standard USB 2.0 drives",
+        "Keep private files private with included SanDisk SecureAccess software"
+    ],
+    "description": "SanDisk Ultra Fit 64GB USB 3.0 Flash Drive - SDCZ43-064G-GAM46",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 4.0,
+        "length": 30.0,
+        "width": 60.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41%2BgH5NPs5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31gkQPal6SL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41nEBDDyzML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31yq9qxo5pL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "64GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "3151491",
+            "title": "USB Flash Drives"
+        }
+    ],
+    "similar": [
+        "B01BGTG41W",
+        "B015CH1NAQ",
+        "B00G9WHMCW",
+        "B06X9L84GD",
+        "B07C94DH9F",
+        "B00FJRS6QY",
+        "B00URLZTYO",
+        "B01M7OQQZR",
+        "B07DX29PZ6",
+        "B07855LJ99",
+        "B06XCFZXNT",
+        "B07D7P4SY4",
+        "B00EWHNHMA",
+        "B077VXV323",
+        "B07CRGHDY3",
+        "B01LWE0KHK",
+        "B077VYCV37",
+        "B012EIABHC",
+        "B01BGTG2A0",
+        "B077Y149DL",
+        "B07H5G62XL",
+        "B07C82LQBL",
+        "B01FY9H7M0",
+        "B01GK9921C",
+        "B01N66VDHV",
+        "B013CCTNKU",
+        "B01MUH9BET",
+        "B06ZYXR7DL",
+        "B0148O04K4",
+        "B00812F7O8",
+        "B078C8G866",
+        "B00GJBRKJI",
+        "B00LLEN5FQ",
+        "B07D7TXVK2"
+    ],
+    "rating": "4.1"
+}

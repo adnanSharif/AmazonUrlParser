@@ -1,0 +1,84 @@
+{
+    "asin": "B01IFGFTJ2",
+    "title": "Nzxt Internal USB Hub Controller, Black (AC-IUSBH-M1)",
+    "brand": "Nzxt",
+    "feature": [
+        "Never run out of USB Ports. The internal USB hub brings connectivity to your system allowing you to add more devices and eliminate your system's handicap",
+        "Magnetic body and cable management straps provide a quick and Easy Installation",
+        "Tested and Guaranteed to work with cam powered devices, including Kraken, grid+, and HUE+",
+        "Wind the cables up with the included straps. System Requirements- Requires a USB 2.0 internal connector. Mounting- Magnets",
+        "1 x USB 2.0 header, 1 x Molex"
+    ],
+    "description": "The internal USB hub increases your system's connectivity with internally connected USB 2.0 devices. Expand with 3 internal connectors and 2 external connectors, to connect the latest all-in-one liquid coolers, fan controllers, and lighting accessories. With a dedicated Molex power cable, the internal USB hub delivers sufficient power for all connected devices. Designed to be tucked away and installed quickly with a magnetic body and cable management straps, future-proofing your system for USB devices is a breeze.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 22.0,
+        "length": 409.99999999999994,
+        "width": 140.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41jZiWplZML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41VV74KTHdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41iWnUuXTQL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012291011",
+            "title": "I/O Port Cards"
+        },
+        {
+            "node": "229185",
+            "title": "USB Port Cards"
+        }
+    ],
+    "similar": [
+        "B07DT88488",
+        "B0725HP1J2",
+        "B076Q8685Y",
+        "B07D8H6K6S",
+        "B073VKPM4D",
+        "B01MYDTC2C",
+        "B00BTYOKXO",
+        "B00BWF5U0M",
+        "B009NQMESS",
+        "B07CWNTXPP",
+        "B01MQ1YEYH",
+        "B0776QQD4Q",
+        "B00JX1ZS5O",
+        "B07GT7NQDD",
+        "B0794V75LB",
+        "B07598VZR8",
+        "B07FR4CKBM",
+        "B072LS4JH7",
+        "B075VDGSJ8",
+        "B074S7JZGR",
+        "B018YZ0H1O",
+        "B078ZSS5NH",
+        "B076Q43SPC",
+        "B00M3WNWB2",
+        "B01IZ1LKK4",
+        "B01N6W3RNA",
+        "B07FVS7LXG"
+    ],
+    "rating": "4.3"
+}

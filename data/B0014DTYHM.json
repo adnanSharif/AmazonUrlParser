@@ -1,0 +1,56 @@
+{
+    "asin": "B0014DTYHM",
+    "title": "Habit Rouge by Guerlain for Men",
+    "brand": "GUERLAIN",
+    "feature": null,
+    "description": "Habit Rouge by Guerlain for Men 1.7 oz Eau de Toilette spray",
+    "price": 3199.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": 350.0,
+        "width": 160.0,
+        "height": 710.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41iBtroZ-BL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "17911764011",
+            "title": "Shampoo & Conditioner"
+        },
+        {
+            "node": "11057651",
+            "title": "Shampoos"
+        }
+    ],
+    "similar": [
+        "B00IJB4Y9U",
+        "B000PY205E",
+        "B000C1W032",
+        "B000C213TS",
+        "B074N2Y15P",
+        "B004OT6IXG",
+        "B000E7YK7S",
+        "B0017LW7AC",
+        "B004NEQQBG",
+        "B00C7OJ9EU",
+        "B001RVBIUW",
+        "B000U7YW6Q",
+        "B07B3MZ1LW",
+        "B000C1VXD0",
+        "B0010E6T64"
+    ],
+    "rating": "4.0"
+}

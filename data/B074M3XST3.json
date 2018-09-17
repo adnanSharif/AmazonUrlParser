@@ -1,0 +1,85 @@
+{
+    "asin": "B074M3XST3",
+    "title": "Sengled Element Classic Smart LED Light Bulbs, A19 Dimmable LED Light Soft White 2700K 60W Equivalent, Starter Kit (2 A19 bulbs + hub), Works with Alexa / Google Assistant / IFTTT",
+    "brand": "Sengled",
+    "feature": [
+        "Smart Lighting: Turn lights on and off, dim or brighten, and set schedules using Sengled Element Home app (iOS and Android). Use with IFTTT to trigger lights based on time of day, location, weather and more. Lifetime : 25000 hours",
+        "Voice Control: Connect the Element kit to Alexa or Google Assistant and control your lights via voice commands to turn on/off, adjust brightness and more",
+        "Control from Anywhere: Use the app to control the lights at home or when away. Set routines to turn lights on/off automatically.",
+        "Energy Efficient: Element LED bulbs save 80% energy compared to incandescent lighting. Use Element Home app to monitor electricity (kWh) use.",
+        "All You Need to Get Started: Each kit contains the Element hub and 2 LED smart bulbs that fit in standard lamps and fixtures. Additional Element bulbs sold separately."
+    ],
+    "description": "The Element Classic A19 kit offers a simple starting point for adding smart lighting to your home. Connect up to 64 bulbs per Element hub and enjoy smart lighting capabilities in every room using existing lamps and fixtures. Turn the lights on/off, adjust brightness and set schedules using the Sengled Element Home app. Going on vacation? Schedule the lights to turn on/off automatically to make it look like someone is home for added security. Need help waking up? Create a routine to slowly have lights brighten to mimic the natural sunrise. Kids leave the lights on? Check the status of each bulb in the app and turn off remotely to save on your electricity bill. Connect the included Element hub to Amazon Alexa or Google Assistant and control your lights with your voice.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 85.0,
+        "length": 229.99999999999997,
+        "width": 229.99999999999997,
+        "height": 450.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31tkekWfGbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41xRlepcYaL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51XwCxrIzDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51gbjR9eapL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51X5LxxBZpL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51q0ly9cr9L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "2 Pack"
+        }
+    ],
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "322525011",
+            "title": "Light Bulbs"
+        },
+        {
+            "node": "2314207011",
+            "title": "LED Bulbs"
+        }
+    ],
+    "similar": [
+        "B07BZ721LV",
+        "B06Y3N5JLF",
+        "B074K427TZ",
+        "B076KDY7VF",
+        "B079ZLHQM9",
+        "B074XN1LH3",
+        "B01MXLSEJ8",
+        "B01N7I56OE",
+        "B078HHWQWG",
+        "B07FWF9T4T",
+        "B077TL3WQ4",
+        "B01DFKC2SO",
+        "B07GK6LGCV",
+        "B01N7I4X94",
+        "B07C7WK73B",
+        "B0791ZWZ2Q",
+        "B016AEHV24",
+        "B01MQJK2U3",
+        "B073SSK6P8",
+        "B073ZDSBRW",
+        "B00EWCUK1Q",
+        "B01K1JVZOE",
+        "B0765SJPQ8",
+        "B072M5RT6L",
+        "B07BNZZ8L3",
+        "B07FZ3BZ2C",
+        "B06XCM9LJ4",
+        "B0788JTG85",
+        "B01N2TVDYQ",
+        "B079ZC552P",
+        "B0773HSHHD",
+        "B071211VP8"
+    ],
+    "rating": "3.8"
+}

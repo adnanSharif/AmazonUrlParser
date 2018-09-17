@@ -1,0 +1,75 @@
+{
+    "asin": "B00NWV9LOK",
+    "title": "Enzymedica - Candidase Extra Strength, Support for Balanced Yeast Levels, 42 Capsules (FFP)",
+    "brand": "Enzymedica",
+    "feature": null,
+    "description": "Did you know a balanced intestine is important? Having the right levels of micro-organisms keeps the immune and digestive systems functioning properly. Gas, bloating and indigestion happen when your body is off-kilter. Candidase Extra Strength blends natural ingredients that support vaginal and intestinal health and help maintain a healthy gut flora. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.",
+    "price": 2999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": 200.0,
+        "width": 200.0,
+        "height": 360.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51pxS3zpWwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61J9adiKKOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51EABVfdfjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51MkKmQDc1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51r7-dLpplL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51loNqda-lL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6939426011",
+            "title": "Supplements"
+        },
+        {
+            "node": "3773511",
+            "title": "Enzymes"
+        },
+        {
+            "node": "3773921",
+            "title": "Multi-Enzymes"
+        }
+    ],
+    "similar": [
+        "B07CWCV2F4",
+        "B00HLXPYAA",
+        "B002GOAOOK",
+        "B0016X90WY",
+        "B00L2LOKHU",
+        "B00L2LOLN8",
+        "B07CQ1NXW7",
+        "B00HLXQI50",
+        "B00YCPY87U",
+        "B0158VYYE8",
+        "B00L2LOP2U",
+        "B00HLXQJZ4",
+        "B00P9MZUMW",
+        "B00HLXPV44",
+        "B01JKY4GQ0",
+        "B01FICESXE",
+        "B001ECVFR0",
+        "B00NWT8D82",
+        "B075N6ZHW5",
+        "B007MDY3JW",
+        "B01BKUD2S0",
+        "B002NR7BM8",
+        "B0081RN0Y2",
+        "B000GCAVH4",
+        "B00HLXQ382"
+    ],
+    "rating": "4.2"
+}

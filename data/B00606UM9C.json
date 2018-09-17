@@ -1,0 +1,73 @@
+{
+    "asin": "B00606UM9C",
+    "title": "Ellen Tracy Eau De Parfum Spray for Women, 3.3 Ounce",
+    "brand": "Ellen Tracy",
+    "feature": null,
+    "description": "This product is made of high quality material. It is recommended for romantic wear. This Product Is Manufactured In USA.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": 40.0,
+        "width": 40.0,
+        "height": 40.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41yZxa%2Bm2ZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41RKHMq2%2BtL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41sO3iBP%2BVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31N3H5MOQgL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11056591",
+            "title": "Fragrance"
+        },
+        {
+            "node": "11056931",
+            "title": "Women's"
+        },
+        {
+            "node": "11057071",
+            "title": "Eau de Parfum"
+        }
+    ],
+    "similar": [
+        "B00I3VHKVK",
+        "B000P250ZI",
+        "B00FBH5AXY",
+        "B016M9UEY4",
+        "B0751HGYW1",
+        "B07B9QTC61",
+        "B07F9RDCXN",
+        "B00SZ1NKIU",
+        "B000S97MFE",
+        "B07B9X6PS4",
+        "B075FYMVMV",
+        "B075FZ1NF8",
+        "B0009OAHQE",
+        "B00ANQSJXQ",
+        "B001RVMQX0",
+        "B07CT7MNNQ",
+        "B000C1ZAKC",
+        "B016M9UFJ8",
+        "B072LLLTKT",
+        "B07CDP4JWH",
+        "B075FWCCPH",
+        "B00AC61TRK",
+        "B0711QC7M1",
+        "B000BTO6EG",
+        "B00ARH8PRQ",
+        "B00531SPI0",
+        "B004V44KTS",
+        "B000C1VVQO",
+        "B000C1Z4YY"
+    ],
+    "rating": "3.9"
+}

@@ -1,0 +1,44 @@
+{
+    "asin": "B00KYR63ZU",
+    "title": "3M 425 Shiny Silver Aluminum Foil Tape, 5 yd length, 0.625\" width, Roll",
+    "brand": "3M",
+    "feature": null,
+    "description": "TapeCase Aluminum Foil Tape-Converted from 3M 425, is a 4.6 mil flame resistant industrial grade aluminum foil tape used for aircraft paint stripping masking, creating moisture barriers, heat reflecting and dissipating, wire wrapping, splicing foils, and patching truck trailers and aircraft. This product provides excellent service life and is suitable for indoor and outdoor usage.",
+    "price": 557.0,
+    "listPrice": 674.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41d838rfzOL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310091",
+            "title": "Industrial & Scientific"
+        },
+        {
+            "node": "256225011",
+            "title": "Tapes, Adhesives & Sealants"
+        },
+        {
+            "node": "256159011",
+            "title": "Adhesive Tapes"
+        },
+        {
+            "node": "256163011",
+            "title": "High Temperature Tape"
+        }
+    ],
+    "similar": [
+        "B00R2RMNJA",
+        "B00KYR8LOG",
+        "B007Y7DNII"
+    ],
+    "rating": "5.0"
+}

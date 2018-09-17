@@ -1,0 +1,86 @@
+{
+    "asin": "B0169VELO4",
+    "title": "Collar Perfect Compact Touchup and Travel Iron",
+    "brand": "Collar Perfect",
+    "feature": [
+        "Plastic",
+        "Imported",
+        "Rotating Power Cord: Perfect to provide improved user ability in detailing and ironing scenarios",
+        "Power Support: Built in support for 110V or 220V power requirements",
+        "5 Adjustable Temperature Settings: Perfect for any temperature (Poly, Silk, Wool, Cotton, Denim, and Linen)",
+        "Dual Ironing Positions: Perfect for quick touch-ups or for when you need larger surface area ironing",
+        "Size: Small, Light-Weight, and Compact - perfect for any situation"
+    ],
+    "description": "Collar Perfect: compact touch-up and travel iron with deluxe travel bag.",
+    "price": 3495.0000000000005,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 105.0,
+        "length": 500.0,
+        "width": 350.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41lKLG6MQpL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41lA5MrXleL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51VYsfYZEVL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51t-lRcNddL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51%2BDS1xSg8L._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51mz-6shoGL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "9479199011",
+            "title": "Luggage & Travel Gear"
+        },
+        {
+            "node": "15743971",
+            "title": "Travel Accessories"
+        },
+        {
+            "node": "15744041",
+            "title": "Packing Organizers"
+        }
+    ],
+    "similar": [
+        "B075YQXH65",
+        "B07G76G5F5",
+        "B007RHF4GE",
+        "B0793SLNFH",
+        "B00A4AIADA",
+        "B072KS5CM4",
+        "B00DDTO3O4",
+        "B005NCKGOU",
+        "B07C7YPSTN",
+        "B00NV5UTM0",
+        "B07DVD927B",
+        "B01GGVWR3O",
+        "B013GPP3CU",
+        "B074KDHMKJ",
+        "B01C4RT9GW",
+        "B06XXNSTLH",
+        "B01KGFGCYG",
+        "B00140Z5DW",
+        "B07DVFN2GR",
+        "B07G9ZNY4L",
+        "B01KEENLUM",
+        "B0010XSKRG",
+        "B077JNK8G5",
+        "B07DVJ5CF4",
+        "B001MA0QY2",
+        "B071D5QPMS",
+        "B001DTHPEQ"
+    ],
+    "rating": "3.3"
+}

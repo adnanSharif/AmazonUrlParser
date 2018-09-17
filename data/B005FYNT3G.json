@@ -1,0 +1,93 @@
+{
+    "asin": "B005FYNT3G",
+    "title": "SanDisk Cruzer Blade 32GB USB 2.0 Flash Drive- SDCZ50-032G-B35",
+    "brand": "SanDisk",
+    "feature": [
+        "Provides an extensible design that enables Service prioritization for data",
+        "Design that delivers high availability, scalability, and for maximum flexibility and price/performance",
+        "The country of Origin is China",
+        "Ultra-Compact and Portable USB Flash Drive",
+        "Share your photos, videos, songs and other files between computers with ease",
+        "Protect your private files with included SanDisk SecureAccess software",
+        "Includes added protection of secure online backup (up to 2 GB optionally available) offered by YuuWaa"
+    ],
+    "description": "It's the small, swift way to save and transfer your digital content from computer to computer, or take it on-the-go. Simply store your pictures, music and other fun files onto the sleek Cruzer Blade USB flash drive and start sharing with your family and friends. You can also protect files on your USB flash drive from unauthorized access with the SanDisk SecureAccess software and enjoy the added protection of secure online backup (up to 2 GB optionally available) offered by YuuWaa.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 2.0,
+        "length": 2900.0,
+        "width": 70.0,
+        "height": 160.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/314bw84e7rL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Em7gGLofL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/416EfH7TMZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51rwUi5zm7L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41RyfDwH9nL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51-d60Lih6L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "32 GB"
+        },
+        {
+            "name": "Product Packaging:",
+            "value": "Standard Packaging"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "3151491",
+            "title": "USB Flash Drives"
+        }
+    ],
+    "similar": [
+        "B07C7XY7GS",
+        "B06XKF8K7S",
+        "B07C5QD9CC",
+        "B01276IYYS",
+        "B00652C690",
+        "B005FYNSZA",
+        "B007KFAG8Y",
+        "B07C3V826P",
+        "B00JB3NXIS",
+        "B00812F7O8",
+        "B01NCSLLHQ",
+        "B007YX9O9O",
+        "B007YX9OA8",
+        "B007JR5304",
+        "B008AF380Q",
+        "B00G9WHMCW",
+        "B002U1ZBG0",
+        "B00UALPCFW",
+        "B016I7X9S8",
+        "B00JB3NXII",
+        "B002U213Y8",
+        "B01MUH9BET",
+        "B07C5P6K6V",
+        "B00BX5FOCK",
+        "B07G161FQY",
+        "B01E5FQ8V0",
+        "B01LWE0KHK",
+        "B078MXNVCJ",
+        "B015CH1GTO",
+        "B01GDVYYU6"
+    ],
+    "rating": "4.4"
+}

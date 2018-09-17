@@ -1,0 +1,52 @@
+{
+    "asin": "1449369413",
+    "title": "Introduction to Machine Learning with Python: A Guide for Data Scientists 1st Edition",
+    "brand": "by Andreas C. M\u00fcller (Author), {\"isAjaxInProgress_B0788K4D8N\":\"0\",\"isAjaxComplete_B0788K4D8N\":\"0\"} Sarah Guido (Author) \u203a Visit Amazon's Sarah Guido Page Find all the books, read about the author, and more. See search results for this author Are you an author? Learn about Author Central Sarah Guido (Author)",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 150.0,
+        "length": 700.0,
+        "width": 80.0,
+        "height": 919.9999999999999
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [
+        {
+            "node": "283155",
+            "title": "Books"
+        },
+        {
+            "node": "5",
+            "title": "Computers & Technology"
+        },
+        {
+            "node": "3508",
+            "title": "Computer Science"
+        }
+    ],
+    "similar": [
+        "B07GLXYKNB",
+        "B07G4M16JF",
+        "178646439X",
+        "B07DRGJNW7",
+        "149190142X",
+        "1491989386",
+        "1783555130",
+        "1783552077",
+        "1491957662",
+        "B07F6Z2ZKJ",
+        "1491962291",
+        "1617294438",
+        "1787125939",
+        "B07GMVP3WP",
+        "0134692888",
+        "1786462745",
+        "B07GFQCKNR"
+    ],
+    "rating": "4.1"
+}

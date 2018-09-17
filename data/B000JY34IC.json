@@ -1,0 +1,87 @@
+{
+    "asin": "B000JY34IC",
+    "title": "Timex Men's Expedition Camper Watch",
+    "brand": "Timex",
+    "feature": [
+        "Made in USA or Imported",
+        "Lightweight watch with black featuring Arabic numeral indices with 24-hour inner ring and date window at 3 o'clock",
+        "38 mm resin case with INDIGLO light-up dial and acrylic window",
+        "Quartz movement with analog display",
+        "Nylon band with hook-and-loop closure",
+        "Water resistant to 100m (330ft): in general, suitable for swimming and snorkeling, but not diving"
+    ],
+    "description": "This clean, simple, military-inspired Timex Expedition Camper watch hasn't changed much since 1918. We made it a little lighter, added a nylon Fast Wrap strap with Velcro fastener, and our signature Indiglo night-light.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 22.0,
+        "length": 60.0,
+        "width": 60.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41w0g3Q6zEL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/219geGFPkLL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31qIwONt0jL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Camper Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "6358539011",
+            "title": "Watches"
+        },
+        {
+            "node": "6358540011",
+            "title": "Wrist Watches"
+        }
+    ],
+    "similar": [
+        "B077T7S483",
+        "B014MN9RCM",
+        "B073C1ZHS2",
+        "B06Y3KMQZB",
+        "B00QIJ6XEO",
+        "B000SZNSVA",
+        "B06Y391SCN",
+        "B00LW3RWLO",
+        "B004VR9GCQ",
+        "B01AA7BB8C",
+        "B014MA60AW",
+        "B01LXGLTD2",
+        "B00284C9U0",
+        "B071K5ZT13",
+        "B00YTYI35W",
+        "B001E96DHA",
+        "B07849ZNVF",
+        "B07CPY6BZ7",
+        "B07657P1FN",
+        "B01N7VK2K2",
+        "B01GI8RXAM",
+        "B071K619DJ",
+        "B01NAJF1NO",
+        "B075RTZC7J",
+        "B000820YD8",
+        "B00PUE3LAC",
+        "B01LYH1SI7",
+        "B01LXGLVDR",
+        "B0000TIIH8",
+        "B07195L174",
+        "B01N4N2Z96",
+        "B078XY8ZQ8"
+    ],
+    "rating": "3.9"
+}

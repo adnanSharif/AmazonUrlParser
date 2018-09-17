@@ -1,0 +1,41 @@
+{
+    "asin": "B00VC5B5RO",
+    "title": "Baker's Unsweetened Baking Chocolate Squares, 4 Ounce",
+    "brand": "Baker's",
+    "feature": null,
+    "description": "8 individually wrapped 1 ounce squares with natural 100% cocoa.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": 610.0,
+        "width": 300.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51AvSK-zetL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Y3xTQrtwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31Oyx0wjwQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61tiHBgDM8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31Za2WQoA-L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B00I8GAIIM",
+        "B017XKIR3G",
+        "B00J50PJUM",
+        "B00UHCLUE6",
+        "B01GCNP2M4",
+        "B00VURVQ9Q",
+        "B00P6EQGW6",
+        "B074PXGMMD",
+        "B00P6ERO86",
+        "B01M6D95WC",
+        "B00SX1PZRQ",
+        "B000R95BH6",
+        "B01BK9MBEC"
+    ],
+    "rating": "3.9"
+}

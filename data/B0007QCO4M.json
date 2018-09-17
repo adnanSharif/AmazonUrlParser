@@ -1,0 +1,86 @@
+{
+    "asin": "B0007QCO4M",
+    "title": "Bantam",
+    "brand": "Victorinox",
+    "feature": [
+        "The product is Bantam Pocket Knife",
+        "Easy to use",
+        "Made in Switzerland; Victorinox provides a lifetime guarantee against defects in material and workmanship",
+        "Compact no-frills multi-tool for basic functions",
+        "Enclosed in classic red housing made to exacting Victorinox standards",
+        "Large blade, cap lifter, and can opener",
+        "Screwdriver, wire stripper, and tweezers",
+        "Measures 3.3 inches long; weighs 1.1 ounces; lifetime warranty"
+    ],
+    "description": "Keeping it simple is sometimes the best way to go about an adventure and Victorinox Bantam knife has redefined simple. PRODUCT FEATURES: Large Blade Key Ring Inox Tweezers Toothpick FORSC53941 , Victorinox Bantam , Victorinox , Bantam , Knife , Swiss army knife , swiss knife",
+    "price": 1850.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 5.0,
+        "length": 320.0,
+        "width": 100.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/411a95Ua3bL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61-YcwNqVlL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Red"
+        }
+    ],
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "328182011",
+            "title": "Power & Hand Tools"
+        },
+        {
+            "node": "551238",
+            "title": "Hand Tools"
+        },
+        {
+            "node": "553222",
+            "title": "Knives"
+        },
+        {
+            "node": "553232",
+            "title": "Pocket Knives & Folding Knives"
+        }
+    ],
+    "similar": [
+        "B000FNI1V2",
+        "B017VXR4HU",
+        "B01L13UUYU",
+        "B06Y5NYM2V",
+        "B0722L37PL",
+        "B078T3RQ4C",
+        "B014STZH9W",
+        "B00KNO2JF2",
+        "B007VAAR7I",
+        "B0007QCOEC",
+        "B07GZTXNCG",
+        "B002DQY776",
+        "B00KNO2HUE",
+        "B07CM9VVT4",
+        "B06ZXZGK26",
+        "B076T8NRHN",
+        "B000FNFXQS",
+        "B0058EDO2Y",
+        "B007722ZU2",
+        "B06Y5G4DQD",
+        "B0001P15JY",
+        "B00004YVB2",
+        "B07D6T5NKR",
+        "B000AR7AKG",
+        "B0001P14ZE",
+        "B00004YVB7"
+    ],
+    "rating": "4.7"
+}

@@ -1,0 +1,74 @@
+{
+    "asin": "B00N4T3CRM",
+    "title": "iHealth Align Portable Glucometer for Apple and Android",
+    "brand": "iHealth",
+    "feature": null,
+    "description": "Small, but mighty! About the size of a quarter, this powerful glucose monitoring system fits easily into your pocket and attaches directly to your smartphone or tablet for fast, accurate readings whenever, wherever. Throw away your log book! The Align measures and records your readings automatically, and lets you share them with your doctor or family members right from your touchscreen. Document medication, exercise, and diet, and track trends over time for a more complete picture of your health. Doctor trusted and FDA approved, the Align puts power in the palm of your hand.",
+    "price": 1695.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 78.75,
+        "length": 60.0,
+        "width": 130.0,
+        "height": 200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41HFQBxkYbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/3128RTcOQUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/310-qv9NT5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41EN6W1Pl9L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ZWKNeO6-L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31tNQpXEF2L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3760941",
+            "title": "Health Care"
+        },
+        {
+            "node": "3761401",
+            "title": "Diabetes Care"
+        },
+        {
+            "node": "3777171",
+            "title": "Blood Glucose Monitors"
+        }
+    ],
+    "similar": [
+        "B07CPT6SN9",
+        "B01M0PTDQ9",
+        "B07G3C9YSX",
+        "B00KPQB2NS",
+        "B07BK1DHJ5",
+        "B075X2L8P7",
+        "B01MXYB81A",
+        "B01HF61BSQ",
+        "B017V0SKNA",
+        "B07G3BNXR6",
+        "B00HNPRX14",
+        "B077J3XDDW",
+        "B076VSN7TR",
+        "B0789G8KTG",
+        "B07BBL8H7Q",
+        "B01K5SB2QC",
+        "B000REKQ80",
+        "B01M9AZ5Q7",
+        "B00N1IRZTW",
+        "B07199BSMC",
+        "B06WLNZJS5",
+        "B077J5FDNV",
+        "B00NG0MSPQ",
+        "B00EC51DCS",
+        "B00B58QGVS",
+        "B01K8K63TI",
+        "B072R1D41H",
+        "B01NAJ9KPS"
+    ],
+    "rating": "3.0"
+}

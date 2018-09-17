@@ -1,0 +1,91 @@
+{
+    "asin": "B005B6GG7E",
+    "title": "Uni Highlighter Propus Window, 5 Soft Color Set (PUS102T5CS)",
+    "brand": "uni",
+    "feature": [
+        "Uni Highlighter Propus Window",
+        "5 color set",
+        "PUS102T5CS"
+    ],
+    "description": "Uni Highlighter Propus Window, 5 soft color set",
+    "price": 711.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 550.0,
+        "width": 70.0,
+        "height": 240.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51duIx7rayL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51xtdVbyoZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31IvBw9DUuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41iXBo%2B30hL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51WMGzBG3PL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51XIJRdTXzL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "1064954",
+            "title": "Office Products"
+        },
+        {
+            "node": "1069242",
+            "title": "Office & School Supplies"
+        },
+        {
+            "node": "1069784",
+            "title": "Writing & Correction Supplies"
+        },
+        {
+            "node": "1069794",
+            "title": "Markers & Highlighters"
+        },
+        {
+            "node": "1069798",
+            "title": "Highlighters"
+        }
+    ],
+    "similar": [
+        "B072JL4W4R",
+        "B001MTFYAY",
+        "B07BNC839L",
+        "B017JWQ5H8",
+        "B01M71S9DU",
+        "B001HA12M2",
+        "B07GBTG58Z",
+        "B00006IEJ2",
+        "B002CKKVZK",
+        "B00F6N56F0",
+        "B0027MDL3C",
+        "B0752WWCTN",
+        "B00XXA8PTW",
+        "B079CLWWS6",
+        "B07C75CR7N",
+        "B0176BV0MC",
+        "B00MTIGBT0",
+        "B00IKL30RQ",
+        "B0060S2V8K",
+        "B07CFH365Z",
+        "B00TEXLC88",
+        "B01FYY7KOA",
+        "B0066M75YK",
+        "B07664425F",
+        "B00006IQCV",
+        "B00V86BJU0",
+        "B0017D2L42",
+        "B012APXVBM",
+        "B00OQQ05S6",
+        "B06Y6HCWQZ",
+        "B0066LZLEC",
+        "B01FV0FBX4"
+    ],
+    "rating": "4.4"
+}

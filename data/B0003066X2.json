@@ -1,0 +1,76 @@
+{
+    "asin": "B0003066X2",
+    "title": "Sennheiser ME66 Short Shotgun Capsule Head for K6 Series",
+    "brand": "Sennheiser",
+    "feature": [
+        "Super-Cardioid / Lobar Pick-up Pattern.",
+        "Works Only With Sennheiser K6 & K6P Powering Modules.",
+        "Low Inherent Self-Noise & High Sensitivity.",
+        "2 Year Warranty.",
+        "Highly Directional."
+    ],
+    "description": "The ME 66 is a shot gun microphone capsule designed for use with the K6 and K6P powering modules. It is especially suitable for reporting, film and broadcast location applications and for picking up quiet signals in noisy or acoustically live environments as it discriminates against sound not emanating from the main pick-up direction. Matte black, anodized, scratch-resistant finish.",
+    "price": 20995.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 160.0,
+        "width": 160.0,
+        "height": 940.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31k44ISEO5L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11974521",
+            "title": "Microphones & Accessories"
+        },
+        {
+            "node": "8882489011",
+            "title": "Microphones"
+        },
+        {
+            "node": "11974631",
+            "title": "Condenser Microphones"
+        },
+        {
+            "node": "11974661",
+            "title": "Vocal"
+        }
+    ],
+    "similar": [
+        "B00KPZMK8U",
+        "B00OZ9C9LK",
+        "B007PDHTUO",
+        "B00TV90BF0",
+        "B01F81UU8M",
+        "B00615M2CC",
+        "B00AMQAZIE",
+        "B01M0FA0EQ",
+        "B01NA9OL98",
+        "B000BQ79W0",
+        "B00DIHUMD2",
+        "B01M4HN1JN",
+        "B00KXQIU5S",
+        "B00KXQIV7K",
+        "B01BRUJRC8",
+        "B00V3R1J0E",
+        "B004S4AK4U",
+        "B01N58YFN8",
+        "B01MXOOM5Q",
+        "B073QP48RV",
+        "B003YM5KWO",
+        "B00093ESSI",
+        "B00I4DGRCU",
+        "B00KIWE6CS",
+        "B00030679K"
+    ],
+    "rating": "5.0"
+}

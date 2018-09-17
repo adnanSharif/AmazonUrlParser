@@ -1,0 +1,81 @@
+{
+    "asin": "B00LICYRVW",
+    "title": "Audio-Technica HP-EP Replacement Earpads for Audio-Technica M-Series Headphones",
+    "brand": "Audio-Technica",
+    "feature": [
+        "M-Series replacement ear pads",
+        "Black",
+        "Pair",
+        "Compatible with: ATH-M20x, ATH-M30x, ATH-M40x, ATH-M50x, ATH-M50, ATH-M50s, ATH-M50RD"
+    ],
+    "description": "M-Series replacement earpads (black, pair). Compatible with: ATH-M20x, ATH-M30x, ATH-M40x, ATH-M50x, ATH-M50, ATH-M50s, ATH-M50RD.",
+    "price": 2499.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 600.0,
+        "width": 280.0,
+        "height": 860.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41K9lroYVaL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "style:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "281407",
+            "title": "Accessories & Supplies"
+        },
+        {
+            "node": "172532",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "11039351",
+            "title": "Headphone Accessories"
+        },
+        {
+            "node": "13880181",
+            "title": "Earpads"
+        }
+    ],
+    "similar": [
+        "B002LBSEQS",
+        "B07BWKJ1BW",
+        "B006NH8768",
+        "B00N0XP2ES",
+        "B00LID8ADM",
+        "B01MFFH54C",
+        "B07FSPF3YV",
+        "B076GYCPXS",
+        "B07G9W16YY",
+        "B00MFDX4YO",
+        "B00LIDDLPO",
+        "B00LICSEKM",
+        "B00OF71WWO",
+        "B00KAKGQCQ",
+        "B00LIDA5NA",
+        "B00M6G1938",
+        "B07FD2HGGG",
+        "B07CYRHZNR",
+        "B075M4TRWR",
+        "B07CHSSDWH",
+        "B07C1GLFVK",
+        "B01D6FKDT8",
+        "B00LID642G",
+        "B00MFDT894",
+        "B071Z56N9P",
+        "B01I2JJ7BI"
+    ],
+    "rating": "4.6"
+}

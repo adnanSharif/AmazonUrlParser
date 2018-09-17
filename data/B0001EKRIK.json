@@ -1,0 +1,71 @@
+{
+    "asin": "B0001EKRIK",
+    "title": "Cetaphil Moisturizing Cream - 3 oz",
+    "brand": "Cetaphil",
+    "feature": null,
+    "description": "Cetaphil Moisturizing Cream For Sensitive Dry Skin is a non-comedogenic moisturizer that is dermatologist tested and approved. It is also a fragrance-free moisturizer that comes in a 3-oz tube for easy dispensing. Cetaphil can be used on the body or face, wherever moisturizer is needed.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 590.0,
+        "width": 140.0,
+        "height": 240.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41pbZtAtJGL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11060661",
+            "title": "Moisturizers"
+        },
+        {
+            "node": "11060681",
+            "title": "Creams"
+        }
+    ],
+    "similar": [
+        "B00D7BZNT2",
+        "B07DCS2WP6",
+        "B00006IV22",
+        "B01IA9DHJI",
+        "B00TTD9BRC",
+        "B001ET76EE",
+        "B01IA9DZ8Q",
+        "B01MG4PVTR",
+        "B000052YMR",
+        "B07CYCM1NN",
+        "B002MSN3QQ",
+        "B01IA9DSUG",
+        "B01MSSDEPK",
+        "B007FZR99I",
+        "B07CXW9Y46",
+        "B00SNOACEO",
+        "B00FSBIXNC",
+        "B0194E41RU",
+        "B0779P535X",
+        "B004ML4XW4",
+        "B00HNWNXAW",
+        "B00JGQ8G8C",
+        "B00113HNB4",
+        "B00T7260EC",
+        "B01MG4PSK4",
+        "B01IA9DNRY"
+    ],
+    "rating": "4.5"
+}

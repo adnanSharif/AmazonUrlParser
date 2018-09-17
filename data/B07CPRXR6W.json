@@ -1,0 +1,86 @@
+{
+    "asin": "B07CPRXR6W",
+    "title": "Audio-Technica ATH-M60X Closed-Back Dynamic Monitor Headphones",
+    "brand": "Audio-Technica",
+    "feature": [
+        "Designed for studio, broadcast and mobile applications, and carefully crafted with key metal components for lasting durability",
+        "Uses the same large-aperture drivers as ATH-M50x headphones, delivering exceptional clarity, extended frequency range, and accurate bass response",
+        "Low-profile, closed-back, on-ear design provides excellent sound isolation and a great fit",
+        "Memory foam earpads and headband provide excellent comfort and durability",
+        "Comes with three interchangeable cables (1.2 m - 3.0 m coiled, 3.0 m straight, and 1.2 m straight \u2013 each with a 3.5 mm (1/8\") mini-plug)",
+        "Also comes with a 6.3 mm (1/4\") screw-on adapter and a protective carrying pouch"
+    ],
+    "description": "Pure. Professional. Performance. Designed for studio, broadcast and mobile applications, the ATH-M60x on-ear professional monitor headphones utilize the same proprietary 45 mm large-aperture drivers found in the legendary ATH-M50x headphones, delivering exceptional clarity throughout an extended frequency range with accurate bass response. The low-profile, closed-back, on-ear design provides excellent sound isolation and a great fit, which is enhanced by the exceptional comfort and durability of the memory foam ear pads and headband. The headphones come with three interchangeable cables (1.2 m - 3.0 m coiled, 3.0 m straight, and 1.2 m straight - each with a 3.5 mm (1/8\") mini-plug), a 6.3 mm (1/4\") screw-on adapter, and a protective carrying pouch.",
+    "price": 19900.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 170.0,
+        "length": 900.0,
+        "width": 400.0,
+        "height": 500.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41S0p7sEgTL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41GH%2Bfr1xRL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31gVBYLgC9L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41dg63gW7HL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/419GYPrfBCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41SHrwoMmwL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11973111",
+            "title": "Studio Recording Equipment"
+        },
+        {
+            "node": "11974971",
+            "title": "Headphone & In-Ear Audio Monitors"
+        },
+        {
+            "node": "9059094011",
+            "title": "Headphones"
+        }
+    ],
+    "similar": [
+        "B0798TVDVJ",
+        "B01M7Z0VKR",
+        "B00HVLUQW8",
+        "B00NT08MAI",
+        "B071236L4G",
+        "B075M4TRWR",
+        "B00HVLUR86",
+        "B00004SY4H",
+        "B00DQMJE7E",
+        "B076BXN5MD",
+        "B07HCLM9C8",
+        "B00L1O2PDY",
+        "B00HVLUR54",
+        "B01KVYF5MW",
+        "B000MQBY0W",
+        "B002LBSEQS",
+        "B00N0XP2ES",
+        "B016YJDV74",
+        "B07D56463L",
+        "B079GZT36P",
+        "B079GXX42J",
+        "B00018MSNI",
+        "B004XPFX1E",
+        "B07GVQQD35",
+        "B00HVLUR18",
+        "B00C4VFYFY",
+        "B0006B486K",
+        "B00NLHBZ30",
+        "B00SC80YLM",
+        "B00LIDA5NA",
+        "B0046VZG94",
+        "B000065BPB",
+        "B01710XOA4"
+    ],
+    "rating": "3.5"
+}

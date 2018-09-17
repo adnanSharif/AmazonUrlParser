@@ -1,0 +1,99 @@
+{
+    "asin": "B07B7YPKQX",
+    "title": "GoPro - HERO HD Waterproof Action Camera",
+    "brand": "GoPro",
+    "feature": [
+        "2-Inch Touch Screen - Quickly switch between modes, frame the perfect shot and check out your footage on the 2-inch touch screen",
+        "Waterproof + Durable - Built tough and waterproof down to 33ft (10m), HERO goes where your smartphone can't to capture every adventure with no worries",
+        "Voice control\u00a0\u200b-\u00a0control your Hero hands-free with simple voice commands Like \u201cGoPro, start recording\u201d and \u201cGoPro, take a photo \u201d",
+        "Wi-Fi + Bluetooth - Connect to the GoPro app to control your camera remotely, check out your shots and share your favorites on the spot",
+        "Auto Offload to Your Phone When Connected to the GoPro App - Your footage moves to the GoPro app which creates fun, shareable videos for you-automatically"
+    ],
+    "description": "With a touch screen and durable waterproof design, HERO makes it easy to score awesome shots of any adventure. Or use it to capture everyday things from creative new perspectives. Your moments move right to the GoPro app and transform into amazing videos, automatically (1). Wherever life takes you, capture and share your story with HERO.(1) QuikStories requires the GoPro and Quik mobile apps, available free for iOS and Android. To create a QuikStory, your HERO must be connected to the GoPro app.The Temperature icon appears on the camera status screen when the camera becomes too hot and needs to cool down. Simply let it sit and cool before attempting to use it again. Your camera was designed to identify conditions of overheating and shuts down when needed.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 101.0,
+        "length": 180.0,
+        "width": 240.0,
+        "height": 130.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41vk-9DwGKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31xNZ6jWgmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31c1ZuTz-AL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31L2cwfPV5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31Z-HLd8--L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31lIVO8oaQL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "GoPro HERO"
+        },
+        {
+            "name": "Configuration:",
+            "value": "w/o GoPro Plus"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "502394",
+            "title": "Camera & Photo"
+        },
+        {
+            "node": "7161073011",
+            "title": "Video"
+        },
+        {
+            "node": "7161074011",
+            "title": "Sports & Action Video Cameras"
+        }
+    ],
+    "similar": [
+        "B01M4I7RKG",
+        "B07DB47T8T",
+        "B07DFXX4JY",
+        "B01MT0TJOM",
+        "B07BST7Z9Y",
+        "B0025UEQQW",
+        "B071L3QRP8",
+        "B00UBMO61G",
+        "B074X5WPC5",
+        "B01AV8PPOQ",
+        "B0772RR88K",
+        "B07CVNK381",
+        "B0156KUC1A",
+        "B07GXFR7YR",
+        "B06XCPC7GC",
+        "B075291F76",
+        "B0755PDKCN",
+        "B07FM5RTKR",
+        "B07DRLV72Y",
+        "B07DWKBM18",
+        "B00PMMB4X8",
+        "B01C80O0ZU",
+        "B01LZTLCFX",
+        "B01M14ATO0",
+        "B07DW6H992",
+        "B016L285HU",
+        "B01171X0UW",
+        "B00F19PYR4",
+        "B06XWMMPGV",
+        "B07DW1B11B",
+        "B01B6QGJ42",
+        "B01GCKO96C",
+        "B07CKN1BH9",
+        "B06XWLWH6Y",
+        "B0792MJLNM",
+        "B00L0X5ZW4",
+        "B01B6QGNYI",
+        "B06XX29S9Q"
+    ],
+    "rating": "3.8"
+}

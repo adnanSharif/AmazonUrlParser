@@ -1,0 +1,105 @@
+{
+    "asin": "B01D8CGQ1I",
+    "title": "Mokungit WS2812B LED Strip Lights WS2812B Individual Addressable WS2811 Built-in 5050 RGB Digital Dream color Flex DC5V Programmable LED Strip Light (3.2ft 144leds/m, Black PCB IP65)",
+    "brand": "Mokungit",
+    "feature": [
+        "Individually Addressable dream full color Programmable LED Strip, WS2811 IC Built in 5050SMD.256 brightness display and 24-bit color display.",
+        "Works great with Arduino and is easy to program. can appear colorful curtain-up/ flow water/raindrop/jump flash and so on hundreds of lighting effect with WS2812B controller, you can also edit animation effect by Coreldraw/Flash/LedEdit software.",
+        "The addressable IC is built-in the 5050SMD. one pixel IC control one 5050RGB. Each pixel can have its own color and brightness as your wish. Can be cut each 5050SMD individually, and will works great without damage.",
+        "Black FPCB, JST-SM connectors on both ends for easy installation.Covered with clear silicone coating. IP65 waterproof. Work under DC5V, Low voltage for human safety , low power consumption, energy-saving , Super-bright but running with low temperature.",
+        "Making led screen, led wall, advertising board, apply to hotel, KTV, bars, Outdoor advertising signs, Festivel Christmas or wedding party decoration,It has adhesive glue on the back, so you can stick it to the wall or other items conveniently as you like."
+    ],
+    "description": "1. Model: WS2812 strip 5050rgb chips 2. Working Voltage: DC5V 3. Wattage: max 43.2W/meter 4. Signal:WS2812B (WS2811 chip built-in LED) 5. Wave length(NM):R,650nm ; G,520nm ; B,460nm 6. LED Quantity: 144leds / m, 1meter / roll, one pixel IC control one 5050 led 8. View angle:120 9. Life span:more than 50000hrs 10. PCB color: Black 11. Protection rate: Waterproof in Silicon Coating IP65 12. Length:1meters / 3.2ft 13. FPCB Width:12mm 14. Product Dimensions:L1000mmxW12mmxH3mm 1x 1M WS2812B 144 leds/M Black PCB Waterproof DC5V LED Strip 1x 3pin female JST connector 1. Search for \"Mokungit\" on Amazon to know more about Mokungit's products and details. 2. Using voltage 5V. higher than 6V will destroy it. 3. If you need better led strip performance, you can use a led controller.Related product links will give you a choice. 4. The LED strip is made of 50cm FPCB, so each 50cm led strip has a solder joint.The solder point will not effect on the strip's performance.Most of the LED strips on the market are manufactured to a half meter length. 5. If you need more data of WS2812B, please contact us and we will send it to you.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 24.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51vT3WeCloL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51zJ1t9J%2BFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/516YosV5%2BjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51sXpZCThIL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41afZtHlEjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51X6uy0PF6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41FyRFQoO5L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "3.2ft 144leds/m"
+        },
+        {
+            "name": "Color:",
+            "value": "Black PCB IP65"
+        }
+    ],
+    "categories": [
+        {
+            "node": "1055398",
+            "title": "Home & Kitchen"
+        },
+        {
+            "node": "13679381",
+            "title": "Seasonal D\u00e9cor"
+        },
+        {
+            "node": "3736751",
+            "title": "Seasonal Lighting"
+        },
+        {
+            "node": "15704861",
+            "title": "Rope Lights"
+        }
+    ],
+    "similar": [
+        "B0776RLGZW",
+        "B01NCAG8KV",
+        "B01D8BQHCM",
+        "B01B5I6F1I",
+        "B01N2454TC",
+        "B01LW1J10W",
+        "B077D2ZL23",
+        "B0798NG8KJ",
+        "B019DYZNO6",
+        "B019I36G52",
+        "B0131VM9I0",
+        "B079B834PB",
+        "B01DLYSH6U",
+        "B01M637AS3",
+        "B00ZHB9M6A",
+        "B01C89E61E",
+        "B077D41WS9",
+        "B06XC5NY89",
+        "B075VRNKMV",
+        "B00VQ0D2TY",
+        "B01B2DK89Q",
+        "B01D1HXYOW",
+        "B07BKQZLDL",
+        "B071ZFJKVW",
+        "B075VQZ4M3",
+        "B079MC16DJ",
+        "B0776PYGWH",
+        "B01CDTEJR0",
+        "B01DLYSHKQ",
+        "B01DC0IPVU",
+        "B01M3SR3F8",
+        "B06Y4716V7",
+        "B018X04ES2",
+        "B07BKPS3G1",
+        "B01MSOT9LZ",
+        "B06XXCC17Y",
+        "B019ICTBXC",
+        "B01B1I21OM",
+        "B01D2VT496",
+        "B01M6VYDAI",
+        "B075VSBBBQ",
+        "B01CNL6LLA",
+        "B07CWZ64WJ"
+    ],
+    "rating": "4.0"
+}

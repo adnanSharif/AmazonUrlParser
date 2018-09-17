@@ -1,0 +1,97 @@
+{
+    "asin": "B01L9O07J4",
+    "title": "AmpliFi HD WiFi MeshPoint by Ubiquiti Labs, Seamless Whole Home Wireless Internet Coverage, Replace WiFi Range Extenders, Expand Mesh WiFi System, Add to AmpliFi Router or Third Party Routers",
+    "brand": "AmpliFi",
+    "feature": [
+        "WIFI RANGE EXTENDER REPLACEMENT: AmpliFi MeshPoints feature adjustable super antennas that can be placed discreetly in almost any location in your house, wherever dead spots need coverage. Signal strength LEDs are integrated into the design to provide immediate and continuous feedback to ensure system is positioned for optimal performance.",
+        "802.11AC TECHNOLOGY FOR FASTER SPEEDS AND BETTER COVERAGE: AmpliFi HD is more than a wireless router: it\u2019s the ultimate WiFi system. With turbocharged 802.11ac WiFi, AmpliFi utilizes multiple self-configuring radios and advanced WiFi antenna technology to bring ubiquitous secure WiFi coverage to any home network. Delivers connectivity needed in today\u2019s modern home for 4k streaming, smart home products, gaming, vid chats, downloads, and working from home.",
+        "EXPAND AS NEEDED: Featuring Mesh technology, the AmpliFi MeshPoint can be added to your AmpliFi WiFi System, AmpliFi Router, or to ALMOST ANY third-party router. Each MeshPoint adds approximately 2,000 sq ft. of additional coverage to your mesh WiFi system.",
+        "INSTANT SETUP: The intuitive, easy to use AmpliFi app allows you to setup your MeshPoint in 5 minutes. It also features configuration options, powerful reporting metrics, parental controls, remote access, and easy guest access. The mobile app is available for Android and iOS smartphones.",
+        "WIFI TECHNOLOGY EXPERTISE: The AmpliFi home wireless system is designed by Ubiquiti Labs, a division of Ubiquiti Networks, a global leader in developing WiFi access points, WiFi antennas, network switches, Internet gateways, security cameras, VoIP phones, smart home and outdoor WiFi solutions."
+    ],
+    "description": "The AmpliFi HD (High-Density) Home Wi-Fi System includes a Mesh Router and 2 MeshPoints for Wi\u2011Fi coverage throughout your home. The AmpliFi HD system delivers maximum throughput to meet your streaming and gaming demands with lag-free performance. The Mesh Router features an innovative and simple design with an intuitive touchscreen display so you can easily check your performance and network status. The MeshPoints provide enhanced coverage to eliminate dead spots in your home. Download the AmpliFi app (iOS and Android) for instant setup and easy management. WHOLE-HOME RANGE: Robust coverage throughout your entire home. The AmpliFi system covers your entire home with a single Wi-Fi network, enabling seamless connectivity from room to room. The system is self-optimizing to ensure you always have the best connection. Mix-and-match AmpliFi Routers and MeshPoints together for ultimate coverage and customize to fit your home. INSTANT SETUP: AmpliFi replaces your current router, and works with your current modem and Internet service provider. It\u2019s compatible with major ISPs including AT&T, Comcast, Time Warner, Spectrum, and Verizon FiOS. Download the AmpliFi app, plug in the Mesh Router & MeshPoints, and with a few taps in the app your network is live. INTUITIVE CONTROL: Easily monitor the status of your network, see and prioritize connected devices, and control access. Create family profiles, set schedules, or pause access to the Internet. Grant access for guests in the app without sharing or forgetting passwords. BEAUTIFUL DESIGN: AmpliFi\u2019s uncompromising industrial design is meant to complement your home. Show it off proudly; your router is no longer something to hide. The touch screen control means you always know the status of your connection without having to interpret confusing blinking lights like other routers.",
+    "price": "",
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 150.0,
+        "length": 210.0,
+        "width": 229.99999999999997,
+        "height": 960.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/21K4THlAggL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41JYi-DqGBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/410rWL55NyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31WuSmeY0dL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Rs7gBfzRL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "17935294011",
+            "title": "Whole Home & Mesh Wi-Fi Systems"
+        }
+    ],
+    "similar": [
+        "B01HTANYQA",
+        "B07CNZ9PXC",
+        "B01MSSUG2H",
+        "B07957BPDZ",
+        "B072M4YJHD",
+        "B077DRN8YP",
+        "B07957J7BV",
+        "B01MAW2294",
+        "B079S3NVV4",
+        "B07C7Q7BRF",
+        "B07BNYBJFJ",
+        "B075N6JQND",
+        "B07GX4ZJV5",
+        "B0754LGR2N",
+        "B01L9O07FS",
+        "B01N6SKK1G",
+        "B06WVCB862",
+        "B01MDJ0HVG",
+        "B07DFSYL8T",
+        "B07B6J1DKZ",
+        "B01K4CZOBS",
+        "B01N9FIELY",
+        "B071DWXLYL",
+        "B06X6NJVD6",
+        "B00MA5U1FW",
+        "B01N2NLNEH",
+        "B01KG95Z54",
+        "B008TSPX2U",
+        "B017T2QB22",
+        "B01COA6SNG",
+        "B01L9O08UM",
+        "B079VMHPQY",
+        "B01L9O08PW",
+        "B07BB4RGQD",
+        "B07761J3XY",
+        "B071HHK2PN",
+        "B079187FR1",
+        "B077VV7R2V",
+        "B00R92CL5E",
+        "B079DSW6XX",
+        "B00HXT813E"
+    ],
+    "rating": "4.3"
+}

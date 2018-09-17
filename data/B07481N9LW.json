@@ -1,0 +1,80 @@
+{
+    "asin": "B07481N9LW",
+    "title": "BIOSTAR TB250-BTC+ 8 GPU SUPPORT LGA 1151 Core i7/i5/i3 LGA1151 Intel B250 DDR4",
+    "brand": "Biostar",
+    "feature": [
+        "BIOS setting changes are required to use 8 GPUs.",
+        "Supports 8 AMD or Nvidia GPUs for mining.",
+        "Core i7 / i5 / i3 / Pentium / Celeron (LGA1151)",
+        "DDR4 2400/ 2133/ 1866",
+        "Chipset Intel B250"
+    ],
+    "description": "The cost of a mining system is always such a thing that a miner cares about the most. Now BIOSTAR TB250-BTC PRO saves all professional miners\u2019 money efficiently and wisely! You can build up one crypto mining system with TB250-BTC PRO, loaded up to 12 GPUs to earn even much more profit than that of two systems with the setup of TB250-BTC and 6 GPUs respectively. Intel B250 7th & 6th Gen Intel Core i7 LGA 1151 Processor 7th & 6th Gen Intel Core i5 LGA 1151 Processor 7th & 6th Gen Intel Core i3 LGA 1151 Processor 7th & 6th Gen Intel Pentium LGA 1151 Processor 7th & 6th Gen Intel Celeron LGA 1151 Processor Maximum CPU TDP (Thermal Design Power) : 95Watt Support Dual Channel DDR4 2400/ 2133/ 1866 MHz 2 x DDR4 DIMM Memory Slot Max. Supports up to 32GB Memory * DDR4 2400 for 7th Generation Intel Core Processor Family 1 x PCI-E x16 3.0 Slot 11 x PCI-E x1 3.0 Slot(Note: PEX1_6/7/8/9/10/11 slot are not compatible w/ ATX standard, users need extra coonecting kit to install VGA card for crypto mining.) 6 x SATA3 Connector 4 x USB 3.0 Port 1 x USB 3.0 Header 2 x USB 2.0 Port 2 x USB 2.0 Port(only 5V power, up to 1.5A) 2 x USB 2.0 Header Realtek RTL8111H - 10/100/1000 Controller Support Super LAN Surge Protection By CPU model Supports DX12 Supports HDCP Realtek ALC887 8-Channel HD Audio 1 x PS/2 Mouse 1 x PS/2 Keyboard 4 x USB 3.0 Port 2 x USB 2.0 Port 2 x USB 2.0 Port(only 5V power, up to 1.5A) 1 x DVI-D Connector, resolution up to 1920 x 1200 @60Hz 1 x RJ-45 Port 3 x Audio Connector",
+    "price": "",
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 190.0,
+        "length": 100.0,
+        "width": 100.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41ReOtM4qkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51r877bzdeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31tJNgmTFWL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "1048424",
+            "title": "Motherboards"
+        }
+    ],
+    "similar": [
+        "B07988FLFW",
+        "B076MP4M8W",
+        "B073BX57M1",
+        "B00L87YMGM",
+        "B07C4PH429",
+        "B074XBM459",
+        "B01LMZZFWO",
+        "B075RJHN2D",
+        "B01C7ZOO2A",
+        "B00QL3MHTC",
+        "B01MYTY55V",
+        "B07CR1591W",
+        "B074PS39BK",
+        "B074WX7L6V",
+        "B0736PV196",
+        "B077Y5JBQ5",
+        "B073ZMZV6K",
+        "B01B2PJRPA",
+        "B077WW5N5R",
+        "B072XGDWB3",
+        "B075RHWCC4",
+        "B075RJP22C",
+        "B075KFPJ6M",
+        "B075RJ8WN2",
+        "B015VPX05A",
+        "B07C596X85",
+        "B005VKK3ME"
+    ],
+    "rating": "3.2"
+}

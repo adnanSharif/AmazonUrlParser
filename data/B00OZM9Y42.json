@@ -1,0 +1,77 @@
+{
+    "asin": "B00OZM9Y42",
+    "title": "ERA-200DC-1A2VDR Casio Wristwatch",
+    "brand": "Casio",
+    "feature": [
+        "Casio Edifice Black Ion Plated Series Watch Era200dc-1a2"
+    ],
+    "description": "Casio Edifice Black Ion Plated Series Watch Era200dc-1a2",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 110.00000000000001,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51beye-B-BL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61qROMyCEeL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/611G5SgcwJL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51gNVJh3ufL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/517h%2B9lIPoL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/313qnK4O6OL._SR38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147440011",
+            "title": "Women"
+        },
+        {
+            "node": "6358543011",
+            "title": "Watches"
+        },
+        {
+            "node": "6358544011",
+            "title": "Wrist Watches"
+        }
+    ],
+    "similar": [
+        "B004W3RITC",
+        "B00M9ZDFNS",
+        "B000GAYQKO",
+        "B00CTNY3DQ",
+        "B000GB0G7A",
+        "B000GAWS9U",
+        "B00YCI36RA",
+        "B0783GPW17",
+        "B074CKDTKR",
+        "B0776S5WG1",
+        "B078S9B963",
+        "B00QXGT72W",
+        "B00QR0PUHA",
+        "B000GAWS7W",
+        "B017IDNURG",
+        "B000GB0G2A",
+        "B0797JFDL6",
+        "B078J519WY",
+        "B000GAYQJ0",
+        "B01N7XKNSX",
+        "B000LAKYW8",
+        "B003URWNQE",
+        "B01LY9SC3Z",
+        "B077KCN2LG",
+        "B00KU6AUZ4",
+        "B013DL6S08",
+        "B000GAWSHM",
+        "B07657P1FN",
+        "B071ZTDSLG"
+    ],
+    "rating": "3.1"
+}

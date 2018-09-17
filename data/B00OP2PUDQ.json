@@ -1,0 +1,100 @@
+{
+    "asin": "B00OP2PUDQ",
+    "title": "Phanteks 140mm, PWM, High Static Pressure Radiator Retail Cooling Fan PH-F140MP_BK_PWM",
+    "brand": "Phanteks",
+    "feature": [
+        "The new redeveloped blades in PH-F140MP are bigger and designed to achieve higher air pressure. The redesigned MVB II blades generate better airflow and produces better performance.",
+        "It improves the balance of airflow and air pressure when using with as a cooler fan or case fan. The PH-F140MP has a larger base size with a magnetic brushless DC motor to avoid the effects of resonance and for rotational stability.",
+        "With the noise reduction challenges in mind, we modified the component for lower actuator noise, PCBA for lower electromagnetic noise, brushless motor structure for lower operating noise and frame rib for lower wind and vibration noise.",
+        "The new seven high static pressure MVB II blades are bigger and designed to generate a silent controlled airflow.",
+        "The blades produces a downdraft vortex allowing for greater amount of air passage through and reduce airflow turbulence across the surface of the blades to create significantly better performance and airflow while keeping noise to a minimum.",
+        "Composed by MOSS and SSC systems, Phanteks' UFB bearings have an effective hub-tip ratio to achieve a state of equilibrium reducing air and vibration noise.",
+        "SSC provides an increase in the bearing's lifespan and ensures that the fan's axis is consistently operational and quiet.",
+        "PH-F140MP_PWM's PWM functions allow users to adjust speed from 500 - 1600 RPM. Higher speed for performance and lower for silent operation by motherboard control."
+    ],
+    "description": "The PH-F140MP, 140mm high static pressure premium fans from Phanteks is designed with the Maelstrom concept technology. The fans have PWM built-in, creating less cables which allows users to make speed adjustments from 500-1600RPM. The PH-F140MP, a high static pressure fan, can have the ability to overcome the airflow restriction caused by high fin density. PH-F140MP produces high static air pressure allowing for a direct and focusing airflow making them ideal for the densely packed fins of a radiator. With the addition of the UFB Bearing, a longer lifespan and stability is possible.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 65.0,
+        "length": 550.0,
+        "width": 100.0,
+        "height": 550.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41sG5nGzYkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41tarMNn70L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41xUNoQ61GL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41zlOTWAKyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41xXSWfGB4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51LuwSy5TXL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Capacity:",
+            "value": "140mm"
+        },
+        {
+            "name": "Color:",
+            "value": "Black/White"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012290011",
+            "title": "Fans & Cooling"
+        },
+        {
+            "node": "11036291",
+            "title": "Case Fans"
+        }
+    ],
+    "similar": [
+        "B00OP2PUB8",
+        "B074Q4Y16V",
+        "B01M5JD5VY",
+        "B01G5I6RK2",
+        "B016NHRIU8",
+        "B00M0R05WE",
+        "B00H91BQ7Y",
+        "B01N0XQ7XC",
+        "B014I8UQJY",
+        "B01HUFMIZ2",
+        "B005G3010U",
+        "B00KF7O58G",
+        "B01BZIBJAK",
+        "B07BXYWJ9K",
+        "B07654PNFQ",
+        "B015BSAQ0O",
+        "B00E9NZV4Y",
+        "B07654B9MR",
+        "B00MZ5QWE6",
+        "B00E9NZX7E",
+        "B00NC08EE4",
+        "B01BYO79UE",
+        "B07D2N911K",
+        "B06XXXB633",
+        "B075CY8GG2",
+        "B00M0R6IFW",
+        "B074Q5MFX5",
+        "B071W6HJP6"
+    ],
+    "rating": "4.6"
+}

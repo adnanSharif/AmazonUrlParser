@@ -1,0 +1,92 @@
+{
+    "asin": "B009IV32AM",
+    "title": "Hoya 49mm alpha Circular Polarizer Filter",
+    "brand": "Hoya",
+    "feature": [
+        "Warranty"
+    ],
+    "description": "Light rays which are reflected by any surface can become polarised so polarising filters are used to select which light rays enter your camera lens. CIR-PL filters allow you to remove unwanted reflections from non-metallic surfaces such as water, glass etc. They also enable colors to become more saturated and appear clearer with better contrast. This effect is often used to increase the contrast and saturation in blue skies and white clouds. HOYA's polarising filters do not affect the overall color balance of a shot.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 300.0,
+        "width": 300.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41zlXoWya4L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "49mm"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "502394",
+            "title": "Camera & Photo"
+        },
+        {
+            "node": "172435",
+            "title": "Accessories"
+        },
+        {
+            "node": "499262",
+            "title": "Filters & Accessories"
+        },
+        {
+            "node": "3109907011",
+            "title": "Polarizing Filters"
+        }
+    ],
+    "similar": [
+        "B009IY9FMS",
+        "B009WQEBYO",
+        "B00XNMYJKO",
+        "B01FNAJUBQ",
+        "B00004ZC9L",
+        "B000KKVFD6",
+        "B0752XM2N2",
+        "B01FEDCN98",
+        "B00PL6EXNS",
+        "B0186G5VWG",
+        "B01FGHVQNQ",
+        "B013HD1U1O",
+        "B0000BZL28",
+        "B007PCP2OU",
+        "B009IYG5V2",
+        "B00344E5DW",
+        "B01CXHX4E6",
+        "B009IVXMM0",
+        "B009WDIMH4",
+        "B01DQ0C6MK",
+        "B01422T5T8",
+        "B0000AI1F0",
+        "B009IY72OQ",
+        "B00004ZC9V",
+        "B002N1WACA",
+        "B01FGHV4Y2",
+        "B01FGHVKAU",
+        "B014V0X3US",
+        "B008VTILXA",
+        "B00XNMX4EG",
+        "B00009KLAG",
+        "B009IY3U3I",
+        "B009IYBR56",
+        "B01DQ0FV36",
+        "B009IY2A5C",
+        "B009IX994S",
+        "B00004ZCJF",
+        "B00PRCDX6O",
+        "B077QY5PB2",
+        "B009LMCAXI"
+    ],
+    "rating": "4.4"
+}

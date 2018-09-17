@@ -1,0 +1,61 @@
+{
+    "asin": "B00E3B1DSU",
+    "title": "Rogaine Mens Foam Triple Pack",
+    "brand": "Rogaine",
+    "feature": null,
+    "description": "Rogaine for Men Hair Regrowth Treatment, Easy-to-Use Foam, 3 Month Supply (3 Packs- 2.11 oz Cans) \u2026",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 65.0,
+        "length": 720.0,
+        "width": 340.0,
+        "height": 470.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51g-p1ChKJL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "10898755011",
+            "title": "Hair Loss Products"
+        },
+        {
+            "node": "11057581",
+            "title": "Hair Regrowth Treatments"
+        }
+    ],
+    "similar": [
+        "B00JOPYQUM",
+        "B01H5GS8T6",
+        "B01904PI6W",
+        "B00KU8FYN0",
+        "B01NBH0C91",
+        "B01F9BQF9E",
+        "B00AINMFAC",
+        "B01A845EFS",
+        "B01B29PCUU",
+        "B079VW9VBM",
+        "B0012BNVE8",
+        "B01ENCBOA0",
+        "B00BMLOKHU",
+        "B0185PXU3K",
+        "B005IHSVII",
+        "B00HG1JFXY",
+        "B00JELGXNO",
+        "B0000Y8H3S",
+        "B00GIYZ14C",
+        "B01DQ09EYS"
+    ],
+    "rating": "3.7"
+}

@@ -1,0 +1,61 @@
+{
+    "asin": "B0002GOK08",
+    "title": "Dava 0109 Master Control Nickel Silver",
+    "brand": "Dava",
+    "feature": [
+        "Master Control Pick"
+    ],
+    "description": "Master Control Hang Bag",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 2.0,
+        "length": 400.0,
+        "width": 400.0,
+        "height": 200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41kVXI7ULLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/218I5k-DBsL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black/Silver"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11965871",
+            "title": "Instrument Accessories"
+        }
+    ],
+    "similar": [
+        "B07G9Z3QZK",
+        "B0002GOJZO",
+        "B01N1HJKKX",
+        "B00N4ZHPZ6",
+        "B07BJ2C6FB",
+        "B004A15AZ0",
+        "B001QJGYIG",
+        "B07F81LG7K",
+        "B076JB75FT",
+        "B01N9Z2D2S",
+        "B003NX2P0E",
+        "B078VNYZH7",
+        "B0785JVJ5Q",
+        "B00VYQABEE",
+        "B00106OTJG",
+        "B00154OJOI",
+        "B01N9PU319",
+        "B07F75YNGD",
+        "B0092V7WJ0",
+        "B07C3JGX7X"
+    ],
+    "rating": "4.1"
+}

@@ -1,0 +1,89 @@
+{
+    "asin": "B07B3SVPPX",
+    "title": "AUKEY USB C Hub [All in ONE] with Ethernet, 100W Power Delivery, 4K HDMI, VGA, SD/TF Card Reader, 2 USB 3.0 Ports for MacBook Pro 2017 iMac, Google Chromebook Pixelbook (Space Gray)",
+    "brand": "AUKEY",
+    "feature": [
+        "8 in 1 Multiplied Ports: Turn a single USB C port into six ports and two card slots for data transfer, display expansion, internet connection, and charging",
+        "Alternative Video Outputs: Connect a display to your computer using either the HDMI port (4K@30Hz Max resolution) or VGA port (1080p Max resolution). If both are connected, only HDMI will output",
+        "Convenient Charging: The 100W USB Type-C Power Delivery charging port keeps charging your MacBook Pro or other compatible USB Type-C PD laptop (using the original laptop power adapter) while you\u2019re using the other functions of the hub",
+        "Fast Data Transfer and Network Connection: USB 3.1 Gen 1 (USB 3.0) ports support data transfer rates up to 5Gbps. SD and micro SD card slots (USB 2.0) support data transfer rates up to 480Mbps (only one card slot can be used at a time). Gigabit Ethernet port supports 10/100/1000Mbps network speeds",
+        "Package Contents: AUKEY CB-C55 Multiport USB C Adapter, User Manual, 45-Day Money Back Guarantee and 24-Month Product Replacement Warranty Card"
+    ],
+    "description": "PCs: MacBook Pro, MacBook, iMac 2017, Google Chromebook, Google Pixelbook, Lenovo Yoga 900 & 910Phone: Samsung Galaxy S8(Specifically designed for full compatibility with the above models. Compatibility for other models may vary and can't be warranted)1. The USB-C port on your computer should support video output and Power Delivery for the HDMI and Power Delivery ports to function.2. Use your laptop\u2019s original power adapter to charge your laptop via the USB-C Power Delivery port on this hub.3. When connecting an external hard drive or multiple devices to this hub, connect your laptop\u2019s power adapter to the USB-C Power Delivery port.4. SD and microSD card slots cannot be used simultaneously. Your host device will recognize the card slot which is used first. HDMI and VGA ports can not be used simultaneously.5. The hub supports a maximum of 1 hard drive, for best performance, the power demand of connected devices shouldn\u2019t exceed the total USB output of 5V 0.9A. Devices with high power demand such as Apple USB SuperDrive shouldn\u2019t be connected to the hub.Material: Aluminum alloy, ABS, PCInterfaces: Two USB 3.0 ports, USB C Power Delivery port, HDMI, VGA, Ethernet port, SD and micro SD card slotsInput: DC 5V-20V 3A (Support a max power of 100W to your laptop)HDMI Display Resolution: Up to 4K@30HzVGA Display Resolution: Up to 1080p@60HzUSB Outputs: DC 5V 0.9A (total)Micro SD & SD Card Data Transfer Speed: Up to 480Mbps (USB 2.0)Cable Length: 5.9\u201dDimensions: 4\u201d x 2.3\u201d x 0.7\u201dWeight: 4.2oz",
+    "price": 6498.999999999999,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 36.25,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41vVwl4IqQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41dKjXZvqNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51biYckvN1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51TaYECTNPL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412-ewHwR5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61aU8jkzLVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51le8aIEkQL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "281413",
+            "title": "Hubs"
+        }
+    ],
+    "similar": [
+        "B075V68NVR",
+        "B07H5F5GVL",
+        "B07BR94PPD",
+        "B00OQ19QYA",
+        "B075FZ43MD",
+        "B0761T4DHF",
+        "B077Z7XLJF",
+        "B072268Q68",
+        "B01ISLH4V0",
+        "B07919ZNB4",
+        "B07BVNGBB8",
+        "B077XFZXXL",
+        "B0753G7SJ5",
+        "B075FW7H5J",
+        "B076HN81GS",
+        "B073ZYWWMV",
+        "B071JV4NPS",
+        "B07FPN4KJR",
+        "B00VU2K10G",
+        "B06XFD7VF3",
+        "B079GSMZ7G",
+        "B071XHQJG8",
+        "B071WNXY1R",
+        "B07D33RMRN",
+        "B07F65611Q",
+        "B07DCQY25Y",
+        "B07BK2XL2F",
+        "B07GRKY19F",
+        "B01D175HMO",
+        "B0744DVVNP",
+        "B079PYZJ2B"
+    ],
+    "rating": "3.8"
+}

@@ -1,0 +1,82 @@
+{
+    "asin": "B01B1PWCZI",
+    "title": "Remington Pro 1\u201d Flat Iron with UV-Baked Ceramic Technology, Pink, S8505",
+    "brand": "Remington",
+    "feature": null,
+    "description": "Straighten in just one pass with the Remington Pro 1\u201d Flat Iron with UV-Baked Ceramic Technology. The special 1\u201d ceramic plates are infused with UV powder then baked under a UV light to create a strong surface with superior heat conductivity. The plates contain 4x the ceramic and are 40% harder for faster styling and long-lasting styles.* Combined with salon-quality 430\u00b0F heat, the UV ceramic provides one-pass straightening while preventing frizz and adding shine. *vs standard Remington ceramic straightener",
+    "price": 2699.0,
+    "listPrice": 2999.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 220.00000000000003,
+        "width": 400.0,
+        "height": 1420.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41hGBpsUDjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41BsuZ4uu6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/315ZVPs-SOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31vyH03sWYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51PRGLb7GDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41JYMOL8ykL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11058091",
+            "title": "Styling Tools & Appliances"
+        },
+        {
+            "node": "17168139011",
+            "title": "Irons"
+        },
+        {
+            "node": "11058261",
+            "title": "Straighteners"
+        }
+    ],
+    "similar": [
+        "B01BI7RMMC",
+        "B003V21WO2",
+        "B015SGD4XK",
+        "B01DPW6LFM",
+        "B07CXZQSDZ",
+        "B0058CJV50",
+        "B0751KJ2PN",
+        "B075ZY5K7F",
+        "B00BB8ZHIU",
+        "B01DPZ7SEM",
+        "B0714CCYWM",
+        "B00THH5NH2",
+        "B01DQ014CS",
+        "B01DPZ7VKI",
+        "B07CSYXPNC",
+        "B002N0U37A",
+        "B01DQ01432",
+        "B003S516XO",
+        "B00GGKZBIE",
+        "B01LCXA7EC",
+        "B00EAOWSD4",
+        "B00MMRFUG8",
+        "B01GLVQIDO",
+        "B01DPZTOOE",
+        "B01KXNCTA2",
+        "B06XFPFFPT",
+        "B0751KQ3HT",
+        "B01APTZC08",
+        "B00EM89DQI",
+        "B001MA0QY2",
+        "B01M11EGJ2",
+        "B01DPW6JJA"
+    ],
+    "rating": "4.2"
+}

@@ -1,0 +1,79 @@
+{
+    "asin": "B06ZZH9VR3",
+    "title": "SHCHV Raspberry Pi 3 B + 3.5 Inch TFT Touch Screen 320x480 Lcd Screen + Acrylic Case + 3 x Heat Sinks for Raspberry Pi 3 B+/3 Model B",
+    "brand": "SHCHV",
+    "feature": [
+        "3.5 inch resistive touch screen Module SPI Interface for Raspberry Pi 2 /3 B 320*480 resolution, better display. No external power supply needed.( Note: Raspberry Pi board is Not included)",
+        "2 pcs copper heat sink + 1pcs aluminum heat sink ,Compatible with the cases and raspberry pi 3/2 board",
+        "There are some GPIO port on the 3.5\" LCD. It is very convenience to install the 3.5\" LCD with your raspberry Pi2 and Pi3",
+        "Convenient Men-Machine interface for Raspberry Pi, combined with the portable power, DIY anywhere anytime.",
+        "For the starter: We will provide a variety of official mirrors (with on-screen driver) for Raspberry Pi 3B 2B, simple installation and operation. Detailed tutorials including project introduction and drives CAN BE PROVIDED FOR FREE,contact us BY Email to get documents"
+    ],
+    "description": "Supports any revision of Raspberry Pi (directly-pluggable) Driver provided (works with custom Raspberry pi directly) 320\u00d7480 resolution, better display Supports Raspberry pi system, enables your system Play videos (supports multi formats, MP4 and so on) Support software keyboard (system interaction without keyboard/mouse) High quality immers gold surface plating LCD Interface: SPI LCD Type: TFT Backlight: LED Aspect Ratio : 8:5 Resolution: 320*480 DOTS Power Consumption: TBD Backlight Current: TBD 3.5 inch Touch LCD Display x1 Touch pen x1 Heat sink x3 Acrylic Case x1 Installing on existing systems is not supported. Please backup your system before attempting this If you want to use the 3.5inch at your current system, you should add the Driver debugging system by yourself (need more time to do that ). So we suggest that you use our Driver debugging system and then the 3.5 inch lcd panel can be working well. If you have any problem or not satisfied with our product and service, please feel free to contact us at anytime ,we will reply you within 24 hours. Thank you! Enjoy shopping here! If the monitor is incorrectly connected to the PI pins, the touchscreen cursor cannot be moved and the monitor is damaged!",
+    "price": 1499.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 40.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41CvCN8f1PL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51mNuWLSm8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41UtgB-XXKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41mpXxc6QWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41b0gSoykLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ngx2COgkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61-O0xv6ZvL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "281062",
+            "title": "Monitor Accessories"
+        }
+    ],
+    "similar": [
+        "B0797D3QG9",
+        "B0748MPQT4",
+        "B07F879JH1",
+        "B07F2HHD4S",
+        "B06W55HBTX",
+        "B01FXC5ECS",
+        "B013JECYF2",
+        "B075JFHLQD",
+        "B013P27MDW",
+        "B01CD5VC92",
+        "B07F289GST",
+        "B01NCQU1VE",
+        "B07CZ6NDSS",
+        "B07D8VXWRY",
+        "B01LCNF8FU",
+        "B072558KZ4",
+        "B07G746CXV",
+        "B07BC6WH7V",
+        "B00L87YMGM",
+        "B07BC567TW",
+        "B0153R2A9I",
+        "B07CNX8VG5",
+        "B07BCC8PK7",
+        "B01C6FFNY4",
+        "B072FPPR1S",
+        "B01GQFUWIC"
+    ],
+    "rating": "1.0"
+}

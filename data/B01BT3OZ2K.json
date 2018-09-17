@@ -1,0 +1,82 @@
+{
+    "asin": "B01BT3OZ2K",
+    "title": "Zippo Marine Lighters",
+    "brand": "Zippo",
+    "feature": [
+        "Genuine Zippo windproof lighter with distinctive Zippo \"click\"",
+        "All metal construction; windproof design works virtually anywhere",
+        "Refillable for a lifetime of use; for optimum performance, we recommend genuine Zippo premium lighter Fluid, flints, and Wicks",
+        "Made in USA; lifetime guarantee that \"it works or we fix it free\"",
+        "Fuel: Zippo premium lighter Fluid (sold separately)"
+    ],
+    "description": null,
+    "price": 2494.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 150.0,
+        "width": 50.0,
+        "height": 220.00000000000003
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41%2BI96DjcBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/4198YURW-XL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        },
+        {
+            "name": "Style:",
+            "value": "High Polish Chrome Marine Corps"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "15342811",
+            "title": "Household Supplies"
+        },
+        {
+            "node": "10342347011",
+            "title": "Lighters & Matches"
+        },
+        {
+            "node": "10342354011",
+            "title": "Lighters"
+        }
+    ],
+    "similar": [
+        "B01BW87AOW",
+        "B00HZUA6FC",
+        "B01BT3OZ7K",
+        "B0727YZ6WQ",
+        "B01C4PCS3U",
+        "B000MF469Y",
+        "B06Y45K4LQ",
+        "B00BD722Q4",
+        "B01BIOFMHW",
+        "B00JFCIAG0",
+        "B008RO2XG0",
+        "B06WPBPVCM",
+        "B07BVGWKXN",
+        "B01BU792OQ",
+        "B01BT3ON5Y",
+        "B003ZWPFNW",
+        "B01C4P6C2S",
+        "B01C1YJ81E",
+        "B01G1YM100",
+        "B06Y3V2J5Q",
+        "B01CYPB41C",
+        "B076HFVTFR",
+        "B01DO8W2T6",
+        "B00849W4M6",
+        "B06X96KTYN"
+    ],
+    "rating": "4.4"
+}

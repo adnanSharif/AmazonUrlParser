@@ -1,0 +1,80 @@
+{
+    "asin": "B01C2IVE6Q",
+    "title": "Yosoo High Voltage Transformer DC 3v-6v to 400kV Boost Step-up Power Module High-voltage Generator 400000V",
+    "brand": "Yosoo",
+    "feature": [
+        "input voltage: DC 3 V to 6 V",
+        "Input current: 2 A - 5 A",
+        "High pressure type: the type of pulse current",
+        "Output voltage: 400000 v(Please pay attention to safety)",
+        "High pressure discharge distance between: 10 mm - 20 mm.To avoid burning, use the time limit for 1 minute."
+    ],
+    "description": "Notice: the high-voltage module should avoid the use of electricity in high voltage no-load . (Power must be adjusted to a suitable distance to the high-voltage output line , battery capacity is proportional to the distance and the use of the high-pressure arc ( not a voltage as high as possible , you must provide enough current ) . Experimental test of the arc distance from short to long , Do not exceed the maximum arc distance electricity, energy can not be released due to high pressure , can easily damage the module. ) Work: intermittent , continuous work does not allow more than 1 minute and the output side does not allow shorting . Improper voltage and long working hours easily damaged module Package included: 1 * DC 3v-6v to 400kV 400000V Boost Step-up Power Module High-voltage Generator",
+    "price": 799.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 9.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31i-nGi1KeL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/4109eICwSnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41RnKUtWWmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41dJhFrVTHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41z80LGb%2BUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vN-ASn%2B3L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "281407",
+            "title": "Accessories & Supplies"
+        },
+        {
+            "node": "173541",
+            "title": "Batteries, Chargers & Accessories"
+        },
+        {
+            "node": "10967761",
+            "title": "Power Converters"
+        }
+    ],
+    "similar": [
+        "B07BNQHBXL",
+        "B00ZTTVX4O",
+        "B071YY41Q5",
+        "B0789QVKKF",
+        "B078MKKLSH",
+        "B008DS1GY0",
+        "B01GM9B4R0",
+        "B07GXTF2DX",
+        "B075VQ9TTS",
+        "B01FX6JRWM",
+        "B07B3KQ9CZ",
+        "B078M32R41",
+        "B07F9PLSRY",
+        "B00XDTB03G",
+        "B078BNLMQX",
+        "B01F6UZHLU",
+        "B01410O424",
+        "B07C1LPMRQ",
+        "B0094GP7SQ",
+        "B07BNHR4HW",
+        "B01MQMSV95",
+        "B07DH4KRKF",
+        "B077W1WKTT",
+        "B076V2DVR2",
+        "B01MZ1NZ95",
+        "B076TTBKFG",
+        "B00ATZJ5YS",
+        "B078SWNZH6"
+    ],
+    "rating": "4.0"
+}

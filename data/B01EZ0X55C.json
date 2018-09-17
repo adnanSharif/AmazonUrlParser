@@ -1,0 +1,86 @@
+{
+    "asin": "B01EZ0X55C",
+    "title": "SanDisk Ultra 128GB Dual Drive USB Type-C (SDDDC2-128G-G46)",
+    "brand": "SanDisk",
+    "feature": [
+        "The flash drive for USB Type-C devices",
+        "Easily transfer files between smartphones, tablets and computers",
+        "Free up space on your Android smartphone.Read Speed:up to 150 MB/s"
+    ],
+    "description": "SanDisk Ultra 128GB Dual Drive USB Type-C (SDDDC2-128G-G46)",
+    "price": 4299.0,
+    "listPrice": 5999.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 40.0,
+        "width": 150.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41vLO7xUw3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41LI4URrZ2L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41qUJSSjPFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31mMTHqfKaL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/417qe5KmtEL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "3151491",
+            "title": "USB Flash Drives"
+        }
+    ],
+    "similar": [
+        "B07CJ634F7",
+        "B06XC1WGQR",
+        "B07GRQ393K",
+        "B012V56992",
+        "B072V9CNTK",
+        "B01MXPUAKT",
+        "B0749RCMJB",
+        "B07FVY86MZ",
+        "B073QDTTNV",
+        "B07GZS46G6",
+        "B07FF96L4F",
+        "B06XPX5QDK",
+        "B07DWSKLTK",
+        "B01EZ0X23W",
+        "B01BUSN0DO",
+        "B015Z7XE0A",
+        "B07FLZQ7XM",
+        "B017DH3NXI",
+        "B01EZ0X034",
+        "B01EZ0X3L8",
+        "B07GP6GL86",
+        "B077FY7831",
+        "B010HWCEHM",
+        "B076GXJJRD",
+        "B075FW7H5J",
+        "B019FN63OO",
+        "B01MUH9BET",
+        "B01M0QR22B",
+        "B07855LJ99",
+        "B077FZQS95",
+        "B0797MW2PD",
+        "B078S4DJ4V"
+    ],
+    "rating": "4.1"
+}

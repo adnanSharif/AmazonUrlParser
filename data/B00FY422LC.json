@@ -1,0 +1,93 @@
+{
+    "asin": "B00FY422LC",
+    "title": "Easy USA Women's Cotton Mary Jane Shoes Ballerina Ballet Flats Shoes",
+    "brand": "Easy USA",
+    "feature": [
+        "Cotton",
+        "mary jane flats",
+        "available in many more colors",
+        "Very comfortable",
+        "Easy on Easy Off"
+    ],
+    "description": null,
+    "price": 1100.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/416c2vGpkML._US40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "5 B(M) US"
+        },
+        {
+            "name": "Color:",
+            "value": "Black 114"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147440011",
+            "title": "Women"
+        },
+        {
+            "node": "679337011",
+            "title": "Shoes"
+        },
+        {
+            "node": "679399011",
+            "title": "Flats"
+        }
+    ],
+    "similar": [
+        "B019D8VXUK",
+        "B00NLJQW0E",
+        "B00FY423A2",
+        "B06XS33HCX",
+        "B00I4H13L6",
+        "B074J8D8Z5",
+        "B00FY423LG",
+        "B00PT4W1S6",
+        "B01LX6QDGP",
+        "B00HN1GAXU",
+        "B00FY422ZI",
+        "B01IABINZ4",
+        "B00FY422KS",
+        "B00FY423P2",
+        "B00133M10U",
+        "B00FY423XY",
+        "B07BQKGP74",
+        "B0764XXHT3",
+        "B07CSFM594",
+        "B071D1NK78",
+        "B075JMTSQY",
+        "B019S3QU44",
+        "B015JPLMCU",
+        "B00SM4SNUK",
+        "B00FY42406",
+        "B06XS3XPTM",
+        "B015EPQ6MQ",
+        "B00FY422W6",
+        "B07BTR6NT7",
+        "B00LME0JBS",
+        "B00X44G1ZM",
+        "B00I3IYKA2",
+        "B079NDD17W",
+        "B01L7T71E0",
+        "B01L5XE4VQ",
+        "B00L7743JE",
+        "B01D3JJ6MM"
+    ],
+    "rating": "3.4"
+}

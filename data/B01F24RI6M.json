@@ -1,0 +1,91 @@
+{
+    "asin": "B01F24RI6M",
+    "title": "JBL Charge 3 Waterproof Portable Bluetooth Speaker (Gray)",
+    "brand": "JBL",
+    "feature": [
+        "Bluetooth - Wirelessly connect up to 3 smartphones or tablets to the speaker and take turns playing powerful stereo sound.",
+        "Built-in rechargeable Li-ion battery supports up to 20 hours of playtime and charges smartphones and tablets via USB.",
+        "IPX7 Waterproof",
+        "Take crystal clear calls from your speaker with the touch of a button thanks to the noise and echo-cancelling speakerphone.",
+        "Build your own ecosystem by connecting multiple JBL Connect enabled speakers together to amplify the listening experience."
+    ],
+    "description": "Waterproof Portable Bluetooth Speaker (Gray)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 310.0,
+        "length": 910.0,
+        "width": 350.0,
+        "height": 350.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51aKVVf8OYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51KkE1R1peL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41LH7S8IuHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ilRNq6ofL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Gray"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "172623",
+            "title": "Portable Audio & Video"
+        },
+        {
+            "node": "689637011",
+            "title": "Portable Speakers & Docks"
+        },
+        {
+            "node": "7073956011",
+            "title": "Portable Bluetooth Speakers"
+        }
+    ],
+    "similar": [
+        "B075NXXB9G",
+        "B06XCM9LJ4",
+        "B06ZZSQQTD",
+        "B06XZ3674D",
+        "B01N06B6OE",
+        "B01KYOMU4K",
+        "B01MSYQWNY",
+        "B01F24RHT0",
+        "B01H3563AK",
+        "B06XYG7B2D",
+        "B07BRCZSTT",
+        "B0792QJQT1",
+        "B01DFKC2SO",
+        "B07CVPZJTV",
+        "B01KI1NUSE",
+        "B01F24RIKS",
+        "B01CZNLRLK",
+        "B0796MJF4J",
+        "B01M9DK8BM",
+        "B075QLCNMG",
+        "B00EWCUK98",
+        "B074WTKWG6",
+        "B071CKX4GT",
+        "B00ISGFY54",
+        "B074B3ZJY5",
+        "B01F24RIZ8",
+        "B01KI1NUYS",
+        "B01F24RHF4",
+        "B06Y27MYQ6",
+        "B078HSVK7M",
+        "B014QQAM8I",
+        "B06XX2DHNL",
+        "B073SQYXTW",
+        "B01LZV6TYQ",
+        "B01MYUCFQ3",
+        "B078MRKRFH"
+    ],
+    "rating": "4.5"
+}

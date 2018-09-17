@@ -1,0 +1,44 @@
+{
+    "asin": "0199217718",
+    "title": "Basic Documents in International Law 6th Edition",
+    "brand": "by The Late Ian Brownlie Q.C. (Author)",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 170.0,
+        "length": 960.0,
+        "width": 100.0,
+        "height": 670.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [
+        {
+            "node": "283155",
+            "title": "Books"
+        },
+        {
+            "node": "10777",
+            "title": "Law"
+        },
+        {
+            "node": "10898",
+            "title": "Foreign & International Law"
+        }
+    ],
+    "similar": [
+        "1111427135",
+        "1464808864",
+        "1976788668",
+        "0198761589",
+        "1464812071",
+        "B06XC4JB6D",
+        "1107612497",
+        "B071ZQ4MG1",
+        "0821387200"
+    ],
+    "rating": "5.0"
+}

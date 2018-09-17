@@ -1,0 +1,90 @@
+{
+    "asin": "B00N9HVVNQ",
+    "title": "XSPC FLX Clear 1/2\" ID, 3/4\" OD (19/12.7mm)",
+    "brand": "XSPC",
+    "feature": [
+        "Designed for use with 1/2\" barbs",
+        "1/2\" (13mm) Inner Diameter",
+        "3/4\" (19mm) Outer Diameter",
+        "1/8\" (3mm) Wall Thickness",
+        "Color: Clear"
+    ],
+    "description": "XSPC FLX is a high quality PVC tubing, ideally suited for PC water-cooling. It's highly flexible, stain resistant, RoHS complaint, and is available in a range intense colours. Max Temperature 60C. Min Temperature -32C. Sold in a 2 meter pack.",
+    "price": 2016.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 105.0,
+        "length": 1010.0,
+        "width": 969.9999999999999,
+        "height": 110.00000000000001
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41GgwEOyNSL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Clear"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012290011",
+            "title": "Fans & Cooling"
+        },
+        {
+            "node": "3015422011",
+            "title": "Water Cooling Systems"
+        }
+    ],
+    "similar": [
+        "B01I06P5ZK",
+        "B00CSTLCVW",
+        "B0714844MN",
+        "B01GNP8Y4E",
+        "B078SQZNWR",
+        "B004ULZ1QI",
+        "B072BS3R9M",
+        "B00N9HW7JI",
+        "B01JZNZAIO",
+        "B00A0PUH3K",
+        "B00NODETZW",
+        "B0784BGN6Q",
+        "B01H4EIS4O",
+        "B0772VM1FJ",
+        "B01GZPW7VS",
+        "B077PHJ7V2",
+        "B01D8BE652",
+        "B001CXK8FG",
+        "B0714L42KL",
+        "B01H0KWWS0",
+        "B00FQQV0YI",
+        "B016PFEWQG",
+        "B01BX3EZUI",
+        "B00NODEEBQ",
+        "B00A66HMRC",
+        "B00N9HVTEM",
+        "B00NODE9T8",
+        "B01LWSPRCG",
+        "B00V174E1W",
+        "B00N9HVYCE"
+    ],
+    "rating": "4.1"
+}

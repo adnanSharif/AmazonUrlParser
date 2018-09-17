@@ -1,0 +1,99 @@
+{
+    "asin": "B06ZYHRMYP",
+    "title": "NZXT Kraken G12 GPU Matte Cooling Black (RL-KRG12-B1)",
+    "brand": "Nzxt",
+    "feature": [
+        "40% increase in cooling capacity compared to stock cooling",
+        "supports both reference and non-reference design AMD and NVIDIA GPUs, for more than 30 liquid coolers",
+        "Comes with a 92mm fan, providing active cooling for the VRM and memory on the graphics card",
+        "Compatible with all NZXT AIO Liquid Coolers and parts of Asetek Gen 4 AIO Liquid Coolers",
+        "No Heatsink for VRM and Memory Cooling Design without backplate won't block Graphics Cards' Backplate"
+    ],
+    "description": "Quickly mount any Kraken Series liquid cooler onto graphics cards with the Kraken G12 mounting kit. It delivers a 40% increase in cooling capacity over stock cooling, and features a newly designed bracket with an easier installation process versus the Kraken G10. Plus, the G12 is compatible with more than 30 liquid coolers on the market.Compatibility - Graphic Cards NvidiaTitan X, Titan, Geforce GTX 1080 Ti, 1080, 1070, 1060, 980 Ti, 980, 970, 960, 780 Ti, 780, 770, 760, 680, 670, 660Ti, 660, 580, 570\\AMDRX 480, 470, R9 390X*, 390*, 380X*, 380, 290X*, 290*, 285*, 280X*, 280*, 270X, 270, R7 370, HD7970*, 7950*, 7870, 7850, 6970, 6950, 6870, 6850, 6790, 6770, 5870, 5850, 5830* Some variations in AMD die height may require the use of a copper shim which is not included.Compatibility - AIO Liquid Coolers NZXTKraken X72, X62, X52, X42, X61, X41, X31, X60, X40CorsairH105, H110, H90, H75, H55, H50 (CW-906006-WW only)ThermaltakeWater 3.0 Riing RGB 360, 280, 240, Red 280, 140, Water 3.0 Ultimate, Extreme S, Extreme, Pro, PerformerWater 2.0 Extreme, Pro, PerformerAntecKUHLER H2O 920V4, 620V4, 920, 620ZalmanLQ-320, LQ-315, LQ-310",
+    "price": 2999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 85.0,
+        "length": 790.0,
+        "width": 130.0,
+        "height": 450.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41VupfCZFNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ZP79UaI4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41-URQFUhGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/316POHS156L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ZP79UaI4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41nxP8C6ExL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012290011",
+            "title": "Fans & Cooling"
+        },
+        {
+            "node": "3015421011",
+            "title": "Graphics Card Fans"
+        }
+    ],
+    "similar": [
+        "B009VV56TY",
+        "B00S6UOP4I",
+        "B07B428M7F",
+        "B00HHMJIIO",
+        "B07CBKSH48",
+        "B0151PYG4E",
+        "B07175CYWL",
+        "B0045JCFLY",
+        "B079FQ22LK",
+        "B006DAD8HS",
+        "B005ZKZEQA",
+        "B00RVAEI1E",
+        "B078GH15Z4",
+        "B079FZ77DB",
+        "B01J4ZGT88",
+        "B075VSBNQZ",
+        "B01N9X3HY1",
+        "B07BFGB8Z6",
+        "B007XACV8O",
+        "B005I9IM4E",
+        "B07C9TPCWV",
+        "B07GTRC898",
+        "B01IFGFTJ2",
+        "B07C3SKSFK",
+        "B06ZZN9N85",
+        "B07662S6GL",
+        "B079K5WJT6",
+        "B00WR28574",
+        "B07C9TN8GL",
+        "B0784J64TD",
+        "B074ZLQZ8F",
+        "B00HKEI3EY",
+        "B00637X42A",
+        "B01M190G3C"
+    ],
+    "rating": "4.3"
+}

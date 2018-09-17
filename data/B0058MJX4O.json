@@ -1,0 +1,96 @@
+{
+    "asin": "B0058MJX4O",
+    "title": "Sony ECMCS3 Clip style Omnidirectional Stereo Microphone",
+    "brand": "Sony",
+    "feature": [
+        "Clip style for convenient hands-free recording",
+        "Microphone rotates for flexible placement",
+        "Perfect for recording via DVR or PC",
+        "Equipments supported- Plug-In Power"
+    ],
+    "description": "Sony ECMCS3 Clip style Omnidirectional Stereo Microphone",
+    "price": 1798.9999999999998,
+    "listPrice": 1998.9999999999998,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 440.00000000000006,
+        "width": 630.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31l%2BOAM-HdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31z9xH0VKQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51EHBoqobyL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11974521",
+            "title": "Microphones & Accessories"
+        },
+        {
+            "node": "8882489011",
+            "title": "Microphones"
+        },
+        {
+            "node": "11974631",
+            "title": "Condenser Microphones"
+        },
+        {
+            "node": "11974651",
+            "title": "Multipurpose"
+        }
+    ],
+    "similar": [
+        "B006QSSUK2",
+        "B06XTX2S2N",
+        "B01MSKI46R",
+        "B06ZYNN6JP",
+        "B01AG56HYQ",
+        "B01EXQEXOK",
+        "B07B22DKS7",
+        "B01M23NCGF",
+        "B075RH886J",
+        "B00JWU6WWO",
+        "B07BNSVPJ9",
+        "B06XGLS3V3",
+        "B073G8GS1B",
+        "B06XGBGVXP",
+        "B00078N8MM",
+        "B005NACC6M",
+        "B016C4ZG74",
+        "B07DB7RYSZ",
+        "B06XGH2VFB",
+        "B01FWNSXJO",
+        "B0796VM9BN",
+        "B01M6UVPJM",
+        "B01I5MYQDQ",
+        "B07DHR7SXQ",
+        "B07DWN1QCZ",
+        "B07FF2STKQ",
+        "B00FJ03CJ2",
+        "B01MU99EDZ",
+        "B06XF9DHLS",
+        "B00BBVU9DU",
+        "B079WG8WQ2",
+        "B07F9MC615",
+        "B01D8H0D8A",
+        "B06XW7Q81R",
+        "B00B8ULGT0",
+        "B076V9RBLJ",
+        "B07DHHHMCG",
+        "B018IMLQDG",
+        "B00007FGU7",
+        "B079Z6Q5FF",
+        "B01M3OFVGV",
+        "B00EBK6C20",
+        "B07GDYM1YD",
+        "B01M7MTNOF"
+    ],
+    "rating": "4.2"
+}

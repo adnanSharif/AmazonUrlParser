@@ -1,0 +1,79 @@
+{
+    "asin": "B000UF2774",
+    "title": "Tachikawa Comic Pen Nib Holder, Model 40 (T-40)",
+    "brand": "Tachikawa",
+    "feature": [
+        "Tachikawa Comic Pen Nib Holder",
+        "with Sky Blue Grip",
+        "T-40"
+    ],
+    "description": "Tachikawa Comic Pen Nib Holder, Model 40",
+    "price": 702.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 650.0,
+        "width": 30.0,
+        "height": 40.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31qrH0wTsYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31d6fPqY73L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41XLHs6ohEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/311QcuzwwFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31alu8ZJmBL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "1064954",
+            "title": "Office Products"
+        },
+        {
+            "node": "1069242",
+            "title": "Office & School Supplies"
+        },
+        {
+            "node": "1069784",
+            "title": "Writing & Correction Supplies"
+        },
+        {
+            "node": "1069820",
+            "title": "Pens & Refills"
+        },
+        {
+            "node": "1085704",
+            "title": "Fountain Pens"
+        }
+    ],
+    "similar": [
+        "B01MF8U71W",
+        "B01AT9X67K",
+        "B01H1WG1G6",
+        "B01N4KCHVH",
+        "B07FN3V84M",
+        "B078GMNNY8",
+        "B078TJ7QVD",
+        "B006CQW428",
+        "B07C4WWNM8",
+        "B076D29HW7",
+        "B07GN3KF3P",
+        "B008OHJZBQ",
+        "B073X6W18C",
+        "B07D8SSL7J",
+        "B000UF94BQ",
+        "B000BYT4DE",
+        "B0007ZJ8TM",
+        "B01M8KI2HW",
+        "B00JBYXA94",
+        "B071P4T5YY",
+        "B000UF274C",
+        "B076N5KHYQ",
+        "B001609I9C",
+        "B01H3N1WZI",
+        "B07C1NQV8M",
+        "B00S0K5YMG"
+    ],
+    "rating": "4.6"
+}

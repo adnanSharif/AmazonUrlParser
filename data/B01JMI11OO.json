@@ -1,0 +1,77 @@
+{
+    "asin": "B01JMI11OO",
+    "title": "Doctor's Best Pure Wild Alaskan Fish Oil with AlaskOmega, Non-GMO, Gluten Free, 180 Marine Softgels",
+    "brand": "Doctor's Best",
+    "feature": null,
+    "description": "Doctor's Best Pure Wild Alaskan Fish Oil with AlaskOmega contains concentrated fish oil from wild caught Alaskan Pollock. It is molecularly distilled for maximum purity and potency. This Alaskan Fish Oil provides 800 mg of EPA and 400 mg of DHA per serving. The Omega-3 fatty acids in fish oil support overall health and have been shown to benefit heart, joint, immune, cognitive, eye and skin health. Doctor's Best Pure Wild Alaskan Fish Oil is sustainably caught, eco-friendly fish oil, that is certified by the Marine Stewardship Council (MSC). It is processed in the U.S., immediately after being caught on board the fishing vessel, resulting in a very low TOTOX (marker of freshness) value and thereby minimizing fish burps. Suitable for pescetarians.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 65.0,
+        "length": 560.0,
+        "width": 310.0,
+        "height": 560.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41PMBm7TsQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31jCFFaMclL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61hUf-0jI5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51qV8i9O2oL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6939426011",
+            "title": "Supplements"
+        },
+        {
+            "node": "6943343011",
+            "title": "Essential Fatty Acids"
+        },
+        {
+            "node": "3773501",
+            "title": "Combinations"
+        }
+    ],
+    "similar": [
+        "B000BD0RT0",
+        "B005UKKMOE",
+        "B009HUMBUQ",
+        "B06XXHMY7N",
+        "B0764GRKSM",
+        "B0036BU9FQ",
+        "B000X3Z2MU",
+        "B000MXG1G2",
+        "B00DDPYWFS",
+        "B0722TTGV1",
+        "B006X1DCVO",
+        "B003O1U77I",
+        "B07B9MNCRH",
+        "B073R3HZF2",
+        "B002FU6I90",
+        "B01NBTJFJB",
+        "B00QFTGSK6",
+        "B01LWVKB45",
+        "B005CD3J4O",
+        "B00DWDZPBG",
+        "B0019GW3G8",
+        "B07DX89ZHN",
+        "B014LDT0ZM",
+        "B078145WJ3",
+        "B000BD0RQS",
+        "B075VFQ275",
+        "B0747G31KF",
+        "B002CBXR46",
+        "B0050MYHBQ"
+    ],
+    "rating": "4.5"
+}

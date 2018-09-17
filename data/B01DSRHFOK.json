@@ -1,0 +1,77 @@
+{
+    "asin": "B01DSRHFOK",
+    "title": "Seagate Enterprise Capacity 3.5 HDD 10TB (Helium) 7200RPM SATA 6Gb/s 256 MB Cache Internal Bare Drive (ST10000NM0016)",
+    "brand": "Seagate",
+    "feature": [
+        "10TB per drive for 25% more petabytes per rack",
+        "Industry's lowest power and weight for optimum data center TCO;Forged, wrought-aluminum base and a helium sealed-drive design with uniform density and no porosity",
+        "Superior material and weld-width design for a more robust, hermetically sealed-driveenclosure that protects from helium leaks",
+        "Digital environmental sensors for measuring internal humidity, pressure andtemperature, helping to ensure high reliability, performance and quality",
+        "Latest hermetic interconnect technology supporting higher data rate heads and higher pin counts for extreme thermal conditions;Proven enterprise-class reliability backed by 2.5M-hr MTBF"
+    ],
+    "description": "When building maximum density server and storage solutions with Seagate's 10TB Enterprise Capacity 3.5 HDD (Helium), you can rest easy knowing that your storage infrastructure can scale to meet your growing capacity needs while offering consistent and predictable response rates. Enterprise Capacity 3.5 HDD (Helium) supports enterprise-class nearline workloads of 550TB/yr and is backed by a 2.5M-hour MTBF and 5-year limited warranty, helping to meet all of your bulk storage SLAs.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 170.0,
+        "length": 580.0,
+        "width": 400.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51iKAaDqx-L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51FFg2r0LPL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51OhH8CNu1L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "1254762011",
+            "title": "Internal Hard Drives"
+        }
+    ],
+    "similar": [
+        "B07C85Z114",
+        "B074FZS4D8",
+        "B079SMCB17",
+        "B075N1Z9LT",
+        "B07DL3HHXD",
+        "B00151U4DG",
+        "B00SRV4B04",
+        "B079SJCCWZ",
+        "B076XZZLWV",
+        "B00Y3TUUF4",
+        "B011M8YACM",
+        "B06XQSRY8X",
+        "B07G9S674X",
+        "B01IA9GU0Q",
+        "B015MZBLGE",
+        "B01IA9H22Q",
+        "B01DAI6JUS",
+        "B016P3UCPS",
+        "B01NAUIA6G",
+        "B016AG0ITU",
+        "B01LOOJBH8",
+        "B003KKTASK",
+        "B072WMLS52",
+        "B01LXXV880",
+        "B077B2FSHV",
+        "B0759Q9FXZ",
+        "B00JJIE8E8",
+        "B0761WQ1N6"
+    ],
+    "rating": "3.8"
+}

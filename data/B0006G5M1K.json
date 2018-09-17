@@ -1,0 +1,30 @@
+{
+    "asin": "B0006G5M1K",
+    "title": null,
+    "brand": "Pretty Bird",
+    "feature": [
+        "3-lb bag",
+        "3-lb bag"
+    ],
+    "description": "Pretty Bird Species Specific Lory Bird Food (3 lbs.)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 310.0,
+        "length": 600.0,
+        "width": 400.0,
+        "height": 1400.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B000N5PLPQ",
+        "B000QSLONI",
+        "B008OEPWSY",
+        "B0725ZG5K1",
+        "B0002DHD1E"
+    ],
+    "rating": null
+}

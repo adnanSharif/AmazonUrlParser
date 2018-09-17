@@ -1,0 +1,73 @@
+{
+    "asin": "B003ZFOYQI",
+    "title": "ASA E6B Paper Flight Computer",
+    "brand": "ASA",
+    "feature": [
+        "Made from solid, heavyweight fiberboard, an economical version of the aluminum model described above including all its problemsolving features."
+    ],
+    "description": "Made from solid, heavyweight fiberboard, an economical version of the aluminum model described above including all its problemsolving features.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": 900.0,
+        "width": 500.0,
+        "height": 20.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Nz4VKDQUL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/517kS2iCt1L._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51vVUKeMUBL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "3248684011",
+            "title": "Car & Vehicle Electronics"
+        },
+        {
+            "node": "2324196011",
+            "title": "Aviation Electronics"
+        },
+        {
+            "node": "2324203011",
+            "title": "Aircraft Accessories"
+        }
+    ],
+    "similar": [
+        "B076X7PSFJ",
+        "B01N9F8K2K",
+        "B07GZW5LRS",
+        "B01M5JE20X",
+        "1619545209",
+        "B01EVFD696",
+        "B003VS6U0M",
+        "B003PMAH4Y",
+        "B01MYLZC8V",
+        "B003VSAEWW",
+        "B00Q3G989E",
+        "161954668X",
+        "B01NCURUMB",
+        "B0141MSK1S",
+        "B00IUF03ZO",
+        "B01LB03TTQ",
+        "B0035X6F62",
+        "B004X762EY",
+        "B003K1CZOK",
+        "B003VSE90A",
+        "B016OBSW08",
+        "1619545365",
+        "B00373Y0M6",
+        "B003VS8LT0",
+        "B06XKYLSM7",
+        "B01M325V7X",
+        "B076P3MKK7",
+        "1619544733"
+    ],
+    "rating": "4.6"
+}

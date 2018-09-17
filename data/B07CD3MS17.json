@@ -1,0 +1,76 @@
+{
+    "asin": "B07CD3MS17",
+    "title": "Zhumell Z100 Portable Altazimuth Reflector Telescope",
+    "brand": "Zhumell",
+    "feature": [
+        "Industry standard 1.25\u201d focuser, compatible with many different accessories",
+        "Changing magnifications is easier than ever with included 17mm and 10mm eyepieces",
+        "Easy to use red dot finder makes aiming the Z100 a breeze for any level of user"
+    ],
+    "description": "Zhumell\u2019s innovative Z Series Dobsonian telescopes have taken the world of amateur astronomy by storm. Now, you can get Zhumell\u2019s unmatched quality and value in a portable tabletop Dobsonian with the compact Z100. It\u2019s the perfect way to get started with astronomy or add a grab-and-go scope to your collection. The Zhumell Z100 Portable Reflector Telescope features a 100mm parabolic primary mirror, a high-end feature that\u2019s very uncommon in telescopes of this size. The parabolic mirror removes visual defects like spherical aberration, providing noticeably sharper views. The primary mirror and all other optical surfaces are coated with Zhumell\u2019s high-reflectivity coatings. You can count on more than 90 percent light transmission, for brighter views of even dim objects like nebulae. Thanks to its industry-leading optical components, the Z100 outperforms other tabletop telescopes of a similar size for a difference you can see and appreciate under the night sky. With the Z100, Zhumell has put your money where it belongs: into the telescope\u2019s optical system. The Z100\u2019s mechanical design is simple and streamlined. A durable, sturdy construction means your Zhumell will stand up to years of use and travel. Thanks to its compact size and weight, you can confidently pack it along for camping trips, vacations, and more. When you arrive at your observing site, the telescope comes together in seconds. Once you\u2019re set up, swing the scope on its lazy susan-style mount toward your desired object. Center your target in the Red Dot Finderscope, you\u2019re ready to view it through the eyepiece. Then, make small adjustments to smoothly track objects as they drift across the sky. Whether you\u2019re an experienced amateur astronomer or a brand new stargazer, the Zhumell Z100 brings you the night sky on your terms. This convenient, portable telescope is always at the ready to deliver impressive, detailed images, from a quick peek at the sky in your backyard to a marathon night of stargazing.",
+    "price": 9999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 980.0000000000001,
+        "length": 1450.0,
+        "width": 1100.0,
+        "height": 1180.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31QNv4sU8fL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/319CudowzsL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/3173b%2BE0SfL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41MtSEVCQyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41qlycrvPoL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/319B5ITND4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/417sX0Yr4vL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "502394",
+            "title": "Camera & Photo"
+        },
+        {
+            "node": "499320",
+            "title": "Binoculars & Scopes"
+        },
+        {
+            "node": "281063",
+            "title": "Telescopes"
+        },
+        {
+            "node": "499154",
+            "title": "Reflectors"
+        }
+    ],
+    "similar": [
+        "B07BRLSVWM",
+        "B001DDW9V6",
+        "B001DDW9UW",
+        "B003ZDDP06",
+        "B07BR6G589",
+        "B06XSM4R74",
+        "B00D05BKOW",
+        "B00D12U1IK",
+        "B07BRP9V9T",
+        "B00Z4G3CW8",
+        "B0007UQNKY",
+        "B0007UQNNQ",
+        "B00D05BIIU",
+        "B001UQ6E4Y",
+        "B017LM33YE",
+        "B000MLL6RS"
+    ],
+    "rating": "5.0"
+}

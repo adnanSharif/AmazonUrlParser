@@ -1,0 +1,77 @@
+{
+    "asin": "B01ESWPHVW",
+    "title": "theory11 MailChimp Playing Cards (Red)",
+    "brand": "theory11",
+    "feature": [
+        "Playing cards produced in collaboration with MailChimp and Fuzzco - sure to satisfy apes and humans alike",
+        "Made in the USA on FSC-certified paper derived from sustainable forests using vegetable based inks",
+        "MailChimp donates 100% of their proceeds to The Fugees Academy"
+    ],
+    "description": "MailChimp means creativity and serious business - thinking outside the box with purpose and heart. theory11 wanted to produce a deck of cards that reflects this perspective in a simple, fun, elegant design. The result is MailChimp Playing Cards, featuring custom court cards and ultra thin borders. Available here in vibrant Red.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 350.0,
+        "width": 260.0,
+        "height": 70.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Nr4XfgqNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/5122BB1zbuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41VOsJd5nQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51XIhJlsLbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/610K%2BhziANL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "165793011",
+            "title": "Toys & Games"
+        },
+        {
+            "node": "166220011",
+            "title": "Games"
+        },
+        {
+            "node": "166244011",
+            "title": "Standard Playing Card Decks"
+        }
+    ],
+    "similar": [
+        "B01ESWPBE0",
+        "B01ESX0BBC",
+        "B01ESWPP8M",
+        "B07G9C67FW",
+        "B01ESWPHJO",
+        "B076VXC5QW",
+        "B078DQ7CPR",
+        "B06XZ9K244",
+        "B01L8N122C",
+        "B0763G6BGS",
+        "B01CIYP92Y",
+        "B01ESWPP6E",
+        "B01ESWPIUM",
+        "B01FNM9VJK",
+        "B0797RJ7GW",
+        "B010MGSVM0",
+        "B019QX397W",
+        "B071G7Y3XL",
+        "B01ESWPPB4",
+        "B071LN4TQD",
+        "B0756VVHDS",
+        "B01ESX0AOU",
+        "B01L0G6R40",
+        "B07895SH2V",
+        "B00OVJC7XY",
+        "B01FOTFSYY",
+        "B073H9QBC8",
+        "B07CPYQ816",
+        "B01J4LP2HG",
+        "B01MFD676H",
+        "B00AYPD4U4",
+        "B0195MS910"
+    ],
+    "rating": "4.6"
+}

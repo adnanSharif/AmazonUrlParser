@@ -1,0 +1,69 @@
+{
+    "asin": "B01LZXGBZR",
+    "title": "Majestic Pure Castor Oil Eyelash Serum, Pure and Natural, Promotes Natural Eyebrows & Eyelash Growth, Free Set of Mascara Brush and Eyeliner Applicator - 1 fl oz",
+    "brand": "Majestic Pure",
+    "feature": null,
+    "description": null,
+    "price": 1295.0,
+    "listPrice": 2450.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 20.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51QWCcnsTjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41u4bMp5RDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41MOnQ8uHSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41GKd6mgSEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51%2BQwvSkF%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ZV6gHZXOL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11058281",
+            "title": "Makeup"
+        },
+        {
+            "node": "11058331",
+            "title": "Eyes"
+        },
+        {
+            "node": "10312668011",
+            "title": "Lash Enhancers & Primers"
+        }
+    ],
+    "similar": [
+        "B01FRGVPE6",
+        "B00LTZEEGQ",
+        "B01ICGFKDU",
+        "B07D8KMR79",
+        "B00GJX58PE",
+        "B07D55Y3TN",
+        "B079NS5MLR",
+        "B01MQS7GFT",
+        "B01NALN8Q9",
+        "B078XLGDYP",
+        "B07F9JB1VW",
+        "B00LU4CZP8",
+        "B073DQRJQV",
+        "B06XWYJX46",
+        "B07BJ6V54J",
+        "B079VW9VBM",
+        "B072JTNVHB",
+        "B0186U9736",
+        "B01772051W",
+        "B07BS18DM9",
+        "B00UYY2GXG",
+        "B06X18521Y",
+        "B019EXWVQY"
+    ],
+    "rating": null
+}

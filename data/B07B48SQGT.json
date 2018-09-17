@@ -1,0 +1,83 @@
+{
+    "asin": "B07B48SQGT",
+    "title": "Fitbit Versa Smart Watch, Black/Black Aluminium, One Size (S & L Bands Included)",
+    "brand": "Fitbit",
+    "feature": null,
+    "description": "Meet Fitbit Versa - an all-day companion that helps you live your best life. This lightweight, swimproof smartwatch empowers you to reach health and fitness goals with 24/7 heart rate, actionable insights, personalized guidance, on-screen workouts and more. Run your day with notifications, quick replies (android only), apps, phone-free music -- all with 4+ day battery life (varies with use and other factors). Plus, wear it your way with fresh accessories and clock faces.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 71.25,
+        "length": 200.0,
+        "width": 400.0,
+        "height": 900.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41hJXBCQdhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31-8vTaLtFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31Wz7fYPQVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/310gUDduCvL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41gCbeVKZvL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/419qBFaqnzL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "10048700011",
+            "title": "Wearable Technology"
+        },
+        {
+            "node": "7939901011",
+            "title": "Smart Watches"
+        }
+    ],
+    "similar": [
+        "B06VSJWD2R",
+        "B07DLN2K88",
+        "B07F3XQ4Z6",
+        "B07CR2VYJZ",
+        "B07BQHXRN6",
+        "B07DYCGQXX",
+        "B019VM3CPW",
+        "B07CRPSJJX",
+        "B07CZWMGC7",
+        "B07C6S92B8",
+        "B07CYH6H4Z",
+        "B07CVMQRXK",
+        "B07D18CQQP",
+        "B07CRNGHVT",
+        "B07CRRSHBG",
+        "B074VNDGND",
+        "B07CBRR5GK",
+        "B071NVR2QQ",
+        "B07C74RSY6",
+        "B074VDF16R",
+        "B07CMBCV48",
+        "B07B9HLJNC",
+        "B07B48W8Y8",
+        "B07BFLQCRL",
+        "B07B43ZTT7",
+        "B01AAM1EBQ",
+        "B07DH4Q4YZ",
+        "B07D71FHVC",
+        "B07B499PWG",
+        "B07CQ783H2",
+        "B0752M6T6K",
+        "B07CRSK5DM",
+        "B07D7SK2GR",
+        "B07D7W9DTD",
+        "B07D2DTJ1B",
+        "B076HMN6ST",
+        "B07BLVTHJL",
+        "B07BH66RNS",
+        "B07G636NDT",
+        "B07DPMQ59K",
+        "B07B4915CX"
+    ],
+    "rating": "3.8"
+}

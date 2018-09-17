@@ -1,0 +1,67 @@
+{
+    "asin": "B013F3D1FO",
+    "title": "Vans Mens Classic Slip-On Ca (Overwashed) Port Royal/Bcdc VN-0IL5GK6 9",
+    "brand": "Vans",
+    "feature": [
+        "Leather",
+        "Rubber sole",
+        "Vans",
+        "Classic Slip-On Ca (Overwashed)",
+        "Port Royal/Bcdc",
+        "VN-0IL5GK6"
+    ],
+    "description": "Vans Mens Classic Slip-On Ca (Overwashed) Port Royal/Bcdc VN-0IL5GK6",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 210.0,
+        "length": 1400.0,
+        "width": 1000.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/519o37S2YgL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/519QgGMdaCL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41izTbha2XL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/512QoR4tE1L._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412y9PhsEUL._US40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "679255011",
+            "title": "Shoes"
+        },
+        {
+            "node": "679312011",
+            "title": "Fashion Sneakers"
+        }
+    ],
+    "similar": [
+        "B07CBTC9HY",
+        "B06X6FB2R6",
+        "B075JCZ4T4",
+        "B07BMBHLSQ",
+        "B01F7WLH98",
+        "B0768P24VV",
+        "B078CYV4QP",
+        "B0784N6YCN",
+        "B01BPJE4X8",
+        "B01NAXIAAJ",
+        "B07628RD5X",
+        "B01DG8NEXM",
+        "B06X3TH746",
+        "B06X6MTKY2",
+        "B01IPYW5Z0"
+    ],
+    "rating": null
+}

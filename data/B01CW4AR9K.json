@@ -1,0 +1,88 @@
+{
+    "asin": "B01CW4AR9K",
+    "title": "YI 1080p Home Camera, Indoor IP Security Surveillance System with Night Vision for Home/Office / Baby/Nanny / Pet Monitor with iOS, Android App - Cloud Service Available",
+    "brand": "YI",
+    "feature": [
+        "24/7 Full HD Recording - F/2.0 aperture, 112 wide-angle lens, 1080p/15fps to capture moments with clear picture. Features two-way audio to allow you to receive and transmit audio from any location with a WiFi connection.",
+        "Enhanced Night Vision - 8 individual 940nm infrared LED's, which automatically turns on infrared (IR) in low light conditions, allowing you to see clearly in the dark.",
+        "Activity Alerts - Baby Crying Detection and Motion Detection features use state-of-the-art technology to detect and send notifications to your phone. Activity Alerts (7-day storage in YI Cloud) available free of charge without a microSD memory card or a YI Cloud subscription.",
+        "YI Home App - Acess your camera with our mobile APP anytime and anywhere. Allows sharing your camera with up to 5 family members or friends, and view multiple cameras on a single account.",
+        "Cloud Storage - Supports YI Cloud to avoid the risk of losing footage from a microSD memory card, and ensures all recorded video is safe, secure, and protected with the most efficient compression and highest protection of data. Local backup supports up to 32GB Class10 microSD cards with FAT32 format."
+    ],
+    "description": "Building on the success of the #1 best-selling YI Home Camera, the YI Home Camera 1080p delivers high definition videos of your home, so you can view every moment in even clearer quality. Its Baby Crying Detection technology also acts as a state of the art baby monitor, sending an alert to your phone at the first cry of your baby. By connecting to YI Cloud you can be rest assured you'll never lose any footage, even if your camera is damaged or stolen.",
+    "price": 3099.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 55.00000000000001,
+        "length": 310.0,
+        "width": 130.0,
+        "height": 450.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31IWy7IjmNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41TAlmDrj6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51%2BoDmPlnnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51hDM5KeIjL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51AHXZlvCpL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51cA3RGD1ZL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "524136",
+            "title": "Security & Surveillance"
+        },
+        {
+            "node": "14248481",
+            "title": "Surveillance Video Equipment"
+        },
+        {
+            "node": "14241611",
+            "title": "Surveillance Video Recorders"
+        }
+    ],
+    "similar": [
+        "B07FT46ZJ2",
+        "B01MG9EL4A",
+        "B076H3SRXG",
+        "B077H4518N",
+        "B06XWN9Q99",
+        "B075P84FH2",
+        "B07DNW3Z4F",
+        "B07F38T9XC",
+        "B074YHJBNZ",
+        "B078MXH7WZ",
+        "B016LJMRCW",
+        "B0798C3XKY",
+        "B073Z4MNJB",
+        "B01MDIYVI9",
+        "B01CW4B1UY",
+        "B07DGR98VQ",
+        "B076BL7JVS",
+        "B075ZX5XC4",
+        "B076J6FKG4",
+        "B01CXDPQ64",
+        "B01CW4BG4K",
+        "B01CW4CEMS",
+        "B01C4UY0JK",
+        "B07BZY2PMJ",
+        "B074NP1YRS",
+        "B01CW49AGG",
+        "B078J389LZ",
+        "B07D54BW9P",
+        "B072XY69MB",
+        "B07C82QWBG",
+        "B01CW4BLG8"
+    ],
+    "rating": "3.9"
+}

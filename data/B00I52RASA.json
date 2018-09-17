@@ -1,0 +1,53 @@
+{
+    "asin": "B00I52RASA",
+    "title": "Gerber Baby Cereal, Rice, 8 Ounce",
+    "brand": "Gerber Baby Cereal",
+    "feature": null,
+    "description": "When your baby is ready to start solids, try Gerber Rice baby cereal. It has iron to help support learning ability - just 2 servings of baby cereal a day has 90% of your baby's daily value of iron. It also has Vitamin C and 6 B Vitamins for healthy growth and Calcium to help build healthy bones and teeth.",
+    "price": 229.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": 700.0,
+        "width": 409.99999999999994,
+        "height": 280.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51IXoR7fOGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51YBT3S5E0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/516vgUgkjHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51jyrgkb7kL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/518k8OTqeUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51R5UTSgKRL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51EiJoYEekL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B00I52R4EK",
+        "B00BPESJR6",
+        "B00BPESH5K",
+        "B01HHVXNDA",
+        "B076FH7T6G",
+        "B01KTMH3QM",
+        "B010NBLSYC",
+        "B01LSBSAKG",
+        "B01FE3T45E",
+        "B01KQE2GHY",
+        "B00BPESF98",
+        "B000VK11RK",
+        "B01KTMH7AO",
+        "B00V1P6WWI",
+        "B06WP7VBW6",
+        "B014UR2C36",
+        "B00BPET25Y",
+        "B00I52S9QW",
+        "B00I8QYWXE",
+        "B0719Q9GTZ",
+        "B00DBYBNEE",
+        "B00BPESVO2",
+        "B010NBM2RO"
+    ],
+    "rating": "4.0"
+}

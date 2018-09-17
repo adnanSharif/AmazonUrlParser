@@ -1,0 +1,81 @@
+{
+    "asin": "B001CF18IA",
+    "title": "Canvas Duffle Bag - Extra Heavy Duty 28\" x 14\"",
+    "brand": "Innovative Home Creations",
+    "feature": [
+        "Extra strong canvas duffle bag",
+        "Sturdy shoulder strap",
+        "Drawstring with leather closure",
+        "Perfect for laundry, sports gear, travel or more",
+        "Measures 28\" x 14\""
+    ],
+    "description": "Extra strong canvas duffle bag Sturdy shoulder strap Drawstring with leather closure Perfect for laundry, sports gear, travel or more Measures 28 x 14",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 50.0,
+        "length": 1400.0,
+        "width": 1400.0,
+        "height": 1400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/419YS5IK22L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Package Quantity:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "1055398",
+            "title": "Home & Kitchen"
+        },
+        {
+            "node": "3610841",
+            "title": "Storage & Organization"
+        },
+        {
+            "node": "3744341",
+            "title": "Laundry Storage & Organization"
+        },
+        {
+            "node": "3744371",
+            "title": "Laundry Bags"
+        }
+    ],
+    "similar": [
+        "B06XSTX4Y4",
+        "B07CYWS2QM",
+        "B06Y192NLZ",
+        "B07FY1DDP5",
+        "B078S5YYDD",
+        "B01AW4VMI2",
+        "B0734X5DS9",
+        "B079B7B5JZ",
+        "B01MZ8AXHL",
+        "B01066XDGK",
+        "B07CXSHXN7",
+        "B07CZC5SBL",
+        "B0154ASCCI",
+        "B01DPWMPFC",
+        "B01D58R1BE",
+        "B07177XJK7",
+        "B07DN5PZ8B",
+        "B01DPWLR0Q",
+        "B073QFMRRV",
+        "B00MGB4YRQ",
+        "B076D1B94P",
+        "B002V919AS",
+        "B0791HY291",
+        "B075F3ZBWJ",
+        "B07BS6VK5V",
+        "B014KSWKSM",
+        "B06ZXZZC6X",
+        "B07DCRTP7L",
+        "B015TXVSHG"
+    ],
+    "rating": "4.1"
+}

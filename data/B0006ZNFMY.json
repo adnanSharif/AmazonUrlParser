@@ -1,0 +1,81 @@
+{
+    "asin": "B0006ZNFMY",
+    "title": "Bronson Vitamin B Complex Sustained Slow Release (Vitamin B1, B2, B3, B6, B9 - Folic Acid, B12), Non-GMO, Gluten Free, Soy Free, 250 Tablets",
+    "brand": "Bronson",
+    "feature": null,
+    "description": null,
+    "price": 2499.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 70.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51djvrHPuBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/610Kua2Es%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51dNPjV6TwL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51QBNuAT3BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ZjvgEvx7L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Bmzvy9ilL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41PYv9kbeWL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6936790011",
+            "title": "Vitamins"
+        },
+        {
+            "node": "3774671",
+            "title": "Vitamin B"
+        },
+        {
+            "node": "3774761",
+            "title": "B-Complex"
+        }
+    ],
+    "similar": [
+        "B01IO43YO2",
+        "B0016QUU02",
+        "B001IY03L8",
+        "info.html",
+        "B00OJOFX2S",
+        "B075ZKCJCF",
+        "B0006ZNFMO",
+        "B00UZE9YZI",
+        "B0006ZNFQA",
+        "B0006ZRVPG",
+        "B01JMDQI6A",
+        "B0006ZUS92",
+        "B001PYXM1Y",
+        "B0773N3MFK",
+        "B018KSC3NA",
+        "B01L83X3X8",
+        "B078V2VLCT",
+        "B0006ZNFII",
+        "B00CFD0TC4",
+        "B00L1I9Y5C",
+        "B01INRFW0E",
+        "B0006ZNFT2",
+        "B01J4OUZBG",
+        "B07414752B",
+        "B008PQDCG0",
+        "B0006ZRW50",
+        "B00JQRFOTA",
+        "B0006ZRVXS",
+        "B01FNEUHXC",
+        "B0006ZNFLU"
+    ],
+    "rating": "4.2"
+}

@@ -1,0 +1,68 @@
+{
+    "asin": "B001R82VJW",
+    "title": "Fair & White Exclusive Gel Cream 30ml",
+    "brand": "Fair & White Exclusive",
+    "feature": null,
+    "description": "Improves clarity and radiance. Heals, nourishes and firms skin, with anti-oxidant Vitamin \"C\". Brightens and protects against environmental pollutants, leaving skin looking healthy and radiant.",
+    "price": 1953.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 8.75,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41HZk%2BhV2pL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11061301",
+            "title": "Creams & Moisturizers"
+        }
+    ],
+    "similar": [
+        "B001R876V0",
+        "B07CM7MJZ3",
+        "B00028EYJ8",
+        "B001R8BR9M",
+        "B077NJH7LQ",
+        "B01M4MCUAF",
+        "B01CLTDH3O",
+        "B003B3OKQ8",
+        "B07BRB3XG3",
+        "B00A2SYG00",
+        "B00TTD9BRC",
+        "B00A2SYILW",
+        "B01FRGFOHK",
+        "B01D2M4G0C",
+        "B004TMRV8Y",
+        "B00176WU7W",
+        "B004VTWOAA",
+        "B075K72NRW",
+        "B007FZR99I",
+        "B071KW9GTT",
+        "B00174GJC6",
+        "B0046KL4SW",
+        "B018233T04",
+        "B001BEKWSY",
+        "B019X2D4MG",
+        "B0011X58IE",
+        "B01LYZJOWQ"
+    ],
+    "rating": "3.4"
+}

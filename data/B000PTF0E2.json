@@ -1,0 +1,86 @@
+{
+    "asin": "B000PTF0E2",
+    "title": "Samson C01UCW Studio USB Mic with Cakewalk Sonar LE (OLD MODEL)",
+    "brand": "Samson Technologies",
+    "feature": [
+        "Industry's first USB studio condenser mic",
+        "Plugs directly into any computer with a USB port",
+        "Cardioid pickup pattern",
+        "Heavy gauge mesh grill",
+        "Large 19mm diaphragm"
+    ],
+    "description": "Unbelievable! You can plug this genuine condenser microphone straight into your computer, enjoy studio-quality sound, and still have plenty of greenbacks left over. Yep, Samson comes through again, this time with their C01U mic. Talk into it, sing into it, mic your instrument with it... you'll love what you get out of it. All you need is the C01U and your computer. Imagine it \u2014 you can take your rig wherever the action is and capture it with top-notch quality! You even get audio production software from Cakewalk, so this mic is an even bigger bargain than you thought!",
+    "price": 9385.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 515.0,
+        "length": 830.0000000000001,
+        "width": 800.0,
+        "height": 580.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31NUojSj73L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Silver"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11974521",
+            "title": "Microphones & Accessories"
+        },
+        {
+            "node": "8882489011",
+            "title": "Microphones"
+        },
+        {
+            "node": "11974631",
+            "title": "Condenser Microphones"
+        },
+        {
+            "node": "11974651",
+            "title": "Multipurpose"
+        }
+    ],
+    "similar": [
+        "B0130U9EZ8",
+        "B0176NRE1G",
+        "B01MR4YTWK",
+        "B00REV0GKC",
+        "B07CY5HS72",
+        "B00ACFAULC",
+        "B01M7O79BG",
+        "B014PYGTUQ",
+        "B0774TNWZR",
+        "B003CLIPHO",
+        "B06X9DDT53",
+        "B000QDF3G2",
+        "B001R747SG",
+        "B0002D080C",
+        "B004JIO8ZC",
+        "B01N21H9WY",
+        "B008AOH1O6",
+        "B00E4WWLWA",
+        "B001R76D42",
+        "B00MLZROJC",
+        "B00HXE4BYW",
+        "B01MATIGWZ",
+        "B0736KB2QV",
+        "B07CZ2B967",
+        "B07F3C956G",
+        "B00KQTJJXE",
+        "B019NY2PKG",
+        "B06XCKGLTP",
+        "B07C7F9566",
+        "B00HXE4AWK"
+    ],
+    "rating": "3.8"
+}

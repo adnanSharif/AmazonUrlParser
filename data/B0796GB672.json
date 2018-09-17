@@ -1,0 +1,70 @@
+{
+    "asin": "B0796GB672",
+    "title": "The Body Shop Drops of Youth Gentle Foamwash, 5 Fl Oz (Vegan)",
+    "brand": "The Body Shop",
+    "feature": null,
+    "description": "Enriched with plant stem cells, our instantly foaming face wash upon rinse-off leaves skin fresh and replenished. The youth-enhancing formula thoroughly cleanses the skin without drying, leaving your skin feeling smoother, softer and renewed.",
+    "price": 1800.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 48.75,
+        "length": 190.0,
+        "width": 190.0,
+        "height": 660.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41kXHCyJMLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412Tw-ZWj5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/411%2B5uhkeYL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11060901",
+            "title": "Cleansers"
+        },
+        {
+            "node": "7730193011",
+            "title": "Washes"
+        }
+    ],
+    "similar": [
+        "B00V42Q14C",
+        "B01N20N677",
+        "B00M78895Q",
+        "B00SZMYGDM",
+        "B00UZOVHTE",
+        "B01EVLJBO4",
+        "B076GJ91S9",
+        "B01M3VWE6L",
+        "B06XRWQNV5",
+        "B015QBPIY0",
+        "B01BHYAPJS",
+        "B07C2PF712",
+        "B00PXZ6BX2",
+        "B06XWXFHD6",
+        "B00DYYKQZS",
+        "B00HNWNXAW",
+        "B01N1UMHJE",
+        "B014EQQ1WQ",
+        "B002K8W1UC",
+        "B01M1HIIUT",
+        "B00NQ7G62A",
+        "B00SUYRB7I",
+        "B00702GTI8"
+    ],
+    "rating": "5.0"
+}

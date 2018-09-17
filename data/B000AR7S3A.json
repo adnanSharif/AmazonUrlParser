@@ -1,0 +1,79 @@
+{
+    "asin": "B000AR7S3A",
+    "title": "Casio Men's G-Shock G100-1BV Black Resin Sport Watch",
+    "brand": "Casio",
+    "feature": [
+        "Made in USA",
+        "Shock Resistant, 200M Water Resistant, Magnetic Resistant",
+        "Though this watch is designed to withstand exposure to magnetic force, you should still keep it away from machinery and appliances that generate a strong magnetic field",
+        "Exposure to strong magnetism can cause timekeeping to slow, affecting timekeeping accuracy. Accuracy +/- 15 seconds per month",
+        "EL Backlight with Afterglow, Dual Time, Daily Alarm, 1/100 Second Stopwatch, Auto Calendar (pre-programmed until the year 2039)",
+        "12/24 Hour Formats, Battery CR2016, Approx. battery life: 3 years, Module 2327/5158"
+    ],
+    "description": "Ever heard of the K.I.S.S theory? Sometimes simple is better. This G-Shock has all the hallmarks of a classic. With Shock resistance, 200M WR, Anti-Magnetic resistance and more it's a perfectly balanced timepiece. Black resin band analog and digital watch with black face.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": 190.0,
+        "width": 190.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51xsDuD9pxL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/216JZIejWhL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51sdyrJ9NLL._SR38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "706814011",
+            "title": "Outdoor Recreation"
+        },
+        {
+            "node": "11443874011",
+            "title": "Outdoor Clothing"
+        },
+        {
+            "node": "11443875011",
+            "title": "Men"
+        },
+        {
+            "node": "11443906011",
+            "title": "Accessories"
+        },
+        {
+            "node": "15494452011",
+            "title": "Sport Watches"
+        }
+    ],
+    "similar": [
+        "B07465BQZX",
+        "B075JLQCD8",
+        "B0049HSJ76",
+        "B00OTU79W4",
+        "B06XRBLRPT",
+        "B000GAYQL8",
+        "B013DL6S08",
+        "B07657P1FN",
+        "B072P1SKB7",
+        "B07437DL24",
+        "B00GBHZDY4",
+        "B01LEEEFM4",
+        "B01FLLJ6IE",
+        "B01MG3DMM0",
+        "B000FQ0WC0",
+        "B075HC13RK",
+        "B003WPUU0U",
+        "B073ZC4HCT",
+        "B06XSCR5P3",
+        "B06Y4HZF8L",
+        "B078GRPW71"
+    ],
+    "rating": "4.3"
+}

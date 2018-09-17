@@ -1,0 +1,30 @@
+{
+    "asin": "B00RKQ5ZCA",
+    "title": null,
+    "brand": "Wellcolor",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 2.0,
+        "length": 650.0,
+        "width": 340.0,
+        "height": 30.0
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [],
+    "similar": [
+        "B00C1DIGRI",
+        "B01DIKF9YK",
+        "B074DCR3NT",
+        "B00BR1QHUS",
+        "B077BVXNNK",
+        "B00D3OK4RO",
+        "B00Z84ENDS",
+        "B00EENB5AS"
+    ],
+    "rating": null
+}

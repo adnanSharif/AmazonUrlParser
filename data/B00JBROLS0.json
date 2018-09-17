@@ -1,0 +1,93 @@
+{
+    "asin": "B00JBROLS0",
+    "title": "ZAGG Cover with Blacklit, Hinged Keyboard for iPad mini / iPad mini Retina - Black",
+    "brand": "ZAGG",
+    "feature": [
+        "Multi-Angled: Its unique hinge offers 135 degree viewing angles, just like a laptop",
+        "Ultrathin: At a mere 6.9mm, the ZAGG is one of the thinnest keyboards available",
+        "Bright: Backlit, island-style keys maximize space for faster, more natural typing, even in low-light situations",
+        "Protective: A leather-textured cover protects the iPad and keyboard while maintaining a smart, sophisticated design",
+        "Spacious: Designed with up to 30% more typing area than most tablet keyboards for increased comfort and efficiency"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 105.0,
+        "length": 800.0,
+        "width": 540.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51InxRo-PxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ZgwH%2BojVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51aTo4nQ1ZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Z5IzjcAVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/4113VGNhPNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51rOyoWTtpL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        },
+        {
+            "name": "Product Packaging:",
+            "value": "Standard Packaging"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "11548956011",
+            "title": "Keyboards, Mice & Accessories"
+        },
+        {
+            "node": "12879431",
+            "title": "Keyboards"
+        }
+    ],
+    "similar": [
+        "B01CVOL9WU",
+        "B07DW67ZBV",
+        "B07B69SSYZ",
+        "B00PYW9S70",
+        "B00X5P8680",
+        "B00Z81U3YY",
+        "B07CGKG2MB",
+        "B0776T8QDC",
+        "B00BWHILCY",
+        "B01M0VFQAJ",
+        "B00IBW5XWY",
+        "B01FM8HMWS",
+        "B01AWGZS2Q",
+        "B00DKXXEUW",
+        "B00MIEGQZ4",
+        "B078RH2C7P",
+        "B01F48CPMI",
+        "B00K894JFU",
+        "B0149F5EIE",
+        "B009QQMEEY",
+        "B00PNFNUPE",
+        "B016QO5N5A",
+        "B07F2DHBSN",
+        "B07C7VP5JY",
+        "B00P7TQR3S",
+        "B00PYWCVAG",
+        "B018K010SC",
+        "B00DKXXEQG"
+    ],
+    "rating": "3.6"
+}

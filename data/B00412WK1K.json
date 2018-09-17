@@ -1,0 +1,70 @@
+{
+    "asin": "B00412WK1K",
+    "title": "Swanson Full Spectrum Nova Scotia Dulse 400 Milligrams 60 Capsules",
+    "brand": "Swanson",
+    "feature": null,
+    "description": "Swanson Nova Scotia Dulse delivers pure, whole dulse collected off the Nova Scotia shore. Dulse is a purple sea weed found primarily in the coastal waters of the Northern Atlantic and Pacific Oceans.",
+    "price": 869.9999999999999,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 190.0,
+        "width": 190.0,
+        "height": 350.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Y4qFyVOcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51C4MnZcWoL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61I8YnY-rFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/515Hz8ihcML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51eG-0tnzdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/513Xdr8os7L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3764461",
+            "title": "Herbal Supplements"
+        }
+    ],
+    "similar": [
+        "B005P0WOZE",
+        "B079MHX1F3",
+        "B07FKBQVW2",
+        "B01MXJZRJQ",
+        "B01NCTM200",
+        "B00068JXO0",
+        "B07F2NW28L",
+        "B0015VI2U8",
+        "B00MD23N3E",
+        "B07FLDK6ZY",
+        "B00068JQ2O",
+        "B07BP9HVMQ",
+        "B00D0VI0A8",
+        "B0001VVD04",
+        "B0714CRSVS",
+        "B00N5IK07M",
+        "099950021X",
+        "B00J2EA8G6",
+        "B07F2L71M6",
+        "B00D6NXVRC",
+        "B01N6L9VPK",
+        "B076FB9K2S",
+        "B003UYAW42",
+        "B078XDK4LY",
+        "B0039ITKR4",
+        "B07GF2F23M",
+        "B07F2LXFX5",
+        "B0039ITKSI"
+    ],
+    "rating": "4.6"
+}

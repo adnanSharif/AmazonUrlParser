@@ -1,0 +1,74 @@
+{
+    "asin": "B001RVJ9RG",
+    "title": "David Beckham Intimately Men - EDT Spray 2.5 OZ",
+    "brand": "Beckham",
+    "feature": null,
+    "description": "David Beckham Intimately Men - Edt Spray 2.5 OZ",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": 350.0,
+        "width": 350.0,
+        "height": 350.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41sc36rzwkL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11056591",
+            "title": "Fragrance"
+        },
+        {
+            "node": "11056761",
+            "title": "Men's"
+        },
+        {
+            "node": "363236011",
+            "title": "Eau de Toilette"
+        }
+    ],
+    "similar": [
+        "B07C2XDBRX",
+        "B076GXN6WQ",
+        "B0062OF5L2",
+        "B000P22TIY",
+        "B000C1VSJE",
+        "B001B0X05U",
+        "B0719HFF6T",
+        "B074YYDRP2",
+        "B00K5LJ79Y",
+        "B075FZW3C9",
+        "9790771053",
+        "B000VOJHE0",
+        "B002XITY4U",
+        "B0017JV39K",
+        "B009L771KU",
+        "B009M1B9NU",
+        "B074YX46CC",
+        "B01AUKPJAU",
+        "B000C1ZAKC",
+        "B008219PUK",
+        "B075WWR7Z2",
+        "B07BXBWQ54",
+        "B007VSOLTA",
+        "B07CVQCZXP",
+        "B000GXEDBI",
+        "B0798HXXFF",
+        "B0140H17MS",
+        "B0020MMCJI",
+        "B000Q38094",
+        "B00CMIZT5E",
+        "B00KRDSGHO",
+        "B071RTF9HN",
+        "B075FYX85W"
+    ],
+    "rating": "3.7"
+}

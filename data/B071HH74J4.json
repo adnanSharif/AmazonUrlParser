@@ -1,0 +1,87 @@
+{
+    "asin": "B071HH74J4",
+    "title": "Wink Bright Smart Home Lighting Starter Kit with Wink Hub 2, SYLVANIA SMART+ bulbs, Compatible with Amazon Alexa and Google Assistant",
+    "brand": "Wink",
+    "feature": [
+        "Compatible with all major smart home categories. Requirements : Apple smartphones and tablets (tablets use iPhone app) or Android device",
+        "SMART HOME LIGHTING: Has everything to start smart home. Easily install the SYLVANIA SMART+ bulbs and harness the power of light",
+        "EXPAND YOUR SMART HOME: Easily manage and expand your smart home ecosystem with the included Wink Hub 2",
+        "ULTIMATE COMPATIBILITY: Wink Hub 2 enables to connect and control 400+ smart home devices, including Nest, Philips, Ring, Ecobee, GoControl, Schlage, Sonos, Arlo, Yale and Chamberlain",
+        "THE LARGEST PROTOCOL SUPPORT: Wink Hub supports Bluetooth LE, ZigBee, Z-Wave, Kidde, and Lutron Clear Connect. Works with more smart home protocols",
+        "IN THE BOX: Wink Hub 2, Two SYLVANIA SMART+ A19 Dimmable Bulbs (60W Equivalent with a 10-year Life Expectancy), Power Adapter, Ethernet Cable, and in-app Home Sitter and Moonlight services",
+        "When you control your lights using the Wink app, your smartphone sends a signal over the internet to your hub to turn your lights on or off",
+        "Compatible with all major smart home categories"
+    ],
+    "description": "It\u2019s easy to make your home smart and secure with wink bright. A little light goes a long way. Wink bright empowers you to control your home\u2019s lights from anywhere, because a well-lit home is a safe home. Our smart lighting essentials include a wink hub 2, two Sylvania smart a19 dimmable bulbs, and two built-in app services: home sitter, which makes your home look lived in while you're away, and moonlight, which turns your lights on at sunset and off at sunrise.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 280.0,
+        "length": 720.0,
+        "width": 120.0,
+        "height": 720.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31XzPFQvqkL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21HQoCZBfdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/3129-Tl4w4L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31z-tzQhTjL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "495266",
+            "title": "Electrical"
+        },
+        {
+            "node": "6478739011",
+            "title": "Home Automation Devices"
+        },
+        {
+            "node": "6478740011",
+            "title": "Hubs & Controllers"
+        }
+    ],
+    "similar": [
+        "B06XCM9LJ4",
+        "B076LS3SLY",
+        "B01MUI2PEX",
+        "B07CTZT5VW",
+        "B079CCWSHT",
+        "B07576J38L",
+        "B076C7S1K3",
+        "B07D19VVTX",
+        "B07G95GLT4",
+        "B00DSQJM7U",
+        "B06Y2XD9XH",
+        "B0722R3WV5",
+        "B0791ZWZ2Q",
+        "B01KW8WGZQ",
+        "B06XG2T2S6",
+        "B06XKDYSH6",
+        "B016H0QZ7I",
+        "B07GBXS7WZ",
+        "B01K1JVZOE",
+        "B00PV6GAI4",
+        "B01MG9AHGB",
+        "B07G5FM2JH",
+        "B07DX13T8K",
+        "B01LXR0B8Q",
+        "B005E5B9LA",
+        "B073SSK6P8",
+        "B01C4UY0JK",
+        "B072M5RT6L",
+        "B00PCVJ4T0",
+        "B01NBI0A6R",
+        "B07354SP1C",
+        "B01HXM8X88",
+        "B074K427TZ",
+        "B07B8W2KHZ"
+    ],
+    "rating": "4.2"
+}

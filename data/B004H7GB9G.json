@@ -1,0 +1,82 @@
+{
+    "asin": "B004H7GB9G",
+    "title": "Natrol Biotin Maximum Strength Tablets, 10,000mcg, 100 Count",
+    "brand": "Natrol",
+    "feature": null,
+    "description": "Biotin, a water-soluble B vitamin, acts as a coenzyme in the metabolism of proteins, fats, and carbohydrates. Biotin is also known as vitamin H or B7 and not only helps to promote radiant skin, strong nails and heathy hair, but also aids in the conversion of daily food intake into natural energy.Clinical studies indicate that those with deficiencies of biotin can experience brittle nails and hair loss. By taking Natrol Biotin daily, you can improve strength of nails, healthy hair and radiant skin. Biotin supports the growth of cells and production of fatty acids which can increase the bulb size of hair follicles, which helps to make hair appear fuller and thicker. These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 13.125,
+        "length": 190.0,
+        "width": 190.0,
+        "height": 360.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41bim%2ByoKML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41DMc5fJCzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61CaY%2B3%2BXLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51J9cFLqfaL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6936790011",
+            "title": "Vitamins"
+        },
+        {
+            "node": "3774671",
+            "title": "Vitamin B"
+        },
+        {
+            "node": "3774751",
+            "title": "B7 (Biotin)"
+        }
+    ],
+    "similar": [
+        "B00LTZEEGQ",
+        "B005CD3NGI",
+        "B07G6HBXNC",
+        "B074F13GD6",
+        "B00T56FQAE",
+        "B01D6AQQQC",
+        "B00OJOFX2S",
+        "B01ENCBOA0",
+        "B07BN7P5SY",
+        "B06ZZ5MGYH",
+        "B01AMJCHB8",
+        "B00LU4CZP8",
+        "B0106IZ1YU",
+        "B00014ECOK",
+        "B00JKK3MAG",
+        "B0185PXU3K",
+        "B0061GLRN6",
+        "B01DPZQXGQ",
+        "B00IOZWC2M",
+        "B015QFMNZI",
+        "B074V7394F",
+        "B073CCHJTS",
+        "B01F7W03PM",
+        "B0016LBH22",
+        "B005D0DTO6",
+        "B07BF1M19L",
+        "B06WLQ9RY8",
+        "B079T4MPC4",
+        "B01C46JWTW",
+        "B01MEBMNYY",
+        "B00C43H9KU",
+        "B001E0WDV4",
+        "B01C46JWN8",
+        "B0012BNVE8"
+    ],
+    "rating": "4.2"
+}

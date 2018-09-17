@@ -1,0 +1,93 @@
+{
+    "asin": "B072L66RYN",
+    "title": "Buttoned Down Men's Cashmere Quarter-Zip Sweater",
+    "brand": null,
+    "feature": [
+        "100% Cashmere",
+        "Imported",
+        "Hand Wash",
+        "Soft cashmere elevates this understated quarter-zip lightweight sweater with standing collar and ribbed trims"
+    ],
+    "description": "An Amazon brand - Soft cashmere elevates this understated quarter-zip lightweight sweater with standing collar and ribbed trims Buttoned Down has mastered the art of elevated menswear. With our eye for detail and a focus on luxurious materials, we deliver clothes with a bespoke feel but without the wait\u2014and at affordable prices. Start with our classic dress shirts in Supima cotton or refined linen and add perfectly paired cashmere sweaters to build a style that's all yours.",
+    "price": 9900.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41gGO7zruIL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31oRTy-OBnL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41bOTeQAZlL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41FnWzfxrDL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41JhN46LyCL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "Small"
+        },
+        {
+            "name": "Color:",
+            "value": "Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "1040658",
+            "title": "Clothing"
+        },
+        {
+            "node": "1044442",
+            "title": "Sweaters"
+        },
+        {
+            "node": "2476516011",
+            "title": "Pullovers"
+        }
+    ],
+    "similar": [
+        "B072BFZSMY",
+        "B01CS4AP78",
+        "B076BGJXH7",
+        "B071YSCN86",
+        "B0714F2GLQ",
+        "B072L6HTHZ",
+        "B0742PWZP4",
+        "B076HGCXXQ",
+        "B075CSL84J",
+        "B079RDW965",
+        "B072HM8662",
+        "B079R8JP4F",
+        "B071VBYRVM",
+        "B075CSLVRJ",
+        "B075CRSGZL",
+        "B076BGJXLN",
+        "B072L6GRHG",
+        "B072HM7LSQ",
+        "B07DB5X1FM",
+        "B075CRQ9MS",
+        "B076P5N2VY",
+        "B079RPRKS1",
+        "B071NL9ZJF",
+        "B0077S353W",
+        "B004JJ2JT8",
+        "B071YSCMMM",
+        "B071NLB1XS",
+        "B00OBL4BBI",
+        "B078NHBK4G",
+        "B079RPS455"
+    ],
+    "rating": "4.1"
+}

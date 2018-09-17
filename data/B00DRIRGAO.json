@@ -1,0 +1,99 @@
+{
+    "asin": "B00DRIRGAO",
+    "title": "Cable Matters Mini DisplayPort to HDMI Cable (Mini DP to HDMI Cable) in White 25 Feet - Thunderbolt | Thunderbolt 2 Port Compatible",
+    "brand": "Cable Matters",
+    "feature": [
+        "Convenient cable for directly connecting a Mini DisplayPort (Mini DP or mDP)/Thunderbolt\u2122 2 port compatible computer to an HDTV, monitor, or projector with HDMI input",
+        "Transmits both audio and video from computer or tablet to HDTV display; Supports video resolutions up to 1920 x 1200 and 1080p (Full HD) and flawless audio pass-thru for uncompressed digital 7.1, 5.1 or 2 channels",
+        "Low-profile connector does not block adjacent ports on your computer, has molded strain-relief for long life, and has ergonomically designed treads for easy plugging and unplugging",
+        "Gold-plated connectors resist corrosion, provide durability, and improve the signal transmission; Foil & braid shielding reduces Electromagnetic interference; Bare copper conductor enhances cable performance",
+        "Compatible with Apple MacBook, MacBook Pro, MacBook Air, iMac, Mac mini, Mac Pro; Microsoft Surface Pro/Pro 2/Pro 3 (NOT Surface for Windows RT); Lenovo ThinkPad X1 Carbon, X230/X240s, L430/L440/L530/L540, T430/T440/T440s/T440p/T530/540p, W530/W540, Helix; Dell XPS 14/15/17, Latitude E7240/E7440, Precision M3800; Alienware 14/17/18; Acer Aspire R7/S7/V5/V7; Intel NUC; Asus Zenbook; HP Envy 14/17; Google Chromebook Pixel; Cyberpower Zeusbook Edge X6; Toshiba Satellite Pro S500, Tecra M11/A11/S11"
+    ],
+    "description": null,
+    "price": 2299.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 55.00000000000001,
+        "length": 600.0,
+        "width": 600.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31gQbte63OL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41dAx5oL9bL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/318RYx9i4IL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31OLP0NtrSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31P3BGtW0LL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "1"
+        },
+        {
+            "name": "Color:",
+            "value": "25 Feet"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "172472",
+            "title": "Computer Cable Adapters"
+        },
+        {
+            "node": "3015395011",
+            "title": "DVI-HDMI Adapters"
+        }
+    ],
+    "similar": [
+        "B07DHG7BC4",
+        "B072FCLXQ2",
+        "B00NH13K8S",
+        "B004RHNJOG",
+        "B075ZX24H4",
+        "B078H57KMF",
+        "B01LP7ZTWK",
+        "B00VMFPQ4C",
+        "B01CL1P6TA",
+        "B071RFR51S",
+        "B00DRK2ZIK",
+        "B06XBXQ9RL",
+        "B00DRIRIZW",
+        "B07DKXWC27",
+        "B00C7RNOXO",
+        "B01LYS3Q5A",
+        "B06X9PW5DZ",
+        "B004CAJU8W",
+        "B07BBFR1FJ",
+        "B014I8SSD0",
+        "B0134V48JK",
+        "B0146N8BDO",
+        "B01JH71AFK",
+        "B00PBW3F2W",
+        "B01NCRG8J8",
+        "B004CADYDO",
+        "B00VMFPHQE",
+        "B06XC25XPP",
+        "B0134V3KIA",
+        "B00HNF0KF0",
+        "B016VFPWWS",
+        "B004CADY9I",
+        "B00917TOOQ",
+        "B00LHNXS80",
+        "B00KCUUA9E"
+    ],
+    "rating": "3.9"
+}

@@ -1,0 +1,80 @@
+{
+    "asin": "B01M72DD2F",
+    "title": "Viva Doria Virgin Coconut Shell Activated Charcoal Powder - Food Grade (1.5 oz glass jar)",
+    "brand": "VIVADORIA",
+    "feature": null,
+    "description": "Activated Charcoal is a fine odorless and tasteless powder made from natural coconut shells that have been exposed to very high temperatures in an airless environment. It is pure carbon specially processed to make it highly absorbent of particles and gases in the body's digestive system.",
+    "price": 599.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 30.0,
+        "length": 300.0,
+        "width": 250.0,
+        "height": 250.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51KnR6D-XSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51RvqgK-OiL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/510yPqxHxrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31nh4va7kdL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6939426011",
+            "title": "Supplements"
+        },
+        {
+            "node": "6942464011",
+            "title": "Digestive Supplements"
+        },
+        {
+            "node": "3773121",
+            "title": "Charcoal"
+        }
+    ],
+    "similar": [
+        "B078T354SC",
+        "B06XYLNB4S",
+        "B00S7ZPB8Q",
+        "B015JTKLPU",
+        "B01MG8F1XS",
+        "B019M7XCA6",
+        "B07D94ZBQV",
+        "B01MG8ECO9",
+        "B073RTC3VR",
+        "B0006LCQ4Q",
+        "B06XPWC983",
+        "B06XXN9CTG",
+        "B00TCYKZTG",
+        "B01LX5KGF0",
+        "B00016WU2E",
+        "B00HNTPF7E",
+        "B01N2B3DEG",
+        "B0131O1O3S",
+        "B0014P8L9W",
+        "B073RSZBSK",
+        "B07DWH5JYG",
+        "B00PKMPXX2",
+        "B0767NSFDG",
+        "B07D4G7LX4",
+        "B07BZVJDNB",
+        "B079Z4VJS7",
+        "B0762F5X6B",
+        "B01NCHTSUZ",
+        "B076B2HSC6",
+        "B00UFDHT06",
+        "B0779JDH62",
+        "B01AMBLL5Y"
+    ],
+    "rating": "4.2"
+}

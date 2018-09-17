@@ -1,0 +1,102 @@
+{
+    "asin": "B005NNF0YU",
+    "title": "BLACK+DECKER LDX120C 20V MAX Lithium Ion Drill / Driver",
+    "brand": "BLACK+DECKER",
+    "feature": [
+        "Ideal for drilling into wood, metal plastic and all screw driving tasks",
+        "Lithium Ion Technology & 20V MAX: Lighter, more compact, no memory, longer life",
+        "11 Position Clutch: Provides precise control for drilling into wood, metal, plastic, and all screwdriving tasks",
+        "Compact and Lightweight: Less fatigue and allows users to drill / screw in confined spaces. Part of the 20V MAX System - A System that Demands Attention",
+        "Variable Speed: Allows countersinking without damaging material"
+    ],
+    "description": "The Black & Decker LBXR20 20 Volt MAX Extended Run Time Lithium Battery is compatible with the 20-Volt MAX line of power and gardening tools. These batteries have been formulated for longer runtime and improved performance. This battery is compatible with cordless tool models BDC120VA100, BDCDMT120, BDCDMT120-2, BDCDMT120F, BDCDMT120IA, BDCF20, BDH2000SL, LD3K220, LCC220, LCS120, LCS120B, LD120VA, LDX120C, LDX120PK, LDX120SB, LDX220SB, LDX220SBFC, LGC120, GLC120B, LHT210, LHT2220, LHT2220B, LLP120, LLP120B, LPHT120, LPHT120B, LPP120, LPP120B, LST220, LSW120, LSW20, LSW20B, SSL20SB, SSL20SB-2.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 341.0,
+        "length": 1060.0,
+        "width": 370.0,
+        "height": 850.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51BOsNxvFuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51NK5Ci-5sL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41jxSDduW0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JzN-JkqyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51XN7NTYABL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61gcVXzDveL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Style:",
+            "value": "20V MAX* Drill/Driver"
+        }
+    ],
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "328182011",
+            "title": "Power & Hand Tools"
+        },
+        {
+            "node": "551236",
+            "title": "Power Tools"
+        },
+        {
+            "node": "552794",
+            "title": "Drills"
+        },
+        {
+            "node": "9022404011",
+            "title": "Drill Drivers"
+        }
+    ],
+    "similar": [
+        "B077HW9XM7",
+        "B01IR1SXNE",
+        "B000AYW018",
+        "B01MEEGYKW",
+        "B00TG1HJMQ",
+        "B072FRJJPS",
+        "B07DN9Z4T7",
+        "B01IR1SXVQ",
+        "B009QYLOD8",
+        "B006V6YAPI",
+        "B00280MC9M",
+        "B07CSTXCF8",
+        "B00TG24I5Q",
+        "B06Y182KJ8",
+        "B07285TFBS",
+        "B07DC56R4G",
+        "B00NOI80XE",
+        "B06Y1BSNF8",
+        "B00OJ72LHU",
+        "B01LZ54LET",
+        "B00ET5VMTU",
+        "B01EV57OXU",
+        "B00F4AVRGW",
+        "B00TG24XHO",
+        "B06XDBY58B",
+        "B074GYX6XG",
+        "B00TM2T9C2",
+        "B018TM1Q80",
+        "B0771YRK4X",
+        "B01IR1SUEG",
+        "B00TG1QN46",
+        "B076QBDGXG",
+        "B000RH22WA",
+        "B07D3LW4CH",
+        "B01N6JEDYQ",
+        "B0018U0A3S",
+        "B07DQSJH2N",
+        "B00JK2TS8Y",
+        "B075ZM9Q7D",
+        "B01EV57OGM",
+        "B00TG1ON2K"
+    ],
+    "rating": "4.4"
+}

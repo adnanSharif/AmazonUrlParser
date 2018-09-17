@@ -1,0 +1,76 @@
+{
+    "asin": "B01JIVNX5K",
+    "title": "The Body Shop Wild Argan Oil Essential Selection Gift Set",
+    "brand": "The Body Shop",
+    "feature": null,
+    "description": "Give them precious time to indulge this Holiday with our Wild Argan Oil range. This selection of from our luxurious bath and body range helps cleanse, soften and smooth the skin, leaving it with a radiant glow. Just the thing if you\u2019re on the hunt for indulgent gifts for her.",
+    "price": 1895.0,
+    "listPrice": 2000.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 170.0,
+        "length": 819.9999999999999,
+        "width": 819.9999999999999,
+        "height": 270.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51DJoFLtkHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61r9Xic5BUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51c4IQqKnUL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51rmNzn6h0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31f2AvrShgL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060521",
+            "title": "Body"
+        },
+        {
+            "node": "11060661",
+            "title": "Moisturizers"
+        },
+        {
+            "node": "11060671",
+            "title": "Body Butter"
+        }
+    ],
+    "similar": [
+        "B002K8W58K",
+        "B06X9SC73L",
+        "B076ZY83R7",
+        "B00CHMWAY8",
+        "B00X6ZNWG0",
+        "B06XXGZQ51",
+        "B01JIVNX50",
+        "B00PRC3IP0",
+        "B00RPSG6QM",
+        "B01N0MI95X",
+        "B01JIVNJHW",
+        "B01MF5YUOA",
+        "B00SUYRB7I",
+        "B0711YX6D1",
+        "B001A7DUOU",
+        "B01JIVNTZE",
+        "B0738HQWJZ",
+        "B00M78895Q",
+        "B07C5QG51D",
+        "B01JIVNTZY",
+        "B005LN60T6",
+        "B07BPC6F3C",
+        "B01JIVNPYE",
+        "B01JIVNMWE",
+        "B01JIVNU0I",
+        "B01JIVNWYW",
+        "B07CKTJF17"
+    ],
+    "rating": "5.0"
+}

@@ -1,0 +1,71 @@
+{
+    "asin": "B000C1Z3LS",
+    "title": "Happy By Clinique For Women, EDP, 3.4 Oz",
+    "brand": "Clinique",
+    "feature": null,
+    "description": "Introduced in 1997. Fragrance notes: a floral, citrusy bouquet. Recommended use: daytime. When applying any fragrance please consider that there are several factors which can affect the natural smell of your skin and, in turn, the way a scent smells on you. For instance, your mood, stress level, age, body chemistry, diet, and current medications may all alter the scents you wear. Similarly, factor such as dry or oily skin can even affect the amount of time a fragrance will last after being applied",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 65.0,
+        "length": 200.0,
+        "width": 200.0,
+        "height": 600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41ZGnyqoDEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51qD9zc1o1L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31x4Uzh-aDL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11056591",
+            "title": "Fragrance"
+        },
+        {
+            "node": "11056931",
+            "title": "Women's"
+        },
+        {
+            "node": "11057071",
+            "title": "Eau de Parfum"
+        }
+    ],
+    "similar": [
+        "B000BTO6EG",
+        "B00ZYJL9W0",
+        "B00SH46VR2",
+        "B00TI6TSF0",
+        "B000L6IGS6",
+        "B016M9UFJ8",
+        "B00027C8Q0",
+        "B014Q8YMCI",
+        "B000P20PU8",
+        "B002L5WFT6",
+        "B00VVWNMLA",
+        "B07CKS1CP7",
+        "B00121Q7H6",
+        "B01D0N1U5M",
+        "B000C1Z5AW",
+        "B00X6ZNWG0",
+        "B016M9UEY4",
+        "B07CQ1RGP1",
+        "B01KEMVLR4",
+        "B0016B20EG",
+        "B0017JT658",
+        "B000273PEO",
+        "B01K2UMMI0",
+        "B0025VR7RQ",
+        "B00ZH05VUM",
+        "B014LYHMOM",
+        "B000C1UD36",
+        "B00TI6TSLO"
+    ],
+    "rating": "4.2"
+}

@@ -1,0 +1,85 @@
+{
+    "asin": "B077TZM1CC",
+    "title": "EK Water Blocks EK-M.2 NVMe Passive Cooler - Red",
+    "brand": "EK Waterblocks",
+    "feature": [
+        "Quality Brand",
+        "Adequate performance",
+        "Performant product"
+    ],
+    "description": "Whether you are looking for performance or simply in a qualitative product, this material will perfectly meet your expectations",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 9.0,
+        "length": 390.0,
+        "width": 390.0,
+        "height": 390.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Y5hWfci-L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31hSCnfmvuL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31mLX1PznzL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Red"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012290011",
+            "title": "Fans & Cooling"
+        }
+    ],
+    "similar": [
+        "B077V3BMW9",
+        "B01MY2NQ8S",
+        "B077TYSDK2",
+        "B073RH58WN",
+        "B01G5I6QH6",
+        "B07DGK8PWR",
+        "B077BPPFN8",
+        "B077V21SBX",
+        "B018QQQY4U",
+        "B01M723CAN",
+        "B077V5Q1KB",
+        "B077SSV15R",
+        "B07DLQJKKC",
+        "B078WRJ8J7",
+        "B07C8Y31G2",
+        "B073RHHYCM",
+        "B018QMCTS4",
+        "B06W2FZ592",
+        "B078X8WCY2",
+        "B011F7W3LU",
+        "B0795DP124",
+        "B076YZMQR5",
+        "B07GFN8KLB",
+        "B06XY7YTZQ",
+        "B07GSL59N9",
+        "B0756XF5ZQ",
+        "B07CW8VB7T",
+        "B07B6BB4PZ",
+        "B0199AYPH0"
+    ],
+    "rating": "4.3"
+}

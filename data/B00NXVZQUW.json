@@ -1,0 +1,80 @@
+{
+    "asin": "B00NXVZQUW",
+    "title": "General Hydroponics MaxiBloom for Gardening, 2.2-Pound",
+    "brand": "General Hydroponics",
+    "feature": [
+        "MaxiGro and Maxi Bloom are stand-alone, water-soluble, dry concentrated nutrients",
+        "MaxiGro and Maxi Bloom will provide superior results when used with a wide variety of crops in all hydroponic, soil or soil-based growing environments",
+        "Use to encourage growth of seedlings and cuttings and to stimulate rapid growth through the vegetative growth stage"
+    ],
+    "description": "Maxi Bloom are extremely potent, stand-alone, water-soluble, dry concentrate nutrients. Complete in Primary, Secondary and Micro Nutrients, pH-buffered . Maxi Bloom will provide superior results when used with a wide variety of crops in both hydroponic and soil-based environments. Use Maxi Bloom for the reproductive stage in fast-growing annuals. Maxi Bloom encourages prolific flowering and fruiting and increases yields and crop quality.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 220.00000000000003,
+        "length": 409.99999999999994,
+        "width": 459.99999999999994,
+        "height": 320.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Cgs53q86L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "2.2 lb"
+        }
+    ],
+    "categories": [
+        {
+            "node": "2972638011",
+            "title": "Patio, Lawn & Garden"
+        },
+        {
+            "node": "3610851",
+            "title": "Gardening & Lawn Care"
+        },
+        {
+            "node": "3752871",
+            "title": "Soils, Fertilizers & Mulches"
+        },
+        {
+            "node": "3752891",
+            "title": "Fertilizers & Plant Food"
+        }
+    ],
+    "similar": [
+        "B00598D0YQ",
+        "B01GU8OLE6",
+        "B001IA1OU6",
+        "B06XCLP3KQ",
+        "B07DJS1595",
+        "B07DTTLTB1",
+        "B002DV8TBQ",
+        "B0758L58YY",
+        "B073ZNJSP2",
+        "B01GLV51NC",
+        "B01DPUMB76",
+        "B005H78ZLC",
+        "B000KQWKUM",
+        "B00GBVCJ1U",
+        "B00GZRKI40",
+        "B00TQPEL1Y",
+        "B07FHLZR5K",
+        "B019NSQ4FO",
+        "B00FGIOZHU",
+        "B01E6TWKO4",
+        "B00TG1WAKM",
+        "B003YB7050",
+        "B01DPUOQUQ",
+        "B00NQANQAC",
+        "B00PEDHSQC",
+        "B00VMUJM60",
+        "B00HDYO78W",
+        "B01L32CE20",
+        "B078GZ4P2B",
+        "B00E5K5NS0"
+    ],
+    "rating": "4.4"
+}

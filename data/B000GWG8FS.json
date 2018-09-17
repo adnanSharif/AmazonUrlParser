@@ -1,0 +1,91 @@
+{
+    "asin": "B000GWG8FS",
+    "title": "Garden of Life Whole Food Probiotic Supplement - Primal Defense ULTRA Ultimate Probiotic Dietary Supplement for Digestive and Gut Health, 90 Vegetarian Capsules",
+    "brand": "Garden of Life",
+    "feature": null,
+    "description": "Primal Defense ULTRA is the ultimate high potency, broad-spectrum probiotic formula. Three capsules per day provide a 15 billion live cell count** of 13 species of beneficial cultures including soil-based probiotics called Homeostatic Soil Organisms (HSOs).",
+    "price": 3381.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 61.875,
+        "length": 250.0,
+        "width": 250.0,
+        "height": 470.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/512u6vRbwaL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ILacqCxCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/518fcyzX3DL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51cxNYYTLyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Fi6FuQSOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61MkqQxNeEL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6939426011",
+            "title": "Supplements"
+        },
+        {
+            "node": "6942464011",
+            "title": "Digestive Supplements"
+        },
+        {
+            "node": "3774071",
+            "title": "Probiotics"
+        }
+    ],
+    "similar": [
+        "B01BKSUPN2",
+        "B00Y8MPKVU",
+        "B00Q8BAXSY",
+        "B0010WAZU2",
+        "B079WQ5B5Z",
+        "B000KNG9CU",
+        "B002HEAPZC",
+        "B00280M12A",
+        "B00KNX8LVY",
+        "B0055OV0MI",
+        "B00Y8MP4CK",
+        "B00CCCNISU",
+        "B0098U0S8C",
+        "B005JAT318",
+        "B01DBTFO98",
+        "B000GWKA2K",
+        "B000CMKC5Y",
+        "B01IU1X5WU",
+        "B00AR0ENJ2",
+        "B06W5HF7KF",
+        "B01BKUD2SK",
+        "B0098U0SQO",
+        "B00Y8MP4G6",
+        "B007RA0ZAQ",
+        "B00FPNZBVA",
+        "B01LVYJK6U",
+        "B07DM6WJ99",
+        "B01FNEV7IQ",
+        "B0010WD34M",
+        "B071DZQLPQ",
+        "B004EBZRPO",
+        "B00Y8MP5VA",
+        "B01LXFYDKD",
+        "B06ZYXK5TQ",
+        "B076G62QN8",
+        "B078MC7RKJ",
+        "B0098U0QC0",
+        "B079NFCQBL",
+        "B079C626NQ",
+        "B01FNEUEG2",
+        "B0010WD31A"
+    ],
+    "rating": "4.3"
+}

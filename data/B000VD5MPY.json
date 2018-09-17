@@ -1,0 +1,70 @@
+{
+    "asin": "B000VD5MPY",
+    "title": "Nature's Bounty Magnesium, 500 mg, 100 Coated Tablets, Mineral Supplement, Supports Bone and Muscle Health*, Gluten Free, Vegetarian, Pack of 3",
+    "brand": "Nature's Bounty",
+    "feature": null,
+    "description": "High Potency Nature's Bounty Magnesium provides 125% of the daily recommended value for this important mineral in just one softgel. Nature's Bounty Magnesium is essential for supporting bone health, and plays an important role in maintaining bone mineralization.* As a component in over 200 enzymes in the body, Magnesium is also involved in muscle contractions, nerve impulses, energy metabolism and protein formation.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 120.0,
+        "length": 600.0,
+        "width": 600.0,
+        "height": 1000.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41a-IXwXTyL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774271",
+            "title": "Minerals"
+        },
+        {
+            "node": "3774411",
+            "title": "Magnesium"
+        }
+    ],
+    "similar": [
+        "B00CBXSPMY",
+        "B000NB1OMO",
+        "B0192TOX2A",
+        "B01DBTFO98",
+        "B001GCTZZC",
+        "B06WJ56QTM",
+        "B004USSV36",
+        "B010HJXQMC",
+        "B0014D2GEK",
+        "B002RS6PN4",
+        "B005A6964U",
+        "B000BD0RT0",
+        "B000KOHUTU",
+        "B06W5HF7KF",
+        "B00CU3SX4K",
+        "B00VKTFUKU",
+        "B078SH4ZKX",
+        "B0047OXWNC",
+        "B010R9ND8E",
+        "B07BFJTD2L",
+        "B01HBN0QSY",
+        "B000NPYY04",
+        "B002Q16VVS",
+        "B00H5PJ0HW",
+        "B001KYQETQ",
+        "B001G7QM0I",
+        "B002LANWWK",
+        "B00EFNL27I",
+        "B000I48OK6"
+    ],
+    "rating": "4.1"
+}

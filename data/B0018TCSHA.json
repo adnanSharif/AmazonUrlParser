@@ -1,0 +1,69 @@
+{
+    "asin": "B0018TCSHA",
+    "title": "Aguilar OBP-3SK/PP Onboard Preamp",
+    "brand": "Aguilar",
+    "feature": [
+        "Includes stacked Treble/Bass pot and separate Mid pot. Mid pot is push/pull for Midrange frequency selection",
+        "plus/minus 18dB bass at 40Hz",
+        "plus/minus 16 db of cut and boost at either 400Hz or 800 Hz",
+        "plus/minus 16 dB @ 6.5KHz",
+        "Battery life: 324 hours"
+    ],
+    "description": "The OBP-3 is Aguilar's most flexible onboard preamp design, providing +/-18dB of cut and boost at 40Hz, +/- 16dB of cut and boost at either 400Hz or 800Hz and +/- 16dB of treble cut and boost at 6.5 kHz. The OBP-3 has multiple wiring options, and can be wired with a push/pull on the Mid pot for midrange frequency selection. The OBP-3 is Aguilar's most flexible onboard preamp design, providing +/-18dB of cut and boost at 40Hz, +/- 16dB of cut and boost at either 400Hz or 800Hz and +/- 16dB of treble cut and boost at 6.5 kHz. The OBP-3 has multiple wiring options, and can be wired with either a mini-toggle or internal dip-switch for midrange frequency selection. The OBP-3SK/PP includes a stacked Treble/Bass pot and a separate Mid pot. The Mid pot is push/pull for Midrange frequency selection.",
+    "price": 14900.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 100.0,
+        "width": 100.0,
+        "height": 60.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/318oWXU1RKL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11965871",
+            "title": "Instrument Accessories"
+        },
+        {
+            "node": "11967641",
+            "title": "Guitar & Bass Accessories"
+        },
+        {
+            "node": "11968031",
+            "title": "Bass Guitar Parts"
+        },
+        {
+            "node": "11968071",
+            "title": "Electronics"
+        }
+    ],
+    "similar": [
+        "B0719C132V",
+        "B003DI9T76",
+        "B00NH11H38",
+        "B001Q3KJY2",
+        "B0018TCSGG",
+        "B06Y6KVWHR",
+        "B006LW0W5Y",
+        "B075CSHLYH",
+        "B0018TCSH0",
+        "B0732PQSQN",
+        "B000P5QZN6",
+        "B003BDDRIU",
+        "B009DAHPLU",
+        "B01FLHZYSO",
+        "B000E4QR6I",
+        "B004UJEVQG",
+        "B002JTV7UM",
+        "B0002I6M34"
+    ],
+    "rating": "4.6"
+}

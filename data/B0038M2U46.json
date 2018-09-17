@@ -1,0 +1,60 @@
+{
+    "asin": "B0038M2U46",
+    "title": "Tumi Voyageur Medium Utility Pack,Black,one size",
+    "brand": "Tumi",
+    "feature": [
+        "None"
+    ],
+    "description": "The perfect way to organize and carry smaller items,from personal accessories to electronics,for travel or every day Tumi is the leading international brand of luxury travel, business and lifestyle accessories. The brand of choice for the world\u2019s most discerning and demanding consumers.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 200.0,
+        "width": 750.0,
+        "height": 590.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31h47CSc5GL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31FKjEblJtL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31B56F9Z7vL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31-F7T8WFSL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147440011",
+            "title": "Women"
+        }
+    ],
+    "similar": [
+        "B00KFRJUNQ",
+        "B01GTILK3W",
+        "B07DNJFVC7",
+        "B01N0AX41C",
+        "B00ZCED326",
+        "B01N5OBXYC",
+        "B003FKJUYO",
+        "B00KFQ06Z8",
+        "B072522FMC",
+        "B072KZK58X",
+        "B004LG4K46",
+        "B07BRNCQC1",
+        "B00Q2QUZLA",
+        "B00XPHXJG2",
+        "B072DT5N3C",
+        "B07DLPPQF5",
+        "B07DNMKN1C",
+        "B07BBCDBMT",
+        "B07DNMJGXZ",
+        "B07DNMLSGR",
+        "B07DNMZRJV",
+        "B07CQ87S7S"
+    ],
+    "rating": "4.2"
+}

@@ -1,0 +1,79 @@
+{
+    "asin": "B00B2YCJ52",
+    "title": "Trader Joes Gluten Free and Wheat Free Rolled Oats, 32 OZ",
+    "brand": "Trader Joe's",
+    "feature": null,
+    "description": "Trader Joe's Gluten Free and Wheat Free Rolled Oats. 32 oz.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 180.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51hmd4tf%2BOL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51WAhSKOHhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41gPlJalz0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51GXH4J-PKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31-CKIHg-eL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "16310251",
+            "title": "Breakfast Foods"
+        },
+        {
+            "node": "16318891",
+            "title": "Cereals"
+        },
+        {
+            "node": "16318941",
+            "title": "Oatmeal"
+        }
+    ],
+    "similar": [
+        "B071VCJ687",
+        "B0094ENXU2",
+        "B01INA5WG0",
+        "B01MS726YY",
+        "B00ZTA7T14",
+        "B009AH7OU8",
+        "B00OZYNGUS",
+        "B01CJKZ22O",
+        "B00S0AOKJO",
+        "B00DOKFLYI",
+        "B06Y3SGLF4",
+        "B06XCC9L2P",
+        "B01D564XNU",
+        "B01D55NAOY",
+        "B01MSBOTIQ",
+        "B00CWCKV4Y",
+        "B00TE98T5G",
+        "B01FJKBCCA",
+        "B01FNFI2G0",
+        "B01MSN6NUG",
+        "B078WV238W",
+        "B01FUI7GNK",
+        "B00IWQKDU6",
+        "B07BGFWK5Q",
+        "B00I669NOE",
+        "B07C3QXHQ1",
+        "B01FK49JOI",
+        "B000LKUZOU",
+        "B00H14ODQU",
+        "B004KUV136",
+        "B00XW26H3M",
+        "B01C9GZO2G",
+        "B00JMGBF70",
+        "B008NU516W"
+    ],
+    "rating": "3.1"
+}

@@ -1,0 +1,98 @@
+{
+    "asin": "B000XPRUNM",
+    "title": "Levy's Leathers Suede Leather Guitar Strap, Brown",
+    "brand": "Levy's Leathers",
+    "feature": [
+        "2 1/2 inch Signature Series suede guitar strap with black decorative piping.",
+        "Adjustable from 38 inches to 53 inches.",
+        "Also available in extra long (XL), which adds 12 inches to overall length."
+    ],
+    "description": "2 1/2 inch Signature Series suede guitar strap with black decorative piping. Adjustable from 38 inches to 53 inches. Also available in extra long (XL), which adds 12 inches to overall length.",
+    "price": 4340.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 53.125,
+        "length": 570.0,
+        "width": 310.0,
+        "height": 290.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41MmhbrgvWL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        },
+        {
+            "name": "Size:",
+            "value": "Brown"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11965871",
+            "title": "Instrument Accessories"
+        },
+        {
+            "node": "11967641",
+            "title": "Guitar & Bass Accessories"
+        },
+        {
+            "node": "486418011",
+            "title": "Straps & Strap Locks"
+        },
+        {
+            "node": "491008011",
+            "title": "Straps"
+        }
+    ],
+    "similar": [
+        "B0776Z4D28",
+        "B078B8J7BS",
+        "B0002D0E92",
+        "B01FKSSW74",
+        "B000XPUMZK",
+        "B07CM8R9DW",
+        "B01FN1YPVA",
+        "B0002GWFEQ",
+        "B015CA9U0S",
+        "B01H74YV56",
+        "B000XPNYT6",
+        "B07634L7P4",
+        "B000XPSMUC",
+        "B000XPSL8U",
+        "B0031XPK9O",
+        "B00PM69RPQ",
+        "B01FKW0AIO",
+        "B019WTLVKW",
+        "B01FL5CQ1Y",
+        "B01GSASUAM",
+        "B07C7S6MWX",
+        "B00B5LDMH6",
+        "B007QT84KG",
+        "B01N9PU319",
+        "B0002D0CX0",
+        "B000960KNW",
+        "B01FL5DS5M",
+        "B01KXD7MLI",
+        "B0002PCMBS",
+        "B0002CZVXM",
+        "B07D38HYP2",
+        "B076X4Q2MB",
+        "B01GSASGDI",
+        "B000XPPYCQ",
+        "B000XPNYPK",
+        "B01GSASPMA",
+        "B073B2XLLF",
+        "B000L3FPUG",
+        "B0002D0CXA",
+        "B000XPSMZW"
+    ],
+    "rating": "4.5"
+}

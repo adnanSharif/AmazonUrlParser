@@ -1,0 +1,70 @@
+{
+    "asin": "B0051Y0S6Q",
+    "title": "GraphTech PQL-7004-00 TUSQ Sleek String Trees",
+    "brand": "Graph Tech",
+    "feature": [
+        "Two XL string trees",
+        "Two long chrome screws",
+        "One short chrome screw"
+    ],
+    "description": "TUSQ Sleek String Trees",
+    "price": 1493.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 530.0,
+        "width": 500.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31bKvNI4pcL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11965871",
+            "title": "Instrument Accessories"
+        },
+        {
+            "node": "11967641",
+            "title": "Guitar & Bass Accessories"
+        }
+    ],
+    "similar": [
+        "B0051SJ5PM",
+        "B01MZF7RDR",
+        "B0781DS4MZ",
+        "B004FF6V8G",
+        "B07FJLM6RC",
+        "B07F75YNGD",
+        "B0002E2GMY",
+        "B07D1XLZHL",
+        "B006WP70Z0",
+        "B07D5LHRRN",
+        "B07GFJ87YX",
+        "B00KWGWNMA",
+        "B0785YGZWK",
+        "B0799HBNMD",
+        "B000L6GD04",
+        "B07FSP53Y1",
+        "B01M6527FP",
+        "B003HGQTIG",
+        "B07C6KVCTV",
+        "B00N4ZHPZ6",
+        "B000WN4J9S",
+        "B00126E3Z4",
+        "B01EAF3JB2",
+        "B01I5JWO2Y"
+    ],
+    "rating": "4.9"
+}

@@ -1,0 +1,80 @@
+{
+    "asin": "B001216W58",
+    "title": "Jerome Russell Punky Hair Color Creme, Purple, 3.5 Fluid Ounce",
+    "brand": "Jerome Russell",
+    "feature": null,
+    "description": "Punkie color is the original semi-permanent conditioning hair color. Get outrageous color on bleached or chemically-treated hair. Create a brilliant highlight effect on darker hair.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 26.25,
+        "length": 500.0,
+        "width": 400.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/511iIEDnstL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/318RyGL-%2BGL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11057451",
+            "title": "Hair Coloring Products"
+        },
+        {
+            "node": "10728531",
+            "title": "Hair Color"
+        }
+    ],
+    "similar": [
+        "B000WSF41A",
+        "B004KEX6E4",
+        "B01GR49DFK",
+        "B01IAFLO7E",
+        "B0015RALII",
+        "B01JT03M3S",
+        "B00K6RW2D0",
+        "B003AYEFOK",
+        "B01J6IO124",
+        "B004KEWXQQ",
+        "B0015RAK3E",
+        "B0015RBOSO",
+        "B0799SBSC9",
+        "B00GLS58OS",
+        "B074VSV386",
+        "B07BVTZHGK",
+        "B074VGFZKL",
+        "B019GMRE2Y",
+        "B001MP7HYY",
+        "B01DPZ831Y",
+        "B009P4ZJXK",
+        "B001E5EC9K",
+        "B00FRD87A0",
+        "B0015RCVRW",
+        "B0011V16IW",
+        "B01DQ0ABU4",
+        "B01DPZ6LIQ",
+        "B004KEZ9NA",
+        "B000RRLI0W",
+        "B07GXX1681",
+        "B01DBVVI82",
+        "B07G5JJQFG",
+        "B001DKGK0A",
+        "B0776VQ6TB",
+        "B01N3KGXB8",
+        "B01DQ09OKC",
+        "B0147RUWSQ",
+        "B000RRRHJ8"
+    ],
+    "rating": "3.7"
+}

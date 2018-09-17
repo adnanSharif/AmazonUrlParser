@@ -1,0 +1,83 @@
+{
+    "asin": "B009XERH8C",
+    "title": "AeroCool Silent Master 200mm Red LED Cooling Fan EN55659",
+    "brand": "AeroCool",
+    "feature": [
+        "Aerodynamic large fan blade generate high airflow with low noise level",
+        "Airflow up to 76 CFM and low noise level at 18 dBA running at 800RPM",
+        "Include 3 pin to 4 pin Molex converter and 4 screws",
+        "4 Red LEDs create special lighting effect",
+        "12V DC fan"
+    ],
+    "description": "AeroCool designed SilentMaster 200mm Red LED fan with large blades for better airflow and lower noise level. Aerodynamic fan blades designed to minimize turbulent. Only at 800 RPM generate enormous airflow up to 76 CFM with low noise level at only 18dBA. Include 3 pin to 4 pin Molex converter and 4 screws. Customer Service: Supportataerocool.us or call 510-661-9948. RMA Service: RMAataerocool.us or call 510-661-9948.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 56.875,
+        "length": 1140.0,
+        "width": 1000.0,
+        "height": 90.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51FcQ8H3pDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51LDdmREFSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51uTpEqhwpL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Red"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "193870011",
+            "title": "Computer Components"
+        },
+        {
+            "node": "17923671011",
+            "title": "Internal Components"
+        },
+        {
+            "node": "3012290011",
+            "title": "Fans & Cooling"
+        }
+    ],
+    "similar": [
+        "B071PFLMFT",
+        "B078RLF8N6",
+        "B07489X49S",
+        "B002JFU5IQ",
+        "B00F6S0XL2",
+        "B002LE8BJA",
+        "B0787G3W1K",
+        "B0045JCFLY",
+        "B00CJOAXR0",
+        "B008G3OLRQ",
+        "B07GZK8C5V",
+        "B00NEMG62M",
+        "B01N0XQ7XC",
+        "B01EF9OI0O",
+        "B075FLDFX1",
+        "B01NAWJVKN",
+        "B00F6S0XJO",
+        "B0749JJ2YR",
+        "B077VHKLXJ",
+        "B07DRBK74V",
+        "B009XERK6G",
+        "B071SLFBNY",
+        "B07FSH1NPJ",
+        "B07B7JQQHQ",
+        "B00J0NZFIA"
+    ],
+    "rating": "4.3"
+}

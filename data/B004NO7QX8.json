@@ -1,0 +1,60 @@
+{
+    "asin": "B004NO7QX8",
+    "title": "GODIVA Chocolatier Dark Chocolate Hot Cocoa Canister,14.5 oz",
+    "brand": "GODIVA Chocolatier",
+    "feature": null,
+    "description": "Godiva dark chocolate hot cocoa dry mix, 10 servings, 14.5-oz canister",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 120.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41YMNnDm4rL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/517BeXx1l3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31zXmc9w2SL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51GxMZd43BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41NpIukFLGL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "2255571011",
+            "title": "Food & Beverage Gifts"
+        }
+    ],
+    "similar": [
+        "B07BJ1BRL9",
+        "B07FZ6M5KJ",
+        "B003KWDECG",
+        "B01IRFB0G2",
+        "B00P6VUY86",
+        "B00269OR3E",
+        "B01IGAZ9Y2",
+        "B0085SN7J0",
+        "B00F03E7CY",
+        "B0772P7NQT",
+        "B00F03DELE",
+        "B01NBIF6WS",
+        "B078Q3W51K",
+        "B076BYRFTW",
+        "B0019SE6M0",
+        "B073ZMVNJ7",
+        "B01M0ESVP6",
+        "B01M0YNSW8",
+        "B002RBTV78",
+        "B01N8SQXRB",
+        "B005K4Q1VI",
+        "B002RBTVC8",
+        "B077H849C4"
+    ],
+    "rating": "4.5"
+}

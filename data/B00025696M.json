@@ -1,0 +1,75 @@
+{
+    "asin": "B00025696M",
+    "title": "Seachem Flourish 500ml",
+    "brand": "Seachem",
+    "feature": [
+        "Comprehensive supplement",
+        "For Planted aquariums",
+        "Essential trace Elements, amino acids, and vitamins"
+    ],
+    "description": "Flourish is a comprehensive plant supplement for the natural freshwater aquarium. It contains a rich assortment of important micro elements, trace elements and other nutrients. These include calcium, magnesium, iron and other important elements that have been shown to be beneficial to aquatic plants. View a chart of flourish constituents and signs of their deficiency. For macro element (npk) fertilization, use flourish nitrogen, flourish phosphorus or flourish POTASSIUM as needed.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 140.0,
+        "length": 770.0,
+        "width": 210.0,
+        "height": 160.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41ez-h7nvyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41cnX3PFkJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31QWOoDulnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51wED5PazgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61R77zONPnL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "500 MILLILITER"
+        }
+    ],
+    "categories": [
+        {
+            "node": "2619533011",
+            "title": "Pet Supplies"
+        },
+        {
+            "node": "2975446011",
+            "title": "Fish & Aquatic Pets"
+        },
+        {
+            "node": "2975478011",
+            "title": "Aquarium Water Treatments"
+        }
+    ],
+    "similar": [
+        "B06XK816RT",
+        "B0002APILO",
+        "B0006JLX5G",
+        "B0002A5WQU",
+        "B000256962",
+        "B01M20WCI5",
+        "B000255QJS",
+        "B01JS2UGAE",
+        "B0002DGNIS",
+        "B00JMABYUO",
+        "B01NARYABV",
+        "B00025694O",
+        "B001EUL3F6",
+        "B0002A5X3W",
+        "B00025696C",
+        "B00VIO6LCI",
+        "B077BTWNWN",
+        "B00W50BD1I",
+        "B01GP0O6HG",
+        "B0759VRZ6Q",
+        "B01MUDDMVP",
+        "B00025694Y",
+        "B000255QLG",
+        "B01DSFMNHQ",
+        "B00R977TNS"
+    ],
+    "rating": "4.4"
+}

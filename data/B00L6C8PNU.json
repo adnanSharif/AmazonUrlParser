@@ -1,0 +1,67 @@
+{
+    "asin": "B00L6C8PNU",
+    "title": "Rode SC3 3.5mm TRRS to TRS Adaptor",
+    "brand": "Rode",
+    "feature": [
+        "High-quality shielded adaptor",
+        "Designed to allow the smartLav to connect to 3.5mm TRS devices such as cameras and audio recorders",
+        "Gold-plated contacts are colour coded,"
+    ],
+    "description": "The SC3 is a high-quality shielded adaptor, designed to allow the smartLav to connect to 3.5mm TRS devices such as cameras and audio recorders. The gold-plated contacts are colour coded, with grey indicating the TRRS input.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 300.0,
+        "width": 100.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31YxmGnb9TL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31cRtZMlfpL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ObTQPu2zL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41oFSn%2BtLOL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "style:",
+            "value": "SC3 TRRS-TRS Adaptor"
+        }
+    ],
+    "categories": [],
+    "similar": [
+        "B018KIJKPY",
+        "B00J44LP6G",
+        "B015R0IQGW",
+        "B071NDLCGC",
+        "B01NBMERUB",
+        "B074FVWL67",
+        "B009YCI62Y",
+        "B07DPHPP26",
+        "B07DS2G279",
+        "B01ABTVFJE",
+        "B00WSNWFM8",
+        "B01GSVQN6Y",
+        "B076C4MM5P",
+        "B073ZZLSMV",
+        "B01N9CJDVE",
+        "B00MIXFBKG",
+        "B00KHQW6JU",
+        "B06XQXKPXL",
+        "B06XCJJCXP",
+        "B00L6C8T22",
+        "B07CZ2B967",
+        "B00EO4A7L0",
+        "B01FQS6B8A",
+        "B01602HWMK",
+        "B076C5BBBM",
+        "B071LNDKBJ",
+        "B06Y1W1QLT",
+        "B07FXL5RQ7",
+        "B00L6C8PN0",
+        "B07C7VFFDV",
+        "B0797P22HY"
+    ],
+    "rating": "4.2"
+}

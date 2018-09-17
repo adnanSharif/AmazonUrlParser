@@ -1,0 +1,79 @@
+{
+    "asin": "B00CDWSONS",
+    "title": "Ardell Multipack Demi Wispies Fake Eyelashes",
+    "brand": "Ardell",
+    "feature": null,
+    "description": "Ardell Multipack Demi Wispies Fake Eyelashes",
+    "price": 1199.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 5.0,
+        "length": 100.0,
+        "width": 390.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/516-V-xYHbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51PA1EGHFFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51uYzO-6guL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51-gh0ClmRL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11058281",
+            "title": "Makeup"
+        },
+        {
+            "node": "11058331",
+            "title": "Eyes"
+        },
+        {
+            "node": "10312668011",
+            "title": "Lash Enhancers & Primers"
+        }
+    ],
+    "similar": [
+        "B07DL3SJJ8",
+        "B00027D8IC",
+        "B0012IN8Q2",
+        "B01KMNBAVW",
+        "B07DW5RKFK",
+        "B00THGUDMI",
+        "B07BYJQLCR",
+        "B00325D0WK",
+        "B00THGTVWG",
+        "B006UZMXZY",
+        "B00YYHOXBW",
+        "B07BJ39VK4",
+        "B07BSN3V9C",
+        "B01FNMLCQK",
+        "B00NBCD7MW",
+        "B071G1SG3N",
+        "B079MHLF3Z",
+        "B0716CVTBJ",
+        "B00HE0527K",
+        "B01C2XBQQE",
+        "B00YYHHI1E",
+        "B07CBC7V21",
+        "B00GYKSFY8",
+        "B074V4XPLT",
+        "B0714184JZ",
+        "B07BPC6F3C",
+        "B07CLJD5L4",
+        "B014MEFHNY",
+        "B072VJCCLY",
+        "B00GYKSRZU",
+        "B072RC8C9P",
+        "B07F11ZH2L",
+        "B01DPXE1XA",
+        "B00XYIQ2PC",
+        "B01DPVRV1G"
+    ],
+    "rating": "4.1"
+}

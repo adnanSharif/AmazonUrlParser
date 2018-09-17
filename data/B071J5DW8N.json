@@ -1,0 +1,66 @@
+{
+    "asin": "B071J5DW8N",
+    "title": "eufy plug",
+    "brand": "eufy",
+    "feature": null,
+    "description": null,
+    "price": 6912.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": null,
+    "attributes": null,
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "495266",
+            "title": "Electrical"
+        },
+        {
+            "node": "495324",
+            "title": "Switches"
+        },
+        {
+            "node": "6291358011",
+            "title": "Wall Switches"
+        }
+    ],
+    "similar": [
+        "B07941G95M",
+        "B077TL3WQ4",
+        "B06XSTJST6",
+        "B079KYVRN8",
+        "B071LLWLLP",
+        "B07B8W2KHZ",
+        "B071ZPW19Q",
+        "B077HW9XM7",
+        "B071JN3KYN",
+        "B07G8ZYYGL",
+        "B07DBZQ68Q",
+        "B075B4F9YJ",
+        "B01K1JVZOE",
+        "B079775ZZQ",
+        "B07DCJ3TN1",
+        "B078R7BF38",
+        "B07177XC24",
+        "B07FC7MT5L",
+        "B072FS6YL7",
+        "B01N1X35O4",
+        "B07DPJ7NJ2",
+        "B07BGVQSH5",
+        "B071SJ977G",
+        "B079MFTYMV",
+        "B07DX13T8K",
+        "B07CVX1CZJ",
+        "B07177X95T"
+    ],
+    "rating": "3.7"
+}

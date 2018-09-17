@@ -1,0 +1,90 @@
+{
+    "asin": "B00F9KE912",
+    "title": "Samsonite Large Wheeled Underseater",
+    "brand": null,
+    "feature": [
+        "100% Poly/nylon Blend",
+        "Imported",
+        "Zipper closure",
+        "Great travel pieces to make any trip a breeze. These travel bags are filled with many different packing compartments for all your travel needs.",
+        "900D poly/nylon",
+        "Internal packing compartments",
+        "Wetpak- Zippered compartment which allows you to separately pack damp or soiled items",
+        "Body Dimensions 16.0 x 13.0 x 7.5 in inches and Overall Dimensions 16.5 x 13.0 x 9.25 in inches"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 740.0,
+        "length": 750.0,
+        "width": 1300.0,
+        "height": 1600.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51tvggk52mL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/312cH9NDEsL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51sE05L6RiL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41vAwdL6AoL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41fA9w5-S1L._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41JhmnIM1FL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31lEZgibq0L._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "9479199011",
+            "title": "Luggage & Travel Gear"
+        },
+        {
+            "node": "15743251",
+            "title": "Luggage"
+        },
+        {
+            "node": "15743261",
+            "title": "Carry-Ons"
+        }
+    ],
+    "similar": [
+        "B01MCV8OLR",
+        "B07864RWBS",
+        "B07FDNDM5P",
+        "B00K4V03CK",
+        "B072MJ297G",
+        "B07BLKWHYX",
+        "B075D6BNRD",
+        "B071NPGSRM",
+        "B0711F4437",
+        "B0762VC1XB",
+        "B075D81TBK",
+        "B07C5WDZL8",
+        "B071G2D5MM",
+        "B07467M47Z",
+        "B07CMB3LPH",
+        "B07C2M7JRW",
+        "B07DQ78WGT",
+        "B01HD7S9OG",
+        "B001TR0UZI",
+        "B075D82SNY",
+        "B074WKRQ1K",
+        "B00ON1ZRPA",
+        "B07F6NRR5H",
+        "B01E9XYCD4",
+        "B00F9KE5UC",
+        "B075FCF32G",
+        "B016RGHENQ",
+        "B072JX6LJB",
+        "B01N9KAXAB"
+    ],
+    "rating": "4.3"
+}

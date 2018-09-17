@@ -1,0 +1,76 @@
+{
+    "asin": "B002Y27JD8",
+    "title": "Nature's Bounty Garlic Extract 1000 mg, 100 Rapid Release Softgels (Pack of 3)",
+    "brand": "Nature's Bounty",
+    "feature": null,
+    "description": "Garlic has been traditionally used to support heart and cardiovascular health. Our specialized cold processing method preserves the natural goodness while reducing the odor",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 600.0,
+        "width": 500.0,
+        "height": 400.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51PTI-3I16L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51d3TMoKe8L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/311Ple20ZrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Ln70MkWHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21lOJzUVHPL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3764461",
+            "title": "Herbal Supplements"
+        },
+        {
+            "node": "3765651",
+            "title": "Garlic"
+        }
+    ],
+    "similar": [
+        "B01CPR85K2",
+        "B01FUZH318",
+        "B014K2ZX6E",
+        "B00DKFDDEM",
+        "B01MRBMQKN",
+        "B00UXLP1R8",
+        "B002LIGSI2",
+        "B000NPYY04",
+        "B01DBTFO98",
+        "B001GAOGD0",
+        "B00014D2YG",
+        "B01HLXZES6",
+        "B002HZ9I0E",
+        "B001G7QFW8",
+        "B000GFPD10",
+        "B00NB3FGSO",
+        "B0019GW3G8",
+        "B004R63N8O",
+        "B078QFDG3Z",
+        "B01CP0WPKK",
+        "B004R675G0",
+        "B001OHSXI4",
+        "B00N02APHS",
+        "B074GHJ96Q",
+        "B0013OXGBC",
+        "B00014FKD2",
+        "B00D98XPOI",
+        "B06XH5VVXG",
+        "B0013OXBH6",
+        "B004JO7BTG",
+        "B00IAJJ0JU"
+    ],
+    "rating": "4.5"
+}

@@ -1,0 +1,91 @@
+{
+    "asin": "B01LPNKGGI",
+    "title": "Microsoft 4N6-00001 Xbox Controller + Cable for Windows",
+    "brand": "Microsoft",
+    "feature": [
+        "Compatible with Windows 10, Windows 8.1 and Windows 7, Xbox one, Xbox one play and charge kit, Xbox one chat headset, and Xbox one Stereo headset",
+        "Experience the enhanced comfort and feel of the new Xbox wireless controller",
+        "Get up to twice the wireless range compared to previous Xbox One Controllers (tested using the Xbox One S Console)",
+        "USB cable for the most steadfast gaming experience on Windows 10 devices",
+        "AA batteries sold separately"
+    ],
+    "description": "Experience the enhanced comfort and feel of the new Xbox Wireless Controller, featuring a sleek, streamlined design and textured grip. Enjoy custom button mapping and up to twice the wireless range (40 feet/ 12 meters) compared to previous Xbox One Controllers (tested using the Xbox One S Console). Plug in any compatible headset with the 3.5mm stereo headset jack. And with a USB cable, play your favorite games on Windows 10 PCs and tablets with a wired connection.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 105.0,
+        "length": 420.0,
+        "width": 610.0,
+        "height": 240.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/417Dc5qsQSL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Vho6d6tML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21m8Kv6KYHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41nrewHNP0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51i-t-c6uHL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Edition:",
+            "value": "Black + Cable"
+        }
+    ],
+    "categories": [
+        {
+            "node": "468642",
+            "title": "Video Games"
+        },
+        {
+            "node": "14220161",
+            "title": "Xbox 360"
+        },
+        {
+            "node": "14112941",
+            "title": "Accessories"
+        },
+        {
+            "node": "14112951",
+            "title": "Cables & Adapters"
+        },
+        {
+            "node": "724134011",
+            "title": "Cables"
+        }
+    ],
+    "similar": [
+        "B07F8PTSMB",
+        "B004QRKWLA",
+        "B01N5OKGLH",
+        "B00DBDPOZ4",
+        "B00O65I2VY",
+        "B003ZSN600",
+        "B078T3R8YS",
+        "B07F7SZF6W",
+        "B01F3Y7MNA",
+        "B07GKFNTN1",
+        "B01AVKU2V0",
+        "B07GCJ7S43",
+        "B07D12RPHX",
+        "B00ZB7W4QU",
+        "B07GQPWR34",
+        "B004QRKWKQ",
+        "B07DXLVPQQ",
+        "B07BJL4HZH",
+        "B004JU0JSA",
+        "B01K3VMBYS",
+        "B07D2794LD",
+        "B07FS3DZPZ",
+        "B015MQH59A",
+        "B01M5GG9I7",
+        "B01N1P0KFI",
+        "B01K48R5V4",
+        "B07DT3HPFH",
+        "B01F9B019Y",
+        "B07DHY6YLM",
+        "B075QZK9DB",
+        "B07DJ3VQST"
+    ],
+    "rating": "3.9"
+}

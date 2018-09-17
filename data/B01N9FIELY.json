@@ -1,0 +1,73 @@
+{
+    "asin": "B01N9FIELY",
+    "title": "Ubiquiti UAP-AC-M-US Unifi Mesh Access Point",
+    "brand": "Ubiquiti Networks",
+    "feature": [
+        "802.11 a/b/g/n/ac Wi-Fi Standards",
+        "Range of up to 600'",
+        "Unifi Controller Software"
+    ],
+    "description": "High-Performance Wide-Area Wi-Fi with Unifi Mesh Technology.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 141.0,
+        "length": 180.0,
+        "width": 130.0,
+        "height": 1390.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31AIzZssG9L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172504",
+            "title": "Networking Products"
+        },
+        {
+            "node": "17935294011",
+            "title": "Whole Home & Mesh Wi-Fi Systems"
+        }
+    ],
+    "similar": [
+        "B01MSBWJOS",
+        "B01609AF22",
+        "B071VNCWJN",
+        "B017T2QB22",
+        "B01N1VMBUR",
+        "B01L9O08PW",
+        "B01HTANYQA",
+        "B06WVFFHQ7",
+        "B01MU3WUX1",
+        "B0716SZJLX",
+        "B076WVRRQN",
+        "B079DSW6XX",
+        "B071KGLXVG",
+        "B01N2NLNEH",
+        "B07H7QX94M",
+        "B0751JNCSQ",
+        "B016UCNP08",
+        "B0087HMMC2",
+        "B01N15FQX1",
+        "B07GVCVJ25",
+        "B01MAW2294",
+        "B015PRCBBI",
+        "B00DCNRTAG",
+        "B00LV8YZLK",
+        "B00FBGAWTW",
+        "B07CQDHPFT",
+        "B077DRN8YP",
+        "B01JOXW58I"
+    ],
+    "rating": "4.4"
+}

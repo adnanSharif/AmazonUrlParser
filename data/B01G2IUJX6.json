@@ -1,0 +1,78 @@
+{
+    "asin": "B01G2IUJX6",
+    "title": "Zippo Flint/Co-Pack",
+    "brand": "Zippo",
+    "feature": [
+        "3 individual flint cards",
+        "3 individual wick cards",
+        "Fits all zippo windproof lighters",
+        "Made in USA"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 3.75,
+        "length": 200.0,
+        "width": 20.0,
+        "height": 520.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51ny4WojyyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51i1YPdrR%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51VwudqD8dL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Flint & Wick Co-pack"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "15342811",
+            "title": "Household Supplies"
+        },
+        {
+            "node": "10342347011",
+            "title": "Lighters & Matches"
+        },
+        {
+            "node": "10342349011",
+            "title": "Flints & Wicks"
+        }
+    ],
+    "similar": [
+        "B001GCRP7M",
+        "B000VREDTQ",
+        "B06X99RD36",
+        "B001E5FLT0",
+        "B00BJNFCKK",
+        "B01DO3Y4ZG",
+        "B01AP94WVS",
+        "B01BIOFMHW",
+        "B0012AGDXK",
+        "B077ZH54T5",
+        "B000MTHTP8",
+        "B07B9TJQ9N",
+        "B00Y7EQ1QW",
+        "B000EAEAHK",
+        "B06X9BRK8G",
+        "B01BW2G6I4",
+        "B00A8MRW2E",
+        "B013HLGTL2",
+        "B005QH3LS0",
+        "B004BKI4IA",
+        "B016VNBHVA",
+        "B000B589JI",
+        "B07C86CZFW",
+        "B000K2U3JG",
+        "B00MH4QM1S"
+    ],
+    "rating": "4.7"
+}

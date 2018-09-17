@@ -1,0 +1,77 @@
+{
+    "asin": "B000GAYQJK",
+    "title": "Casio Men's AQ160WD-1BV Stainless Steel Ana-Digi Electro-Luminescent Sport Watch",
+    "brand": "Casio",
+    "feature": [
+        "Imported",
+        "Full LCD Ana-Digi",
+        "100M water resistant",
+        "Auto EL backlight with Afterglow",
+        "World Time: 29 times zones (27 cities), city code display, daylight saving on/off; 4 Daily Alarms and 1 snooze alarm"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": 300.0,
+        "width": 300.0,
+        "height": 500.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51La9AIy7vL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/216HOcge4%2BL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41YiYqZQdZL._SR38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "6358539011",
+            "title": "Watches"
+        },
+        {
+            "node": "6358540011",
+            "title": "Wrist Watches"
+        }
+    ],
+    "similar": [
+        "B07CNWZB9W",
+        "B07657P1FN",
+        "B00J082PTM",
+        "B07FD3QXHR",
+        "B07FJNP18T",
+        "B01JO75XGA",
+        "B078P318LT",
+        "B000AR96IK",
+        "B07GDG7GGY",
+        "B01HF1HR70",
+        "B000SZNSVA",
+        "B000GB1R96",
+        "B003MYYJD0",
+        "B071KWGXWH",
+        "B06Y3L2SYX",
+        "B000GAYQM2",
+        "B000GB1RAA",
+        "B01DPXDTMY",
+        "B005FN12BS",
+        "B00N0IO83O",
+        "B00B8I3MLC",
+        "B01N7WMCMJ",
+        "B000GAWS9U",
+        "B002J4UBIQ",
+        "B07GGV2WCR",
+        "B000GB0FYO",
+        "B000GAYQKO",
+        "B07GGPFL4F"
+    ],
+    "rating": "3.7"
+}

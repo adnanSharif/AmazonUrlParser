@@ -1,0 +1,78 @@
+{
+    "asin": "B06XGT5618",
+    "title": "Converse CTAS 70 Hiker Hi Mens Skateboarding-Shoes 157487C",
+    "brand": null,
+    "feature": [
+        "synthetic-and-leather",
+        "Authentic"
+    ],
+    "description": "CTAS 70 HIKER HI",
+    "price": 11000.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41RfpI26OwL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41RfpI26OwL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41PJ9rriBjL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41gHx2LAS%2BL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41NRY8TzcIL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41rpjnxW5vL._US40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "7.5 M US"
+        },
+        {
+            "name": "Color:",
+            "value": "Black/Black/Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "679255011",
+            "title": "Shoes"
+        },
+        {
+            "node": "6127770011",
+            "title": "Athletic"
+        },
+        {
+            "node": "679295011",
+            "title": "Skateboarding"
+        }
+    ],
+    "similar": [
+        "B01KAXMPOU",
+        "B06XJV2F8C",
+        "B00AUEOR8W",
+        "B0753M24Z6",
+        "B01LPSGISI",
+        "B0774PWGRQ",
+        "B072L7N1QD",
+        "B075WXW7X7",
+        "B074V4DTPL",
+        "B00DBD9X8S",
+        "B01N1T6BVW",
+        "B078J7XHXN",
+        "B000I7H0OO",
+        "B07345VP5V",
+        "B06XKF1YMR",
+        "B01ENS8ATC"
+    ],
+    "rating": null
+}

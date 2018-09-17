@@ -1,0 +1,79 @@
+{
+    "asin": "B002IZJZHO",
+    "title": "Kent 8T 8\" 197mm Handmade Fine Tail Comb. Sawcut (8T)",
+    "brand": "Kent",
+    "feature": null,
+    "description": "8T Kent Handmade Comb, 8\" TAIL COMB- FINE",
+    "price": 1000.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 13.125,
+        "length": 750.0,
+        "width": 100.0,
+        "height": 20.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31x0uE6MvVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31P0ZuO0c7L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/418OWp0%2BV6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41hACChjF3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41ev6pwSFXL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31BehOLsGTL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31nTv8isyXL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "11058091",
+            "title": "Styling Tools & Appliances"
+        },
+        {
+            "node": "11058131",
+            "title": "Hair Combs"
+        }
+    ],
+    "similar": [
+        "B072DVPGJ7",
+        "B015GGJ350",
+        "B01E6CI9I2",
+        "B07DWH7MZ4",
+        "B002QWKRAS",
+        "B06XTXQ9QY",
+        "B01LYX0HFJ",
+        "B07DVQPJWZ",
+        "B07DVW1TQR",
+        "B01EIKRVEA",
+        "B0744CXZD3",
+        "B06XTLZBVN",
+        "B000PVJD0C",
+        "B01BMWRW46",
+        "B01GK1D842",
+        "B00M49SG0Q",
+        "B06XD9QCPV",
+        "B01AQO1MPG",
+        "B01M18EDJO",
+        "B00L190HHK",
+        "B07DVCQ4WD",
+        "B006H5URKA",
+        "B002IZP98I",
+        "B000YB3OQ2",
+        "B01BKUARWY",
+        "B00KS63DNW",
+        "B075QLXLWM",
+        "B018ENVWH4",
+        "B002IZN2DC",
+        "B07BKCF6Q3",
+        "B002IJ7X1A",
+        "B01MRV6131"
+    ],
+    "rating": "4.4"
+}

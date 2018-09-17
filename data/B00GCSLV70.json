@@ -1,0 +1,70 @@
+{
+    "asin": "B00GCSLV70",
+    "title": "Clubman Jumbo Styptic Pencil, 1 oz",
+    "brand": "Clubman",
+    "feature": null,
+    "description": "Clubman Jumbo Styptic Pencil, 1 oz",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 3.125,
+        "length": 580.0,
+        "width": 290.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41rhWtZbqrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ZOG2KDaGL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "3778591",
+            "title": "Shave & Hair Removal"
+        },
+        {
+            "node": "13271079011",
+            "title": "Men's"
+        },
+        {
+            "node": "13271115011",
+            "title": "Shaving Accessories"
+        },
+        {
+            "node": "7654662011",
+            "title": "Alum & Styptic"
+        }
+    ],
+    "similar": [
+        "B01BUVM87A",
+        "B00F6VM8JE",
+        "B00FA35K02",
+        "B00E5QJC04",
+        "B0002H3RBU",
+        "B00063KN9E",
+        "B0758LFDKB",
+        "B0007MW2ZW",
+        "B01MZ415HY",
+        "B074VMKZ1H",
+        "B0758LVJMJ",
+        "B00SC0XN6I",
+        "B00HE1U0T4",
+        "B000P0VFMW",
+        "B00DWGEY1K",
+        "B00H8YXDBY",
+        "B004PJ55KC",
+        "B00EOAKLFQ",
+        "B000YM76VU",
+        "B01ICGRZ2Y",
+        "B000EGIEOE",
+        "B00KODGA5W",
+        "B01IA9DF4K",
+        "B002RJC1HC"
+    ],
+    "rating": "4.5"
+}

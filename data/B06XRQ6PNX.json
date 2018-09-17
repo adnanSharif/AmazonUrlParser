@@ -1,0 +1,74 @@
+{
+    "asin": "B06XRQ6PNX",
+    "title": "Barber Brothers - Beard Shaping Tool, Transparent Template And Comb For Styling Your Beard. How-To-Use Guide Included Which Offers Many Different Cutting Angles",
+    "brand": "Barber Brothers",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 790.0,
+        "width": 550.0,
+        "height": 10.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/417eRc55VhL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/410XxMuMneL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31Kvijbm4nL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/517f6eQJSbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31t2UmDBe3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31-0xSc6T9L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41a2d2iD2UL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "3778591",
+            "title": "Shave & Hair Removal"
+        },
+        {
+            "node": "13271079011",
+            "title": "Men's"
+        },
+        {
+            "node": "13271118011",
+            "title": "Beard & Mustache Care"
+        }
+    ],
+    "similar": [
+        "B071L73RC7",
+        "B071XP2F8C",
+        "B01K1HPA60",
+        "B0754SXR8C",
+        "B071NHB2K2",
+        "B075K5GL14",
+        "B06XSZ2BMK",
+        "B073XLH6DJ",
+        "B076GQ59B1",
+        "B01N1TZTLF",
+        "B01CEWCFE0",
+        "B00V3L721A",
+        "B01LXA51M5",
+        "B01N5OT49P",
+        "B01N2L0W3A",
+        "B07DTL3XR5",
+        "B07FJ77WTD",
+        "B072L27DX3",
+        "B01N1X33QX",
+        "B06XVZ6F2C",
+        "B009NNFB0O",
+        "B01N3LM80T",
+        "B01NBF1ITM",
+        "B07589YBH3",
+        "B074P1FK22",
+        "B06XS84Z2V",
+        "B071XXVDM1"
+    ],
+    "rating": "3.4"
+}

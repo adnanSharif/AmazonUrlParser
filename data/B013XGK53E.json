@@ -1,0 +1,95 @@
+{
+    "asin": "B013XGK53E",
+    "title": "Sabrent Premium 3-Port Aluminum Mini USB 3.0 [90\u00b0/180\u00b0 Degree Rotatable] (HB-R3MC)",
+    "brand": "Sabrent",
+    "feature": [
+        "Sleek Apple-Style Design, Ideal for Mac Pro, iMac, MacBook Air, MacBook Pro, MacBook, and Mac mini",
+        "USB Connector Can be Rotated 90\u00b0/180\u00b0 Degrees",
+        "Portable, Compact, Lightweight Design Makes it Travel Friendly",
+        "Easy Setup, Plug-n-Play, Hot Swappable, Hot Pluggable",
+        "Compatible with All Windows/Mac/Linux Systems"
+    ],
+    "description": ".",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 5.0,
+        "length": 229.99999999999997,
+        "width": 70.0,
+        "height": 170.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41CD3QtwgNL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51KsAzwI0LL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51xe80JkBbL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41LAx5dVXcL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41gu%2BNk2ENL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41XMNuboxlL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/515cM-JwTdL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "3-Port Aluminum USB 3.0"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "17387627011",
+            "title": "USB Hubs"
+        }
+    ],
+    "similar": [
+        "B06XB4XNK5",
+        "B01IBF1UDG",
+        "B06XCGHMK3",
+        "B07FVS7LXG",
+        "B00DRG1QHA",
+        "B00FEM69KE",
+        "B071JTSMVQ",
+        "B00UMVFJW6",
+        "B07CV1GJZT",
+        "B075N1YHVK",
+        "B07F8L8V94",
+        "B00BWF5U0M",
+        "B01J9WVUS0",
+        "B01AA6MC7M",
+        "B01N47J1GA",
+        "B00JX1ZS5O",
+        "B077D1FGZC",
+        "B00N38TQJC",
+        "B06XD29ZDW",
+        "B07BGQRWH9",
+        "B07D5TS8KH",
+        "B074XK1GTS",
+        "B07B2S88X5",
+        "B07BGTSVC8",
+        "B00LRYUJQS",
+        "B078YN3VY9",
+        "B078T1715R",
+        "B01MAV8MRO",
+        "B01FJQGFK8",
+        "B00XPPPHV4",
+        "B07857Y17V",
+        "B076Q43SPC",
+        "B07FCJTFJQ",
+        "B01BED52VI",
+        "B0754M9DSN",
+        "B07F9T18WF",
+        "B01M2371FD"
+    ],
+    "rating": "3.9"
+}

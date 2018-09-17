@@ -1,0 +1,81 @@
+{
+    "asin": "B002L9AL84",
+    "title": "Shoe Goo Repair Adhesive for Fixing Worn Shoes Boots, Clear, 3.7-Ounce Tube",
+    "brand": "Shoegoo",
+    "feature": [
+        "synthetic",
+        "Shoe Repair and Protective Coating for Leather, Vinyl, Rubber or Canvas",
+        "Bonds, protects and rebuilds for a permanent repair",
+        "Excellent sealant \u2013 perfect for patching small holes",
+        "Waterproof \u2013 bond remains secure even when exposed to water",
+        "Creates extra traction \u2013 can even be used on skateboards"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 710.0,
+        "width": 390.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41CKuZec1YL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Pw3PkoJ%2BL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51xjn41PvqL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51nOU7a2l6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51N9W1saLRL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "One Size"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7586146011",
+            "title": "Shoe, Jewelry & Watch Accessories"
+        },
+        {
+            "node": "9616100011",
+            "title": "Shoe Care & Accessories"
+        }
+    ],
+    "similar": [
+        "B00A7NDT3A",
+        "B07CQS9QJP",
+        "B072L3XMQG",
+        "B01J5JHL6C",
+        "B07GK2V8Z6",
+        "B073P6QD51",
+        "B00Q3IDN5M",
+        "B06X9H6TQG",
+        "B007UTZXT2",
+        "B01MDUUZ7K",
+        "B073P6CJLT",
+        "B008N1LJWQ",
+        "B008SK1X8W",
+        "B01G8D69FW",
+        "B00434CO7G",
+        "B076FP6ZX9",
+        "B008BIG4H6",
+        "B01FFWEIBO",
+        "B073P75F48",
+        "B008AF1NG2",
+        "B07844ZQJL",
+        "B01DPY5F20",
+        "B07GJZY9GL",
+        "B07G8NM27Z",
+        "B076X3GKSB",
+        "B00551BVPM",
+        "B077FRJTN1",
+        "B07GL3MJYB"
+    ],
+    "rating": "4.3"
+}

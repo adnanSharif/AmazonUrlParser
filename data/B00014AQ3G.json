@@ -1,0 +1,57 @@
+{
+    "asin": "B00014AQ3G",
+    "title": "Tempo of the Damned",
+    "brand": "Exodus Format: Audio CD",
+    "feature": null,
+    "description": "EXODUS TEMPO OF THE DAMNED",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51Dz6-kb41L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41kRL4wYRwL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "5174",
+            "title": "CDs & Vinyl"
+        },
+        {
+            "node": "67207",
+            "title": "Metal"
+        },
+        {
+            "node": "67215",
+            "title": "Pop Metal"
+        }
+    ],
+    "similar": [
+        "B000AP2ZOE",
+        "B073LNKCHW",
+        "B0035KGDSU",
+        "B073LSX8G8",
+        "B073LMN4XC",
+        "B073JXTTQ9",
+        "B000003C2Q",
+        "B073K2W2CD",
+        "B000VT2O8G",
+        "B073JXZR2R",
+        "B00MNCW0SS",
+        "B073JY2NHN",
+        "B011W6NIKE",
+        "B073LVQY7C",
+        "B000003C4K",
+        "B073LWZ2NC",
+        "B073LZRXCZ",
+        "B01BKHIDG4",
+        "B073LP6JK3"
+    ],
+    "rating": "4.7"
+}

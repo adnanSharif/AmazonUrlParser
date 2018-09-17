@@ -1,0 +1,70 @@
+{
+    "asin": "B01DFKC2SO",
+    "title": "Echo Dot (2nd Generation) - Smart speaker with Alexa - Black",
+    "brand": "Amazon",
+    "feature": [
+        "Echo Dot is a voice-controlled speaker that uses Alexa to play music, control smart home devices, make calls, answer questions, set timers and alarms, and more",
+        "Play music from Amazon Music, Spotify, Pandora, iHeartRadio, TuneIn, and SiriusXM",
+        "Call or message family and friends hands-free, or drop in from the Alexa App to your Echo device",
+        "Controls lights, locks, thermostats, and more with compatible connected devices",
+        "Use the built-in speaker, or for bigger sound, connect to speakers through Bluetooth or audio cable",
+        "30,000+ skills, including Jeopardy!, Lyft, Audible, and Domino's. Always getting smarter and adding new features",
+        "Hears you from across the room with 7 far-field microphones for hands-free control, even in noisy environments or while playing music"
+    ],
+    "description": null,
+    "price": 4999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51sCIxg4zrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41iz5Tw82IL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51wft6OJojL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51zYU2OcjGL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51c1KT8w9RL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51atrx6d3-L._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        },
+        {
+            "name": "Configuration:",
+            "value": "Black"
+        }
+    ],
+    "categories": [],
+    "similar": [
+        "B01K9KW9A4",
+        "B01K9KWA3U",
+        "B0186JAEWK",
+        "B077JFK5YH\n",
+        "B01MG1FQDM",
+        "B01I499BNA",
+        "B0178IC734",
+        "B0794D1TS6",
+        "B01E9AHU8Q",
+        "B01IQEJA7A",
+        "B015TJD0Y4",
+        "B01N2TVDYQ",
+        "B079YZ5J5Q",
+        "B072C4KCQH",
+        "B073SQYXTW",
+        "B01C4UY0JK",
+        "B077JFK5YH",
+        "B00P03D4D2",
+        "B06XCM9LJ4",
+        "B010CEHQTG",
+        "B0756GYPNS",
+        "B075RS7RGY",
+        "B01IQEJ97G",
+        "B01IQEJ7H8"
+    ],
+    "rating": "4.3"
+}

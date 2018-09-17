@@ -1,0 +1,69 @@
+{
+    "asin": "B003H7IJ60",
+    "title": "Bewley's Irish Breakfast Tea (80 Tea Bags)",
+    "brand": "Bewley's of Ireland",
+    "feature": null,
+    "description": "Bewley's Irish Breakfast Tea is an invigorating blend of high-grown Indian tea leaves from Assam and Darjeeling. Bewley's Irish Breakfast Tea has a creamy, malt flavor and a full bodied taste. Bewley's Irish Breakfast Tea has a strong flavor is best enjoyed with the addition of milk.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 85.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41uZL7H1QzL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "16310101",
+            "title": "Grocery & Gourmet Food"
+        },
+        {
+            "node": "16310231",
+            "title": "Beverages"
+        },
+        {
+            "node": "16521305011",
+            "title": "Coffee, Tea & Cocoa"
+        },
+        {
+            "node": "16318401",
+            "title": "Tea"
+        },
+        {
+            "node": "5747969011",
+            "title": "Tea Samplers"
+        }
+    ],
+    "similar": [
+        "B007TGDXNO",
+        "B000XETSA6",
+        "B000GBXG2C",
+        "B002ML4NQ2",
+        "B002ML1NVK",
+        "B008KYQBNS",
+        "B00IBMOBAE",
+        "B009P7DPTM",
+        "B01N4BGAXV",
+        "B01CDM9DQ4",
+        "B000MN6Y46",
+        "B003WM3N66",
+        "B000F4DKB2",
+        "B00PXEYP7W",
+        "B07BNZB17X",
+        "B01N3U3AD6",
+        "B008YDVYPU",
+        "B00FFZQ1RG",
+        "B00NVMI37G",
+        "B000HRS7OM",
+        "B00W5A4O1O",
+        "B000F4F952",
+        "B000GG0BMA",
+        "B000F4H5GI"
+    ],
+    "rating": "4.4"
+}

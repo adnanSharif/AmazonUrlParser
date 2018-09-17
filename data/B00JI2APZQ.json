@@ -1,0 +1,106 @@
+{
+    "asin": "B00JI2APZQ",
+    "title": "Das Keyboard 4 Professional Clicky MX Blue Mechanical Keyboard (DASK4MKPROCLI)",
+    "brand": "Das Keyboard",
+    "feature": [
+        "High Performance, mechanical Cherry MX Blue key switches with key inscriptions: German-engineered, gold-plated mechanical switches that create the distinct click of each keystroke and provide better tactile and audible feedback",
+        "Over-sized volume knob and dedicated media controls to quickly adjust volume while on a Skype call, in a Google hangout or streaming online music. If you have a Das Keyboard with a split USB cable ending in two USB connectors, it is possible to use the keyboard as long as the connector with the keyboard icon on it is connected to your computer. If you want the USB hub to work, you will need to plug in the connector marked HUB.",
+        "SuperSpeed USB 30 hub provides a two-port 5Gb/s hub for faster high-resolution picture and video file transfers between USB devices. N-key rollover (NKRO) over USB for faster gaming, eliminating the need for a PS2 adapter, often required of older keyboards",
+        "A new anodized aluminum top panel for improved durability. A magnetic footbar to incline the keyboard at a perfect 4-degree angle, which can also double as a ruler, instead of the traditional flip-out fee",
+        "Instant sleep button puts the connected computer into sleep mode, saving energy even when taking short breaks. Extra long 6.5 ft long cable to extend nearly anywhere the user wants to operate",
+        "Elevated height: 1.2 inches (3.1 cm). Footbar to raise keyboard also functions as a ruler"
+    ],
+    "description": "Das Keyboard 4 Professional is designed with best-in-class, Cherry MX Blue switches that have clicky tactile bump when the activation point is hit. The combination of the tactile feel, the psycho-acoustic experience and incredible craftsmanship all deliver an experience like no other. Sleek design, laser-etched key caps, and oversized volume knob make this one beautifully crafted machine. The most advanced mechanical keyboard on the market today.",
+    "price": 16900.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 385.0,
+        "length": 1800.0,
+        "width": 680.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31ZIJBPPJZL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31BuJZEJcgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ZU6-DdmWL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/319KE-P8sHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/418IDW6W-LL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        },
+        {
+            "name": "Style:",
+            "value": "Clicky - Cherry MX Blue Switch"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "11548956011",
+            "title": "Keyboards, Mice & Accessories"
+        },
+        {
+            "node": "12879431",
+            "title": "Keyboards"
+        }
+    ],
+    "similar": [
+        "B01MYZMODY",
+        "B01N7PJFE9",
+        "B01M0G270P",
+        "B01N2QQ7HQ",
+        "B07G4MNFS1",
+        "B01L9X1TRE",
+        "B00AZCGF7K",
+        "B00LTAEV0K",
+        "B0744NVPJ8",
+        "B00JG01QTY",
+        "B07GCFYFHP",
+        "B076F5P28T",
+        "B01GYMEHGA",
+        "B075CFPR3F",
+        "B07C861Z5K",
+        "B078KG5N2Q",
+        "B0756LGBBQ",
+        "B003ZG9T62",
+        "B0714D71SB",
+        "B075R2T791",
+        "B000UEZ36W",
+        "B00TU7UA86",
+        "B008PFABI8",
+        "B01MS6C7S8",
+        "B00TU7UA7W",
+        "B0147RXTRM",
+        "B008PFDUW2",
+        "B01ABQOOMW",
+        "B01ABQONY6",
+        "B075YF8QJ9",
+        "B073JG5266",
+        "B01IRASQA0",
+        "B00AZQ2OF8",
+        "B00JKQSGWE",
+        "B06XGJ2CKK",
+        "B072JWR7Y5",
+        "B07BMHYZQD",
+        "B07BBMDMMQ",
+        "B071YZJ1G1",
+        "B00NH136GE",
+        "B075NP2WNT"
+    ],
+    "rating": "4.2"
+}

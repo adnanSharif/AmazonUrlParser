@@ -1,0 +1,95 @@
+{
+    "asin": "B0131ITUFS",
+    "title": "WearMe Pro - Clubround Semi Rimless Half Frame Retro Clear Glasses",
+    "brand": "WearMe Pro",
+    "feature": [
+        "plastic frame",
+        "plastic lens",
+        "non-polarized",
+        "Lens width: 52 millimeters",
+        "Vintage inspired frame design",
+        "Lightweight & durable"
+    ],
+    "description": "These clear lens glasses will keep you up to date with the latest fashion trend. They pair well with many outfits and can drastically change you look in seconds. They are also lightweight and durable.",
+    "price": 999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41y0CJLFyJL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/312D6B6h87L._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31HGBzGr8jL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31YE7Oz8HqL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41K32BheGBL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black Frame"
+        },
+        {
+            "name": "Lens Width:",
+            "value": "52 Millimeters"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147440011",
+            "title": "Women"
+        },
+        {
+            "node": "2474936011",
+            "title": "Accessories"
+        },
+        {
+            "node": "7072321011",
+            "title": "Sunglasses & Eyewear Accessories"
+        },
+        {
+            "node": "2474971011",
+            "title": "Sunglasses"
+        }
+    ],
+    "similar": [
+        "B01CWZD49Y",
+        "B01COSQA04",
+        "B01BWKRO8W",
+        "B018O7RBLG",
+        "B007RT6PV0",
+        "B01MG2PUBI",
+        "B01DSR4AT8",
+        "B0108UJZ0M",
+        "B01DKGBD92",
+        "B079CF9LWZ",
+        "B01DSR46TW",
+        "B0131ITRXS",
+        "B01J3SQ2EC",
+        "B078RLFVXP",
+        "B073PQC8ZN",
+        "B06Y4FWK9R",
+        "B07DLC9SJT",
+        "B01BFB1TS4",
+        "B01C9ZOXS8",
+        "B07D361PW1",
+        "B002HJ4ZPS",
+        "B018G51N6K",
+        "B00W89BUU0",
+        "B0783M791T",
+        "B01AGYYSY8",
+        "B01MTUMB9Z",
+        "B01CR03LBK",
+        "B073DVSCQM",
+        "B079SW14VS",
+        "B0793QFXF8"
+    ],
+    "rating": "4.0"
+}

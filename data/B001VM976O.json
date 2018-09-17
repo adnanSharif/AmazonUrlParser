@@ -1,0 +1,68 @@
+{
+    "asin": "B001VM976O",
+    "title": "Klaire Labs Zinc Plus, 60 Vegetarian Capsules",
+    "brand": "Klaire Labs",
+    "feature": null,
+    "description": "Zinc is an essential mineral that activates more than 70 enzymes, including those that assist with protein synthesis and tissue repair.* For optimal assimilation and pH balance, this formulation uses zinc citrate, the natural form of zinc that is found in human milk. Vitamin B6 and ascorbic acid have also been added to facilitate zinc metabolism.Since 1969, the Klaire Labs name has been trusted to deliver clean formulations suitable for even the most sensitive individuals. Being among the first to provide pharmaceutical grade active ingredients, manufactured to minimize allergens, artificial additives, fillers, and flow agents.Klaire Labs\u00ae has introduced a fresh, new label design. The product quality and formulations remain the same.",
+    "price": 790.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 11.25,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31SDI7OLrrL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51oggbB2z%2BL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774271",
+            "title": "Minerals"
+        },
+        {
+            "node": "3774511",
+            "title": "Zinc"
+        }
+    ],
+    "similar": [
+        "B001PYVIJW",
+        "B00HFEHF1Q",
+        "B0017HYB2I",
+        "B009Q7TVQW",
+        "B001PYZDS4",
+        "B00ZGX7Z8Q",
+        "B0792FHLSG",
+        "B00VXE7MSA",
+        "B001PYXL4M",
+        "B000FH125U",
+        "B00083B1DY",
+        "B001PYZBRM",
+        "B00PIYKZYO",
+        "B00D0VI0A8",
+        "B0041B11BQ",
+        "B000VZ1CC4",
+        "B000H7Y9A8",
+        "B07735XF2K",
+        "B076KVTXCR",
+        "B00TYW4FXS",
+        "B00L1I9Y5C",
+        "B0006SY7SM",
+        "B0797NSHQX",
+        "B003WYTF9I",
+        "B004JP9AT4",
+        "B005PFRLA2"
+    ],
+    "rating": "4.0"
+}

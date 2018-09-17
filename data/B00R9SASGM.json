@@ -1,0 +1,72 @@
+{
+    "asin": "B00R9SASGM",
+    "title": "AeroGarden Liquid Nutrients (3 oz)",
+    "brand": "AeroGrow",
+    "feature": [
+        "Specially formulated Liquid Nutrients now in a 88.72 ml (3 oz.) size bottle",
+        "Convenient to use dispenser cup with ML markings included",
+        "Patented, organic pH buffering system great for all hydroponic applications",
+        "Incredible growth for houseplants too! Add nutrients whenever you water for more consistent, faster growth"
+    ],
+    "description": "Specially formulated Liquid Nutrients now in a 88.72 ml (3 oz.) size bottle. Better growth and germination. Convenient to use dispenser cup with ML markings included. Patented, organic pH buffering system great for all hydroponic applications. Incredible growth for houseplants too! Add nutrients whenever you water for more consistent, faster growth.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 30.0,
+        "length": 80.0,
+        "width": 150.0,
+        "height": 380.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41fGx2pYIML._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51tCn%2BAhz8L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "2972638011",
+            "title": "Patio, Lawn & Garden"
+        },
+        {
+            "node": "3610851",
+            "title": "Gardening & Lawn Care"
+        },
+        {
+            "node": "3752871",
+            "title": "Soils, Fertilizers & Mulches"
+        },
+        {
+            "node": "3752891",
+            "title": "Fertilizers & Plant Food"
+        }
+    ],
+    "similar": [
+        "B06WWLZSK8",
+        "B0071CZTBA",
+        "B008DY2U8K",
+        "B004M5NGJG",
+        "B00NQANQAC",
+        "B000RNB3BU",
+        "B01IK7PLZI",
+        "B004M58D7Q",
+        "B076CL2RQF",
+        "B01614SQY0",
+        "B07FF9Y9ZP",
+        "B008BOOJGI",
+        "B06XQG7KJP",
+        "B07D4QW6DZ",
+        "B01D5G88J0",
+        "B00494IIBG",
+        "B01NBB1Z1P",
+        "B0042VK7FG",
+        "B000BT3UAM",
+        "B0042VK7QU",
+        "B009QAK2IU",
+        "B000F6XGZ0",
+        "B000P0DK1Q",
+        "B010NBJZLK",
+        "B076CNZKWX"
+    ],
+    "rating": "4.7"
+}

@@ -1,0 +1,65 @@
+{
+    "asin": "B06X1DRFK1",
+    "title": "Num Noms Lip Gloss Series 3.2",
+    "brand": "Num Noms",
+    "feature": [
+        "Scented Nums are adorable, squishy characters with tons of personality."
+    ],
+    "description": "Num Noms lip gloss series 3.2",
+    "price": 544.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 50.0,
+        "length": 280.0,
+        "width": 300.0,
+        "height": 280.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51xrIg2MvyL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/418809KvJwL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11058281",
+            "title": "Makeup"
+        },
+        {
+            "node": "11059031",
+            "title": "Lips"
+        },
+        {
+            "node": "11059041",
+            "title": "Lip Glosses"
+        }
+    ],
+    "similar": [
+        "B07662826T",
+        "B07B8BBYCN",
+        "B07DLS8SKP",
+        "B0716DYVYF",
+        "B071KLS2GK",
+        "B07395BLLY",
+        "B0794FWYLL",
+        "B01F67V08M",
+        "B071NL8CSY",
+        "B01N9R6DOO",
+        "B07G61GP6G",
+        "B01KMMAAFA",
+        "B007H1TFHO",
+        "B07F1B2C53",
+        "B071RLQ89P",
+        "B01CSC7OTW",
+        "B07GDV6B87",
+        "B01CSC7P8W",
+        "B07G4L3HCK",
+        "B01MYV6G8W",
+        "B0150RZXG8"
+    ],
+    "rating": "3.2"
+}

@@ -1,0 +1,111 @@
+{
+    "asin": "B01LQQH86A",
+    "title": "WD 4TB Black My Passport Portable External Hard Drive - USB 3.0 - WDBYFT0040BBK-WESN",
+    "brand": "Western Digital",
+    "feature": [
+        "Auto backup with included WD Backup software",
+        "Password protection with hardware encryption",
+        "Reimagined design",
+        "Trusted drive built with WD reliability",
+        "USB 3.0 port; USB 2.0 compatible. SYSTEM COMPATIBILITY: Windows 10, Windows 8, Windows 7. Requires reformatting for Mac OS X operating system."
+    ],
+    "description": "My Passport is the trusted, portable storage that perfectly complements your on-the-go lifestyle. Designed to fit in the palm of your hand, there&rsquo;s plenty of space to store a massive amount of photos, videos, music and documents. Perfectly paired with WD Backup software and password protection, the My Passport drive helps keep your files safe.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 76.875,
+        "length": 430.0,
+        "width": 320.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41yZXe004KL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41rmeTGYiFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51iAF5-bjRL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41upE5EQ4DL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/412tV3xY2lL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41KwIXjruNL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black"
+        },
+        {
+            "name": "Size:",
+            "value": "4TB"
+        },
+        {
+            "name": "Style:",
+            "value": "Standard Finish"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "595048",
+            "title": "External Hard Drives"
+        }
+    ],
+    "similar": [
+        "B079V4L9BD",
+        "B071W4K2B9",
+        "B00C7SPM4M",
+        "B01LQQHBNU",
+        "B01GKFQCAU",
+        "B072PVMWRT",
+        "B07HBLXG26",
+        "B0718XFV2M",
+        "B073R68MQC",
+        "B01MRR7PB9",
+        "B01LQQH842",
+        "B07C7XY7GS",
+        "B071P7CN24",
+        "B01LQQHI8I",
+        "B074Z55J6B",
+        "B017KE8OG0",
+        "B003LSTD38",
+        "B00Q2V7S6K",
+        "B00ZTRXFBA",
+        "B073H552FK",
+        "B01LQQHBW6",
+        "B01LQQHBK8",
+        "B06W55K9N6",
+        "B06XG892ZH",
+        "B0196J43TE",
+        "B00IKAQ538",
+        "B07FF38W6N",
+        "B072MZ71RB",
+        "B06Y2VCQ31",
+        "B01LQQHBLM",
+        "B079YSL744",
+        "B01LQQHL4E",
+        "B0792GRZ2D",
+        "B00O1Q8TJ8",
+        "B07CGR72QN",
+        "B07BD11WTW",
+        "B07CRG7BBH",
+        "B0776PH47Z",
+        "B06XG5ZPDZ",
+        "B01LQQH85G",
+        "B013JPLKQK",
+        "B07745FR71",
+        "B06XNPPRD9",
+        "B0784SLQM6",
+        "B00ODEGWN8",
+        "B0713WPGLL"
+    ],
+    "rating": "4.3"
+}

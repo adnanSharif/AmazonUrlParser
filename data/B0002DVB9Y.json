@@ -1,0 +1,84 @@
+{
+    "asin": "B0002DVB9Y",
+    "title": "Ernie Ball Earthwood Folk Nylon Ball End Set, Clear and Gold",
+    "brand": "Ernie Ball",
+    "feature": [
+        "Medium Tension",
+        "80/20 Bronze Wrap wire",
+        "For Classical guitars"
+    ],
+    "description": "Used on classical guitars. Plain strings are made of a solid nylon filament. First, second and third strings are clear, ball end. Gauges: First = .028, Second = .032, Third = .040 Gold ball end fourth, fifth, and sixth wound strings are made of 80/20 bronze alloy wrapped around a nylon floss core. Gauges: Fourth = .030, Fifth = .036, Sixth = .042",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 450.0,
+        "width": 10.0,
+        "height": 450.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/61mgiIHmtFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61FeYGs1%2BNL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Original Version"
+        }
+    ],
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11965871",
+            "title": "Instrument Accessories"
+        },
+        {
+            "node": "11967641",
+            "title": "Guitar & Bass Accessories"
+        },
+        {
+            "node": "486420011",
+            "title": "Strings"
+        },
+        {
+            "node": "486149011",
+            "title": "Classical Guitar Strings"
+        }
+    ],
+    "similar": [
+        "B000OR4W3K",
+        "B005KXBKTW",
+        "B000EELAT2",
+        "B07CQRV8XL",
+        "B00N4ZHPZ6",
+        "B000P62H7I",
+        "B01FLK4JVY",
+        "B00IZCSX9U",
+        "B000KYMT82",
+        "B01KZRPOS0",
+        "B0002H0JZC",
+        "B000OLVXP6",
+        "B07F75YNGD",
+        "B07BQN5JXF",
+        "B000EEL6J6",
+        "B01FL38TGM",
+        "B001E95KJW",
+        "B00WHFBSW0",
+        "B019JD0ZNK",
+        "B00423O25U",
+        "B01MZF7RDR",
+        "B077T2L8X6",
+        "B00USQY0CK",
+        "B0799HBNMD",
+        "B07C618X7Q",
+        "B006WXTO1U",
+        "B01H74YV56",
+        "B00KWGOM5Q",
+        "B01FL9EZPA"
+    ],
+    "rating": "4.0"
+}

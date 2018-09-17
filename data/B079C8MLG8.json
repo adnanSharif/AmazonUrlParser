@@ -1,0 +1,70 @@
+{
+    "asin": "B079C8MLG8",
+    "title": "Mackie HM-4 Headphone Amplifier",
+    "brand": "Mackie",
+    "feature": [
+        "Share a single stereo source with up to 4 pairs of headphones",
+        "Individual level control for each output",
+        "Powered via the included 12V AC adapter",
+        "Built-like-a-tank construction"
+    ],
+    "description": "The ultra-compact HM-4 4-way headphone amplifier features a 1/4\u201d stereo input and four 1/4\" headphone outputs with individual level controls. Perfect for studios or even at home when up to four people want to listen together.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 93.125,
+        "length": 430.0,
+        "width": 229.99999999999997,
+        "height": 200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41Ub%2BqTqZHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41El27aDHKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41i1E96O3rL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "11091801",
+            "title": "Musical Instruments"
+        },
+        {
+            "node": "11973111",
+            "title": "Studio Recording Equipment"
+        },
+        {
+            "node": "11974821",
+            "title": "Mixers & Accessories"
+        },
+        {
+            "node": "11974831",
+            "title": "Accessories"
+        }
+    ],
+    "similar": [
+        "B075QVMBT9",
+        "B00IT0IHOY",
+        "B078H4YD2L",
+        "B073WRJ44V",
+        "B079FH2VY2",
+        "B002LBSEQS",
+        "B01MTNK3ZT",
+        "B0719C132V",
+        "B00018MSNI",
+        "B079FGN89H",
+        "B0732PQSQN",
+        "B000M0TN6U",
+        "B00PIWB2SO",
+        "B000068NYG",
+        "B07C4TLPQN",
+        "B07932LYLQ",
+        "B07CW9LF5Y",
+        "B01MS22YWV",
+        "B000KIPT30",
+        "B00004SY4H",
+        "B00Y2LANUU",
+        "B073XY3SPN"
+    ],
+    "rating": "4.4"
+}

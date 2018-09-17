@@ -1,0 +1,91 @@
+{
+    "asin": "B00ZCFYF2W",
+    "title": "SanDisk 64GB Connect Wireless Stick Flash Drive - SDWS4-064G-G46",
+    "brand": "SanDisk",
+    "feature": [
+        "The flash drive reinvented for your phone, tablet and computer",
+        "Wirelessly save and access your photos, videos and files. Connect wirelessly or simply plug into a USB port.",
+        "Stream HD videos and music up to 3 devices at the same time",
+        "1 year limited warranty;Dimensions:0.82 x 3.08 x 0.48 in. (20.83 x 78.21 x 12.19 mm) ;PC or Mac computer: Windows 8, Windows 7, Windows 10, Windows Vista, or Mac OS 10.6 or higher",
+        "Connects with Mobile Devices iOS version 8.0 or higher, Android version 4.2 or higher."
+    ],
+    "description": "SanDisk Connect Wireless Stick is the flash drive reinvented to work not just with your computer, but also with your phone and tablet. With the SanDisk Connect Wireless Stick in your pocket, in your bag or across the room, you can wirelessly access your media and transfer files, stream HD videos and music, and save and share photos and videos to and from your mobile device. Delivering up to 128GB of extra capacity, the SanDisk Connect Wireless Stick empowers your mobile lifestyle - whether you're running a sales meeting or taking a hike in the woods. SanDisk Connect Wireless Stick lets you stream video or music to as many as three other devices at the same time, or gives you access to all your stuff from the pocket of your jeans.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 10.0,
+        "length": 50.0,
+        "width": 310.0,
+        "height": 80.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41L9vnt6C3L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31pulZLbSoL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31nAbCuFlYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/519wQBysj5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41prDcv189L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51mzKnWAngL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "64GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "1292110011",
+            "title": "Data Storage"
+        },
+        {
+            "node": "3151491",
+            "title": "USB Flash Drives"
+        }
+    ],
+    "similar": [
+        "B07215381G",
+        "B01LD85JIK",
+        "B06XD64WCW",
+        "B07CSRQCT1",
+        "B00DBX371C",
+        "B00SZLNUEY",
+        "B00ZCFYFAO",
+        "B0198QE5MA",
+        "B00W16DVA2",
+        "B013TMNPBQ",
+        "B077R9VYLP",
+        "B015MPMI8E",
+        "B071FSX1JT",
+        "B00DR8LAE2",
+        "B07D1N4PKW",
+        "B00DR8LBAK",
+        "B07BFV841Y",
+        "B07GN624L1",
+        "B07F6YV1R5",
+        "B00ZCFYT5K",
+        "B072QLXK2T",
+        "B01CIEBS74",
+        "B01C4UY0JK",
+        "B07G2847V4",
+        "B01EHAAHOW",
+        "B01MUH9BET",
+        "B01N4TEVHA",
+        "B074MVWM6V",
+        "B07BFVWZPZ",
+        "B01J08AJE4",
+        "B07C82LSDC",
+        "B07C3V826P",
+        "B0749GXTR5",
+        "B0748D9VGW"
+    ],
+    "rating": "3.8"
+}

@@ -1,0 +1,76 @@
+{
+    "asin": "B0065I0UMO",
+    "title": "First Aid Beauty Ultra Repair Cream Intense Hydration, 6 oz",
+    "brand": "First Aid Beauty",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 60.0,
+        "length": 200.0,
+        "width": 200.0,
+        "height": 300.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/512gtLIBJnL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41T5BjVZw0L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/415uYEZRQBL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31N5jBoOfDL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31ro3EZMg5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51i7-t%2BFhYL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11061301",
+            "title": "Creams & Moisturizers"
+        }
+    ],
+    "similar": [
+        "B00HE1VY44",
+        "B01ES349CY",
+        "B008RJFO6Q",
+        "B000BJUS6Q",
+        "B075GYVF7Y",
+        "B01C49IHU4",
+        "B005KG7U16",
+        "B01N8XF244",
+        "B077BVLK37",
+        "B004WC2H8A",
+        "B0083S44LM",
+        "B00ES5KT54",
+        "B00GOAYLDC",
+        "B01B6PQAHY",
+        "B016M9UEY4",
+        "B01AF8MWHK",
+        "B0741ZZ43K",
+        "B007Q0VW6I",
+        "B0747Y61RC",
+        "B002C2O5EQ",
+        "B01M4MCUAF",
+        "B00HVODVZ4",
+        "B01DPVXXUY",
+        "B007FZR99I",
+        "B07F6RWT32",
+        "B00S8KUHPW",
+        "B01ABUI7ZS",
+        "B01N9SPQHQ",
+        "B002RW9C3A",
+        "B000HP9M34"
+    ],
+    "rating": "4.4"
+}

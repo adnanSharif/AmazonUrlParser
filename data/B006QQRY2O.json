@@ -1,0 +1,82 @@
+{
+    "asin": "B006QQRY2O",
+    "title": "Natures Bounty Iron 65 mg (325 mg Ferrous Sulfate)",
+    "brand": "Nature's Bounty",
+    "feature": [
+        "Iron is a necessary component of hemoglobin, the oxygen carrier in the blood*",
+        "Iron supports energy utilization and normal red blood cell production*",
+        "This product is not intended to diagnose, treat, cure or prevent any disease",
+        "Ingredients: Dried Ferrous Sulfate 205 mg (equivalent to 325 mg Liquid Ferrous Sulfate which provides 65 mg elemental Iron per tablet), Vegetable Cellulose, Crospovidone. Contains <2% of: Maltodextrin, Silica, triacetin, Vegetable Magnesium Stearate"
+    ],
+    "description": "Pregnancy, menstruation and growth increase Iron requirements an easy dose of just one vegetarian-friendly tablet a day can promote womens nutritional health.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 200.0,
+        "width": 200.0,
+        "height": 200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/419wjwdUgYL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51oiH-3XpHL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31T6hG2y6iL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "100 Tablets"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3774271",
+            "title": "Minerals"
+        },
+        {
+            "node": "3774401",
+            "title": "Iron"
+        }
+    ],
+    "similar": [
+        "B00E210KWQ",
+        "B003CF7TOA",
+        "B002N0H2HY",
+        "B07BW2KPYJ",
+        "B079YKLX7H",
+        "B01C4PV5HU",
+        "B005A630W4",
+        "B003D3OF6G",
+        "B003PGJLRO",
+        "B00QL3T68C",
+        "B0015R2MFI",
+        "B009SZXM4E",
+        "B000GCQ8X0",
+        "B074TZHNZS",
+        "B00DYSUQR2",
+        "B01IPUJ606",
+        "B06XY7DGXG",
+        "B001QJATDW",
+        "B00140Z5DW",
+        "B002XUL2HA",
+        "B000FGWBH4",
+        "B078JZMCPJ",
+        "B01CQ3E6HG",
+        "B0046VBWK6",
+        "B002G3PRXY",
+        "B01LB6808U",
+        "B00NV5UTM0",
+        "B072HW5PN2",
+        "B000GG6F3E"
+    ],
+    "rating": "3.8"
+}

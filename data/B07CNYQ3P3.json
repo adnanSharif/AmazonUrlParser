@@ -1,0 +1,92 @@
+{
+    "asin": "B07CNYQ3P3",
+    "title": "Reebok Men's Floatride Run Running Shoes",
+    "brand": null,
+    "feature": [
+        "Mesh",
+        "Rubber sole",
+        "Floatride Run Ultk",
+        "BS8131",
+        "Black Gravel White",
+        "Medium (D, M)"
+    ],
+    "description": "In 1958, Reebok was established and name after an African Gazelle. Reebok is now on the biggest athletic companies and has expanded into casual wear as well. Collaborating lifestyle and sports, Reebok emphasizes on having fun and staying in shape.",
+    "price": 11599.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": null,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41WvF0enVzL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41-KKLCcpML._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41xlMF6ENuL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41oSHs9I6kL._US40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Black Gravel White"
+        },
+        {
+            "name": "Size:",
+            "value": "9 M US"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "679255011",
+            "title": "Shoes"
+        },
+        {
+            "node": "6127770011",
+            "title": "Athletic"
+        },
+        {
+            "node": "679286011",
+            "title": "Running"
+        },
+        {
+            "node": "14210389011",
+            "title": "Road Running"
+        }
+    ],
+    "similar": [
+        "B01MG0RP3A",
+        "B0742P5N4T",
+        "B06XKL3BVC",
+        "B073RRTVM3",
+        "B072F7CFDW",
+        "B07C5MWY14",
+        "B075R9L43K",
+        "B075R9ZCXF",
+        "B072J5HWKH",
+        "B01MR2FX1G",
+        "B07G7Z4V8G",
+        "B07GCXHVW4",
+        "B07GLF6Z9Z",
+        "B075VSK4KK",
+        "B079P58818",
+        "B077V6KWFR",
+        "B071Z72V8X",
+        "B07796GMCT",
+        "B072MFSJ4N",
+        "B01N6JHA7K",
+        "B07BFHM2C9",
+        "B01MRZP4SJ",
+        "B01HFL9CW8",
+        "B07GY3DJ7C"
+    ],
+    "rating": "5.0"
+}

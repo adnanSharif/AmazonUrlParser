@@ -1,0 +1,83 @@
+{
+    "asin": "B00J082PTM",
+    "title": "Invicta Men's 17204 AVIATOR Stainless Steel Casual Watch",
+    "brand": "Invicta",
+    "feature": [
+        "Round watch featuring tachymeter and compass on inner bezel, chronograph subdials, and date window",
+        "Case Size: 48mm, Case Material: stainless steel case with synthetic-sapphire dial window",
+        "Japanese quartz movement with analog display",
+        "Stainless steel bracelet with fold-over clasp",
+        "Water resistant to 100 m (330 ft): In general, suitable for swimming and snorkeling, but not scuba diving"
+    ],
+    "description": "Length: 225mm",
+    "price": 11700.0,
+    "listPrice": 89500.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 110.00000000000001,
+        "length": 590.0,
+        "width": 590.0,
+        "height": 590.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51sgdLqE80L._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21WWYUQrWeL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/317fHMASeTL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51W125BmebL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Cw3QEx2jL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51LXVfGTiwL._SR38,50_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "6358539011",
+            "title": "Watches"
+        },
+        {
+            "node": "6358540011",
+            "title": "Wrist Watches"
+        }
+    ],
+    "similar": [
+        "B07CQ4T7BQ",
+        "B078X7QMLX",
+        "B00EJISEBQ",
+        "B00J082PVU",
+        "B000EI858M",
+        "B06Y3MPDQR",
+        "B06Y391SCN",
+        "B01M5IJG6G",
+        "B07657P1FN",
+        "B07682CJW7",
+        "B002PAPT1S",
+        "B06XS9NQPF",
+        "B000GX8W2O",
+        "B011L66E1A",
+        "B014MN9RCM",
+        "B01FLLJ6IE",
+        "B075LGRSRM",
+        "B018VZ4N6W",
+        "B000820YD8",
+        "B06Y3L2SYX",
+        "B075HC13RK",
+        "product-description",
+        "B003KRP0P0",
+        "B009AS7U06",
+        "B06Y394PX5",
+        "B01DPXDTMY",
+        "B000820YBU",
+        "B003MYUQKA",
+        "B000GX3IKK",
+        "B002PAPT22",
+        "B076HC5ZH2"
+    ],
+    "rating": "3.9"
+}

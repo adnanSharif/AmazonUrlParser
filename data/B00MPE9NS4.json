@@ -1,0 +1,91 @@
+{
+    "asin": "B00MPE9NS4",
+    "title": "WWE Boys' John Cena T-Shirt",
+    "brand": null,
+    "feature": [
+        "100% Cotton",
+        "Made in the USA and Imported",
+        "Machine Wash",
+        "100 percent officially licensed",
+        "Super soft tee also has sleeve hits"
+    ],
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51X15hmxxvL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "Large/  14/16"
+        },
+        {
+            "name": "Color:",
+            "value": "Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147445011",
+            "title": "Novelty & More"
+        },
+        {
+            "node": "12035955011",
+            "title": "Clothing"
+        },
+        {
+            "node": "9103696011",
+            "title": "Novelty"
+        },
+        {
+            "node": "9057092011",
+            "title": "Boys"
+        },
+        {
+            "node": "9057093011",
+            "title": "Tops & Tees"
+        },
+        {
+            "node": "9057094011",
+            "title": "T-Shirts"
+        }
+    ],
+    "similar": [
+        "B06ZXWZ9R8",
+        "B019ZL227I",
+        "B00UVOL2U2",
+        "B078Z1TBXX",
+        "B00J6ASLWE",
+        "B06XPJNLT8",
+        "B01MYX8VN7",
+        "B01JIN6RH4",
+        "B0063GCJK4",
+        "B074JJDY2S",
+        "B01M59BO7U",
+        "B075LKZTCJ",
+        "B00AY829PM",
+        "B011YPN786",
+        "B01FH5KAW0",
+        "B01KGE5KO0",
+        "B077BCCKY4",
+        "B06XPJZJPW",
+        "B00BB8XWH8",
+        "B06XNWNZ5R",
+        "B01J0JQQ86",
+        "B011YPN6P0",
+        "B007H63Y7G"
+    ],
+    "rating": "4.6"
+}

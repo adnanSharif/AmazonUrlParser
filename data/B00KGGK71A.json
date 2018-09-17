@@ -1,0 +1,85 @@
+{
+    "asin": "B00KGGK71A",
+    "title": "Samsung Level Over-Ear Bluetooth Headphone - Retail Packaging - Black",
+    "brand": "Samsung",
+    "feature": [
+        "Active Noise Cancellation for crystal clear music and calls; 3.5mm Wired or Bluetooth wireless connectivity",
+        "Smart Touch, button-free controls; S-Voice and smart commands for phone connectivity",
+        "Ear Care notification to prevent hearing loss; Tap-to-pair NFC pairing; Bluetooth 3.0 compatible",
+        "15 hours of talk/listening time; Samsung Level Application",
+        "Package includes Headphones, Premium Carrying Case, Data Link Cable, Detachable Audio Cable with Remote, Airplane Adapter, Manual"
+    ],
+    "description": null,
+    "price": 24999.0,
+    "listPrice": 31052.999999999996,
+    "prime": true,
+    "dimensions": {
+        "weight": 280.0,
+        "length": 880.0000000000001,
+        "width": 470.0,
+        "height": 950.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31BBKbiQBSL._SX38_SY50_CR,0,0,38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/4124YFNewWL._SX38_SY50_CR,0,0,38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "1"
+        },
+        {
+            "name": "Product Packaging:",
+            "value": "Black"
+        }
+    ],
+    "categories": [
+        {
+            "node": "2335752011",
+            "title": "Cell Phones & Accessories"
+        },
+        {
+            "node": "2407755011",
+            "title": "Accessories"
+        },
+        {
+            "node": "2407776011",
+            "title": "Bluetooth Headsets"
+        }
+    ],
+    "similar": [
+        "B07CL1FN61",
+        "B019WB7D4S",
+        "B07BBYVYF4",
+        "B01L160DLW",
+        "B00TEFUQMY",
+        "B07GH5TZ28",
+        "B07GCZ83GX",
+        "B07G8PDXQW",
+        "B07FMYQMV5",
+        "B01ND0K8IY",
+        "B0757V12B3",
+        "B07FRFQN11",
+        "B07G8YBTLB",
+        "B00YA8LFPW",
+        "B01G8JO5F2",
+        "B075QLCNMG",
+        "B018XI3ASO",
+        "B010US6SYI",
+        "B01N5N53J3",
+        "B00WE1PWNI",
+        "B00TA4HRMQ",
+        "B017KE8N0M",
+        "B07644ZS1D",
+        "B07GFGJJS8",
+        "B07C3CLVC6",
+        "B075NRNZWD",
+        "B017KE9KOU",
+        "B07GH4YDDF",
+        "B00TA4HR9O",
+        "B00RLV3JP4",
+        "B008PXMWIW",
+        "B00XWUV9ZU"
+    ],
+    "rating": "4.3"
+}

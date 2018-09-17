@@ -1,0 +1,70 @@
+{
+    "asin": "B00GTR0OJK",
+    "title": "Clearblue Advanced Digital Ovulation Test 20 Count Gift, Baby, NewBorn, Child",
+    "brand": "Hendelman & Co.",
+    "feature": null,
+    "description": null,
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 31.874999999999996,
+        "length": 740.0,
+        "width": 360.0,
+        "height": 150.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41BmogtRbEL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41tel9rL1VL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41K9NSmPzoL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3775161",
+            "title": "Medical Supplies & Equipment"
+        },
+        {
+            "node": "3777241",
+            "title": "Home Tests"
+        },
+        {
+            "node": "8622315011",
+            "title": "Family Planning Tests"
+        },
+        {
+            "node": "3762501",
+            "title": "Ovulation Tests"
+        }
+    ],
+    "similar": [
+        "B07GDK9RWP",
+        "B001GS4UDS",
+        "B01N38H5LL",
+        "B06XKL1H7V",
+        "B00AOJ5R64",
+        "B00F3IH58Y",
+        "B07BDK4B8M",
+        "B004382GWK",
+        "B00OAIKPQC",
+        "B01HFBWQH6",
+        "B0019LT5MS",
+        "B0722VVNLQ",
+        "B078W4R763",
+        "B010C1LLWW",
+        "B0000B11WE",
+        "B0006HDOSM",
+        "B002VLYAOI",
+        "B00ZERDOWU",
+        "B00AOJ5R8W",
+        "B0002G2M9Y",
+        "B000052XHI",
+        "B00DOJG6RA",
+        "B01FYEC95K"
+    ],
+    "rating": "3.4"
+}

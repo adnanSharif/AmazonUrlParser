@@ -1,0 +1,99 @@
+{
+    "asin": "B01J5RHD58",
+    "title": "SanDisk Extreme Pro 64GB SDXC UHS-I Memory Card (SDSDXXG-064G-GN4IN)",
+    "brand": "SanDisk",
+    "feature": [
+        "Ideal for professionals looking to maximize post-production workflow",
+        "Read speeds of up to 95MB/s; write speeds of up to 90MB/s",
+        "Video Speed : \tC10, U3, V30",
+        "Shock-proof, temperature-proof, waterproof, and x-ray-proof",
+        "Records Full HD, 3D, and 4K Video",
+        "Lifetime limited Warranty"
+    ],
+    "description": "SanDisk Extreme Pro 64GB SDXC UHS-I Memory Card (SDSDXXG-064G-GN4IN)",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 7.000000000000001,
+        "length": 130.0,
+        "width": 10.0,
+        "height": 90.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51MaTJrUsLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51gBAhaFWJL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51l%2Bf6LRLLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Yfjp2cuIL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "64GB"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "516866",
+            "title": "Memory Cards"
+        },
+        {
+            "node": "1197396",
+            "title": "SD Cards"
+        }
+    ],
+    "similar": [
+        "B01J5RHBQ4",
+        "B005LFT3MA",
+        "B01LORO7BA",
+        "B07G2F6N74",
+        "B074CLNZWN",
+        "B071K62DPN",
+        "B005LFT3UW",
+        "B077PS1XFM",
+        "B071LFBLTY",
+        "B010NU5AX8",
+        "B01BFSF1EA",
+        "B00NP63Y4K",
+        "B079H5HYC7",
+        "B077SXN515",
+        "B01LQV181G",
+        "B005NJCFRE",
+        "B01LORO7Z6",
+        "B00NP699ZI",
+        "B07BFC3R5B",
+        "B01B4GT4A0",
+        "B01J5RH06K",
+        "B005LFT3GG",
+        "B07BFMPNFX",
+        "B07CGM78QF",
+        "B07FDTPSKJ",
+        "B00NI3CSIS",
+        "B0143RT8OY",
+        "B0143IIP4W",
+        "B07DDF9GCX",
+        "B07D34Y991",
+        "B079NPZLDR",
+        "B072J9RDB2",
+        "B01ERGYZK8",
+        "B00297BRYA",
+        "B01MFCQVLB",
+        "B01J5RH5Y2",
+        "B012PL6K8M",
+        "B07CC93KG1",
+        "B00WWBCSG4"
+    ],
+    "rating": "4.4"
+}

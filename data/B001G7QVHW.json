@@ -1,0 +1,78 @@
+{
+    "asin": "B001G7QVHW",
+    "title": "Nature's Bounty Biotin 1000 mcg Tablets 100 ea (Pack of 3)",
+    "brand": "Nature's Bounty",
+    "feature": null,
+    "description": "Biotin is a water-soluble vitamin found in oatmeal, vegetables, and soy. As part of the B-Family of vitamins, Biotin helps support a healthy nervous system and aids in the conversion of food into energy. Biotin also helps to support healthy hair, skin and nails.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 45.0,
+        "length": 360.0,
+        "width": 180.0,
+        "height": 540.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51gH-46rbdL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "6936790011",
+            "title": "Vitamins"
+        },
+        {
+            "node": "3774671",
+            "title": "Vitamin B"
+        },
+        {
+            "node": "3774751",
+            "title": "B7 (Biotin)"
+        }
+    ],
+    "similar": [
+        "B002RL8FEI",
+        "B010RSDTNE",
+        "B00NV5UTYI",
+        "B00DS5BGAC",
+        "B00IR84RK6",
+        "B01M6CF7HG",
+        "B01MZCPOTT",
+        "B01D6AQQQC",
+        "B075DJ52VS",
+        "B0013P1GD6",
+        "B07BN7P5SY",
+        "B07FJQ32BG",
+        "B001115TLM",
+        "B011W5VR58",
+        "B00OJOFX2S",
+        "B00DS5BG52",
+        "B0106IZ1YU",
+        "B000NPYY04",
+        "B0185PXU3K",
+        "B00ZQ0CKJI",
+        "B00TYQ7IBK",
+        "B004JO99TG",
+        "B002Q16VVS",
+        "B07255MPRN",
+        "B00H5PJ0HW",
+        "B002CQU55K",
+        "B074V7394F",
+        "B00BPGPX1E",
+        "B01ENCBOA0",
+        "B004U3Y8OM",
+        "B002RL8FBQ",
+        "B00T56FQAE",
+        "B002BSH3HC"
+    ],
+    "rating": "4.4"
+}

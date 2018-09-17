@@ -1,0 +1,65 @@
+{
+    "asin": "B00014ECB8",
+    "title": "Mill Creek Botanicals Jojoba Shampoo, 16 Fluid Ounce",
+    "brand": "Mill Creek",
+    "feature": null,
+    "description": "A balancing formula that rehydrates and moisturizes your hair",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 120.0,
+        "length": 850.0,
+        "width": 250.0,
+        "height": 250.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41nDuZF9nYL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11057241",
+            "title": "Hair Care"
+        },
+        {
+            "node": "17911764011",
+            "title": "Shampoo & Conditioner"
+        },
+        {
+            "node": "11057651",
+            "title": "Shampoos"
+        }
+    ],
+    "similar": [
+        "B00016X6PY",
+        "B000FIJ24C",
+        "B000QV9P0E",
+        "B01MYGUSUD",
+        "B00GJX58PE",
+        "B00014D322",
+        "B00ZD3T7E4",
+        "B0172LSQTQ",
+        "B0172LSPSI",
+        "B00EZL7FT4",
+        "B078PLG6MM",
+        "B00EPG2QJI",
+        "B01A74442I",
+        "B00M49SG0Q",
+        "B0792H1784",
+        "B01NCTRJNZ",
+        "B01L09YRDU",
+        "B00OYVZ6UA",
+        "B01MU1DE03",
+        "B00YFG9MF4",
+        "B006FXKS12",
+        "B06XCZQTMR",
+        "B079LXH68Z",
+        "B00014EKWY"
+    ],
+    "rating": "4.3"
+}

@@ -1,0 +1,87 @@
+{
+    "asin": "B00V49QDZW",
+    "title": "Guess Women's Stainless Steel Casual Watch",
+    "brand": null,
+    "feature": [
+        "Gold-tone watch featuring crystal-studded bezel and textured dial with Roman numeral markers and sparkling 12 o'clock",
+        "36-mm stainless steel case with mineral dial window",
+        "Quartz movement with analog display",
+        "Stainless steel twisted bracelet with jewelry-clasp closure",
+        "Water resistant to 30 m (99 ft): In general, withstands splashes or brief immersion in water, but not suitable for swimming"
+    ],
+    "description": "An ultra-modern timepiece in the hue of the moment--this watch was made for the daring trendsetter. The ionic-plated design features a woven cable bracelet and tonal rhinestones for true statement appeal.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 55.00000000000001,
+        "length": 590.0,
+        "width": 590.0,
+        "height": 590.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51v5V-tqJCL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31Yebe6sKvL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/61Pa096NFoL._SR38,50_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31MpUA8mLjL._SR38,50_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Gold Tone"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147440011",
+            "title": "Women"
+        },
+        {
+            "node": "6358543011",
+            "title": "Watches"
+        },
+        {
+            "node": "6358544011",
+            "title": "Wrist Watches"
+        }
+    ],
+    "similar": [
+        "B078YBG1VC",
+        "B06XS9VSXR",
+        "B06Y5YDDM9",
+        "B00LBMKIS0",
+        "B01549IR5Q",
+        "B06XS8Y29X",
+        "B00LPSI0BC",
+        "B078YCN8N1",
+        "B00G3J58XG",
+        "B0048CLHIU",
+        "B06XSC4H28",
+        "B0198WS66A",
+        "B07657P1FN",
+        "B00V48OPFI",
+        "B06XS9NQPF",
+        "B07BFV5TXM",
+        "B01549HQVM",
+        "B00V49QFP0",
+        "B07BFVR8RZ",
+        "B01LYHAPRA",
+        "B07BFVJZ6H",
+        "B00V48OXAU",
+        "B07CPJK3MW",
+        "B07799GVXZ",
+        "B07BFVDN54",
+        "B00V49K4QG",
+        "B01H1V6JMS",
+        "B07BFV9G8X",
+        "B00AJS4L3U",
+        "B06Y5P3C1Q",
+        "B004X4Y9LK",
+        "B0799LVVGM"
+    ],
+    "rating": "3.8"
+}

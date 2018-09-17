@@ -1,0 +1,90 @@
+{
+    "asin": "B00N9HRVH6",
+    "title": "Cable Matters 2-Pack USB Extension Cable (USB Extender Cable/USB 2.0 Extension Cable) - 10 Feet - Available 3FT - 10FT in Length",
+    "brand": "Cable Matters",
+    "feature": [
+        "USB EXTENSION CABLE extends the USB 2.0 connection between a computer or tablet to USB peripherals like a hub, mouse, or flash drive; USB male to female cable connects the existing cable of your device to the female port on the extension cable; USB port saver reduces plugging and unplugging from your computer USB port",
+        "WIRELESS INTERFERENCE SOLUTION for connecting a 2.4 GHz WiFi mouse or keyboard dongle that stutters when plugged into a USB 3.0 port; Supports the USB 2.0 data transfer rate up to 480 Mbps",
+        "SUPERIOR CONSTRUCTION combines gold-plated connectors, bare copper conductors, and foil & braid shielding to provide superior cable performance and error-free data transmission; Lightweight and flexible USB cable coils easily for transport or storage",
+        "COST-EFFECTIVE 2-PACK provides a spare cable for connecting or charging USB devices; A lifetime warranty is included with this USB extension cable for peace of mind when purchasing",
+        "USB 2.0 COMPATIBLE as a SNES controller class USB gamepad cable, Raspberryi Pi3 USB controller cable, Arduino USB cable, USB LED light strip cable, WiFi USB cable, Garmin USB ANT Stick cable, USB 2.0 printer cable, USB 2.0 hub cable, and more"
+    ],
+    "description": null,
+    "price": 999.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 25.0,
+        "length": 680.0,
+        "width": 600.0,
+        "height": 120.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/41fSVq31K5L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51s7fcP2tfL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41iAOYksdKL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41KwTGXTSAL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51Muezjq1WL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "541966",
+            "title": "Computers & Accessories"
+        },
+        {
+            "node": "172456",
+            "title": "Computer Accessories & Peripherals"
+        },
+        {
+            "node": "172463",
+            "title": "Cables & Interconnects"
+        },
+        {
+            "node": "464394",
+            "title": "USB Cables"
+        }
+    ],
+    "similar": [
+        "B076DPQFZB",
+        "B00NH12O5I",
+        "B00P0ES0TE",
+        "B00BCWALHM",
+        "B01N7ANDLC",
+        "B079FG2PL6",
+        "B00N9HRTFU",
+        "B00NH11PEY",
+        "B0753G7SJ5",
+        "B00KY9M51O",
+        "B00NH13DV2",
+        "B00NH11R3I",
+        "B00JJ517VI",
+        "B071S5NTDR",
+        "B00NH13UFQ",
+        "B00P0ES0YE",
+        "B00B2HP2UI",
+        "B01FF0HU4I",
+        "B00JJ519KC",
+        "B019DZ7U2S",
+        "B07DWV4V14",
+        "B076Z7XCK5",
+        "B075L3XM71",
+        "B07491YH2R",
+        "B003L137Y6",
+        "B00GS8GHQO",
+        "B00N9HRUJU",
+        "B07B8TKYJY",
+        "B00C7SA21U",
+        "B014RWATK2"
+    ],
+    "rating": "4.4"
+}

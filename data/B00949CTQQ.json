@@ -1,0 +1,78 @@
+{
+    "asin": "B00949CTQQ",
+    "title": "Paulas Choice--SKIN PERFECTING 2% BHA Liquid Salicylic Acid Exfoliant--Facial Exfoliant for Blackheads, Enlarged Pores, Wrinkles & Fine Lines, 4 oz Bottle",
+    "brand": "Paula's Choice",
+    "feature": null,
+    "description": null,
+    "price": 2900.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 35.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31OCmne2qLL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41hAnUSeXdL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/418K-AwFPxL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41Km9Yc2CzL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41CxDNgHi7L._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760911",
+            "title": "Beauty & Personal Care"
+        },
+        {
+            "node": "11060451",
+            "title": "Skin Care"
+        },
+        {
+            "node": "11060711",
+            "title": "Face"
+        },
+        {
+            "node": "11061091",
+            "title": "Exfoliators, Polishes & Scrubs"
+        },
+        {
+            "node": "7792686011",
+            "title": "Exfoliators"
+        }
+    ],
+    "similar": [
+        "B00TU7YIC0",
+        "B005LXEDTK",
+        "B07D8DBS7S",
+        "B077PPJHC7",
+        "B00G0IKDWG",
+        "B00L5O2ZXK",
+        "B07C5SS6YD",
+        "B00AFYAXEO",
+        "B00Y1GGLJ8",
+        "B001SB9CL8",
+        "B00949C6U0",
+        "B078H8FLHH",
+        "B002MSN3QQ",
+        "B01DMLS7DK",
+        "B00L5O46AU",
+        "B01N1LL62W",
+        "B01CK695QG",
+        "B0052P0ZX0",
+        "B01MTFXWB5",
+        "B01M4MCUAF",
+        "B008EPPIQ4",
+        "B00V4PNAI4",
+        "B01NCKGAMG",
+        "B06ZYNQZKF",
+        "B07D6TCFXV",
+        "B06Y2HVD5X",
+        "B00WXHUS0K",
+        "B008EPP9Z4",
+        "B00949CO66"
+    ],
+    "rating": "4.1"
+}

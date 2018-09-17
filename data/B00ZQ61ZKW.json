@@ -1,0 +1,68 @@
+{
+    "asin": "B00ZQ61ZKW",
+    "title": "Starwest Botanicals Organic Licorice Root Powder, 1 Pound",
+    "brand": "Starwest Botanicals",
+    "feature": null,
+    "description": "1 lb of Organic Licorice Root Powder, packaged in a resealable mylar bag.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 100.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51DDZKdLBVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41rIdrK54JL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "3760901",
+            "title": "Health & Household"
+        },
+        {
+            "node": "3764441",
+            "title": "Vitamins & Dietary Supplements"
+        },
+        {
+            "node": "3764461",
+            "title": "Herbal Supplements"
+        },
+        {
+            "node": "3766181",
+            "title": "Licorice Root"
+        }
+    ],
+    "similar": [
+        "B01NBKR7EY",
+        "B00ZDO6TY4",
+        "B00L3D4HT8",
+        "B0793BT1SR",
+        "B07C755MBH",
+        "B00G3A1UGO",
+        "B01348UOI2",
+        "B00290AXJW",
+        "B00290CG56",
+        "B074R1ZS2L",
+        "B00G9MC25O",
+        "B003AYEHLQ",
+        "B005PB8DWQ",
+        "B0779F42ZD",
+        "B00AMZU4L8",
+        "B00ZDANONW",
+        "B00Z84HZY2",
+        "B000FH11M4",
+        "B000UVUHUW",
+        "B003D4IYJO",
+        "B008X9ZAMI",
+        "B002DXXCV6",
+        "B0131EDZKS",
+        "B0019LWU2K",
+        "B01HZS034M",
+        "B0015SXPI0"
+    ],
+    "rating": "4.3"
+}

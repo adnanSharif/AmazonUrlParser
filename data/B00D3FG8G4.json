@@ -1,0 +1,95 @@
+{
+    "asin": "B00D3FG8G4",
+    "title": "Race Face 104mm Single Chain Ring",
+    "brand": "RaceFace",
+    "feature": [
+        "7075-T6 aluminum, aerospace grade strength",
+        "Weight 50gm (36T)",
+        "Compatible for 9, 10 and 11 speed",
+        "Narrow Wide tooth profiling ensures ultimate chain retention",
+        "Stiff 4mm plate thickness and I-beam construction transfer loads without flexing",
+        "Reversible laser etched graphics"
+    ],
+    "description": "Burly enough for DH Racers and Dirt Jumpers, yet light enough for XC/single speed. Tested in some of the most punishing riding terrain are built to last.",
+    "price": 4395.0,
+    "listPrice": 4799.0,
+    "prime": true,
+    "dimensions": {
+        "weight": 1.875,
+        "length": 900.0,
+        "width": 700.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51heY7ddsFL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/4169JTyvq6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41DAtkkVtmL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51f9CGnCBgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41VvtjIRsvL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41a51nLDWjL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "1"
+        },
+        {
+            "name": "Color:",
+            "value": "104mm 36T 9/10/11 Speed"
+        }
+    ],
+    "categories": [
+        {
+            "node": "3375251",
+            "title": "Sports & Outdoors"
+        },
+        {
+            "node": "706814011",
+            "title": "Outdoor Recreation"
+        },
+        {
+            "node": "3403201",
+            "title": "Cycling"
+        },
+        {
+            "node": "3404731",
+            "title": "Parts & Components"
+        },
+        {
+            "node": "6389153011",
+            "title": "Drivetrain Components"
+        },
+        {
+            "node": "3494171",
+            "title": "Chainrings"
+        }
+    ],
+    "similar": [
+        "B07CVPDDSF",
+        "B00D3FG8FK",
+        "B00GTKJS8A",
+        "B01F6PMROA",
+        "B013ZBT6CI",
+        "B00WLFV0BU",
+        "B00HPMF57E",
+        "B00LGZ9MGG",
+        "B005FWR8E4",
+        "B002I7REMU",
+        "B071ZHX5T8",
+        "B00D3FG8GY",
+        "B071DJHF79",
+        "B017T2QS3E",
+        "B00D3FG9WC",
+        "B0753YMD6H",
+        "B073ZG95HQ",
+        "B00LGZB7MI",
+        "B005JAMHXO",
+        "B00B5Y1YB4",
+        "B072R254D5",
+        "B075ZYXJXV",
+        "B07B4RGQNT",
+        "B018J1J7QE",
+        "B078YP61SR"
+    ],
+    "rating": "4.7"
+}

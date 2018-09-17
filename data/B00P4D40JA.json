@@ -1,0 +1,70 @@
+{
+    "asin": "B00P4D40JA",
+    "title": "Disney/Pixar Cars Collector Die-Cast Vehicle (2-Pack), Chief RPM and Petrol Pulaski",
+    "brand": "Mattel",
+    "feature": [
+        "All kids' favorite characters from Disney/Pixar Cars are rolling in!",
+        "These two-packs double the fun!",
+        "Set includes two characters that share a key scene in the film",
+        "Reenact favorite movie moments or imagine new adventures",
+        "A great gift that any boy is sure to love"
+    ],
+    "description": "Rick P Miler is the Crew Chief and brains behind the RPM Race Team. He's easy to spot around the track because he never takes his headphones off no matter what he's up to. Rick's not really rude, it's so he can stay in communication with his driver at all times.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 30.0,
+        "length": 650.0,
+        "width": 850.0,
+        "height": 200.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51%2BVtYeGsRL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51ovRLNPo2L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51cTOvTW-GL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "165793011",
+            "title": "Toys & Games"
+        },
+        {
+            "node": "166508011",
+            "title": "Toy Remote Control & Play Vehicles"
+        },
+        {
+            "node": "2519979011",
+            "title": "Die-Cast Vehicles"
+        }
+    ],
+    "similar": [
+        "B076MRTDYB",
+        "B01NAHM10U",
+        "B00N5WQEZ0",
+        "B00JBGPHYS",
+        "B01MT3HNEF",
+        "B00R87WO3E",
+        "B01IDW77PW",
+        "B01N4UTD7K",
+        "B016IHDRSU",
+        "B00OCK9OVA",
+        "B077YS5SP8",
+        "B01N9M1EJ5",
+        "B01EA31LBO",
+        "B002T10GQQ",
+        "B074M8X7R4",
+        "B079ML82NH",
+        "B002T0Y92E",
+        "B01943RT66",
+        "B074NCT8QG",
+        "B079MLKX2C",
+        "B011E14FQI",
+        "B079MDKR2J",
+        "B00N5WP8UM",
+        "B06WGRDBP5",
+        "B01IDW6MK8"
+    ],
+    "rating": "4.5"
+}

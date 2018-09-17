@@ -1,0 +1,102 @@
+{
+    "asin": "B01N1NT9Y6",
+    "title": "NVIDIA SHIELD TV Gaming Edition | 4K HDR Streaming Media Player with GeForce NOW",
+    "brand": "NVIDIA",
+    "feature": [
+        "Home Theater Experience \u2013 Enjoy the ultimate visual experience with 4K HDR quality and the most immersive sound with Dolby Atmos and DTS-X surround sound pass-through.",
+        "Hundreds of Entertainment Apps \u2013 Watch the latest and greatest movies and shows with Netflix, Amazon Prime Video, and Vudu in stunning 4K HDR, and YouTube, Google Play Movies & TV, FandangoNow and more in up to 4K.",
+        "NVIDIA-Powered Gaming \u2013 Play AAA PC games like Fortnite and PUBG on your TV with GeForce NOW cloud-gaming service. Plus, explore premium Android games or stream games from your GeForce-powered PC to your TV in 4K HDR.",
+        "Cut the Cord \u2013 Apps like YouTube TV, Hulu, Sling TV, and PlayStation Vue give you access to live TV and sports without the mess and stress of a cable box.",
+        "Smart Home Ready \u2013 Use your voice to dim lights, turn up the temperature, view your Nest cam on the TV, and more. Add SmartThings Link to turn your SHIELD into a Zigbee and Z-wave smart home hub."
+    ],
+    "description": "NVIDIA SHIELD TV is the most advanced streaming media player that provides endless entertainment and is the perfect fit for your Google-connected lifestyle. Play your favorite shows in up to 4K HDR, share your photos, stream the latest songs, display your calendar, dim the lights, and so much more, all with just your voice. With SHIELD, it's more than TV. It's your life\u2014smarter and more connected. Enjoy Netflix, Amazon Video, and VUDU in stunning 4K HDR and YouTube, Google Play Movies & TV, and more in up to 4K. Cut the cord with apps like YouTube TV, Sling TV or PlayStation Vue. Cast your favorite apps to your TV with Chromecast 4K built-in. Add SmartThings Link to turn SHIELD into a Zigbee and Z-wave smart home hub to wirelessly connect and automate hundreds of compatible smart devices, so they can all work together with voice commands and automations. Even use SHIELD as a Plex Media Server and stream your personal media collection to any device, anywhere. NVIDIA GameStream harnesses the power of your GeForce GTX graphics card to let you cast your games from your PC to your TV. Don\u2019t have a powerful gaming rig? Just stream PC games from the cloud with GeForce NOW. You can also play a new class of exclusive Android games.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 276.0,
+        "length": null,
+        "width": null,
+        "height": null
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31Yvn2wkldL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21N448iFkCL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/21GweBcR8jL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41F9eDq4pQL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41I20QRN5CL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51kkVA%2BJ5ZL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Edition:",
+            "value": "SHIELD with remote and controller"
+        },
+        {
+            "name": "Configuration:",
+            "value": "Streaming Media Player"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "1266092011",
+            "title": "Television & Video"
+        },
+        {
+            "node": "13447451",
+            "title": "Streaming Media Players"
+        }
+    ],
+    "similar": [
+        "B00NTCHCU2",
+        "B075ZXHYBY",
+        "B018K36GMY",
+        "B00608WXGA",
+        "B01N9VKFN3",
+        "B07C87D2LL",
+        "B0722R3WV5",
+        "B078LH47CD",
+        "B00ZV9RDKK",
+        "B0753G7SJ5",
+        "B01MXJJTN0",
+        "B075RXV2VR",
+        "B01N9O3UTF",
+        "B06XRF3Z7X",
+        "B06XCM9LJ4",
+        "B00Z81U3YY",
+        "B00OQVZDJM",
+        "B01N9D0MKM",
+        "B07GQ4B3FK",
+        "B07F7N3CFW",
+        "B075QD7HRW",
+        "B00O8ODHOA",
+        "B06XT4HV7L",
+        "B00SZVIVDE",
+        "B07CQHR1WB",
+        "B073WHKVWX",
+        "B07FTK1KBQ",
+        "B01N1YBGMG",
+        "B075V68NVR",
+        "B06X188XKV",
+        "B07BMY4ZC1",
+        "B072C5MKS5",
+        "B071GSVP6Z",
+        "B079LCP4DY",
+        "B01N7DQ0L6",
+        "B07F96JTC8",
+        "B01N3PL81R",
+        "B00E3667XQ",
+        "B01MYV94H3",
+        "B01BGTG2A0",
+        "B077HP7R68",
+        "B078PQ5QSB",
+        "B01N32NCPM",
+        "B07855LJ99",
+        "B00GQPVVCY"
+    ],
+    "rating": "4.3"
+}

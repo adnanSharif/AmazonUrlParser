@@ -1,0 +1,77 @@
+{
+    "asin": "B002C0A7ZY",
+    "title": "HM Digital TDS-EZ Water Quality TDS Tester, 0-9990 ppm Measurement Range, 1 ppm Resolution, 3% Readout Accuracy",
+    "brand": "HM Digital",
+    "feature": [
+        "plastic /100%",
+        "Imported",
+        "Economy model that is ideal for end-users. Highly efficient and accurate due to its advanced microprocessor technology.",
+        "Hold Function: saves measurements for convenient reading and recording and battery life is approx. 1000 hours of usage and power source is 2 x 1.5V button cell batteries (included) (LR44 or equivalent)",
+        "Auto-off function: the meter shuts off automatically after 10 minutes of non-use to conserve batteries. Display: large and easy-to-read LCD screen.",
+        "Measurement Range: 0-9990 ppm. From 0-999 ppm, the resolution is in increments of 1ppm. From 1000 to 9990 ppm, the resolution is in increments of 10ppm, indicated by a blinking 'x10' image. Fun, translucent blue housing that's very strong and durable.",
+        "TDS-EZ meters are calibrated with a 342 ppm NaCl solution. Meters can be recalibrated with a mini-screwdriver. Includes a TDS chart sticker on the back of the meter that explains TDS values."
+    ],
+    "description": "Product Description: A TDS meter (aka ppm pen, nutrient tester, tds stick) is an inexpensive and convenient digital tool to instantly check your overall water quality. TDS = Total Dissolved Solids, which is any salt, metal or mineral in the water. With the push of a button, the TDS-EZ can tell you your overall water purity level, which will be displayed on the screen in ppm (parts per million). The lower the TDS level, the purer the water, with 0 ppm being pure H2O. The TDS-EZ is great for checking your tap water quality, or knowing when to change a filter. (The meter does not test for biological contaminants.) The TDS-EZ is a great tool for drinking water, water filtration and purification, hydroponics (test your nutrients), aquariums, RO/DI systems, pools and spas, and more. Water Quality Tester with Auto-off Function.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 15.0,
+        "length": 100.0,
+        "width": 120.0,
+        "height": 610.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31f8KFWT87L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31E0I-%2BnEVL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41a4Q2heJ6L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31xM9WNWqVL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Color:",
+            "value": "Original Version"
+        }
+    ],
+    "categories": [
+        {
+            "node": "228013",
+            "title": "Tools & Home Improvement"
+        },
+        {
+            "node": "553244",
+            "title": "Measuring & Layout Tools"
+        },
+        {
+            "node": "2380875011",
+            "title": "Scanners & Testers"
+        }
+    ],
+    "similar": [
+        "B07G29PCZ8",
+        "B00KMSP4TM",
+        "B01N0OERWZ",
+        "B07BQ29R5V",
+        "B0799C6ZCS",
+        "B07GL4DMRH",
+        "B07CPM8TY9",
+        "B079DN9DRS",
+        "B0043FYJ8M",
+        "B004HWP32C",
+        "B00IDBZ1A2",
+        "B01FPG89CE",
+        "B00ST3VTQ4",
+        "B008H71Q4C",
+        "B00N5D7ZFW",
+        "B074PF6V3Y",
+        "B01M9H18VH",
+        "B07D78QQK5",
+        "B00N2941T2",
+        "B079YZFHJQ",
+        "B07GMZSJTX",
+        "B073713G5F",
+        "B001VE99X8",
+        "B0126EN5NQ"
+    ],
+    "rating": "4.4"
+}

@@ -1,0 +1,94 @@
+{
+    "asin": "B01LZW6526",
+    "title": "adidas Men's Freak X Carbon Mid Cross Trainer",
+    "brand": null,
+    "feature": [
+        "Synthetic",
+        "Imported",
+        "Rubber sole",
+        "Shaft measures approximately low-top from arch",
+        "Removable Insole"
+    ],
+    "description": "Generate pole-to-pole power. These men's baseball training shoes are built to clock long hours at the batting cage or practice field. Ultra-light for speed around the bags, they have a mesh upper inspired by the iconic zx flux sneaker. The outsole delivers ground-gripping traction on turf.",
+    "price": 4789.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 300.0,
+        "length": 1300.0,
+        "width": 900.0,
+        "height": 500.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/416n4QgA2NL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51hBoT5-VoL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51VhFz79RxL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41a3Gr3NT-L._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41DmJbk-LwL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/417EWncD9HL._US40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/41J5pv6tvUL._US40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Size:",
+            "value": "4 M US"
+        },
+        {
+            "name": "Color:",
+            "value": "Black/Metallic Silver/White"
+        }
+    ],
+    "categories": [
+        {
+            "node": "7141123011",
+            "title": "Clothing, Shoes & Jewelry"
+        },
+        {
+            "node": "7147441011",
+            "title": "Men"
+        },
+        {
+            "node": "679255011",
+            "title": "Shoes"
+        },
+        {
+            "node": "6127770011",
+            "title": "Athletic"
+        },
+        {
+            "node": "679271011",
+            "title": "Fitness & Cross-Training"
+        }
+    ],
+    "similar": [
+        "B00VH4KXZK",
+        "B01M0VC4IA",
+        "B07DP4ZKDK",
+        "B01LXC48VM",
+        "B01N18BSQ5",
+        "B074N81S8F",
+        "B01LWYN851",
+        "B07497KT61",
+        "B07DP5J5RJ",
+        "B01A95PGAO",
+        "B07GS7FFG5",
+        "B077SQGJ3N",
+        "B07DP53SZN",
+        "B077X4JBBL",
+        "B01M3XB5DX",
+        "B00LNO47II",
+        "B071F8145L",
+        "B07DNZ5VYY",
+        "B01N5HNFQF",
+        "B0719JYPGM",
+        "B076BS94SN",
+        "B01LEEDF52",
+        "B07DNXQDWS",
+        "B078WWN1WH",
+        "B00BCO81S6",
+        "B01H1AXXIC",
+        "B07DPB97XT",
+        "B01N7KG0LC"
+    ],
+    "rating": "4.2"
+}

@@ -1,0 +1,95 @@
+{
+    "asin": "B000M6XO50",
+    "title": "Denso (5362) IU24 Iridium Power Spark Plug, (Pack of 1)",
+    "brand": "Denso",
+    "feature": [
+        "0.4 mm iridium center electrode: world's smallest diameter that maximizes firing potential",
+        "U-groove and taper cut ground electrode: provides faster spark flame growth and lessens heat quenching",
+        "DENSO patented 360 degree laser welding process: ensuring exceptional quality bond and structural strength with the iridium center electrode",
+        "DENSO patented 360 degree laser welding process: ensuring exceptional quality bond and structural strength with the iridium center electrode"
+    ],
+    "description": "Increased performance with World's smallest Iridium Center Electrode (0.4mm). To increase ignitability, the important point is to let the flame kernel produced by the spark to grow unobstructed. Normally, this can be accomplished by widening the spark gap. However, this causes spark voltage to increase, which has the opposite effect. Iridium Power uses DENSO's patented U-Groove ground electrode to achieve maximum ignitability while minimizing required voltage.",
+    "price": null,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 5.0,
+        "length": 500.0,
+        "width": 100.0,
+        "height": 100.0
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/31ucHa%2Bzn%2BL._SS40_.jpg"
+    ],
+    "attributes": null,
+    "categories": [
+        {
+            "node": "15684181",
+            "title": "Automotive"
+        },
+        {
+            "node": "15719731",
+            "title": "Replacement Parts"
+        },
+        {
+            "node": "15728931",
+            "title": "Ignition Parts"
+        },
+        {
+            "node": "15729421",
+            "title": "Spark Plugs & Wires"
+        },
+        {
+            "node": "15729431",
+            "title": "Spark Plugs"
+        }
+    ],
+    "similar": [
+        "B008QS9NEW",
+        "B013U619EG",
+        "B00K7DYEHA",
+        "B07D12KH8V",
+        "B000E28NCG",
+        "B071D7SK3V",
+        "B0757G582M",
+        "B015WP0L9W",
+        "B000VZJ712",
+        "B000CJ049G",
+        "B07BGQBDDB",
+        "B07G19N6G1",
+        "B000CSEYQG",
+        "B0756Z8LHP",
+        "B015WVEHVE",
+        "B000CJ04AK",
+        "B01FK8OXSG",
+        "B000CJ23TA",
+        "B00310V8YS",
+        "B01FK9A56E",
+        "B008S0HEWQ",
+        "B000E28N5I",
+        "B000CJ23TU",
+        "B00B29P27E",
+        "B01FK9A956",
+        "B001O7PBW0",
+        "B01A9HZUFI",
+        "B01NAN8AH1",
+        "B0022ZAFOC",
+        "B000E28JLG",
+        "B001RM73HI",
+        "B000CJ04B4",
+        "B000FGE9ME",
+        "B01FK8X29C",
+        "B000CBQ5X8",
+        "B00BPK62MY",
+        "B001RME9AW",
+        "B01FK9AG5E",
+        "B01N4I37MN",
+        "B007A41YAO",
+        "B01FK7TA0I",
+        "B01N0TGIA4",
+        "B00OW31YEM",
+        "B015WOTWCK",
+        "B000M6UR82"
+    ],
+    "rating": "4.3"
+}

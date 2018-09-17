@@ -1,0 +1,87 @@
+{
+    "asin": "B006LW0WDQ",
+    "title": "AmazonBasics 16-Gauge Speaker Wire - 50 Feet",
+    "brand": "AmazonBasics",
+    "feature": [
+        "50 Feet of 16-gauge speaker wire",
+        "Connects audio speakers to your A/V receiver or amplifier",
+        "The plastic jacket around the speaker wire helps to deliver high-quality undistorted signals to and from all of your audio equipment",
+        "One side of the wire is marked with a white line, making it quick and easy to distinguish the polarity and get your audio system set up properly",
+        "Comes wrapped around a hard plastic spool that makes dispensing convenient and easy"
+    ],
+    "description": "An Amazon Brand.",
+    "price": 849.0,
+    "listPrice": null,
+    "prime": true,
+    "dimensions": {
+        "weight": 95.0,
+        "length": 390.0,
+        "width": 320.0,
+        "height": 409.99999999999994
+    },
+    "images": [
+        "https://images-na.ssl-images-amazon.com/images/I/51IOxbn5fgL._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/51JqPMjts-L._SS40_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/I/31nkOhflIGL._SS40_.jpg"
+    ],
+    "attributes": [
+        {
+            "name": "Configuration:",
+            "value": "1"
+        }
+    ],
+    "categories": [
+        {
+            "node": "172282",
+            "title": "Electronics"
+        },
+        {
+            "node": "281407",
+            "title": "Accessories & Supplies"
+        },
+        {
+            "node": "172532",
+            "title": "Audio & Video Accessories"
+        },
+        {
+            "node": "172540",
+            "title": "Cables & Interconnects"
+        },
+        {
+            "node": "597566",
+            "title": "Audio Cables"
+        },
+        {
+            "node": "464416",
+            "title": "Speaker Cables"
+        }
+    ],
+    "similar": [
+        "B079446B3P",
+        "B073ZLH6N7",
+        "B079VJXN1Z",
+        "B0097JLQVC",
+        "B0789NHZ78",
+        "B07F1DQ3T9",
+        "B078462VD2",
+        "B006LW0W5Y",
+        "B01D5H8YNO",
+        "B002RJLHB8",
+        "B07D2FXQXZ",
+        "B01FZKA28Y",
+        "B01D5H8XOY",
+        "B07FKR557Z",
+        "B0044YPN0A",
+        "B00I52I2PU",
+        "B0029HO66G",
+        "B0001VHARE",
+        "B000KNZK2K",
+        "B01N2ZRVG0",
+        "B06W5S7G1V",
+        "B01HBWJ0AA",
+        "B0046RE04A",
+        "B07588K6PB",
+        "B01MQHBQXF"
+    ],
+    "rating": "4.7"
+}
