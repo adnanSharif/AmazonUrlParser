@@ -1,5 +1,3 @@
-# just a sample edit here to test the importance of commit signature
-
 from lxml import html
 # from bs4 import BeautifulSoup as bs 
 import csv
